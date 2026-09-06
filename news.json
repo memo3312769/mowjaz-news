@@ -1,1 +1,783 @@
-{"updatedAt":"2026-09-06T00:00:00.000Z","items":[]}
+{
+  "updatedAt": "2026-09-06T00:05:15.188821+00:00",
+  "items": [
+    {
+      "title": "طهران تهاجم \"سفناً أمريكية\" رداً على استهداف واشنطن ثلاث ناقلات نفط تابعة للحرس الثوري",
+      "link": "https://www.bbc.com/arabic/articles/c3re8gpe92xo?at_medium=RSS&at_campaign=rss",
+      "description": "قالت القيادة المركزية الأمريكية \"سنتكوم\" إنها \"عطّلت بشكل دائم\" ناقلة قرب جزيرة خرج، المركز الرئيسي لصادرات النفط الإيرانية، وأخرى قرب مدينة جاسك المطلة على مضيق هرمز، كما \"دمّرت بالكامل\" ناقلة ثالثة فارغة في خليج عُمان.",
+      "date": "Sat, 05 Sep 2026 20:18:11 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "محادثات بوتين ومبعوثي ترامب تنتهي بعد أكثر من ثلاث ساعات قبيل زيارة مرتقبة لكييف",
+      "link": "https://www.bbc.com/arabic/articles/cwyzww9y0kno?at_medium=RSS&at_campaign=rss",
+      "description": "اختتم الرئيس الروسي فلاديمير بوتين محادثات استمرت أكثر من ثلاث ساعات مع مبعوثي الرئيس الأمريكي دونالد ترامب، في إطار مساعٍ لإنهاء الحرب في أوكرانيا. وبينما وصف الكرملين اللقاء بأنه \"بناء وصريح\"، لم يُعلن عن تحقيق اختراق، فيما يستعد المبعوثان لزيارة كييف.",
+      "date": "Sat, 05 Sep 2026 22:36:41 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "لماذا غيّرت الأمم المتحدة خريطة العالم؟ وأي الخرائط أدقّ؟",
+      "link": "https://www.bbc.com/arabic/articles/c62jn6g5y6go?at_medium=RSS&at_campaign=rss",
+      "description": "فيما تتبنى الأمم المتحدة خريطة جديدة للعالم تعكس الحجم الحقيقي لأفريقيا، نستعرض مزايا أبرز الخرائط المتداولة وأوجه القصور فيها.",
+      "date": "Sat, 05 Sep 2026 18:00:51 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "لماذا تنقل الدول الأوربية ذهبها من أمريكا الشمالية؟",
+      "link": "https://www.bbc.com/arabic/articles/cwyzn0mezleo?at_medium=RSS&at_campaign=rss",
+      "description": "نقلت هولندا 86 طناً من هذا المعدن الثمين البراق، فما الذي يحدث؟",
+      "date": "Sat, 05 Sep 2026 16:54:00 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "السفير الأمريكي لدى إسرائيل: لا خطة لتهجير الفلسطينيين من غزة",
+      "link": "https://www.bbc.com/arabic/articles/c046ee1x5nro?at_medium=RSS&at_campaign=rss",
+      "description": "السفير الأمريكي في إسرائيل، مايك هاكابي، ينفي وجود خطة لتهجير قسري للفلسطينيين من قطاع غزة، بعدما طرح وزيران إسرائيليان أفكاراً بشأن طرد مليوني نسمة من القطاع المدمر.",
+      "date": "Sat, 05 Sep 2026 15:45:37 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "محاكمة ليندسي كلانسي: تطورات جديدة في قضية قاتلة أطفالها الثلاثة",
+      "link": "https://www.bbc.com/arabic/articles/cx2z7qyv703o?at_medium=RSS&at_campaign=rss",
+      "description": "ستظل الممرضة السابقة، البالغة من العمر 36 عاماً، محتجزة بالتهم نفسها المتعلقة بالقتل، وستواصل الإقامة في منشأة الصحة النفسية الذي توجد فيها حالياً.",
+      "date": "Sat, 05 Sep 2026 10:56:49 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "هل يسعى ترامب إلى خسارة انتخابات التجديد النصفي؟ - مقال في الغارديان",
+      "link": "https://www.bbc.com/arabic/articles/cdx5vzq222ro?at_medium=RSS&at_campaign=rss",
+      "description": "في جولة الصحافة، نتناول فرص الجمهوريين في الانتخابات النصفية، وتداعيات خفض المساعدات على أفغانستان، وتجربة للوقاية المبكرة من الزهايمر.",
+      "date": "Sat, 05 Sep 2026 08:33:53 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "التاريخ الخفي وراء \"موزة\" ثمنها 6 ملايين دولار",
+      "link": "https://www.bbc.com/arabic/articles/cwyz3jyvwg7o?at_medium=RSS&at_campaign=rss",
+      "description": "تعرف على تاريخ الموزة التي بيعت مقابل 6 مليون دولار، وما هي قصة هذا النوع من الفنون.",
+      "date": "Sat, 05 Sep 2026 10:09:32 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "متحف في فيينا يحاكي كيف حاول البشر فهم العالم",
+      "link": "https://www.bbc.com/arabic/articles/c305dqgn3gpo?at_medium=RSS&at_campaign=rss",
+      "description": "يروي متحف الكرة الأرضية في فيينا، قصة العالم من خلال أكثر من 220 كرة أرضية وسماوية نادرة، وهو المتحف العام الوحيد في العالم المخصص بالكامل للكرات الأرضية.",
+      "date": "Sat, 05 Sep 2026 05:43:51 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "رعاية مريض الزهايمر... ما كنت أتمنى معرفته",
+      "link": "https://www.bbc.com/arabic/articles/clyeqvyeyeeo?at_medium=RSS&at_campaign=rss",
+      "description": "الزهايمر يتجاوز حدود النسيان المعتاد، إذ يمكن أن يؤدي إلى عجز عن إتمام مهام يومية بسيطة مثل اتباع وصفة للطهي أو استخدام بطاقة مصرفية، لذلك يحتاج المصاب بالزهايمر لرعاية خاصة من أحد المقربين له",
+      "date": "Thu, 03 Sep 2026 14:58:21 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "كيف تبدو مدينة سبتة بعد شهر من دخول عشرات الآلاف إليها من المغرب؟",
+      "link": "https://www.bbc.com/arabic/articles/cgqd949nqqgo?at_medium=RSS&at_campaign=rss",
+      "description": "مرّ شهر على العبور الجماعي غير المسبوق لعشرات الآلاف من المهاجرين من المغرب إلى سبتة، لكن تداعياته لا تزال مستمرة.",
+      "date": "Wed, 02 Sep 2026 09:21:40 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "صور صادمة لفيضانات نيبال، فما سبب الانهيارات الطينية المروعة؟",
+      "link": "https://www.bbc.com/arabic/articles/c3eq89vgyg8o?at_medium=RSS&at_campaign=rss",
+      "description": "تتواصل عمليات البحث على جانبي الحدود بين نيبال والصين، وسط توقعات بارتفاع حصيلة القتلى بشكل كبير خلال الأيام المقبلة. ولا يزال مئات الأشخاص، من بينهم الكثير من السياح الأجانب، في عداد المفقودين.",
+      "date": "Thu, 27 Aug 2026 14:14:19 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "سوريا خارج القائمة الأمريكية للإرهاب: ماذا يعني القرار؟ وما الدول المتبقية؟",
+      "link": "https://www.bbc.com/arabic/articles/cn0724wwg5lo?at_medium=RSS&at_campaign=rss",
+      "description": "دخل القرار، الذي نُشر على موقع وزارة الخزانة الأمريكية، حيز التنفيذ بعد انتهاء فترة مراجعة استمرت 45 يوماً في الكونغرس، بدأت عندما أخطر الرئيس دونالد ترامب الكونغرس ‌رسمياً في الثامن من يوليو/تموز بنيّته إلغاء هذا التصنيف.",
+      "date": "Tue, 25 Aug 2026 14:02:29 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "فرح يوسف في بلا قيود: الإعلان الدستوري يمنح صلاحيات شبه إلهية للرئيس الانتقالي",
+      "link": "https://www.bbc.com/arabic/articles/ce30vq0zedko?at_medium=RSS&at_campaign=rss",
+      "description": "قالت فرح يوسف الباحثة والناشطة السياسية السورية إنّ الاهتمام الدولي الذي تحظى به الحكومة الانتقالية في سوريا يتعلق بترتيبات تخص إسرائيل ولا علاقة لها بحق الشعب السوري في الحكم",
+      "date": "Fri, 04 Sep 2026 17:28:20 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "كيف تساعد الطحالب في تنقية الهواء",
+      "link": "https://www.bbc.com/arabic/articles/c5yw4g9802vo?at_medium=RSS&at_campaign=rss",
+      "description": "كيف تساعد الطحالب في تنقية الهواء",
+      "date": "Thu, 03 Sep 2026 14:02:40 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "العيش البطيء، حياة أبسط أم ترند جديد؟",
+      "link": "https://www.bbc.com/arabic/articles/c4gj7dy1y3no?at_medium=RSS&at_campaign=rss",
+      "description": "لماذا يختار بعض الشباب الابتعاد عن السرعة والاستهلاك والعودة إلى حياة أبسط؟ هذا ما نحاول فهمه في حلقة بي بي سي إكسترا هذا الأسبوع مع شباب من منطقة الشرق الأوسط وشمال أفريقيا.",
+      "date": "Thu, 03 Sep 2026 10:59:57 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "روبوتات تغير شكلها، فكيف تفعل ذلك؟",
+      "link": "https://www.bbc.com/arabic/articles/ce308vq3n1go?at_medium=RSS&at_campaign=rss",
+      "description": "روبوتات تغير شكلها، فكيف تفعل ذلك؟",
+      "date": "Mon, 24 Aug 2026 13:14:47 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "شاهد البث المباشر لتلفزيون بي بي سي",
+      "link": "https://www.bbc.com/arabic/media-49522519?at_medium=RSS&at_campaign=rss",
+      "description": "شاهد البث المباشر لتلفزيون بي بي سي",
+      "date": "Fri, 30 Aug 2019 08:36:18 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "كيف يمكن إنهاء الصراع الأمريكي الإيراني؟ ثلاثة خبراء يعرضون وجهات نظرهم",
+      "link": "https://www.bbc.com/arabic/articles/cj3dxpgv1lyo?at_medium=RSS&at_campaign=rss",
+      "description": "بعد تجدد الضربات هذا الأسبوع، هل لدى أي من الطرفين استراتيجية للخروج؟",
+      "date": "Fri, 04 Sep 2026 18:46:49 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "هل يتحول التنافس التركي-الإسرائيلي في سوريا إلى مواجهة عسكرية؟",
+      "link": "https://www.bbc.com/arabic/articles/c4g7mjxymemo?at_medium=RSS&at_campaign=rss",
+      "description": "مع تزايد التنافس بين تركيا وإسرائيل، تجد دمشق نفسها عالقة بين قوتين إقليميتين. فهل تستطيع سوريا حماية سيادتها وإعادة بناء دولتها دون أن تتحول إلى ساحة للصراع بينهما؟",
+      "date": "Wed, 02 Sep 2026 05:42:06 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "\"الحرب سبب مباشر لطلاقي\" قصص سودانيات أطاح القتال بزواجهن",
+      "link": "https://www.bbc.com/arabic/articles/c0m317xyj98o?at_medium=RSS&at_campaign=rss",
+      "description": "تسببت الحرب في السودان في تفكك آلاف الأسر، مع تسجيل نحو 35 ألف حالة طلاق منذ اندلاعها.",
+      "date": "Wed, 02 Sep 2026 09:24:11 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "هل استنزفت حرب إيران مخزون واشنطن من الصواريخ؟",
+      "link": "https://www.bbc.com/arabic/articles/c99dyjdyex5o?at_medium=RSS&at_campaign=rss",
+      "description": "بعد ستة أشهر من الحرب مع إيران، تتزايد الأسئلة بشأن ما استنزفته العمليات من مخزونات الصواريخ الأمريكية، والمدة والكلفة اللازمتين لتعويضها. لكن طهران تواجه بدورها مهمة إعادة بناء صناعة صاروخية تضررت بالضربات، وسط غموض أكبر يحيط بحجم ترسانتها وما بقي منها.",
+      "date": "Tue, 01 Sep 2026 07:29:43 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "حين يصبح الصمت ثمناً للحياة: حكايات عائلات تبحث عن أحبائها المختفين قسراً",
+      "link": "https://www.bbc.com/arabic/articles/ce308v5x5x8o?at_medium=RSS&at_campaign=rss",
+      "description": "بمناسبة اليوم الدولي لضحايا الاختفاء القسري، الذي يصادف 30 أغسطس/آب، تواصلت بي بي سي مع عائلات لا تزال تنتظر معرفة مصير أحبائها. وتقدّر منظمة العفو الدولية أن عائلات في العراق وسوريا واليمن ولبنان والسودان أمضت مجتمعةً \"أكثر من مليون سنة\" في انتظار إجابات، في ظل غياب أرقام رسمية دقيقة وتحقيقات كافية",
+      "date": "Sun, 30 Aug 2026 04:38:26 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "\"أدخل غرفة الصف وكأنني في المدينة الفاضلة\": ماذا يدور في ذهن المعلم مع بداية كل عام دراسي؟",
+      "link": "https://www.bbc.com/arabic/articles/cqjk0gx9e1qo?at_medium=RSS&at_campaign=rss",
+      "description": "بين ثلاث تجارب مختلفة ورؤية تربوية، يرصد التقرير أعباء المهنة ومصادر الحماس فيها، وكيف يحاول المعلمون الحفاظ على توازنهم والاستمرار رغم الضغوط.",
+      "date": "Sat, 29 Aug 2026 09:00:14 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "US envoys meet Putin in Moscow for Ukraine talks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+      "date": "Sat, 05 Sep 2026 21:39:02 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "date": "Sat, 05 Sep 2026 22:44:07 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+      "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+      "date": "Fri, 04 Sep 2026 22:48:38 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "date": "Sat, 05 Sep 2026 15:22:41 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Prince William to attend King Harald's funeral in Norway",
+      "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+      "description": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+      "date": "Sat, 05 Sep 2026 21:00:02 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "date": "Sat, 05 Sep 2026 21:29:38 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "What different world maps get right - and what they get wrong",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "date": "Sat, 05 Sep 2026 16:14:24 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Trump signs order to remove endangered species protection for grey wolves",
+      "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+      "date": "Sat, 05 Sep 2026 09:12:48 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "date": "Fri, 04 Sep 2026 16:49:15 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+      "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
+      "description": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
+      "date": "Fri, 04 Sep 2026 12:30:56 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+      "description": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+      "date": "Fri, 04 Sep 2026 23:07:23 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "description": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
+      "date": "Sat, 05 Sep 2026 00:53:11 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "description": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+      "date": "Fri, 04 Sep 2026 16:02:32 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "description": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
+      "date": "Fri, 04 Sep 2026 14:40:00 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+      "description": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
+      "date": "Sat, 05 Sep 2026 07:20:17 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
+      "description": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
+      "date": "Fri, 04 Sep 2026 17:14:21 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+      "date": "Fri, 04 Sep 2026 11:54:51 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "link": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+      "description": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
+      "date": "Fri, 04 Sep 2026 13:00:44 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+      "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
+      "date": "Sat, 05 Sep 2026 23:54:07 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "date": "Sat, 05 Sep 2026 23:20:00 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+      "description": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
+      "date": "Sat, 05 Sep 2026 10:02:29 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Why are European countries moving their gold out of North America?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+      "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+      "date": "Sat, 05 Sep 2026 01:42:09 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+      "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
+      "date": "Sat, 05 Sep 2026 14:07:38 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
+      "description": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
+      "date": "Sat, 05 Sep 2026 04:03:51 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
+      "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
+      "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
+      "date": "Sat, 05 Sep 2026 01:16:27 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "How could US-Iran conflict end? Three experts give their views",
+      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
+      "description": "After renewed strikes this week, does either side have an exit strategy?",
+      "date": "Fri, 04 Sep 2026 09:14:57 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "How might Lindsay Clancy’s case have unfolded in another country?",
+      "link": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
+      "description": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their young children.",
+      "date": "Sat, 05 Sep 2026 09:12:34 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
+      "link": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss",
+      "description": "A Massachusetts judge has declared a mistrial in the murder case against the US mother after jurors were unable to reach a unanimous verdict.",
+      "date": "Sat, 05 Sep 2026 01:26:29 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Why did USS Lincoln turn up in Thailand looking so rusty?",
+      "link": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
+      "description": "When the USS Abraham Lincoln docked in Thailand this week some people were quick to criticise the condition it was in.",
+      "date": "Sat, 05 Sep 2026 06:53:20 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+      "description": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
+      "date": "Fri, 04 Sep 2026 12:39:05 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Stock up on food to prepare for extreme weather, minister says",
+      "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
+      "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
+      "date": "Fri, 04 Sep 2026 10:40:23 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+      "description": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+      "date": "Fri, 04 Sep 2026 17:23:13 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+      "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+      "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+      "date": "Fri, 04 Sep 2026 05:59:10 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+      "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
+      "date": "Fri, 04 Sep 2026 07:19:06 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "UK petrol prices hit highest level since Iran war began",
+      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+      "date": "Fri, 04 Sep 2026 13:05:52 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "From 'dog fruit' to darling: India's avocado boom",
+      "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+      "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+      "date": "Fri, 04 Sep 2026 05:09:02 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+      "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+      "date": "Fri, 04 Sep 2026 07:00:10 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+      "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
+      "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+      "date": "Fri, 04 Sep 2026 11:48:24 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد",
+      "sources": [
+        "BBC Business",
+        "BBC Technology"
+      ]
+    },
+    {
+      "title": "'I lost my savings after a job interview scam'",
+      "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+      "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+      "date": "Thu, 03 Sep 2026 23:41:49 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد",
+      "sources": [
+        "BBC Business",
+        "BBC Technology"
+      ]
+    },
+    {
+      "title": "US diesel prices hit an all-time-high",
+      "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "description": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+      "date": "Fri, 04 Sep 2026 10:52:56 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+      "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+      "date": "Fri, 04 Sep 2026 06:52:29 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Is India's internet boom running into an undersea problem?",
+      "link": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
+      "description": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach.",
+      "date": "Thu, 03 Sep 2026 23:40:08 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "description": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
+      "date": "Thu, 03 Sep 2026 16:32:05 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد",
+      "sources": [
+        "BBC Business",
+        "BBC Technology"
+      ]
+    },
+    {
+      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
+      "link": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
+      "description": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills.",
+      "date": "Thu, 03 Sep 2026 13:26:54 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
+      "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
+      "description": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
+      "date": "Thu, 03 Sep 2026 12:50:14 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Almost half of households do not see benefits of economic growth, report says",
+      "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
+      "description": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
+      "date": "Thu, 03 Sep 2026 05:47:11 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
+      "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+      "description": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
+      "date": "Wed, 02 Sep 2026 23:25:50 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
+      "link": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
+      "description": "The pop star formerly known as Posh Spice has taken nearly two decades to turn a profit.",
+      "date": "Wed, 02 Sep 2026 23:24:06 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+      "date": "Thu, 03 Sep 2026 15:35:47 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Hundreds of North Sea workers too heavy for new helicopter rules",
+      "link": "https://www.bbc.co.uk/news/articles/c4gk2zlv0e6o?at_medium=RSS&at_campaign=rss",
+      "description": "Workers should weigh no more than 19.5st fully clothed so that they can be winched to safety in an emergency.",
+      "date": "Thu, 03 Sep 2026 05:06:55 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+      "description": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+      "date": "Wed, 02 Sep 2026 23:36:49 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد",
+      "sources": [
+        "BBC Business",
+        "BBC Technology"
+      ]
+    },
+    {
+      "title": "Heathrow expansion an 'outdated' risk, mayor says",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4zj2262vo?at_medium=RSS&at_campaign=rss",
+      "description": "Sir Sadiq Khan is repeating his opposition to a third runway in response to a government consultation.",
+      "date": "Thu, 03 Sep 2026 04:54:14 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
+      "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
+      "description": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
+      "date": "Wed, 02 Sep 2026 23:53:28 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+      "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
+      "description": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
+      "date": "Wed, 02 Sep 2026 13:20:11 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Uber to cut over 3,000 jobs in major global restructuring",
+      "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
+      "description": "The company says cutting roles would make its operations \"simpler and faster\".",
+      "date": "Wed, 02 Sep 2026 16:51:49 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد",
+      "sources": [
+        "BBC Business",
+        "BBC Technology"
+      ]
+    },
+    {
+      "title": "Why wait? Business grads buying firms to install themselves as CEO",
+      "link": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+      "description": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
+      "date": "Wed, 02 Sep 2026 23:13:44 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+      "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+      "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+      "date": "Sun, 30 Aug 2026 23:22:24 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Overcooked? Why robotic pizza makers are failing",
+      "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+      "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
+      "date": "Thu, 27 Aug 2026 23:16:02 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+      "link": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+      "description": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+      "date": "Wed, 26 Aug 2026 23:03:46 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Firms scramble for battery power in Spain and Portugal",
+      "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+      "description": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+      "date": "Tue, 25 Aug 2026 23:09:31 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+      "link": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
+      "description": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
+      "date": "Fri, 04 Sep 2026 14:59:13 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "Could robots be the future of theme parks?",
+      "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
+      "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
+      "date": "Fri, 04 Sep 2026 02:02:02 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "AI data centres are booming in Australia - but at what cost?",
+      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
+      "date": "Thu, 03 Sep 2026 18:32:03 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "Watch: BBC travels in self-driving Uber around London",
+      "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.",
+      "date": "Thu, 03 Sep 2026 07:20:23 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "Lords call for AI 'kill switch' powers in UK",
+      "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
+      "description": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
+      "date": "Wed, 02 Sep 2026 14:41:52 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "Criminals publish data of 8.7m people after airports hack",
+      "link": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
+      "description": "The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.",
+      "date": "Wed, 02 Sep 2026 11:00:59 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+      "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+      "description": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+      "date": "Wed, 02 Sep 2026 01:27:34 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "Will self-flying planes transform the skies?",
+      "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+      "description": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+      "date": "Tue, 01 Sep 2026 23:27:35 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss",
+      "description": "AI can only communicate in languages that it's been trained on.",
+      "date": "Tue, 01 Sep 2026 20:10:00 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا",
+      "sources": [
+        "BBC Technology"
+      ]
+    },
+    {
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
+      "description": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
+      "date": "Sat, 05 Sep 2026 01:00:00 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا",
+      "sources": [
+        "BBC Technology"
+      ]
+    }
+  ]
+}
