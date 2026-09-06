@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T11:05:13.221390+00:00",
+  "updatedAt": "2026-09-06T11:22:13.556696+00:00",
   "items": [
     {
       "title": "مقتل أربعة لبنانيين بغارات إسرائيلية على الجنوب عقب إطلاق حزب الله مُسيّرتين",
@@ -22,6 +22,14 @@
       "link": "https://www.bbc.com/arabic/articles/c046ee1x5nro?at_medium=RSS&at_campaign=rss",
       "description": "السفير الأمريكي في إسرائيل، مايك هاكابي، ينفي وجود خطة لتهجير قسري للفلسطينيين من قطاع غزة، بعدما طرح وزيران إسرائيليان أفكاراً بشأن طرد مليوني نسمة من القطاع المدمر.",
       "date": "Sun, 06 Sep 2026 10:38:28 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "محكمة مصرية تقضي بإعدام الإعلامية سارة خليفة و11 آخرين والسجن المؤبد لتسعة في قضية \"المخدرات الكبرى\"",
+      "link": "https://www.bbc.com/arabic/articles/c0kl3m15521o?at_medium=RSS&at_campaign=rss",
+      "description": "ضبط السلطات نحو 200 كيلوغرام من المواد المخدرة والخامات، إلى جانب مشغولات ذهبية ومبالغ مالية بعملات محلية وأجنبية وخمس سيارات بقيمة نحو 8.3 مليون دولار.",
+      "date": "Sun, 06 Sep 2026 11:18:48 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/cdx5vzq222ro?at_medium=RSS&at_campaign=rss",
       "description": "في جولة الصحافة، نتناول فرص الجمهوريين في الانتخابات النصفية، وتداعيات خفض المساعدات على أفغانستان، وتجربة للوقاية المبكرة من الزهايمر.",
       "date": "Sat, 05 Sep 2026 08:33:53 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "التاريخ الخفي وراء \"موزة\" ثمنها 6 ملايين دولار",
-      "link": "https://www.bbc.com/arabic/articles/cwyz3jyvwg7o?at_medium=RSS&at_campaign=rss",
-      "description": "تعرف على تاريخ الموزة التي بيعت مقابل 6 مليون دولار، وما هي قصة هذا النوع من الفنون.",
-      "date": "Sat, 05 Sep 2026 10:09:32 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -188,8 +188,8 @@
     {
       "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "description": "It is the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
-      "date": "Sun, 06 Sep 2026 10:44:26 GMT",
+      "description": "Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday, having \"discussed substantive plans for next steps\" with Putin on Saturday, according to the White House.",
+      "date": "Sun, 06 Sep 2026 11:19:30 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
