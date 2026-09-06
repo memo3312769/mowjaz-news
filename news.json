@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T10:35:51.904552+00:00",
+  "updatedAt": "2026-09-06T10:48:44.414824+00:00",
   "items": [
     {
       "title": "مقتل أربعة لبنانيين بغارات إسرائيلية على الجنوب عقب إطلاق حزب الله مُسيّرتين",
@@ -14,6 +14,14 @@
       "link": "https://www.bbc.com/arabic/articles/c0re194zqxno?at_medium=RSS&at_campaign=rss",
       "description": "قال الحرس الثوري الإيراني إنه استهدف \"مسيّرة بحرية أمريكية\"، في وقت تبادلت فيه القوات الإيرانية والأمريكية هجمات على سفن في المياه المحيطة بإيران، بينها ناقلات نفط.",
       "date": "Sun, 06 Sep 2026 09:33:50 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "السفير الأمريكي لدى إسرائيل: لا خطة لتهجير الفلسطينيين من غزة، وإدانات عربية وإسلامية لدعوات التهجير",
+      "link": "https://www.bbc.com/arabic/articles/c046ee1x5nro?at_medium=RSS&at_campaign=rss",
+      "description": "السفير الأمريكي في إسرائيل، مايك هاكابي، ينفي وجود خطة لتهجير قسري للفلسطينيين من قطاع غزة، بعدما طرح وزيران إسرائيليان أفكاراً بشأن طرد مليوني نسمة من القطاع المدمر.",
+      "date": "Sun, 06 Sep 2026 10:38:28 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -38,14 +46,6 @@
       "link": "https://www.bbc.com/arabic/articles/cwyzn0mezleo?at_medium=RSS&at_campaign=rss",
       "description": "نقلت هولندا 86 طناً من هذا المعدن الثمين البراق، فما الذي يحدث؟",
       "date": "Sat, 05 Sep 2026 16:54:00 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "السفير الأمريكي لدى إسرائيل: لا خطة لتهجير الفلسطينيين من غزة",
-      "link": "https://www.bbc.com/arabic/articles/c046ee1x5nro?at_medium=RSS&at_campaign=rss",
-      "description": "السفير الأمريكي في إسرائيل، مايك هاكابي، ينفي وجود خطة لتهجير قسري للفلسطينيين من قطاع غزة، بعدما طرح وزيران إسرائيليان أفكاراً بشأن طرد مليوني نسمة من القطاع المدمر.",
-      "date": "Sat, 05 Sep 2026 15:45:37 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -186,10 +186,10 @@
       "cat": "العالم"
     },
     {
-      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "description": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
-      "date": "Sun, 06 Sep 2026 02:24:16 GMT",
+      "description": "It is the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+      "date": "Sun, 06 Sep 2026 10:44:26 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
