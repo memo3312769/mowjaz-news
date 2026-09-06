@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:48:32.386809+00:00",
+  "updatedAt": "2026-09-06T21:05:32.742428+00:00",
   "items": [
     {
       "title": "إيران تعتزم إعلان \"منطقة محظورة\" قرب مضيق هرمز",
@@ -18,10 +18,10 @@
       "cat": "العالم"
     },
     {
-      "title": "مبعوثا ترامب يلتقيان زيلينسكي في كييف بعد محادثات مطولة مع بوتين",
+      "title": "زيلينسكي يتوقع استمرار الحرب إلى الشتاء بعد محادثات مع مبعوثي ترامب",
       "link": "https://www.bbc.com/arabic/articles/cwyzww9y0kno?at_medium=RSS&at_campaign=rss",
-      "description": "تعدّ هذه أول زيارة لكبيرَي مفاوضي ترامب إلى العاصمة الأوكرانية، بعدما زارا موسكو مرات عدة منذ عودة الرئيس الأمريكي إلى البيت الأبيض.",
-      "date": "Sun, 06 Sep 2026 19:14:28 GMT",
+      "description": "زيلينسكي يتوقع استمرار الحرب مع روسيا حتى الشتاء، بعد محادثات مطولة مع مبعوثي ترامب في كييف انتهت من دون اختراق كبير، وسط تأكيد أمريكي على إحراز \"تقدم\" في موسكو.",
+      "date": "Sun, 06 Sep 2026 20:57:06 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -186,6 +186,14 @@
       "cat": "العالم"
     },
     {
+      "title": "German far-right set for big win in eastern state, projections show",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
+      "date": "Sun, 06 Sep 2026 20:45:11 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
       "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
@@ -194,10 +202,10 @@
       "cat": "العالم"
     },
     {
-      "title": "German far-right set for big win in eastern state, projections show",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-      "date": "Sun, 06 Sep 2026 20:45:11 GMT",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "date": "Sun, 06 Sep 2026 20:52:12 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
