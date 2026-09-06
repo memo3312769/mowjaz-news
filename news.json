@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T13:48:24.718741+00:00",
+  "updatedAt": "2026-09-06T14:05:41.742363+00:00",
   "items": [
     {
       "title": "مقتل أربعة بغارات إسرائيلية على جنوب لبنان، وعون يدعو إلى تحرك دولي",
@@ -14,6 +14,14 @@
       "link": "https://www.bbc.com/arabic/articles/clyqvk12w57o?at_medium=RSS&at_campaign=rss",
       "description": "أكد الاتحاد الدولي لكرة القدم (فيفا) أن رئيسه جياني إنفانتينو سيترشح لإعادة انتخابه في مارس.",
       "date": "Sun, 06 Sep 2026 13:26:44 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "بركان \"ابن كراكاتاو\" يعطّل سفر 150 ألف شخص في إندونيسيا",
+      "link": "https://www.bbc.com/arabic/articles/c8r6ezl37vmo?at_medium=RSS&at_campaign=rss",
+      "description": "أكثر من 150 ألف مسافر جوي عالق بعد رصد الرماد في المجال الجوي بالقرب من جاكرتا عقب الانفجارات البركانية.",
+      "date": "Sun, 06 Sep 2026 13:57:18 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/cwyzn0mezleo?at_medium=RSS&at_campaign=rss",
       "description": "نقلت هولندا 86 طناً من هذا المعدن الثمين البراق، فما الذي يحدث؟",
       "date": "Sat, 05 Sep 2026 16:54:00 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "محاكمة ليندسي كلانسي: تطورات جديدة في قضية قاتلة أطفالها الثلاثة",
-      "link": "https://www.bbc.com/arabic/articles/cx2z7qyv703o?at_medium=RSS&at_campaign=rss",
-      "description": "ستظل الممرضة السابقة، البالغة من العمر 36 عاماً، محتجزة بالتهم نفسها المتعلقة بالقتل، وستواصل الإقامة في منشأة الصحة النفسية الذي توجد فيها حالياً.",
-      "date": "Sat, 05 Sep 2026 10:56:49 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -745,7 +745,7 @@
     },
     {
       "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
       "description": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
       "date": "Sat, 05 Sep 2026 01:00:00 GMT",
       "source": "BBC Technology",
