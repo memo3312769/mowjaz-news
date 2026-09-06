@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T14:05:41.742363+00:00",
+  "updatedAt": "2026-09-06T14:22:37.649162+00:00",
   "items": [
     {
       "title": "مقتل أربعة بغارات إسرائيلية على جنوب لبنان، وعون يدعو إلى تحرك دولي",
@@ -194,10 +194,18 @@
       "cat": "العالم"
     },
     {
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-      "date": "Sat, 05 Sep 2026 22:44:07 GMT",
+      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "date": "Sun, 06 Sep 2026 09:56:39 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "description": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "date": "Sun, 06 Sep 2026 14:07:35 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -210,23 +218,12 @@
       "cat": "العالم"
     },
     {
-      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-      "date": "Sun, 06 Sep 2026 09:56:39 GMT",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "date": "Sat, 05 Sep 2026 22:44:07 GMT",
       "source": "BBC World",
       "cat": "العالم"
-    },
-    {
-      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-      "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-      "description": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
-      "date": "Sun, 06 Sep 2026 01:54:29 GMT",
-      "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World"
-      ]
     },
     {
       "title": "Prince William to attend King Harald's funeral in Norway",
@@ -373,6 +370,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
       "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
       "date": "Sat, 05 Sep 2026 01:16:27 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+      "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+      "description": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
+      "date": "Sun, 06 Sep 2026 01:54:29 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
