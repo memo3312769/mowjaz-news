@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T06:06:52.575812+00:00",
+  "updatedAt": "2026-09-06T06:27:38.320185+00:00",
   "items": [
     {
       "title": "تبادل الهجمات بين إيران والولايات المتحدة يستهدف سفناً ويهدد إمدادات النفط",
@@ -196,7 +196,7 @@
     {
       "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "description": "Steve Witkoff and Jared Kushner left Moscow having \"discussed substantive plans for next steps\" with Putin, according to the White House.",
+      "description": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
       "date": "Sun, 06 Sep 2026 02:24:16 GMT",
       "source": "BBC World",
       "cat": "العالم"
@@ -231,7 +231,10 @@
       "description": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
       "date": "Sun, 06 Sep 2026 01:54:29 GMT",
       "source": "BBC World",
-      "cat": "العالم"
+      "cat": "العالم",
+      "sources": [
+        "BBC World"
+      ]
     },
     {
       "title": "Prince William to attend King Harald's funeral in Norway",
@@ -378,6 +381,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
+      "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
+      "description": "Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.",
+      "date": "Sun, 06 Sep 2026 06:04:51 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "How might Lindsay Clancy’s case have unfolded in another country?",
       "link": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
       "description": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their young children.",
@@ -406,30 +417,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
       "description": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
       "date": "Fri, 04 Sep 2026 12:39:05 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "How much can Canada fight back in its trade war with the US?",
-      "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-      "description": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
-      "date": "Sat, 05 Sep 2026 02:13:21 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Watch: Moment workers are rescued from Nepal tunnel",
-      "link": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss",
-      "description": "Rescuers pull two people from a hydropower tunnel more than a week after a massive flash flood devastated the Nepal-China border.",
-      "date": "Fri, 04 Sep 2026 04:45:54 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Nepal says it will need billions in funding to rebuild after flash floods",
-      "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
-      "date": "Fri, 04 Sep 2026 02:20:37 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
