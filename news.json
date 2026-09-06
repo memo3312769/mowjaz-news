@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-06T13:22:25.592642+00:00",
+  "updatedAt": "2026-09-06T13:35:08.655774+00:00",
   "items": [
     {
       "title": "مقتل أربعة بغارات إسرائيلية على جنوب لبنان، وعون يدعو إلى تحرك دولي",
       "link": "https://www.bbc.com/arabic/articles/cx2ze19k88po?at_medium=RSS&at_campaign=rss",
       "description": "شنّ الجيش الإسرائيلي غارات على جنوب لبنان، الأحد، رداً على إطلاق حزب الله مسيّرتين باتجاه قواته في المنطقة التي يصفها بـ\"الأمنية\". وقال الجيش إنه اعترض إحدى المسيّرتين دون تسجيل إصابات، واعتبر إطلاقهما \"انتهاكاً صارخاً لاتفاق وقف إطلاق النار\".",
       "date": "Sun, 06 Sep 2026 12:51:17 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "إنفانتينو سيترشح لولاية رابعة في رئاسة فيفا... فهل يطيح به حلفاؤه؟",
+      "link": "https://www.bbc.com/arabic/articles/clyqvk12w57o?at_medium=RSS&at_campaign=rss",
+      "description": "أكد الاتحاد الدولي لكرة القدم (فيفا) أن رئيسه جياني إنفانتينو سيترشح لإعادة انتخابه في مارس.",
+      "date": "Sun, 06 Sep 2026 13:26:44 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -38,14 +46,6 @@
       "link": "https://www.bbc.com/arabic/articles/c23xmxmgmg5o?at_medium=RSS&at_campaign=rss",
       "description": "هل يصبح القطب الشمالي والقارة القطبية الجنوبية ساحة للصراع على موارد الطاقة؛ وكيف غيّرت الحرب في إيران أنماط شراء الوقود لدى المزارعين في الولايات المتحدة وبريطانيا؛ وما هي مؤشرات الإصابة بـ\"شيخوخة الدماغ\" في منتصف العمر، وكيف يمكن الوقاية منها؟ في عرض الصحف اليوم...",
       "date": "Sun, 06 Sep 2026 12:28:55 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "السفير الأمريكي لدى إسرائيل: لا خطة لتهجير الفلسطينيين من غزة",
-      "link": "https://www.bbc.com/arabic/articles/c046ee1x5nro?at_medium=RSS&at_campaign=rss",
-      "description": "السفير الأمريكي في إسرائيل، مايك هاكابي، ينفي وجود خطة لتهجير قسري للفلسطينيين من قطاع غزة، بعدما طرح وزيران إسرائيليان أفكاراً بشأن طرد مليوني نسمة من القطاع المدمر.",
-      "date": "Sun, 06 Sep 2026 10:38:28 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -186,9 +186,9 @@
       "cat": "العالم"
     },
     {
-      "title": "US envoys meet Zelensky in Ukraine after meeting Putin in Russia",
+      "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "description": "Steve Witkoff and Jared Kushner arrive in Kyiv, having held talks with Putin in Moscow on Saturday.",
+      "description": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
       "date": "Sun, 06 Sep 2026 13:16:21 GMT",
       "source": "BBC World",
       "cat": "العالم"
@@ -745,7 +745,7 @@
     },
     {
       "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
       "description": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
       "date": "Sat, 05 Sep 2026 01:00:00 GMT",
       "source": "BBC Technology",
