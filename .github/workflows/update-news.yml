@@ -1,0 +1,122 @@
+name: تحديث الأخبار
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: جلب المستودع
+        uses: actions/checkout@v4
+
+      - name: تشغيل Python
+        run: |
+          python - <<'PY'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          import json
+          import re
+          from datetime import datetime, timezone
+
+          feeds = [
+              ("BBC العربية", "https://feeds.bbci.co.uk/arabic/rss.xml", "العالم"),
+              ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml", "العالم"),
+              ("BBC Business", "https://feeds.bbci.co.uk/news/business/rss.xml", "اقتصاد"),
+              ("BBC Technology", "https://feeds.bbci.co.uk/news/technology/rss.xml", "تكنولوجيا"),
+              ("Google News مصر", "https://news.google.com/rss/search?q=مصر&hl=ar&gl=EG&ceid=EG:ar", "مصر"),
+              ("Google News رياضة", "https://news.google.com/rss/search?q=رياضة&hl=ar&gl=EG&ceid=EG:ar", "رياضة"),
+              ("Google News علوم", "https://news.google.com/rss/search?q=علوم+تكنولوجيا&hl=ar&gl=EG&ceid=EG:ar", "علوم")
+          ]
+
+          def clean(text):
+              text = re.sub(r"<[^>]+>", " ", text or "")
+              text = re.sub(r"\s+", " ", text)
+              return text.strip()
+
+          def normalize(text):
+              text = clean(text).lower()
+              text = re.sub("[أإآ]", "ا", text)
+              text = text.replace("ى", "ي")
+              text = re.sub(r"[^\w\s]", " ", text)
+              return set(x for x in text.split() if len(x) > 2)
+
+          def similar(a, b):
+              A, B = normalize(a), normalize(b)
+              if not A or not B:
+                  return 0
+              return len(A & B) / max(len(A), len(B))
+
+          news = []
+
+          for source, url, category in feeds:
+              try:
+                  req = urllib.request.Request(
+                      url,
+                      headers={"User-Agent": "MowjazNews/1.0"}
+                  )
+                  data = urllib.request.urlopen(req, timeout=15).read()
+                  root = ET.fromstring(data)
+
+                  for item in root.findall(".//item")[:30]:
+                      title = clean(item.findtext("title", ""))
+                      link = clean(item.findtext("link", ""))
+                      description = clean(item.findtext("description", ""))
+                      date = clean(item.findtext("pubDate", ""))
+
+                      if title and link:
+                          news.append({
+                              "title": title,
+                              "link": link,
+                              "description": description[:300],
+                              "date": date,
+                              "source": source,
+                              "cat": category
+                          })
+
+              except Exception as e:
+                  print("Source error:", source, e)
+
+          unique = []
+
+          for item in news:
+              duplicate = None
+
+              for existing in unique:
+                  if similar(item["title"], existing["title"]) >= 0.72:
+                      duplicate = existing
+                      break
+
+              if duplicate:
+                  duplicate.setdefault("sources", [duplicate["source"]])
+                  if item["source"] not in duplicate["sources"]:
+                      duplicate["sources"].append(item["source"])
+              else:
+                  unique.append(item)
+
+          unique = unique[:120]
+
+          output = {
+              "updatedAt": datetime.now(timezone.utc).isoformat(),
+              "items": unique
+          }
+
+          with open("news.json", "w", encoding="utf-8") as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+
+          print("تم جمع", len(unique), "خبر")
+          PY
+
+      - name: حفظ الأخبار
+        run: |
+          git config user.name "mowjaz-news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git diff --cached --quiet || git commit -m "تحديث الأخبار تلقائيًا"
+          git push
