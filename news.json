@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-06T08:06:11.915593+00:00",
+  "updatedAt": "2026-09-06T08:24:52.728463+00:00",
   "items": [
     {
-      "title": "إسرائيل تشنّ غارات على جنوب لبنان بعد إطلاق حزب الله مسيّرتين",
+      "title": "مقتل أربعة لبنانيين بغارات إسرائيلية على الجنوب عقب إطلاق حزب الله مُسيّرتين",
       "link": "https://www.bbc.com/arabic/articles/cx2ze19k88po?at_medium=RSS&at_campaign=rss",
       "description": "شنّ الجيش الإسرائيلي غارات على جنوب لبنان، الأحد، رداً على إطلاق حزب الله مسيّرتين باتجاه قواته في المنطقة التي يصفها بـ\"الأمنية\". وقال الجيش إنه اعترض إحدى المسيّرتين دون تسجيل إصابات، واعتبر إطلاقهما \"انتهاكاً صارخاً لاتفاق وقف إطلاق النار\".",
-      "date": "Sun, 06 Sep 2026 07:35:31 GMT",
+      "date": "Sun, 06 Sep 2026 08:05:54 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -330,7 +330,11 @@
       "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
       "date": "Sat, 05 Sep 2026 23:20:00 GMT",
       "source": "BBC World",
-      "cat": "العالم"
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Business"
+      ]
     },
     {
       "title": "What different world maps get right - and what they get wrong",
@@ -445,18 +449,18 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-      "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-      "date": "Fri, 04 Sep 2026 07:19:06 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "From 'dog fruit' to darling: India's avocado boom",
       "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
       "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
       "date": "Fri, 04 Sep 2026 05:09:02 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+      "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
+      "date": "Fri, 04 Sep 2026 07:19:06 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -661,14 +665,6 @@
       "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
       "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
       "date": "Thu, 27 Aug 2026 23:16:02 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
-      "link": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
-      "description": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
-      "date": "Wed, 26 Aug 2026 23:03:46 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
