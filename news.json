@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T15:24:48.607323+00:00",
+  "updatedAt": "2026-09-07T15:38:13.592679+00:00",
   "items": [
     {
       "title": "مقتل 12 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار",
@@ -634,6 +634,14 @@
       "cat": "اقتصاد"
     },
     {
+      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+      "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+      "date": "Mon, 07 Sep 2026 15:27:50 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
       "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
       "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
       "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
@@ -702,14 +710,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
       "description": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
       "date": "Wed, 02 Sep 2026 14:41:52 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
-    },
-    {
-      "title": "Criminals publish data of 8.7m people after airports hack",
-      "link": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
-      "description": "The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.",
-      "date": "Wed, 02 Sep 2026 11:00:59 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
