@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-07T04:51:51.836217+00:00",
+  "updatedAt": "2026-09-07T05:05:25.481860+00:00",
   "items": [
     {
       "title": "إيران تعلن \"اتفاقاً قريباً\" مع عُمان بشأن مسارات السفن في هرمز، وتعتزم إعلان \"منطقة محظورة\" قرب المضيق",
       "link": "https://www.bbc.com/arabic/articles/cp30kd0dw6lo?at_medium=RSS&at_campaign=rss",
       "description": "قال مسؤول أمني إيراني رفيع إن طهران اتفقت مع سلطنة عُمان على خرائط لمسارات عبور السفن في مضيق هرمز، على أن تُوقّع خلال الأيام المقبلة، بالتزامن مع اعتزام إيران إعلان منطقة خاضعة لقيود تشمل أجزاء من الخليج.",
       "date": "Mon, 07 Sep 2026 02:06:55 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "لماذا تتحمل النساء العبء الذهني الأكبر في إدارة شؤون الأسرة؟",
+      "link": "https://www.bbc.com/arabic/articles/c1e565ql908o?at_medium=RSS&at_campaign=rss",
+      "description": "كيف يمكن للزوجات تقاسم المهام اليومية مع أزواجهن، وتحويل هذا العبء إلى مسؤولية مشتركة أكثر عدلاً وتوازناً؟",
+      "date": "Mon, 07 Sep 2026 04:59:36 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/c23xmxmgmg5o?at_medium=RSS&at_campaign=rss",
       "description": "هل يصبح القطب الشمالي والقارة القطبية الجنوبية ساحة للصراع على موارد الطاقة؛ وكيف غيّرت الحرب في إيران أنماط شراء الوقود لدى المزارعين في الولايات المتحدة وبريطانيا؛ وما هي مؤشرات الإصابة بـ\"شيخوخة الدماغ\" في منتصف العمر، وكيف يمكن الوقاية منها؟ في عرض الصحف اليوم...",
       "date": "Sun, 06 Sep 2026 12:28:55 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "لماذا غيّرت الأمم المتحدة خريطة العالم؟ وأي الخرائط أدقّ؟",
-      "link": "https://www.bbc.com/arabic/articles/c62jn6g5y6go?at_medium=RSS&at_campaign=rss",
-      "description": "فيما تتبنى الأمم المتحدة خريطة جديدة للعالم تعكس الحجم الحقيقي لأفريقيا، نستعرض مزايا أبرز الخرائط المتداولة وأوجه القصور فيها.",
-      "date": "Sat, 05 Sep 2026 18:00:51 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -188,7 +188,7 @@
     {
       "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "description": "Germany's AfD hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote.",
+      "description": "Alternative for Germany hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote.",
       "date": "Mon, 07 Sep 2026 04:48:02 GMT",
       "source": "BBC World",
       "cat": "العالم"
