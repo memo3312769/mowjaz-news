@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T07:41:13.449935+00:00",
+  "updatedAt": "2026-09-07T07:53:19.602920+00:00",
   "items": [
     {
       "title": "إيران تعلن \"اتفاقاً قريباً\" مع عُمان بشأن مسارات السفن في هرمز، وتعتزم إعلان \"منطقة محظورة\" قرب المضيق",
@@ -366,14 +366,6 @@
       "cat": "العالم"
     },
     {
-      "title": "Video shows damaged Amazon cargo plane after crash",
-      "link": "https://www.bbc.co.uk/news/videos/c62k8dz8r4lo?at_medium=RSS&at_campaign=rss",
-      "description": "An Amazon Air cargo plane has overshot the runway while attempting to land at Miami International Airport.",
-      "date": "Sun, 06 Sep 2026 20:41:48 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "Germany's far-right AfD celebrate projected win in state election",
       "link": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
       "description": "AfD leaders celebrated tonight as exit polls projected a big lead in the Saxony-Anhalt vote.",
@@ -406,14 +398,6 @@
       "cat": "العالم"
     },
     {
-      "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
-      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-      "description": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
-      "date": "Mon, 07 Sep 2026 06:25:03 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "Jaguar Land Rover boss to meet minister as thousands of job cuts expected",
       "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
       "description": "Speaking to the BBC, Business Secretary Jonathan Reynolds ruled out a bailout for the company.",
@@ -426,6 +410,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
       "description": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
       "date": "Sun, 06 Sep 2026 23:16:05 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
+      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+      "description": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
+      "date": "Mon, 07 Sep 2026 06:25:03 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -602,18 +594,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
-      "description": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
-      "date": "Wed, 02 Sep 2026 23:36:49 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد",
-      "sources": [
-        "BBC Business",
-        "BBC Technology"
-      ]
-    },
-    {
       "title": "From 'dog fruit' to darling: India's avocado boom",
       "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
       "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
@@ -634,6 +614,14 @@
       "link": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
       "description": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
       "date": "Wed, 02 Sep 2026 23:13:44 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+      "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+      "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+      "date": "Sun, 30 Aug 2026 23:22:24 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -666,6 +654,14 @@
       "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.",
       "date": "Thu, 03 Sep 2026 07:20:23 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+      "description": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+      "date": "Wed, 02 Sep 2026 23:36:49 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
