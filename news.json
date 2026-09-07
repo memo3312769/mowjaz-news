@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-09-07T14:25:33.443342+00:00",
+  "updatedAt": "2026-09-07T14:39:30.323926+00:00",
   "items": [
     {
-      "title": "إيران: سنعلن قريباً عن منطقة محظورة في الخليج وخرائط لممر ملاحي جديد عبر هرمز",
+      "title": "مقتل 12 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار",
+      "link": "https://www.bbc.com/arabic/articles/cx2zvngjlnjo?at_medium=RSS&at_campaign=rss",
+      "description": "تكثف إسرائيل غاراتها وعملياتها في جنوب لبنان، فيما تتصاعد المخاوف من انهيار وقف إطلاق النار، وسط إنذارات بالإخلاء واتهامات متبادلة بشأن خروقات الاتفاق وإعادة بناء قدرات حزب الله وتحركاته العسكرية.",
+      "date": "Mon, 07 Sep 2026 14:27:50 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "إيران تلوّح بإعلان منطقة محظورة في الخليج وممراً ملاحياً جديداً عبر هرمز",
       "link": "https://www.bbc.com/arabic/articles/cp30kd0dw6lo?at_medium=RSS&at_campaign=rss",
       "description": "قال مسؤول أمني إيراني رفيع إن طهران اتفقت مع سلطنة عُمان على خرائط لمسارات عبور السفن في مضيق هرمز، على أن تُوقّع خلال الأيام المقبلة، بالتزامن مع اعتزام إيران إعلان منطقة خاضعة لقيود تشمل أجزاء من الخليج.",
       "date": "Mon, 07 Sep 2026 11:49:58 GMT",
@@ -46,14 +54,6 @@
       "link": "https://www.bbc.com/arabic/articles/c1e565ql908o?at_medium=RSS&at_campaign=rss",
       "description": "كيف يمكن للزوجات تقاسم المهام اليومية مع أزواجهن، وتحويل هذا العبء إلى مسؤولية مشتركة أكثر عدلاً وتوازناً؟",
       "date": "Mon, 07 Sep 2026 04:59:36 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "الجيش الإسرائيلي \"يستهدف منشأة لحزب الله\"، وعون يدعو إلى تحرك دولي",
-      "link": "https://www.bbc.com/arabic/articles/cx2ze19k88po?at_medium=RSS&at_campaign=rss",
-      "description": "شنّ الجيش الإسرائيلي غارات على جنوب لبنان، الأحد، ردّاً على إطلاق حزب الله مسيّرتين باتجاه قواته في المنطقة التي يصفها بـ\"الأمنية\". وقال الجيش إنه اعترض إحدى المسيّرتين دون تسجيل إصابات، واعتبر إطلاقهما \"انتهاكاً صارخاً لاتفاق وقف إطلاق النار\".",
-      "date": "Mon, 07 Sep 2026 01:49:59 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -409,7 +409,7 @@
       "title": "Why Jaguar Land Rover has decided change is needed",
       "link": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
       "description": "Job cuts come as JLR faces falling sales and intense Chinese competition while trying to switch to electric vehicles.",
-      "date": "Mon, 07 Sep 2026 13:32:39 GMT",
+      "date": "Mon, 07 Sep 2026 14:36:37 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
