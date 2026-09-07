@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T07:26:55.655446+00:00",
+  "updatedAt": "2026-09-07T07:41:13.449935+00:00",
   "items": [
     {
       "title": "إيران تعلن \"اتفاقاً قريباً\" مع عُمان بشأن مسارات السفن في هرمز، وتعتزم إعلان \"منطقة محظورة\" قرب المضيق",
@@ -36,7 +36,7 @@
     {
       "title": "زيلينسكي يتوقع استمرار الحرب إلى الشتاء بعد محادثات مع مبعوثَي ترامب",
       "link": "https://www.bbc.com/arabic/articles/cwyzww9y0kno?at_medium=RSS&at_campaign=rss",
-      "description": "زيلينسكي يتوقع استمرار الحرب مع روسيا حتى الشتاء، بعد محادثات مطولة مع مبعوثَي ترامب في كييف انتهت من دون اختراق كبير، وسط تأكيد أمريكي على إحراز \"تقدم\" في موسكو.",
+      "description": "زيلينسكي يتوقع استمرار الحرب مع روسيا حتى الشتاء، بعد محادثات مطولة مع مبعوثَي ترامب في كييف انتهت من دون إحراز تقدم كبير، وسط تأكيد أمريكي على إحراز \"تقدم\" في موسكو.",
       "date": "Sun, 06 Sep 2026 20:57:06 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
@@ -194,18 +194,18 @@
       "cat": "العالم"
     },
     {
-      "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
-      "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
-      "date": "Mon, 07 Sep 2026 04:07:23 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "Israeli strikes in southern Lebanese village kill 11, state media say",
       "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
       "description": "Lebanon says renewed attacks jeopardise a US-brokered ceasefire meant to end the conflict between Israel and armed group Hezbollah.",
       "date": "Mon, 07 Sep 2026 07:25:06 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+      "date": "Mon, 07 Sep 2026 05:31:06 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -310,6 +310,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
+      "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
+      "date": "Mon, 07 Sep 2026 04:07:23 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
       "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
       "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
@@ -346,58 +354,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
       "description": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
       "date": "Sat, 05 Sep 2026 23:54:07 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-      "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-      "date": "Sat, 05 Sep 2026 23:20:00 GMT",
-      "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World",
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "What different world maps get right - and what they get wrong",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-      "date": "Sun, 06 Sep 2026 12:09:54 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-      "date": "Fri, 04 Sep 2026 16:49:15 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-      "description": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
-      "date": "Sat, 05 Sep 2026 10:02:29 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Why are European countries moving their gold out of North America?",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-      "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
-      "date": "Sat, 05 Sep 2026 01:42:09 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
-      "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
-      "date": "Sat, 05 Sep 2026 14:07:38 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -442,6 +398,14 @@
       "cat": "العالم"
     },
     {
+      "title": "How might Lindsay Clancy’s case have unfolded in another country?",
+      "link": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
+      "description": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their young children.",
+      "date": "Sat, 05 Sep 2026 09:12:34 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
       "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
       "description": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
@@ -470,6 +434,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
       "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
       "date": "Fri, 04 Sep 2026 10:40:23 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "date": "Sat, 05 Sep 2026 23:20:00 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
