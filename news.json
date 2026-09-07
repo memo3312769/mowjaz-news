@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T21:05:56.240381+00:00",
+  "updatedAt": "2026-09-07T21:24:01.238994+00:00",
   "items": [
     {
       "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار",
@@ -178,6 +178,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+      "description": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+      "date": "Mon, 07 Sep 2026 21:12:37 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
       "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
       "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
@@ -202,18 +210,6 @@
       "cat": "العالم"
     },
     {
-      "title": "Investigators begin work on why cargo plane overran Miami runway",
-      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "description": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
-      "date": "Mon, 07 Sep 2026 17:46:25 GMT",
-      "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World",
-        "BBC Business"
-      ]
-    },
-    {
       "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
       "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
       "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
@@ -230,14 +226,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
       "description": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
       "date": "Mon, 07 Sep 2026 09:31:26 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
-      "date": "Mon, 07 Sep 2026 05:31:06 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -302,6 +290,14 @@
       "cat": "العالم"
     },
     {
+      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+      "date": "Mon, 07 Sep 2026 05:31:06 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
       "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
@@ -338,14 +334,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
       "description": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
       "date": "Sun, 06 Sep 2026 23:02:40 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
-      "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
-      "description": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
-      "date": "Sun, 06 Sep 2026 00:17:05 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -450,6 +438,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
       "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
       "date": "Mon, 07 Sep 2026 14:57:30 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Investigators begin work on why cargo plane overran Miami runway",
+      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "description": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
+      "date": "Mon, 07 Sep 2026 17:46:25 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
