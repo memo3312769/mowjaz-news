@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T08:06:59.993192+00:00",
+  "updatedAt": "2026-09-07T08:27:43.951543+00:00",
   "items": [
     {
       "title": "إيران تعلن \"اتفاقاً قريباً\" مع عُمان بشأن مسارات السفن في هرمز، وتعتزم إعلان \"منطقة محظورة\" قرب المضيق",
@@ -258,10 +258,10 @@
       ]
     },
     {
-      "title": "Six dead and more feared trapped in collapsed building in Delhi",
+      "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
       "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-      "description": "Eyewitnesses say two-to-four dozen are thought to have been inside the five-storey hostel when it came down.",
-      "date": "Mon, 07 Sep 2026 05:10:18 GMT",
+      "description": "It's not clear how many people were inside the building - or if there are still people under the debris.",
+      "date": "Mon, 07 Sep 2026 08:26:09 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -271,11 +271,7 @@
       "description": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
       "date": "Mon, 07 Sep 2026 03:40:09 GMT",
       "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World",
-        "BBC Business"
-      ]
+      "cat": "العالم"
     },
     {
       "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
@@ -418,6 +414,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
       "description": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
       "date": "Mon, 07 Sep 2026 06:25:03 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Why are European countries moving their gold out of North America?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+      "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+      "date": "Sat, 05 Sep 2026 01:42:09 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
+      "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
+      "description": "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels.",
+      "date": "Sat, 05 Sep 2026 01:03:35 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -578,22 +590,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-      "date": "Thu, 03 Sep 2026 15:35:47 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Hundreds of North Sea workers too heavy for new helicopter rules",
-      "link": "https://www.bbc.co.uk/news/articles/c4gk2zlv0e6o?at_medium=RSS&at_campaign=rss",
-      "description": "Workers should weigh no more than 19.5st fully clothed so that they can be winched to safety in an emergency.",
-      "date": "Thu, 03 Sep 2026 05:06:55 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "From 'dog fruit' to darling: India's avocado boom",
       "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
       "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
@@ -622,6 +618,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
       "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
       "date": "Sun, 30 Aug 2026 23:22:24 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Overcooked? Why robotic pizza makers are failing",
+      "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+      "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
+      "date": "Thu, 27 Aug 2026 23:16:02 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
