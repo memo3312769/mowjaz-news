@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T16:05:51.176154+00:00",
+  "updatedAt": "2026-09-07T16:25:05.470391+00:00",
   "items": [
     {
       "title": "مقتل 12 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار",
@@ -186,6 +186,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
+      "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+      "description": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
+      "date": "Mon, 07 Sep 2026 14:50:50 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Israeli strikes in southern Lebanese village kill 12",
       "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
       "description": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
@@ -269,7 +277,7 @@
       "title": "Tanzanian President Samia's husband dies in hospital",
       "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
       "description": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
-      "date": "Mon, 07 Sep 2026 12:03:56 GMT",
+      "date": "Mon, 07 Sep 2026 16:23:02 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -292,18 +300,6 @@
       "date": "Mon, 07 Sep 2026 10:31:01 GMT",
       "source": "BBC World",
       "cat": "العالم"
-    },
-    {
-      "title": "Australians will be able to switch off social media algorithms under planned legislation",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
-      "description": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
-      "date": "Mon, 07 Sep 2026 03:40:09 GMT",
-      "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World",
-        "BBC Business"
-      ]
     },
     {
       "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
@@ -350,14 +346,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
       "description": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
       "date": "Sun, 06 Sep 2026 00:17:05 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
-      "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
-      "date": "Sat, 05 Sep 2026 23:54:07 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -418,7 +406,7 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Why Jaguar Land Rover has decided change is needed",
+      "title": "Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover",
       "link": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
       "description": "Job cuts come as JLR faces falling sales and intense Chinese competition while trying to switch to electric vehicles.",
       "date": "Mon, 07 Sep 2026 14:36:37 GMT",
@@ -426,10 +414,10 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Chancellor refuses to rule out tax hikes in October Budget",
+      "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
       "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
       "description": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
-      "date": "Mon, 07 Sep 2026 12:48:28 GMT",
+      "date": "Mon, 07 Sep 2026 16:05:37 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -470,6 +458,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyzd53rq9jo?at_medium=RSS&at_campaign=rss",
       "description": "Recent analysis showed the construction sector needs an extra 2,200 workers a year to meet demand.",
       "date": "Mon, 07 Sep 2026 05:05:24 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Australians will be able to switch off social media algorithms under planned legislation",
+      "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
+      "description": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
+      "date": "Mon, 07 Sep 2026 03:40:09 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
