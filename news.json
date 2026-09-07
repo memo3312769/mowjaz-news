@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T11:06:03.650962+00:00",
+  "updatedAt": "2026-09-07T11:25:33.139659+00:00",
   "items": [
     {
       "title": "إيران: سنعلن قريباً عن منطقة محظورة في الخليج وخرائط لممر ملاحي جديد عبر هرمز",
@@ -10,7 +10,15 @@
       "cat": "العالم"
     },
     {
-      "title": "\"تساقط شعري بسبب العلاج الكيميائي لا يحدّد هويتي... بل هو رمز لقوّتي\"",
+      "title": "الجيش السوداني يوسّع نطاق سيطرته على حساب الدعم السريع في كردفان",
+      "link": "https://www.bbc.com/arabic/articles/c5yeggnwy6lo?at_medium=RSS&at_campaign=rss",
+      "description": "تشهد ولايات إقليم كردفان الثلاث، شمال وغرب وجنوب كردفان، مواجهات بين القوات الحكومية وقوات الدعم السريع منذ أكتوبر/تشرين أول الماضي.",
+      "date": "Mon, 07 Sep 2026 11:17:06 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "\"تساقُط شعري بسبب العلاج الكيميائي لا يحدّد هويتي... بل هو رمزٌ لقوّتي\"",
       "link": "https://www.bbc.com/arabic/articles/cq6396zrd14o?at_medium=RSS&at_campaign=rss",
       "description": "يتم الاحتفاء بجمال وصمود النساء المصابات بالسرطان من خلال التصوير الفوتوغرافي.",
       "date": "Mon, 07 Sep 2026 08:54:36 GMT",
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/c0kl3m15521o?at_medium=RSS&at_campaign=rss",
       "description": "ضبط السلطات نحو 200 كيلوغرام من المواد المخدرة والخامات، إلى جانب مشغولات ذهبية ومبالغ مالية بعملات محلية وأجنبية وخمس سيارات بقيمة نحو 8.3 مليون دولار.",
       "date": "Sun, 06 Sep 2026 11:18:48 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "إنفانتينو سيترشح لولاية رابعة في رئاسة فيفا... فهل يطيح به حلفاؤه؟",
-      "link": "https://www.bbc.com/arabic/articles/clyqvk12w57o?at_medium=RSS&at_campaign=rss",
-      "description": "أكد الاتحاد الدولي لكرة القدم (فيفا) أن رئيسه جياني إنفانتينو سيترشح لإعادة انتخابه في مارس.",
-      "date": "Sun, 06 Sep 2026 13:26:44 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -189,7 +189,7 @@
       "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
       "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
       "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-      "date": "Mon, 07 Sep 2026 10:14:51 GMT",
+      "date": "Mon, 07 Sep 2026 11:10:56 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -230,10 +230,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
-      "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-      "description": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
-      "date": "Mon, 07 Sep 2026 06:13:17 GMT",
+      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+      "description": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
+      "date": "Mon, 07 Sep 2026 09:31:26 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -242,6 +242,30 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
       "description": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
       "date": "Mon, 07 Sep 2026 00:01:32 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
+      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "description": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
+      "date": "Mon, 07 Sep 2026 10:45:28 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+      "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+      "description": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
+      "date": "Mon, 07 Sep 2026 06:13:17 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Tanzanian President Samia's husband dies in hospital",
+      "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+      "description": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
+      "date": "Mon, 07 Sep 2026 11:18:40 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -282,30 +306,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
       "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
       "date": "Sun, 06 Sep 2026 08:05:22 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "description": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
-      "date": "Sun, 06 Sep 2026 17:00:56 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Prince William to attend King Harald's funeral in Norway",
-      "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-      "description": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
-      "date": "Sat, 05 Sep 2026 21:00:02 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-      "date": "Sat, 05 Sep 2026 09:12:48 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -417,7 +417,7 @@
       "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
       "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
       "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
-      "date": "Mon, 07 Sep 2026 10:41:11 GMT",
+      "date": "Mon, 07 Sep 2026 11:07:12 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
