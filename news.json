@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T06:32:54.386140+00:00",
+  "updatedAt": "2026-09-07T06:55:32.233846+00:00",
   "items": [
     {
       "title": "إيران تعلن \"اتفاقاً قريباً\" مع عُمان بشأن مسارات السفن في هرمز، وتعتزم إعلان \"منطقة محظورة\" قرب المضيق",
@@ -20,7 +20,7 @@
     {
       "title": "الجيش الإسرائيلي \"يستهدف منشأة لحزب الله\"، وعون يدعو إلى تحرك دولي",
       "link": "https://www.bbc.com/arabic/articles/cx2ze19k88po?at_medium=RSS&at_campaign=rss",
-      "description": "شنّ الجيش الإسرائيلي غارات على جنوب لبنان، الأحد، رداً على إطلاق حزب الله مسيّرتين باتجاه قواته في المنطقة التي يصفها بـ\"الأمنية\". وقال الجيش إنه اعترض إحدى المسيّرتين دون تسجيل إصابات، واعتبر إطلاقهما \"انتهاكاً صارخاً لاتفاق وقف إطلاق النار\".",
+      "description": "شنّ الجيش الإسرائيلي غارات على جنوب لبنان، الأحد، ردّاً على إطلاق حزب الله مسيّرتين باتجاه قواته في المنطقة التي يصفها بـ\"الأمنية\". وقال الجيش إنه اعترض إحدى المسيّرتين دون تسجيل إصابات، واعتبر إطلاقهما \"انتهاكاً صارخاً لاتفاق وقف إطلاق النار\".",
       "date": "Mon, 07 Sep 2026 01:49:59 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
@@ -394,6 +394,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
+      "link": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
+      "description": "Omar al-Bayoumi has always denied being an extremist and a Saudi spy.",
+      "date": "Mon, 07 Sep 2026 06:32:06 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Video shows damaged Amazon cargo plane after crash",
       "link": "https://www.bbc.co.uk/news/videos/c62k8dz8r4lo?at_medium=RSS&at_campaign=rss",
       "description": "An Amazon Air cargo plane has overshot the runway while attempting to land at Miami International Airport.",
@@ -442,7 +450,7 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+      "title": "Jaguar Land Rover boss to meet minister as thousands of job cuts expected",
       "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
       "description": "Speaking to the BBC, Business Secretary Jonathan Reynolds ruled out a bailout for the company.",
       "date": "Sun, 06 Sep 2026 16:32:59 GMT",
