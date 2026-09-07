@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-07T08:27:43.951543+00:00",
+  "updatedAt": "2026-09-07T08:42:19.130794+00:00",
   "items": [
     {
       "title": "إيران تعلن \"اتفاقاً قريباً\" مع عُمان بشأن مسارات السفن في هرمز، وتعتزم إعلان \"منطقة محظورة\" قرب المضيق",
       "link": "https://www.bbc.com/arabic/articles/cp30kd0dw6lo?at_medium=RSS&at_campaign=rss",
       "description": "قال مسؤول أمني إيراني رفيع إن طهران اتفقت مع سلطنة عُمان على خرائط لمسارات عبور السفن في مضيق هرمز، على أن تُوقّع خلال الأيام المقبلة، بالتزامن مع اعتزام إيران إعلان منطقة خاضعة لقيود تشمل أجزاء من الخليج.",
-      "date": "Mon, 07 Sep 2026 07:15:25 GMT",
+      "date": "Mon, 07 Sep 2026 08:40:10 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -271,7 +271,11 @@
       "description": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
       "date": "Mon, 07 Sep 2026 03:40:09 GMT",
       "source": "BBC World",
-      "cat": "العالم"
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Business"
+      ]
     },
     {
       "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
@@ -413,7 +417,7 @@
       "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
       "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
       "description": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
-      "date": "Mon, 07 Sep 2026 06:25:03 GMT",
+      "date": "Mon, 07 Sep 2026 08:36:25 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -430,6 +434,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
       "description": "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels.",
       "date": "Sat, 05 Sep 2026 01:03:35 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "More funding needed to boost construction jobs for young people, housing boss says",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzd53rq9jo?at_medium=RSS&at_campaign=rss",
+      "description": "Recent analysis showed the construction sector needs an extra 2,200 workers a year to meet demand.",
+      "date": "Mon, 07 Sep 2026 05:05:24 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -566,30 +578,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Almost half of households do not see benefits of economic growth, report says",
-      "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
-      "description": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
-      "date": "Thu, 03 Sep 2026 05:47:11 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
-      "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
-      "description": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
-      "date": "Wed, 02 Sep 2026 23:25:50 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
-      "link": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
-      "description": "The pop star formerly known as Posh Spice has taken nearly two decades to turn a profit.",
-      "date": "Wed, 02 Sep 2026 23:24:06 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "From 'dog fruit' to darling: India's avocado boom",
       "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
       "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
@@ -626,6 +614,14 @@
       "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
       "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
       "date": "Thu, 27 Aug 2026 23:16:02 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+      "link": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+      "description": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+      "date": "Wed, 26 Aug 2026 23:03:46 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
