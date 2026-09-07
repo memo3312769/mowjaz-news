@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T00:35:50.023161+00:00",
+  "updatedAt": "2026-09-07T00:55:05.363680+00:00",
   "items": [
     {
       "title": "إيران تعتزم إعلان \"منطقة محظورة\" قرب مضيق هرمز",
@@ -192,6 +192,18 @@
       "date": "Sun, 06 Sep 2026 23:02:45 GMT",
       "source": "BBC World",
       "cat": "العالم"
+    },
+    {
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "description": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "date": "Mon, 07 Sep 2026 00:39:45 GMT",
+      "source": "BBC World",
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Business"
+      ]
     },
     {
       "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
@@ -432,7 +444,7 @@
     {
       "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
       "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-      "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+      "description": "Speaking to the BBC, Business Secretary Jonathan Reynolds ruled out a bailout for the company.",
       "date": "Sun, 06 Sep 2026 16:32:59 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
@@ -634,14 +646,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
       "description": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
       "date": "Wed, 02 Sep 2026 23:53:28 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
-      "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
-      "description": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
-      "date": "Wed, 02 Sep 2026 13:20:11 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
