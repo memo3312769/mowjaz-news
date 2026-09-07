@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T12:07:23.627335+00:00",
+  "updatedAt": "2026-09-07T12:31:23.831594+00:00",
   "items": [
     {
       "title": "إيران: سنعلن قريباً عن منطقة محظورة في الخليج وخرائط لممر ملاحي جديد عبر هرمز",
@@ -106,6 +106,14 @@
       "cat": "العالم"
     },
     {
+      "title": "جهاز ذكي لقياس ضغط الدم",
+      "link": "https://www.bbc.com/arabic/articles/cd68g34qlwzo?at_medium=RSS&at_campaign=rss",
+      "description": "جهاز ذكي لقياس ضغط الدم",
+      "date": "Mon, 07 Sep 2026 12:12:30 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
       "title": "فرح يوسف في بلا قيود: الإعلان الدستوري يمنح صلاحيات شبه إلهية للرئيس الانتقالي",
       "link": "https://www.bbc.com/arabic/articles/ce30vq0zedko?at_medium=RSS&at_campaign=rss",
       "description": "قالت فرح يوسف الباحثة والناشطة السياسية السورية إنّ الاهتمام الدولي الذي تحظى به الحكومة الانتقالية في سوريا يتعلق بترتيبات تخص إسرائيل ولا علاقة لها بحق الشعب السوري في الحكم",
@@ -114,26 +122,10 @@
       "cat": "العالم"
     },
     {
-      "title": "كيف تساعد الطحالب في تنقية الهواء",
-      "link": "https://www.bbc.com/arabic/articles/c5yw4g9802vo?at_medium=RSS&at_campaign=rss",
-      "description": "كيف تساعد الطحالب في تنقية الهواء",
-      "date": "Thu, 03 Sep 2026 14:02:40 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
       "title": "العيش البطيء، حياة أبسط أم ترند جديد؟",
       "link": "https://www.bbc.com/arabic/articles/c4gj7dy1y3no?at_medium=RSS&at_campaign=rss",
       "description": "لماذا يختار بعض الشباب الابتعاد عن السرعة والاستهلاك والعودة إلى حياة أبسط؟ هذا ما نحاول فهمه في حلقة بي بي سي إكسترا هذا الأسبوع مع شباب من منطقة الشرق الأوسط وشمال أفريقيا.",
       "date": "Thu, 03 Sep 2026 10:59:57 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "روبوتات تغير شكلها، فكيف تفعل ذلك؟",
-      "link": "https://www.bbc.com/arabic/articles/ce308vq3n1go?at_medium=RSS&at_campaign=rss",
-      "description": "روبوتات تغير شكلها، فكيف تفعل ذلك؟",
-      "date": "Mon, 24 Aug 2026 13:14:47 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -189,7 +181,7 @@
       "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
       "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
       "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-      "date": "Mon, 07 Sep 2026 11:54:22 GMT",
+      "date": "Mon, 07 Sep 2026 12:22:39 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -222,10 +214,10 @@
       ]
     },
     {
-      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-      "date": "Sun, 06 Sep 2026 20:41:58 GMT",
+      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+      "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
+      "date": "Mon, 07 Sep 2026 07:03:44 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -642,6 +634,14 @@
       "cat": "اقتصاد"
     },
     {
+      "title": "OpenAI chief scientist warns no one is prepared for consequences of AI",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+      "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
+      "date": "Mon, 07 Sep 2026 12:22:07 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
       "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
       "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
       "description": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
@@ -710,14 +710,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
       "description": "The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.",
       "date": "Wed, 02 Sep 2026 11:00:59 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
-    },
-    {
-      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-      "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
-      "description": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
-      "date": "Wed, 02 Sep 2026 01:27:34 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
