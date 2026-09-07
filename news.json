@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T15:38:13.592679+00:00",
+  "updatedAt": "2026-09-07T15:51:26.942898+00:00",
   "items": [
     {
       "title": "مقتل 12 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار",
@@ -194,14 +194,6 @@
       "cat": "العالم"
     },
     {
-      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
-      "date": "Mon, 07 Sep 2026 05:31:06 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "Probe begins into why cargo plane overran Miami runway",
       "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
       "description": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
@@ -214,18 +206,38 @@
       ]
     },
     {
-      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
-      "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
-      "date": "Mon, 07 Sep 2026 07:03:44 GMT",
+      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+      "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+      "date": "Mon, 07 Sep 2026 15:27:50 GMT",
       "source": "BBC World",
-      "cat": "العالم"
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Technology"
+      ]
     },
     {
       "title": "Nepal observes national day of mourning for victims of flash flood disaster",
       "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
       "description": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
       "date": "Mon, 07 Sep 2026 09:31:26 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+      "date": "Mon, 07 Sep 2026 05:31:06 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+      "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
+      "date": "Mon, 07 Sep 2026 07:03:44 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -246,10 +258,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+      "title": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
       "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-      "description": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
-      "date": "Mon, 07 Sep 2026 11:50:43 GMT",
+      "description": "Anak Krakatau, which lies about 150km from capital Jakarta, began spewing lava and volvanic ash late on Friday.",
+      "date": "Mon, 07 Sep 2026 15:40:47 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -292,14 +304,6 @@
         "BBC World",
         "BBC Business"
       ]
-    },
-    {
-      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "date": "Sun, 06 Sep 2026 08:05:22 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
     },
     {
       "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
@@ -632,14 +636,6 @@
       "date": "Thu, 27 Aug 2026 23:16:02 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
-    },
-    {
-      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-      "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-      "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-      "date": "Mon, 07 Sep 2026 15:27:50 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
     },
     {
       "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
