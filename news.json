@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T23:06:34.647951+00:00",
+  "updatedAt": "2026-09-07T23:22:34.088318+00:00",
   "items": [
     {
       "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار",
@@ -394,6 +394,14 @@
       "cat": "العالم"
     },
     {
+      "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+      "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+      "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+      "date": "Mon, 07 Sep 2026 23:06:14 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
       "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
       "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
@@ -430,18 +438,18 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
-      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-      "description": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
-      "date": "Mon, 07 Sep 2026 16:05:37 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "Why are European countries moving their gold out of North America?",
       "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
       "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
       "date": "Sat, 05 Sep 2026 01:42:09 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
+      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+      "description": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
+      "date": "Mon, 07 Sep 2026 16:05:37 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -608,14 +616,6 @@
         "BBC Business",
         "BBC Technology"
       ]
-    },
-    {
-      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
-      "link": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
-      "description": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills.",
-      "date": "Thu, 03 Sep 2026 13:26:54 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
     },
     {
       "title": "From 'dog fruit' to darling: India's avocado boom",
