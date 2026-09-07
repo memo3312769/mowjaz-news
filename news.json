@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-07T15:51:26.942898+00:00",
+  "updatedAt": "2026-09-07T16:05:51.176154+00:00",
   "items": [
     {
       "title": "مقتل 12 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار",
       "link": "https://www.bbc.com/arabic/articles/cx2zvngjlnjo?at_medium=RSS&at_campaign=rss",
       "description": "تكثف إسرائيل غاراتها وعملياتها في جنوب لبنان، فيما تتصاعد المخاوف من انهيار وقف إطلاق النار، وسط إنذارات بالإخلاء واتهامات متبادلة بشأن خروقات الاتفاق وإعادة بناء قدرات حزب الله وتحركاته العسكرية.",
       "date": "Mon, 07 Sep 2026 14:27:50 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "مكاسب تاريخية لليمين القومي في ألمانيا... كيف ستنعكس على أوروبا؟",
+      "link": "https://www.bbc.com/arabic/articles/cvgy87jgynzo?at_medium=RSS&at_campaign=rss",
+      "description": "ترى كاتيا أدلر، محررة الشؤون الأوروبية في بي بي سي، أن فوز اليمين المتطرف في ولاية ساكسونيا-أنهالت يدق ناقوس الخطر لدى الاتحاد الأوروبي والأحزاب التقليدية.",
+      "date": "Mon, 07 Sep 2026 15:49:48 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -26,7 +34,7 @@
       "cat": "العالم"
     },
     {
-      "title": "الجيش السوداني يوسّع نطاق سيطرته على حساب الدعم السريع في كردفان",
+      "title": "الجيش السوداني يوسّع نطاق سيطرته في كردفان",
       "link": "https://www.bbc.com/arabic/articles/c5yeggnwy6lo?at_medium=RSS&at_campaign=rss",
       "description": "تشهد ولايات إقليم كردفان الثلاث، شمال وغرب وجنوب كردفان، مواجهات بين القوات الحكومية وقوات الدعم السريع منذ أكتوبر/تشرين الأول الماضي.",
       "date": "Mon, 07 Sep 2026 11:17:06 GMT",
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/cwyzww9y0kno?at_medium=RSS&at_campaign=rss",
       "description": "زيلينسكي يتوقع استمرار الحرب مع روسيا حتى الشتاء، بعد محادثات مطولة مع مبعوثَي ترامب في كييف انتهت من دون إحراز تقدم كبير، وسط تأكيد أمريكي على إحراز \"تقدم\" في موسكو.",
       "date": "Sun, 06 Sep 2026 20:57:06 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "\"كنا نسمع صرخات الجرحى، لكننا لم نتمكن من مساعدتهم حتى فارقوا الحياة\"",
-      "link": "https://www.bbc.com/arabic/articles/cgmrjmz9yvmo?at_medium=RSS&at_campaign=rss",
-      "description": "تم انتشال رفات القتلى مؤخراً من تحت أنقاض مبانٍ ومركبات دمرها القصف الإسرائيلي، وبينهم 70 طفلاً، وفقاً للدفاع المدني في غزة",
-      "date": "Sun, 06 Sep 2026 18:59:58 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -410,6 +410,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+      "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
+      "description": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
+      "date": "Mon, 07 Sep 2026 15:41:52 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "Why Jaguar Land Rover has decided change is needed",
       "link": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
       "description": "Job cuts come as JLR faces falling sales and intense Chinese competition while trying to switch to electric vehicles.",
@@ -626,14 +634,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
       "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
       "date": "Sun, 30 Aug 2026 23:22:24 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Overcooked? Why robotic pizza makers are failing",
-      "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-      "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
-      "date": "Thu, 27 Aug 2026 23:16:02 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
