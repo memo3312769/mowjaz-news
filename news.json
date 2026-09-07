@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-07T13:07:24.155336+00:00",
+  "updatedAt": "2026-09-07T13:27:00.561294+00:00",
   "items": [
     {
       "title": "إيران: سنعلن قريباً عن منطقة محظورة في الخليج وخرائط لممر ملاحي جديد عبر هرمز",
       "link": "https://www.bbc.com/arabic/articles/cp30kd0dw6lo?at_medium=RSS&at_campaign=rss",
       "description": "قال مسؤول أمني إيراني رفيع إن طهران اتفقت مع سلطنة عُمان على خرائط لمسارات عبور السفن في مضيق هرمز، على أن تُوقّع خلال الأيام المقبلة، بالتزامن مع اعتزام إيران إعلان منطقة خاضعة لقيود تشمل أجزاء من الخليج.",
       "date": "Mon, 07 Sep 2026 11:49:58 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "بوتين غير معنيّ بتحقيق السلام، وترامب يقع في فخه – الإندبندنت",
+      "link": "https://www.bbc.com/arabic/articles/cz9zkyzde23o?at_medium=RSS&at_campaign=rss",
+      "description": "\"مرة أخرى، قد يكون بوتين قد رأى مصلحة في تشجيع الأمريكيين على ممارسة الضغط على كييف، لقبول شروط مجحفة ومهينة لمجرد إنهاء احتمال استمرار القتال خلال شتاء سيثبت أنه بالغ القسوة\".",
+      "date": "Mon, 07 Sep 2026 13:16:26 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/cgmrjmz9yvmo?at_medium=RSS&at_campaign=rss",
       "description": "تم انتشال رفات القتلى مؤخراً من تحت أنقاض مبانٍ ومركبات دمرها القصف الإسرائيلي، وبينهم 70 طفلاً، وفقاً للدفاع المدني في غزة",
       "date": "Sun, 06 Sep 2026 18:59:58 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "الحكم بإعدام سارة خليفة و11 آخرين في قضية \"المخدرات الكبرى\"",
-      "link": "https://www.bbc.com/arabic/articles/c0kl3m15521o?at_medium=RSS&at_campaign=rss",
-      "description": "ضبط السلطات نحو 200 كيلوغرام من المواد المخدرة والخامات، إلى جانب مشغولات ذهبية ومبالغ مالية بعملات محلية وأجنبية وخمس سيارات بقيمة نحو 8.3 مليون دولار.",
-      "date": "Sun, 06 Sep 2026 11:18:48 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -414,18 +414,18 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "The £70 refund letter that isn't a scam",
-      "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-      "description": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
-      "date": "Mon, 07 Sep 2026 08:50:55 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "Chancellor refuses to rule out tax hikes in October Budget",
       "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
       "description": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
       "date": "Mon, 07 Sep 2026 12:48:28 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "The £70 refund letter that isn't a scam",
+      "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+      "description": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+      "date": "Mon, 07 Sep 2026 08:50:55 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
