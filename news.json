@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-07T07:08:39.369404+00:00",
+  "updatedAt": "2026-09-07T07:26:55.655446+00:00",
   "items": [
     {
       "title": "إيران تعلن \"اتفاقاً قريباً\" مع عُمان بشأن مسارات السفن في هرمز، وتعتزم إعلان \"منطقة محظورة\" قرب المضيق",
       "link": "https://www.bbc.com/arabic/articles/cp30kd0dw6lo?at_medium=RSS&at_campaign=rss",
       "description": "قال مسؤول أمني إيراني رفيع إن طهران اتفقت مع سلطنة عُمان على خرائط لمسارات عبور السفن في مضيق هرمز، على أن تُوقّع خلال الأيام المقبلة، بالتزامن مع اعتزام إيران إعلان منطقة خاضعة لقيود تشمل أجزاء من الخليج.",
-      "date": "Mon, 07 Sep 2026 02:06:55 GMT",
+      "date": "Mon, 07 Sep 2026 07:15:25 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "الذكاء الاصطناعي يدخل صناعة \"البرومو\"، فهل يقنع المشاهدين؟",
+      "link": "https://www.bbc.com/arabic/articles/cyvzmd0gmedo?at_medium=RSS&at_campaign=rss",
+      "description": "يوسّع الذكاء الاصطناعي إمكانات صناعة البروموهات ويزيد قدرتها على الإبهار، لكن نجاحها لا يتوقف على الصورة وحدها، بل على قدرتها على إثارة فضول المشاهد وترك أثر إنساني لديه.",
+      "date": "Mon, 07 Sep 2026 07:16:05 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/c8r6ezl37vmo?at_medium=RSS&at_campaign=rss",
       "description": "أكثر من 150 ألف مسافر جوي عالق بعد رصد الرماد في المجال الجوي بالقرب من جاكرتا عقب الانفجارات البركانية.",
       "date": "Sun, 06 Sep 2026 13:57:18 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "هل تتصارع روسيا والصين والولايات المتحدة على القطبين؟ - مقال في الإندبندنت",
-      "link": "https://www.bbc.com/arabic/articles/c23xmxmgmg5o?at_medium=RSS&at_campaign=rss",
-      "description": "هل يصبح القطب الشمالي والقارة القطبية الجنوبية ساحة للصراع على موارد الطاقة؛ وكيف غيّرت الحرب في إيران أنماط شراء الوقود لدى المزارعين في الولايات المتحدة وبريطانيا؛ وما هي مؤشرات الإصابة بـ\"شيخوخة الدماغ\" في منتصف العمر، وكيف يمكن الوقاية منها؟ في عرض الصحف اليوم...",
-      "date": "Sun, 06 Sep 2026 12:28:55 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -202,6 +202,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Israeli strikes in southern Lebanese village kill 11, state media say",
+      "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "description": "Lebanon says renewed attacks jeopardise a US-brokered ceasefire meant to end the conflict between Israel and armed group Hezbollah.",
+      "date": "Mon, 07 Sep 2026 07:25:06 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Five dead after Amazon cargo plane crashes at Miami airport",
       "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
       "description": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
@@ -218,14 +226,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
       "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
       "date": "Sun, 06 Sep 2026 20:41:58 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-      "date": "Sun, 06 Sep 2026 20:52:12 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -306,6 +306,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
       "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
       "date": "Sat, 05 Sep 2026 09:12:48 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "date": "Sun, 06 Sep 2026 20:52:12 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -430,14 +438,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
       "description": "Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.",
       "date": "Sun, 06 Sep 2026 06:04:51 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "How might Lindsay Clancy’s case have unfolded in another country?",
-      "link": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
-      "description": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their young children.",
-      "date": "Sat, 05 Sep 2026 09:12:34 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
