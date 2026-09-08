@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-07T23:48:25.373181+00:00",
+  "updatedAt": "2026-09-08T00:09:25.704693+00:00",
   "items": [
     {
       "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار",
       "link": "https://www.bbc.com/arabic/articles/cx2zvngjlnjo?at_medium=RSS&at_campaign=rss",
       "description": "تكثف إسرائيل غاراتها وعملياتها في جنوب لبنان، فيما تتصاعد المخاوف من انهيار وقف إطلاق النار، وسط إنذارات بالإخلاء واتهامات متبادلة بشأن خروقات الاتفاق وإعادة بناء قدرات حزب الله وتحركاته العسكرية.",
       "date": "Mon, 07 Sep 2026 20:58:40 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "الملك تشارلز يحسم الجدل: هاري وميغان لا يزالان من أفراد العائلة المالكة غير العاملين",
+      "link": "https://www.bbc.com/arabic/articles/c24jv8lqz30o?at_medium=RSS&at_campaign=rss",
+      "description": "أفادت مصادر في القصر أن الرسالة أُرسلت إلى فريق الأمير هاري والحكومة والجيش وحكام المقاطعات",
+      "date": "Tue, 08 Sep 2026 00:02:35 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -46,14 +54,6 @@
       "link": "https://www.bbc.com/arabic/articles/cz9zkyzde23o?at_medium=RSS&at_campaign=rss",
       "description": "\"مرة أخرى، قد يكون بوتين قد رأى مصلحة في تشجيع الأمريكيين على ممارسة الضغط على كييف، لقبول شروط مجحفة ومهينة لمجرد إنهاء احتمال استمرار القتال خلال شتاء سيثبت أنه بالغ القسوة\".",
       "date": "Mon, 07 Sep 2026 13:16:26 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "الجيش السوداني يوسّع نطاق سيطرته في كردفان",
-      "link": "https://www.bbc.com/arabic/articles/c5yeggnwy6lo?at_medium=RSS&at_campaign=rss",
-      "description": "تشهد ولايات إقليم كردفان الثلاث، شمال وغرب وجنوب كردفان، مواجهات بين القوات الحكومية وقوات الدعم السريع منذ أكتوبر/تشرين الأول الماضي.",
-      "date": "Mon, 07 Sep 2026 11:17:06 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -202,6 +202,26 @@
       "cat": "العالم"
     },
     {
+      "title": "Eiffel Tower shut by staff protest after women moved for religious visit",
+      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "description": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
+      "date": "Mon, 07 Sep 2026 23:46:44 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "description": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+      "date": "Mon, 07 Sep 2026 23:29:12 GMT",
+      "source": "BBC World",
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Business"
+      ]
+    },
+    {
       "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
       "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
       "description": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
@@ -228,14 +248,6 @@
         "BBC World",
         "BBC Technology"
       ]
-    },
-    {
-      "title": "Eiffel Tower shut by staff protest after women moved for religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "description": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
-      "date": "Mon, 07 Sep 2026 23:46:44 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
     },
     {
       "title": "Nepal observes national day of mourning for victims of flash flood disaster",
@@ -286,24 +298,25 @@
       "cat": "العالم"
     },
     {
-      "title": "China to pump $54bn into state banks and insurers to boost economy",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-      "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
-      "date": "Mon, 07 Sep 2026 02:26:12 GMT",
-      "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World",
-        "BBC Business"
-      ]
-    },
-    {
       "title": "A food safety officer has become a social media star in India - why?",
       "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
       "description": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
       "date": "Mon, 07 Sep 2026 23:40:39 GMT",
       "source": "BBC World",
       "cat": "العالم"
+    },
+    {
+      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+      "date": "Mon, 07 Sep 2026 23:05:12 GMT",
+      "source": "BBC World",
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Business",
+        "BBC Technology"
+      ]
     },
     {
       "title": "New videos of man in 9/11 lawsuit reveal extremist links",
@@ -334,14 +347,6 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
       "description": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
       "date": "Mon, 07 Sep 2026 08:04:12 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
-      "description": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
-      "date": "Sun, 06 Sep 2026 23:13:29 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -402,18 +407,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
-      "date": "Mon, 07 Sep 2026 23:05:12 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد",
-      "sources": [
-        "BBC Business",
-        "BBC Technology"
-      ]
-    },
-    {
       "title": "Next wins key appeal to overturn £30m equal pay ruling",
       "link": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
       "description": "A judge ruled Next can pay warehouse workers more because it is harder to recruit and retain them.",
@@ -438,18 +431,18 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Why are European countries moving their gold out of North America?",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-      "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
-      "date": "Sat, 05 Sep 2026 01:42:09 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
       "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
       "description": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
       "date": "Mon, 07 Sep 2026 16:05:37 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Why are European countries moving their gold out of North America?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+      "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+      "date": "Sat, 05 Sep 2026 01:42:09 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -466,6 +459,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
       "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
       "date": "Mon, 07 Sep 2026 14:57:30 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "China to pump $54bn into state banks and insurers to boost economy",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+      "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
+      "date": "Mon, 07 Sep 2026 02:26:12 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -606,18 +607,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "description": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-      "date": "Thu, 03 Sep 2026 16:32:05 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد",
-      "sources": [
-        "BBC Business",
-        "BBC Technology"
-      ]
-    },
-    {
       "title": "From 'dog fruit' to darling: India's avocado boom",
       "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
       "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
@@ -678,6 +667,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
       "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
       "date": "Thu, 03 Sep 2026 18:32:03 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "description": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
+      "date": "Thu, 03 Sep 2026 16:32:05 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
