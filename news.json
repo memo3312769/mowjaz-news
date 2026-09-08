@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-08T07:40:03.586983+00:00",
+  "updatedAt": "2026-09-08T07:52:24.371619+00:00",
   "items": [
     {
       "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة الحوثي",
       "link": "https://www.bbc.com/arabic/articles/c2l8ep44xrpo?at_medium=RSS&at_campaign=rss",
-      "description": "تضاربت الأنباء بشأن سير المعارك في اليمن، مع إعلان كل طرف تحقيق مكاسب ميدانية، بالتزامن مع تعرض منشآت نفطية تابعة لأرامكو في جازان لهجوم جديد\".",
+      "description": "تضاربت الأنباء بشأن سير المعارك في اليمن، مع إعلان كل طرف تحقيق مكاسب ميدانية، بالتزامن مع تعرّض منشآت نفطية تابعة لأرامكو في جازان لهجوم جديد.",
       "date": "Tue, 08 Sep 2026 07:24:05 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
@@ -206,14 +206,6 @@
       "cat": "العالم"
     },
     {
-      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-      "date": "Mon, 07 Sep 2026 14:04:01 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
       "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
       "description": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says.",
@@ -234,6 +226,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
       "description": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
       "date": "Tue, 08 Sep 2026 03:53:27 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+      "date": "Mon, 07 Sep 2026 14:04:01 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -410,10 +410,10 @@
       "cat": "العالم"
     },
     {
-      "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+      "title": "The firms turning recruitment into X Factor-style competitions",
       "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
       "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
-      "date": "Mon, 07 Sep 2026 23:06:14 GMT",
+      "date": "Tue, 08 Sep 2026 07:43:15 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
