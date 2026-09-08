@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T10:51:59.123368+00:00",
+  "updatedAt": "2026-09-08T11:06:18.388769+00:00",
   "items": [
     {
       "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله",
@@ -190,18 +190,18 @@
       ]
     },
     {
-      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "description": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says.",
-      "date": "Mon, 07 Sep 2026 23:46:44 GMT",
+      "title": "At least two people dead after Russian strikes on Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "description": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday.",
+      "date": "Tue, 08 Sep 2026 10:23:01 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
     {
-      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-      "description": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
-      "date": "Tue, 08 Sep 2026 01:32:56 GMT",
+      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
+      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "description": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
+      "date": "Tue, 08 Sep 2026 11:00:10 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -210,6 +210,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
       "description": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
       "date": "Tue, 08 Sep 2026 09:20:05 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "description": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+      "date": "Tue, 08 Sep 2026 01:32:56 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -300,14 +308,6 @@
         "BBC World",
         "BBC Technology"
       ]
-    },
-    {
-      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
-      "description": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
-      "date": "Mon, 07 Sep 2026 09:31:26 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
     },
     {
       "title": "A food safety officer has become a social media star in India - why?",
@@ -457,7 +457,7 @@
       "title": "'JLR job cuts a cause for uncertainty and worry'",
       "link": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
       "description": "Experts say they worry it could limit the company's ability to innovate in the future.",
-      "date": "Tue, 08 Sep 2026 04:57:54 GMT",
+      "date": "Tue, 08 Sep 2026 11:00:22 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
