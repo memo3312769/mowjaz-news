@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T05:38:31.253823+00:00",
+  "updatedAt": "2026-09-08T05:51:41.130957+00:00",
   "items": [
     {
       "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار",
@@ -471,18 +471,18 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-      "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-      "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
-      "date": "Mon, 07 Sep 2026 14:57:30 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "China to pump $54bn into state banks and insurers to boost economy",
       "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
       "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
       "date": "Mon, 07 Sep 2026 02:26:12 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+      "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+      "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+      "date": "Mon, 07 Sep 2026 14:57:30 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
