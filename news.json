@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T04:05:57.522589+00:00",
+  "updatedAt": "2026-09-08T04:25:29.670902+00:00",
   "items": [
     {
       "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار",
@@ -218,6 +218,14 @@
       "cat": "العالم"
     },
     {
+      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+      "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+      "description": "Foreign Secretary Ed Miliband is expected to outline proposals targeting goods from Israeli-occupied areas on Tuesday.",
+      "date": "Tue, 08 Sep 2026 01:50:55 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
       "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
       "description": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
@@ -228,6 +236,22 @@
         "BBC World",
         "BBC Business"
       ]
+    },
+    {
+      "title": "North Korea and Russia open first road bridge linking both countries",
+      "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+      "description": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
+      "date": "Tue, 08 Sep 2026 03:53:27 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "description": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+      "date": "Tue, 08 Sep 2026 01:32:56 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
     },
     {
       "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
@@ -270,30 +294,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
       "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
       "date": "Mon, 07 Sep 2026 07:03:44 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
-      "description": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
-      "date": "Mon, 07 Sep 2026 00:01:32 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
-      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "description": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
-      "date": "Mon, 07 Sep 2026 14:57:16 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Indonesia airports reopen after volcano eruption leaves 340,000 stranded",
-      "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-      "description": "Anak Krakatau, which lies about 150km from Jakarta, began spewing lava and volvanic ash late on Friday.",
-      "date": "Tue, 08 Sep 2026 03:44:43 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
