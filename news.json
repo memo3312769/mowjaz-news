@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T20:50:50.486187+00:00",
+  "updatedAt": "2026-09-08T21:05:41.710742+00:00",
   "items": [
     {
       "title": "طهران تتوعد باستهداف ناقلات نفط في الكويت والبحرين بعد هجمات أمريكية على ناقلات نفط إيرانية",
@@ -258,7 +258,7 @@
       "cat": "العالم"
     },
     {
-      "title": "LIV players free to leave after bankruptcy protection filing",
+      "title": "LIV players will have option to leave after bankruptcy case filing",
       "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
       "description": "LIV Golf intends to starts its new league early next year after filing for bankruptcy protection in the United States.",
       "date": "Tue, 08 Sep 2026 20:43:26 GMT",
@@ -412,6 +412,18 @@
       "date": "Sun, 06 Sep 2026 01:54:29 GMT",
       "source": "BBC World",
       "cat": "العالم"
+    },
+    {
+      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+      "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+      "date": "Tue, 08 Sep 2026 20:57:09 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد",
+      "sources": [
+        "BBC Business",
+        "BBC Technology"
+      ]
     },
     {
       "title": "Sapporo to move some beer production from Canada to US after tariffs",
@@ -594,14 +606,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Australians will be able to switch off social media algorithms under planned legislation",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
-      "description": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
-      "date": "Mon, 07 Sep 2026 03:40:09 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "From 'dog fruit' to darling: India's avocado boom",
       "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
       "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
@@ -718,14 +722,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.",
       "date": "Thu, 03 Sep 2026 07:20:23 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
-    },
-    {
-      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
-      "description": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
-      "date": "Wed, 02 Sep 2026 23:36:49 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
