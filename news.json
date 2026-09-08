@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T23:35:08.554465+00:00",
+  "updatedAt": "2026-09-08T23:48:37.534463+00:00",
   "items": [
     {
       "title": "الجيش الأمريكي يعلن تدمير 5 ناقلات نفط إيرانية، والحرس الثوري يعلن شن غارات على \"قاعدة أمريكية في الأردن\"",
@@ -194,10 +194,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "description": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
-      "date": "Tue, 08 Sep 2026 14:46:16 GMT",
+      "title": "US slaps import ban on Canadian alcohol and other goods",
+      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "description": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
+      "date": "Tue, 08 Sep 2026 23:42:35 GMT",
       "source": "BBC World",
       "cat": "العالم",
       "sources": [
@@ -458,14 +458,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
-      "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
-      "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
-      "date": "Tue, 08 Sep 2026 15:19:43 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "Should promotion depend on how workers use AI?",
       "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
       "description": "More companies are tying career progression to AI use: is that fair?",
@@ -478,10 +470,26 @@
       ]
     },
     {
+      "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+      "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+      "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
+      "date": "Tue, 08 Sep 2026 15:19:43 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "UK's third-biggest taxpayer to leave for Greece",
       "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
       "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
       "date": "Tue, 08 Sep 2026 09:33:35 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "description": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
+      "date": "Tue, 08 Sep 2026 14:46:16 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -614,14 +622,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
       "description": "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels.",
       "date": "Sat, 05 Sep 2026 01:03:35 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "More funding needed to boost construction jobs for young people, housing boss says",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzd53rq9jo?at_medium=RSS&at_campaign=rss",
-      "description": "Recent analysis showed the construction sector needs an extra 2,200 workers a year to meet demand.",
-      "date": "Mon, 07 Sep 2026 05:05:24 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
