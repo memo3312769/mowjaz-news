@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T14:27:32.368738+00:00",
+  "updatedAt": "2026-09-08T14:42:37.890612+00:00",
   "items": [
     {
       "title": "بريطانيا تحظر سلع المستوطنات الإسرائيلية وتفرض عقوبات تستهدف توسعها",
@@ -178,6 +178,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+      "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
+      "date": "Tue, 08 Sep 2026 13:58:32 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
       "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
       "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
@@ -188,6 +196,14 @@
         "BBC World",
         "BBC Business"
       ]
+    },
+    {
+      "title": "Four Renoir paintings worth millions stolen in French museum heist",
+      "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+      "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+      "date": "Tue, 08 Sep 2026 13:35:28 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
     },
     {
       "title": "Argentina to file criminal case against oil company operating in Falklands",
@@ -410,6 +426,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+      "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+      "date": "Tue, 08 Sep 2026 14:41:00 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
       "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
       "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
@@ -426,18 +450,18 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "The firms turning recruitment into X Factor-style competitions",
-      "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-      "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
-      "date": "Tue, 08 Sep 2026 07:43:15 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
       "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
       "description": "The Balkan nation is aiming to become a new centre for medical tourism.",
       "date": "Tue, 08 Sep 2026 09:00:28 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "The firms turning recruitment into X Factor-style competitions",
+      "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+      "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+      "date": "Tue, 08 Sep 2026 07:43:15 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -574,30 +598,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Stock up on food to prepare for extreme weather, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
-      "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
-      "date": "Fri, 04 Sep 2026 10:40:23 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-      "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-      "date": "Sat, 05 Sep 2026 23:20:00 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-      "description": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
-      "date": "Fri, 04 Sep 2026 17:23:13 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "From 'dog fruit' to darling: India's avocado boom",
       "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
       "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
@@ -618,6 +618,22 @@
       "link": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
       "description": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
       "date": "Wed, 02 Sep 2026 23:13:44 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+      "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+      "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+      "date": "Sun, 30 Aug 2026 23:22:24 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Overcooked? Why robotic pizza makers are failing",
+      "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+      "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
+      "date": "Thu, 27 Aug 2026 23:16:02 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
