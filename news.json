@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-08T23:22:13.144181+00:00",
+  "updatedAt": "2026-09-08T23:35:08.554465+00:00",
   "items": [
     {
       "title": "الجيش الأمريكي يعلن تدمير 5 ناقلات نفط إيرانية، والحرس الثوري يعلن شن غارات على \"قاعدة أمريكية في الأردن\"",
       "link": "https://www.bbc.com/arabic/articles/cm2mk06lzkro?at_medium=RSS&at_campaign=rss",
       "description": "الحرس الثوري الإيراني يهدد بضرب السفن التي تستضيف أمريكيين بالكويت والبحرين، وذلك رداً على استهداف واشنطن ناقلات نفط إيرانية",
-      "date": "Tue, 08 Sep 2026 23:08:08 GMT",
+      "date": "Tue, 08 Sep 2026 23:31:14 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -206,6 +206,14 @@
       ]
     },
     {
+      "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+      "date": "Tue, 08 Sep 2026 23:11:32 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Renoir paintings worth millions stolen in French museum heist",
       "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
       "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
@@ -314,10 +322,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Trial over killing of Australian surfer brothers and US friend starts in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-      "description": "The bodies of Jake and Callum Robinson and their US friend Carter Rhoad were found at the bottom of a well with gunshot wounds.",
-      "date": "Tue, 08 Sep 2026 01:32:56 GMT",
+      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+      "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+      "description": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
+      "date": "Tue, 08 Sep 2026 23:11:41 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -354,14 +362,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
       "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
       "date": "Mon, 07 Sep 2026 05:31:06 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
-      "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
-      "date": "Mon, 07 Sep 2026 04:07:23 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -650,6 +650,14 @@
       "cat": "اقتصاد"
     },
     {
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+      "date": "Tue, 08 Sep 2026 23:27:23 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
       "title": "New law to force tech firms to stop children taking or sharing nude images",
       "link": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
       "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
@@ -718,14 +726,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
       "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
       "date": "Thu, 03 Sep 2026 18:32:03 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
-    },
-    {
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "description": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-      "date": "Thu, 03 Sep 2026 16:32:05 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
