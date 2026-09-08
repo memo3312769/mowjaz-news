@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-08T12:08:01.295882+00:00",
+  "updatedAt": "2026-09-08T12:31:17.956256+00:00",
   "items": [
     {
       "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله",
       "link": "https://www.bbc.com/arabic/articles/c2l8ep44xrpo?at_medium=RSS&at_campaign=rss",
       "description": "تأتي هجمات جماعة أنصار الله (الحوثيين) على السعودية على وقع معارك عنيفة، بين الحوثيين وقوات الحكومة اليمنية المدعومة من الرياض، إثر محاولة الحوثيين انتزاع السيطرة على مناطق متاخمة لمضيق باب المندب من قبضة الحكومة الشرعية.",
       "date": "Tue, 08 Sep 2026 10:34:11 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "كيف يستعد الرئيس الصيني للقاء دونالد ترامب؟ - مقال في الواشنطن بوست",
+      "link": "https://www.bbc.com/arabic/articles/c74kz4kzgego?at_medium=RSS&at_campaign=rss",
+      "description": "في جولة الصحافة اليوم، نطالع قراءة أمريكية لتحرّكات الرئيس الصيني الدبلوماسية في سبتمبر/أيلول وما تنطوي عليه من رسائل إلى واشنطن التي تستعد لاستقباله، ومقالاً حول زيارة جاريد كوشنر وستيف ويتكوف إلى روسيا وأوكرانيا، قبل أن نختتم بمقال ثالث عما يتركه الفهم الخاطئ لعُسر القراءة من آثار على الصحة النفسي",
+      "date": "Tue, 08 Sep 2026 12:24:15 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/c4g78pmlymlo?at_medium=RSS&at_campaign=rss",
       "description": "بعد حصول بي بي سي على النص الكامل للاتفاقية النووية السعودية الأمريكية، تبيّن أن مزاعم الرئيس الأمريكي بشأن طبيعة الاتفاق تتعارض مع النص الرئيسي للوثيقة.",
       "date": "Mon, 07 Sep 2026 16:46:20 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "بوتين غير معنيّ بتحقيق السلام، وترامب يقع في فخه – الإندبندنت",
-      "link": "https://www.bbc.com/arabic/articles/cz9zkyzde23o?at_medium=RSS&at_campaign=rss",
-      "description": "\"مرة أخرى، قد يكون بوتين قد رأى مصلحة في تشجيع الأمريكيين على ممارسة الضغط على كييف، لقبول شروط مجحفة ومهينة لمجرد إنهاء احتمال استمرار القتال خلال شتاء سيثبت أنه بالغ القسوة\".",
-      "date": "Mon, 07 Sep 2026 13:16:26 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -181,7 +181,7 @@
       "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
       "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
       "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-      "date": "Tue, 08 Sep 2026 04:39:14 GMT",
+      "date": "Tue, 08 Sep 2026 12:23:22 GMT",
       "source": "BBC World",
       "cat": "العالم",
       "sources": [
@@ -230,9 +230,9 @@
       "cat": "العالم"
     },
     {
-      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "title": "Trial over killing of Australian surfer brothers and US friend starts in Mexico",
       "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-      "description": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+      "description": "The bodies of Jake and Callum Robinson and their US friend Carter Rhoad were found at the bottom of a well with gunshot wounds.",
       "date": "Tue, 08 Sep 2026 01:32:56 GMT",
       "source": "BBC World",
       "cat": "العالم"
@@ -438,6 +438,14 @@
       "cat": "اقتصاد"
     },
     {
+      "title": "What tariffs will really cost Canadians and Americans",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+      "description": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
+      "date": "Tue, 08 Sep 2026 12:16:30 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
       "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
       "description": "The Balkan nation is aiming to become a new centre for medical tourism.",
@@ -598,14 +606,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
       "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
       "date": "Fri, 04 Sep 2026 05:59:10 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "UK petrol prices hit highest level since Iran war began",
-      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
-      "date": "Fri, 04 Sep 2026 13:05:52 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
