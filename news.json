@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T16:28:01.874105+00:00",
+  "updatedAt": "2026-09-08T16:42:07.539037+00:00",
   "items": [
     {
       "title": "إسرائيل تغلق القنصلية البريطانية في القدس رداً على حظر لندن استيراد السلع من المستوطنات",
@@ -12,7 +12,7 @@
     {
       "title": "دوري أبطال أوروبا يعود: من أبرز المرشحين ومن هم اللاعبون الذين يستحقون المتابعة؟",
       "link": "https://www.bbc.com/arabic/articles/cd79yx27p51o?at_medium=RSS&at_campaign=rss",
-      "description": "تحتل الأندية الإنجليزية الخمسة مراكز ضمن أفضل 10 فرق من حيث احتمالات الفوز باللقب، كما حصلت جميعها على أكثر من 50% من حيث احتمالات التأهل إلى دور الـ16.",
+      "description": "تحتل الأندية الإنجليزية الخمسة مراكز ضمن أفضل 10 فرق من حيث احتمالات الفوز باللقب، كما حصلت جميعها على أكثر من 50 في المئة من حيث احتمالات التأهل إلى دور الـ16.",
       "date": "Tue, 08 Sep 2026 14:55:31 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
@@ -21,7 +21,7 @@
       "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله",
       "link": "https://www.bbc.com/arabic/articles/c2l8ep44xrpo?at_medium=RSS&at_campaign=rss",
       "description": "تأتي هجمات جماعة أنصار الله (الحوثيين) على السعودية على وقع معارك عنيفة، بين الحوثيين وقوات الحكومة اليمنية المدعومة من الرياض، إثر محاولة الحوثيين انتزاع السيطرة على مناطق متاخمة لمضيق باب المندب من قبضة الحكومة الشرعية.",
-      "date": "Tue, 08 Sep 2026 13:30:36 GMT",
+      "date": "Tue, 08 Sep 2026 16:27:50 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -212,8 +212,16 @@
     {
       "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "description": "The attack happened while the We Are Ukraine channel was broadcasting live, President Zelensky said.",
-      "date": "Tue, 08 Sep 2026 15:19:40 GMT",
+      "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
+      "date": "Tue, 08 Sep 2026 16:36:47 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "British widow faces deportation from Sweden after 22 years",
+      "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+      "description": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
+      "date": "Tue, 08 Sep 2026 16:23:01 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -226,14 +234,6 @@
       "cat": "العالم"
     },
     {
-      "title": "Highest paid world leader to get salary increase of $1 million",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-      "description": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
-      "date": "Tue, 08 Sep 2026 09:20:05 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
       "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
       "description": "The New York mayor says newly released documents show asbestos \"nearly everywhere\" around Ground Zero.",
@@ -242,7 +242,15 @@
       "cat": "العالم"
     },
     {
-      "title": "Suspect held in Germany after spate of sabotage attacks on power grid",
+      "title": "Highest paid world leader to get salary increase of $1 million",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
+      "description": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
+      "date": "Tue, 08 Sep 2026 09:20:05 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
       "link": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
       "description": "The suspect had reportedly claimed responsibility for attacks on electricity substations in letters.",
       "date": "Tue, 08 Sep 2026 15:57:06 GMT",
@@ -277,7 +285,7 @@
       "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
       "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
       "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
-      "date": "Tue, 08 Sep 2026 09:31:26 GMT",
+      "date": "Tue, 08 Sep 2026 16:38:03 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -302,14 +310,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
       "description": "Authorities will \"show no leniency\" to people who \"belittle\" those who are suffering, the prime minister says.",
       "date": "Tue, 08 Sep 2026 08:31:01 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "North Korea and Russia open first road bridge linking both countries",
-      "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-      "description": "Relations between the neighbours have strengthened since the start of the Ukraine war.",
-      "date": "Tue, 08 Sep 2026 03:53:27 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
