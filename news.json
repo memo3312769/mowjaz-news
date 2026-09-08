@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T21:35:34.473771+00:00",
+  "updatedAt": "2026-09-08T21:49:15.986665+00:00",
   "items": [
     {
       "title": "طهران تتوعد باستهداف ناقلات نفط في الكويت والبحرين بعد هجمات أمريكية على ناقلات نفط إيرانية",
@@ -186,6 +186,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "date": "Tue, 08 Sep 2026 21:46:31 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
       "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
       "description": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
@@ -239,10 +247,7 @@
       "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
       "date": "Tue, 08 Sep 2026 13:58:32 GMT",
       "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World"
-      ]
+      "cat": "العالم"
     },
     {
       "title": "Fourteen go on trial over deadliest Channel small boats disaster",
@@ -304,7 +309,7 @@
       "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
       "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
       "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
-      "date": "Tue, 08 Sep 2026 16:38:03 GMT",
+      "date": "Tue, 08 Sep 2026 21:41:11 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -445,10 +450,10 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Major UK airports hit by air traffic control problems",
+      "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
       "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-      "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
-      "date": "Tue, 08 Sep 2026 20:34:36 GMT",
+      "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+      "date": "Tue, 08 Sep 2026 21:46:21 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
