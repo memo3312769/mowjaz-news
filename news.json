@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T21:22:28.657975+00:00",
+  "updatedAt": "2026-09-08T21:35:34.473771+00:00",
   "items": [
     {
       "title": "طهران تتوعد باستهداف ناقلات نفط في الكويت والبحرين بعد هجمات أمريكية على ناقلات نفط إيرانية",
@@ -239,7 +239,10 @@
       "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
       "date": "Tue, 08 Sep 2026 13:58:32 GMT",
       "source": "BBC World",
-      "cat": "العالم"
+      "cat": "العالم",
+      "sources": [
+        "BBC World"
+      ]
     },
     {
       "title": "Fourteen go on trial over deadliest Channel small boats disaster",
