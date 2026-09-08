@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T06:30:04.826550+00:00",
+  "updatedAt": "2026-09-08T06:48:22.679624+00:00",
   "items": [
     {
       "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار",
@@ -178,18 +178,30 @@
       "cat": "العالم"
     },
     {
-      "title": "Flight recorders recovered from Amazon cargo plane crash",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-      "date": "Mon, 07 Sep 2026 22:23:03 GMT",
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+      "date": "Tue, 08 Sep 2026 04:39:14 GMT",
       "source": "BBC World",
-      "cat": "العالم"
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Business"
+      ]
     },
     {
       "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
       "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
       "description": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
       "date": "Mon, 07 Sep 2026 21:12:37 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Flight recorders recovered from Amazon cargo plane crash",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+      "date": "Mon, 07 Sep 2026 22:23:03 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -210,18 +222,26 @@
       "cat": "العالم"
     },
     {
-      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
-      "description": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
-      "date": "Tue, 08 Sep 2026 01:07:47 GMT",
+      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "description": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+      "date": "Tue, 08 Sep 2026 01:32:56 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
     {
-      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
-      "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-      "description": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
-      "date": "Tue, 08 Sep 2026 01:50:55 GMT",
+      "title": "North Korea and Russia open first road bridge linking both countries",
+      "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+      "description": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
+      "date": "Tue, 08 Sep 2026 03:53:27 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+      "description": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
+      "date": "Tue, 08 Sep 2026 01:07:47 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -236,22 +256,6 @@
         "BBC World",
         "BBC Business"
       ]
-    },
-    {
-      "title": "North Korea and Russia open first road bridge linking both countries",
-      "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-      "description": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
-      "date": "Tue, 08 Sep 2026 03:53:27 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-      "description": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
-      "date": "Tue, 08 Sep 2026 01:32:56 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
     },
     {
       "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
@@ -351,6 +355,14 @@
       "cat": "العالم"
     },
     {
+      "title": "'Good to have choice': Australians on opting out of social media algorithms",
+      "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personalised algorithms.",
+      "date": "Tue, 08 Sep 2026 06:20:10 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Five killed as Amazon cargo plane crashes at Miami airport",
       "link": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
       "description": "Video footage shows the aircraft burst into flames in Sunday's deadly incident.",
@@ -403,14 +415,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
       "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
       "date": "Mon, 07 Sep 2026 23:06:14 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-      "date": "Tue, 08 Sep 2026 04:39:14 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
