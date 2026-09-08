@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-08T04:25:29.670902+00:00",
+  "updatedAt": "2026-09-08T04:39:52.391245+00:00",
   "items": [
     {
       "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار",
       "link": "https://www.bbc.com/arabic/articles/cx2zvngjlnjo?at_medium=RSS&at_campaign=rss",
       "description": "تكثف إسرائيل غاراتها وعملياتها في جنوب لبنان، فيما تتصاعد المخاوف من انهيار وقف إطلاق النار، وسط إنذارات بالإخلاء واتهامات متبادلة بشأن خروقات الاتفاق وإعادة بناء قدرات حزب الله وتحركاته العسكرية.",
       "date": "Tue, 08 Sep 2026 03:04:34 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "آباء فلسطينيون يخشون على حياة أطفالهم في المدارس مع تصاعد هجمات المستوطنين",
+      "link": "https://www.bbc.com/arabic/articles/clyl2pljnx6o?at_medium=RSS&at_campaign=rss",
+      "description": "قام مدير مدرسة في الضفة الغربية المحتلة بتركيب سياج جديد من الأسلاك الشائكة بعد مقتل ثلاثة تلاميذ هذا العام.",
+      "date": "Tue, 08 Sep 2026 04:25:25 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -30,14 +38,6 @@
       "link": "https://www.bbc.com/arabic/articles/c2l8ep44xrpo?at_medium=RSS&at_campaign=rss",
       "description": "تضاربت الأنباء بشأن سير المعارك في اليمن، مع إعلان كل طرف تحقيق مكاسب ميدانية، بالتزامن مع تعرض منشآت نفطية تابعة لأرامكو في جازان لهجوم جديد، بحسب صحيفة \"فايننشال تايمز\".",
       "date": "Mon, 07 Sep 2026 17:51:25 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "مكاسب تاريخية لليمين القومي في ألمانيا... كيف ستنعكس على أوروبا؟",
-      "link": "https://www.bbc.com/arabic/articles/cvgy87jgynzo?at_medium=RSS&at_campaign=rss",
-      "description": "ترى كاتيا أدلر، محررة الشؤون الأوروبية في بي بي سي، أن فوز اليمين المتطرف في ولاية ساكسونيا-أنهالت يدق ناقوس الخطر لدى الاتحاد الأوروبي والأحزاب التقليدية.",
-      "date": "Mon, 07 Sep 2026 15:49:48 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -220,7 +220,7 @@
     {
       "title": "UK government expected to announce restrictions on trade with West Bank settlements",
       "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-      "description": "Foreign Secretary Ed Miliband is expected to outline proposals targeting goods from Israeli-occupied areas on Tuesday.",
+      "description": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
       "date": "Tue, 08 Sep 2026 01:50:55 GMT",
       "source": "BBC World",
       "cat": "العالم"
