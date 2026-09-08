@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T11:06:18.388769+00:00",
+  "updatedAt": "2026-09-08T11:24:29.765451+00:00",
   "items": [
     {
       "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله",
@@ -214,6 +214,22 @@
       "cat": "العالم"
     },
     {
+      "title": "Argentina targets oil company operating in Falklands",
+      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+      "date": "Tue, 08 Sep 2026 11:09:54 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
+      "date": "Tue, 08 Sep 2026 09:31:26 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
       "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
       "description": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
@@ -230,14 +246,6 @@
       "cat": "العالم"
     },
     {
-      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
-      "date": "Tue, 08 Sep 2026 09:31:26 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "North Korea and Russia open first road bridge linking both countries",
       "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
       "description": "Relations between the neighbours have strengthened since the start of the Ukraine war.",
@@ -246,10 +254,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
-      "description": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
-      "date": "Tue, 08 Sep 2026 01:07:47 GMT",
+      "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
+      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "description": "All foreigners without proper documents in Kenya are urged to register through their embassies.",
+      "date": "Tue, 08 Sep 2026 10:19:52 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -266,10 +274,10 @@
       ]
     },
     {
-      "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
-      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "description": "All foreigners without proper documents in Kenya are urged to register through their embassies.",
-      "date": "Tue, 08 Sep 2026 10:19:52 GMT",
+      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+      "description": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
+      "date": "Tue, 08 Sep 2026 01:07:47 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -296,18 +304,6 @@
       "date": "Mon, 07 Sep 2026 13:39:23 GMT",
       "source": "BBC World",
       "cat": "العالم"
-    },
-    {
-      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-      "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-      "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-      "date": "Mon, 07 Sep 2026 15:27:50 GMT",
-      "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World",
-        "BBC Technology"
-      ]
     },
     {
       "title": "A food safety officer has become a social media star in India - why?",
@@ -636,6 +632,14 @@
       "date": "Sun, 30 Aug 2026 23:22:24 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
+    },
+    {
+      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+      "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+      "date": "Mon, 07 Sep 2026 15:27:50 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
     },
     {
       "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
