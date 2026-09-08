@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-08T06:48:22.679624+00:00",
+  "updatedAt": "2026-09-08T07:07:28.638492+00:00",
   "items": [
     {
       "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار",
       "link": "https://www.bbc.com/arabic/articles/cx2zvngjlnjo?at_medium=RSS&at_campaign=rss",
       "description": "تكثف إسرائيل غاراتها وعملياتها في جنوب لبنان، فيما تتصاعد المخاوف من انهيار وقف إطلاق النار، وسط إنذارات بالإخلاء واتهامات متبادلة بشأن خروقات الاتفاق وإعادة بناء قدرات حزب الله وتحركاته العسكرية.",
       "date": "Tue, 08 Sep 2026 03:04:34 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "لماذا يضع فلسطينيون العلم الأمريكي فوق منازلهم في الضفة؟",
+      "link": "https://www.bbc.com/arabic/articles/c207ke7gv10o?at_medium=RSS&at_campaign=rss",
+      "description": "يرفع فلسطينيون أمريكيون في ترمسعيا الأعلام الأمريكية فوق منازلهم، أملاً في ردع الاقتحامات والاعتداءات ودفع واشنطن إلى التدخل لحمايتهم.",
+      "date": "Tue, 08 Sep 2026 07:02:37 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/cyvzmd0gmedo?at_medium=RSS&at_campaign=rss",
       "description": "يوسّع الذكاء الاصطناعي إمكانات صناعة البروموهات ويزيد قدرتها على الإبهار، لكن نجاحها لا يتوقف على الصورة وحدها، بل على قدرتها على إثارة فضول المُشاهد وترك أثر إنساني لديه.",
       "date": "Mon, 07 Sep 2026 07:16:05 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "لماذا تتحمل النساء العبء الذهني الأكبر في إدارة شؤون الأسرة؟",
-      "link": "https://www.bbc.com/arabic/articles/c1e565ql908o?at_medium=RSS&at_campaign=rss",
-      "description": "كيف يمكن للزوجات تقاسم المهام اليومية مع أزواجهن، وتحويل هذا العبء إلى مسؤولية مشتركة أكثر عدلاً وتوازناً؟",
-      "date": "Mon, 07 Sep 2026 04:59:36 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -310,16 +310,15 @@
       "cat": "العالم"
     },
     {
-      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
       "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+      "description": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
       "date": "Mon, 07 Sep 2026 23:05:12 GMT",
       "source": "BBC World",
       "cat": "العالم",
       "sources": [
         "BBC World",
-        "BBC Business",
-        "BBC Technology"
+        "BBC Business"
       ]
     },
     {
@@ -633,6 +632,14 @@
       "date": "Wed, 02 Sep 2026 23:13:44 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
+    },
+    {
+      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
+      "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
+      "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
+      "date": "Tue, 08 Sep 2026 06:49:56 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
     },
     {
       "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
