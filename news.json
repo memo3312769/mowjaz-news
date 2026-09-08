@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T08:54:40.666191+00:00",
+  "updatedAt": "2026-09-08T09:06:18.565392+00:00",
   "items": [
     {
       "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة الحوثي",
@@ -442,6 +442,14 @@
       "cat": "اقتصاد"
     },
     {
+      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+      "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+      "description": "The Balkan nation is aiming to become a new centre for medical tourism.",
+      "date": "Tue, 08 Sep 2026 09:00:28 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "Next wins key appeal to overturn £30m equal pay ruling",
       "link": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
       "description": "A judge ruled Next can pay warehouse workers more because it is harder to recruit and retain them.",
@@ -578,46 +586,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Jaguar Land Rover confirms planned job cuts",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-      "description": "The firm says it needs to save about £1.7bn over the next two years.",
-      "date": "Sat, 05 Sep 2026 13:22:17 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-      "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
-      "date": "Fri, 04 Sep 2026 07:00:10 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
-      "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
-      "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
-      "date": "Fri, 04 Sep 2026 11:48:24 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد",
-      "sources": [
-        "BBC Business",
-        "BBC Technology"
-      ]
-    },
-    {
-      "title": "'I lost my savings after a job interview scam'",
-      "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
-      "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
-      "date": "Thu, 03 Sep 2026 23:41:49 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد",
-      "sources": [
-        "BBC Business",
-        "BBC Technology"
-      ]
-    },
-    {
       "title": "From 'dog fruit' to darling: India's avocado boom",
       "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
       "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
@@ -638,6 +606,30 @@
       "link": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
       "description": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
       "date": "Wed, 02 Sep 2026 23:13:44 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+      "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+      "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+      "date": "Sun, 30 Aug 2026 23:22:24 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Overcooked? Why robotic pizza makers are failing",
+      "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+      "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
+      "date": "Thu, 27 Aug 2026 23:16:02 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+      "link": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+      "description": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+      "date": "Wed, 26 Aug 2026 23:03:46 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -674,10 +666,26 @@
       "cat": "تكنولوجيا"
     },
     {
+      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+      "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
+      "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+      "date": "Fri, 04 Sep 2026 11:48:24 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
       "title": "Could robots be the future of theme parks?",
       "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
       "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
       "date": "Fri, 04 Sep 2026 02:02:02 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "'I lost my savings after a job interview scam'",
+      "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+      "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+      "date": "Thu, 03 Sep 2026 23:41:49 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
