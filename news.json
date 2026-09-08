@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-09-08T13:54:57.811574+00:00",
+  "updatedAt": "2026-09-08T14:07:10.671537+00:00",
   "items": [
+    {
+      "title": "بريطانيا تحظر سلع المستوطنات الإسرائيلية وتفرض عقوبات تستهدف توسعها",
+      "link": "https://www.bbc.com/arabic/articles/c89jezxywvlo?at_medium=RSS&at_campaign=rss",
+      "description": "أعلن وزير الخارجية البريطاني، إد ميليباند، في مجلس العموم أن المملكة المتحدة ستحظر استيراد البضائع من المستوطنات الإسرائيلية في الضفة الغربية المحتلة بشكل غير قانوني.",
+      "date": "Tue, 08 Sep 2026 13:30:19 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
     {
       "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله",
       "link": "https://www.bbc.com/arabic/articles/c2l8ep44xrpo?at_medium=RSS&at_campaign=rss",
@@ -14,14 +22,6 @@
       "link": "https://www.bbc.com/arabic/articles/c74kz4kzgego?at_medium=RSS&at_campaign=rss",
       "description": "في جولة الصحافة اليوم، نطالع قراءة أمريكية لتحرّكات الرئيس الصيني الدبلوماسية في سبتمبر/أيلول وما تنطوي عليه من رسائل إلى واشنطن التي تستعد لاستقباله، ومقالاً حول زيارة جاريد كوشنر وستيف ويتكوف إلى روسيا وأوكرانيا، قبل أن نختتم بمقال ثالث عمّا يتركه الفهم الخاطئ لعُسر القراءة من آثار على الصحة النفس",
       "date": "Tue, 08 Sep 2026 12:24:15 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "بريطانيا تحظر سلع المستوطنات الإسرائيلية وتفرض عقوبات تستهدف توسعها",
-      "link": "https://www.bbc.com/arabic/articles/c89jezxywvlo?at_medium=RSS&at_campaign=rss",
-      "description": "أعلن وزير الخارجية البريطاني، إد ميليباند، في مجلس العموم أن المملكة المتحدة ستحظر استيراد البضائع من المستوطنات الإسرائيلية في الضفة الغربية المحتلة بشكل غير قانوني.",
-      "date": "Tue, 08 Sep 2026 13:30:19 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -218,10 +218,10 @@
       "cat": "العالم"
     },
     {
-      "title": "New York City releases documents about air quality after 9/11",
+      "title": "Asbestos 'nearly everywhere' after 9/11 - new documents reveal air-quality concerns",
       "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
-      "description": "Officials assured the public the air was safe after the attacks, but the new documents suggest there were concerns.",
-      "date": "Tue, 08 Sep 2026 13:35:43 GMT",
+      "description": "Officials at the time assured the public the air was safe after the attacks, but the documents suggest there were concerns.",
+      "date": "Tue, 08 Sep 2026 14:03:39 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
