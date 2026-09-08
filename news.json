@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T22:49:39.545587+00:00",
+  "updatedAt": "2026-09-08T23:05:55.693520+00:00",
   "items": [
     {
       "title": "اعتراضات لصواريخ في شمال الأردن، وطهران تتوعد باستهداف ناقلات نفط بالكويت والبحرين بعد هجمات أمريكية",
@@ -268,7 +268,7 @@
     {
       "title": "LIV files for bankruptcy protection with $45m owed to players",
       "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-      "description": "LIV Golf still intends to start its new league early next year after filing for bankruptcy protection in the United States.",
+      "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
       "date": "Tue, 08 Sep 2026 21:20:22 GMT",
       "source": "BBC World",
       "cat": "العالم"
@@ -422,6 +422,14 @@
       "cat": "العالم"
     },
     {
+      "title": "I'm 27 and I've already written my will - here's why",
+      "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
+      "description": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
+      "date": "Tue, 08 Sep 2026 23:04:17 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
       "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
       "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
@@ -450,18 +458,18 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
-      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-      "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
-      "date": "Tue, 08 Sep 2026 21:46:21 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
       "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
       "description": "The Balkan nation is aiming to become a new centre for medical tourism.",
       "date": "Tue, 08 Sep 2026 09:00:28 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+      "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+      "date": "Tue, 08 Sep 2026 21:46:21 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -606,14 +614,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "More funding needed to boost construction jobs for young people, housing boss says",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzd53rq9jo?at_medium=RSS&at_campaign=rss",
-      "description": "Recent analysis showed the construction sector needs an extra 2,200 workers a year to meet demand.",
-      "date": "Mon, 07 Sep 2026 05:05:24 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "From 'dog fruit' to darling: India's avocado boom",
       "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
       "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
@@ -644,6 +644,14 @@
       "date": "Sun, 30 Aug 2026 23:22:24 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
+    },
+    {
+      "title": "Should promotion depend on how workers use AI?",
+      "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+      "description": "More companies are tying career progression to AI use: is that fair?",
+      "date": "Tue, 08 Sep 2026 23:05:23 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
     },
     {
       "title": "New law to force tech firms to stop children taking or sharing nude images",
@@ -722,14 +730,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
       "description": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
       "date": "Thu, 03 Sep 2026 16:32:05 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
-    },
-    {
-      "title": "Watch: BBC travels in self-driving Uber around London",
-      "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.",
-      "date": "Thu, 03 Sep 2026 07:20:23 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
