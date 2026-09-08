@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-08T16:53:02.774250+00:00",
+  "updatedAt": "2026-09-08T17:06:06.300375+00:00",
   "items": [
     {
       "title": "إسرائيل تغلق القنصلية البريطانية في القدس رداً على حظر لندن استيراد السلع من المستوطنات",
       "link": "https://www.bbc.com/arabic/articles/c89jezxywvlo?at_medium=RSS&at_campaign=rss",
       "description": "أعلن وزير الخارجية البريطاني، إد ميليباند، في مجلس العموم أن المملكة المتحدة ستحظر استيراد البضائع من المستوطنات الإسرائيلية في الضفة الغربية المحتلة بشكل غير قانوني، فيما ردت إسرائيل بإغلاق القنصلية في القدس.",
       "date": "Tue, 08 Sep 2026 15:10:04 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "بعثة كورية جنوبية في مضيق هرمز، وعراقجي يشير إلى \"تقدم كبير\" في المحادثات مع عُمان",
+      "link": "https://www.bbc.com/arabic/articles/cm2mk06lzkro?at_medium=RSS&at_campaign=rss",
+      "description": "كوريا الجنوبية لم تتخذ قراراً بنشر قوات لها في مضيق هرمز، وعراقجي يتحدث عن قرب الاتفاق بين إيران وسلطنة عُمان.",
+      "date": "Tue, 08 Sep 2026 17:04:34 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/clyl2pljnx6o?at_medium=RSS&at_campaign=rss",
       "description": "قام مدير مدرسة في الضفة الغربية المحتلة بتركيب سياج جديد من الأسلاك الشائكة بعد مقتل ثلاثة تلاميذ هذا العام.",
       "date": "Tue, 08 Sep 2026 04:25:25 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "الملك تشارلز يحسم الجدل: هاري وميغان لا يزالان من أفراد العائلة المالكة غير العاملين",
-      "link": "https://www.bbc.com/arabic/articles/c24jv8lqz30o?at_medium=RSS&at_campaign=rss",
-      "description": "أفادت مصادر في القصر بأن الرسالة أُرسلت إلى فريق الأمير هاري والحكومة والجيش وحكام المقاطعات",
-      "date": "Tue, 08 Sep 2026 00:02:35 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -634,7 +634,7 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "New law to force tech firms to prevent children from taking nude images",
+      "title": "New law to force tech firms to stop children taking or sharing nude images",
       "link": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
       "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
       "date": "Tue, 08 Sep 2026 16:48:29 GMT",
