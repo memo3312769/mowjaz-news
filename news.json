@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T12:31:17.956256+00:00",
+  "updatedAt": "2026-09-08T12:55:18.267793+00:00",
   "items": [
     {
       "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله",
@@ -438,14 +438,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "What tariffs will really cost Canadians and Americans",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
-      "description": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
-      "date": "Tue, 08 Sep 2026 12:16:30 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
       "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
       "description": "The Balkan nation is aiming to become a new centre for medical tourism.",
@@ -464,6 +456,14 @@
         "BBC Business",
         "BBC Technology"
       ]
+    },
+    {
+      "title": "What tariffs will really cost Canadians and Americans",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+      "description": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
+      "date": "Tue, 08 Sep 2026 12:16:30 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
     },
     {
       "title": "'JLR job cuts a cause for uncertainty and worry'",
