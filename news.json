@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-08T19:09:33.514794+00:00",
+  "updatedAt": "2026-09-08T19:23:27.217598+00:00",
   "items": [
     {
       "title": "إسرائيل تغلق القنصلية البريطانية في القدس رداً على حظر لندن استيراد السلع من المستوطنات",
       "link": "https://www.bbc.com/arabic/articles/c89jezxywvlo?at_medium=RSS&at_campaign=rss",
       "description": "أعلن وزير الخارجية البريطاني، إد ميليباند، في مجلس العموم أن المملكة المتحدة ستحظر استيراد البضائع من المستوطنات الإسرائيلية في الضفة الغربية المحتلة بشكل غير قانوني، فيما ردت إسرائيل بإغلاق القنصلية في القدس.",
       "date": "Tue, 08 Sep 2026 18:49:37 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "هل كانت سوريا قريبة من بناء مفاعل نووي في عهد الأسد؟",
+      "link": "https://www.bbc.com/arabic/articles/cdx50yxwdnro?at_medium=RSS&at_campaign=rss",
+      "description": "الوكالة الدولية للطاقة الذرية أفادت بالعثور على موقع لإنتاج الوقود النووي و73 طنا من اليورانيوم الطبيعي في سوريا، .تشمل 55 طناً من قضبان الوقود والباقي على شكل نفايات",
+      "date": "Tue, 08 Sep 2026 19:20:50 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -26,10 +34,10 @@
       "cat": "العالم"
     },
     {
-      "title": "إنذارات سعودية جديدة \"للتحذير من خطر\"، وإصابة أكثر من 70 شخصاً في السعودية بهجمات للحوثيين",
+      "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية",
       "link": "https://www.bbc.com/arabic/articles/c2l8ep44xrpo?at_medium=RSS&at_campaign=rss",
       "description": "تأتي هجمات جماعة أنصار الله (الحوثيين) على السعودية على وقع معارك عنيفة، بين الحوثيين وقوات الحكومة اليمنية المدعومة من الرياض، إثر محاولة الحوثيين انتزاع السيطرة على مناطق متاخمة لمضيق باب المندب من قبضة الحكومة الشرعية.",
-      "date": "Tue, 08 Sep 2026 17:50:40 GMT",
+      "date": "Tue, 08 Sep 2026 19:09:32 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/c20lp7qe32vo?at_medium=RSS&at_campaign=rss",
       "description": "على مدى 25 عاماً، نفى عمر البيومي أن يكون متطرفاً أو جاسوساً سعودياً. لكن مقاطع فيديو وأدلة أخرى تكشف صلات أثارت أسئلة متجددة بشأن دوره المزعوم في هجمات 11 سبتمبر.",
       "date": "Tue, 08 Sep 2026 01:48:30 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "آباء فلسطينيون يخشون على حياة أطفالهم في المدارس مع تصاعد هجمات المستوطنين",
-      "link": "https://www.bbc.com/arabic/articles/clyl2pljnx6o?at_medium=RSS&at_campaign=rss",
-      "description": "قام مدير مدرسة في الضفة الغربية المحتلة بتركيب سياج جديد من الأسلاك الشائكة بعد مقتل ثلاثة تلاميذ هذا العام.",
-      "date": "Tue, 08 Sep 2026 04:25:25 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -181,7 +181,7 @@
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
       "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-      "date": "Tue, 08 Sep 2026 18:40:49 GMT",
+      "date": "Tue, 08 Sep 2026 19:11:39 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
