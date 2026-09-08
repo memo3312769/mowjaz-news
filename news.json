@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-08T08:06:52.905934+00:00",
+  "updatedAt": "2026-09-08T08:27:22.422932+00:00",
   "items": [
     {
       "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة الحوثي",
       "link": "https://www.bbc.com/arabic/articles/c2l8ep44xrpo?at_medium=RSS&at_campaign=rss",
       "description": "تضاربت الأنباء بشأن سير المعارك في اليمن، مع إعلان كل طرف تحقيق مكاسب ميدانية، بالتزامن مع تعرّض منشآت نفطية تابعة لأرامكو في جازان لهجوم جديد.",
-      "date": "Tue, 08 Sep 2026 08:02:56 GMT",
+      "date": "Tue, 08 Sep 2026 08:26:31 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "الحكومة البريطانية \"ستفرض قيوداً جديدة\" على التجارة مع المستوطنات اليهودية في الضفة الغربية المحتلة",
+      "link": "https://www.bbc.com/arabic/articles/c89jezxywvlo?at_medium=RSS&at_campaign=rss",
+      "description": "من المتوقع أن يستعرض وزير الخارجية، إد ميليباند، هذه الإجراءات أمام مجلس العموم اليوم الثلاثاء، وقد تشمل قيوداً على التجارة في المنتجات الزراعية القادمة من المستوطنات الإسرائيلية في الضفة الغربية المحتلة.",
+      "date": "Tue, 08 Sep 2026 08:15:12 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/cz9zkyzde23o?at_medium=RSS&at_campaign=rss",
       "description": "\"مرة أخرى، قد يكون بوتين قد رأى مصلحة في تشجيع الأمريكيين على ممارسة الضغط على كييف، لقبول شروط مجحفة ومهينة لمجرد إنهاء احتمال استمرار القتال خلال شتاء سيثبت أنه بالغ القسوة\".",
       "date": "Mon, 07 Sep 2026 13:16:26 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "الذكاء الاصطناعي يدخل صناعة \"البرومو\"، فهل يُقنع المشاهدين؟",
-      "link": "https://www.bbc.com/arabic/articles/cyvzmd0gmedo?at_medium=RSS&at_campaign=rss",
-      "description": "يوسّع الذكاء الاصطناعي إمكانات صناعة البروموهات ويزيد قدرتها على الإبهار، لكن نجاحها لا يتوقف على الصورة وحدها، بل على قدرتها على إثارة فضول المُشاهد وترك أثر إنساني لديه.",
-      "date": "Mon, 07 Sep 2026 07:16:05 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -138,10 +138,10 @@
       "cat": "العالم"
     },
     {
-      "title": "كيف يمكن إنهاء الصراع الأمريكي الإيراني؟ ثلاثة خبراء يعرضون وجهات نظرهم",
-      "link": "https://www.bbc.com/arabic/articles/cj3dxpgv1lyo?at_medium=RSS&at_campaign=rss",
-      "description": "بعد تجدد الضربات هذا الأسبوع، هل لدى أي من الطرفين استراتيجية للخروج؟",
-      "date": "Fri, 04 Sep 2026 18:46:49 GMT",
+      "title": "بين التهدئة والتصعيد: أبرز محطات العلاقة بين السعودية والحوثيين",
+      "link": "https://www.bbc.com/arabic/articles/c8x2x18geg9o?at_medium=RSS&at_campaign=rss",
+      "description": "تأسيس الحركة بشكلها الأوّلي كان في بداية تسعينيات القرن الماضي، حين دخل حسين بدر الدين الحوثي الحياة السياسية من خلال المساهمة مع آخرين في تأسيس \"حزب الحق\" المعارض، الذي ضمّ شخصيات سياسية ودينية، وفاز حسين الحوثي بمقعد برلماني عن الحزب في محافظة صعدة في انتخابات عام 1993.",
+      "date": "Tue, 08 Sep 2026 08:19:08 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -224,7 +224,7 @@
     {
       "title": "North Korea and Russia open first road bridge linking both countries",
       "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-      "description": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
+      "description": "Relations between the neighbours have strengthened since the start of the Ukraine war.",
       "date": "Tue, 08 Sep 2026 03:53:27 GMT",
       "source": "BBC World",
       "cat": "العالم"
@@ -418,6 +418,14 @@
       "cat": "اقتصاد"
     },
     {
+      "title": "UK's third-biggest taxpayer to leave for Greece",
+      "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+      "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
+      "date": "Tue, 08 Sep 2026 08:23:31 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "'JLR job cuts a cause for uncertainty and worry'",
       "link": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
       "description": "Experts say they worry it could limit the company's ability to innovate in the future.",
@@ -434,10 +442,10 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
-      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-      "description": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
-      "date": "Mon, 07 Sep 2026 16:05:37 GMT",
+      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+      "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
+      "description": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
+      "date": "Mon, 07 Sep 2026 15:41:52 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -450,18 +458,18 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-      "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-      "description": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
-      "date": "Mon, 07 Sep 2026 15:41:52 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "Why are European countries moving their gold out of North America?",
       "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
       "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
       "date": "Sat, 05 Sep 2026 01:42:09 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
+      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+      "description": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
+      "date": "Mon, 07 Sep 2026 16:05:37 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -600,14 +608,6 @@
         "BBC Business",
         "BBC Technology"
       ]
-    },
-    {
-      "title": "US diesel prices hit an all-time-high",
-      "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-      "description": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
-      "date": "Fri, 04 Sep 2026 10:52:56 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
     },
     {
       "title": "From 'dog fruit' to darling: India's avocado boom",
