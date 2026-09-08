@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-08T14:55:58.465079+00:00",
+  "updatedAt": "2026-09-08T15:08:40.791417+00:00",
   "items": [
     {
       "title": "بريطانيا تحظر سلع المستوطنات الإسرائيلية وتفرض عقوبات تستهدف توسعها",
       "link": "https://www.bbc.com/arabic/articles/c89jezxywvlo?at_medium=RSS&at_campaign=rss",
       "description": "أعلن وزير الخارجية البريطاني، إد ميليباند، في مجلس العموم أن المملكة المتحدة ستحظر استيراد البضائع من المستوطنات الإسرائيلية في الضفة الغربية المحتلة بشكل غير قانوني.",
       "date": "Tue, 08 Sep 2026 13:30:19 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "دوري أبطال أوروبا يعود: من أبرز المرشحين ومن هم اللاعبون الذين يستحقون المتابعة؟",
+      "link": "https://www.bbc.com/arabic/articles/cd79yx27p51o?at_medium=RSS&at_campaign=rss",
+      "description": "تحتل الأندية الإنجليزية الخمسة مراكز ضمن أفضل 10 فرق من حيث احتمالات الفوز باللقب، كما حصلت جميعها على أكثر من 50% من حيث احتمالات التأهل إلى دور الـ16.",
+      "date": "Tue, 08 Sep 2026 14:55:31 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/c24jv8lqz30o?at_medium=RSS&at_campaign=rss",
       "description": "أفادت مصادر في القصر بأن الرسالة أُرسلت إلى فريق الأمير هاري والحكومة والجيش وحكام المقاطعات",
       "date": "Tue, 08 Sep 2026 00:02:35 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "الاتفاق النووي السعودي الأمريكي: تخصيب مشروط ولا إلزام بالاتفاقيات الإبراهيمية",
-      "link": "https://www.bbc.com/arabic/articles/c4g78pmlymlo?at_medium=RSS&at_campaign=rss",
-      "description": "بعد حصول بي بي سي على النص الكامل للاتفاقية النووية السعودية الأمريكية، تبيّن أن مزاعم الرئيس الأمريكي بشأن طبيعة الاتفاق تتعارض مع النص الرئيسي للوثيقة.",
-      "date": "Mon, 07 Sep 2026 16:46:20 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -326,6 +326,14 @@
       "cat": "العالم"
     },
     {
+      "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+      "description": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
+      "date": "Tue, 08 Sep 2026 15:03:11 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "A food safety officer has become a social media star in India - why?",
       "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
       "description": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
@@ -358,22 +366,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
       "date": "Mon, 07 Sep 2026 04:07:23 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-      "date": "Sun, 06 Sep 2026 20:52:12 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "How £725 game-show winnings kick-started Champions League coach's career",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
-      "description": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
-      "date": "Mon, 07 Sep 2026 08:04:12 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -437,7 +429,7 @@
       "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
       "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
       "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
-      "date": "Tue, 08 Sep 2026 14:53:47 GMT",
+      "date": "Tue, 08 Sep 2026 15:08:03 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
