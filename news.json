@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T09:25:50.266606+00:00",
+  "updatedAt": "2026-09-08T09:40:15.934718+00:00",
   "items": [
     {
       "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة الحوثي",
@@ -190,14 +190,6 @@
       ]
     },
     {
-      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-      "description": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
-      "date": "Mon, 07 Sep 2026 21:12:37 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
       "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
       "description": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says.",
@@ -214,6 +206,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Highest paid world leader to get salary increase of $1 million",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
+      "description": "Singapore's prime minister Lawrence Wong will see his pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
+      "date": "Tue, 08 Sep 2026 09:20:05 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Nepal cracks down on online abuse of flood survivors",
       "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
       "description": "Authorities will \"show no leniency\" to people who \"belittle\" those who are suffering, the prime minister says.",
@@ -222,10 +222,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Flight recorders recovered from Amazon cargo plane crash",
+      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
       "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-      "date": "Mon, 07 Sep 2026 22:23:03 GMT",
+      "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
+      "date": "Tue, 08 Sep 2026 09:31:26 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -362,6 +362,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Pupils return to West Bank school behind barbed wire to protect against settlers",
+      "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
+      "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
+      "date": "Tue, 08 Sep 2026 06:58:02 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "'Good to have choice': Australians on opting out of social media algorithms",
       "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
       "description": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personalised algorithms.",
@@ -410,12 +418,12 @@
       "cat": "العالم"
     },
     {
-      "title": "How might Lindsay Clancy’s case have unfolded in another country?",
-      "link": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
-      "description": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their young children.",
-      "date": "Sat, 05 Sep 2026 09:12:34 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
+      "title": "UK's third-biggest taxpayer to leave for Greece",
+      "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+      "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
+      "date": "Tue, 08 Sep 2026 09:33:35 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
     },
     {
       "title": "The firms turning recruitment into X Factor-style competitions",
@@ -426,10 +434,22 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "UK's third-biggest taxpayer to leave for Greece",
-      "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-      "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
-      "date": "Tue, 08 Sep 2026 08:23:31 GMT",
+      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
+      "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
+      "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
+      "date": "Tue, 08 Sep 2026 06:49:56 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد",
+      "sources": [
+        "BBC Business",
+        "BBC Technology"
+      ]
+    },
+    {
+      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+      "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+      "description": "The Balkan nation is aiming to become a new centre for medical tourism.",
+      "date": "Tue, 08 Sep 2026 09:00:28 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -438,14 +458,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
       "description": "Experts say they worry it could limit the company's ability to innovate in the future.",
       "date": "Tue, 08 Sep 2026 04:57:54 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
-      "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
-      "description": "The Balkan nation is aiming to become a new centre for medical tourism.",
-      "date": "Tue, 08 Sep 2026 09:00:28 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -624,22 +636,6 @@
       "date": "Thu, 27 Aug 2026 23:16:02 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
-    },
-    {
-      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
-      "link": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
-      "description": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
-      "date": "Wed, 26 Aug 2026 23:03:46 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-      "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-      "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
-      "date": "Tue, 08 Sep 2026 06:49:56 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
     },
     {
       "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
