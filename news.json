@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T12:55:18.267793+00:00",
+  "updatedAt": "2026-09-08T13:07:52.437316+00:00",
   "items": [
     {
       "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله",
@@ -18,10 +18,10 @@
       "cat": "العالم"
     },
     {
-      "title": "الحكومة البريطانية \"ستفرض قيوداً جديدة\" على التجارة مع المستوطنات اليهودية في الضفة الغربية المحتلة",
+      "title": "المملكة المتحدة تحظر استيراد البضائع من المستوطنات الإسرائيلية في الضفة الغربية",
       "link": "https://www.bbc.com/arabic/articles/c89jezxywvlo?at_medium=RSS&at_campaign=rss",
-      "description": "من المتوقع أن يستعرض وزير الخارجية، إد ميليباند، هذه الإجراءات أمام مجلس العموم اليوم الثلاثاء، وقد تشمل قيوداً على التجارة في المنتجات الزراعية القادمة من المستوطنات الإسرائيلية في الضفة الغربية المحتلة.",
-      "date": "Tue, 08 Sep 2026 08:15:12 GMT",
+      "description": "أعلن وزير الخارجية البريطاني، إد ميليباند، في مجلس العموم أن المملكة المتحدة ستحظر استيراد البضائع من المستوطنات الإسرائيلية في الضفة الغربية المحتلة بشكل غير قانوني.",
+      "date": "Tue, 08 Sep 2026 13:05:02 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -106,10 +106,10 @@
       "cat": "العالم"
     },
     {
-      "title": "جهاز ذكي لقياس ضغط الدم",
-      "link": "https://www.bbc.com/arabic/articles/cd68g34qlwzo?at_medium=RSS&at_campaign=rss",
-      "description": "جهاز ذكي لقياس ضغط الدم",
-      "date": "Mon, 07 Sep 2026 12:12:30 GMT",
+      "title": "تكنولوجيا بصرية تعيد محاكاة الرؤية البشرية وتلغي إجهاد العين",
+      "link": "https://www.bbc.com/arabic/articles/crk3zmkkv23o?at_medium=RSS&at_campaign=rss",
+      "description": "تكنولوجيا بصرية تعيد محاكاة الرؤية البشرية وتلغي إجهاد العين",
+      "date": "Tue, 08 Sep 2026 12:55:16 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -219,7 +219,11 @@
       "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
       "date": "Tue, 08 Sep 2026 11:09:54 GMT",
       "source": "BBC World",
-      "cat": "العالم"
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Business"
+      ]
     },
     {
       "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
@@ -598,14 +602,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
       "description": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
       "date": "Fri, 04 Sep 2026 17:23:13 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-      "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-      "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-      "date": "Fri, 04 Sep 2026 05:59:10 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
