@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-09T11:38:08.802016+00:00",
+  "updatedAt": "2026-09-09T11:51:26.027457+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتطالب طواقم ناقلات نفط في الكويت والبحرين بـ\"مغادرة سفنهم فوراً\"",
       "link": "https://www.bbc.com/arabic/articles/cvgyp0j92z5o?at_medium=RSS&at_campaign=rss",
       "description": "أعلنت إيران استهداف قاعدة الأزرق العسكرية في الأردن، فيما قال الجيش الأردني إنه اعترض 18 من أصل 20 صاروخاً باليستياً من دون وقوع خسائر بشرية. وتزامن ذلك مع تصاعد المواجهة بين طهران وواشنطن في مضيق هرمز.",
       "date": "Wed, 09 Sep 2026 07:04:19 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "\"تحذير من محمد بن زايد قبل 7 أكتوبر\" يفجر أزمة في إسرائيل، نتنياهو ينفي ويتجه لمقاضاة \"هآرتس\"",
+      "link": "https://www.bbc.com/arabic/articles/cx2z9d4q5y8o?at_medium=RSS&at_campaign=rss",
+      "description": "فجّر تقرير لصحيفة \"هآرتس\" أزمة سياسية واستخباراتية في إسرائيل، بعدما اتهم رئيس الوزراء بنيامين نتنياهو بتجاهل تحذير إماراتي من هجوم كبير كانت حركة حماس تستعد لتنفيذه قبل السابع من أكتوبر/تشرين الأول 2023، وعدم إطلاع قادة المؤسسة الأمنية عليه.",
+      "date": "Wed, 09 Sep 2026 11:38:35 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -54,14 +62,6 @@
       "link": "https://www.bbc.com/arabic/articles/c89jezxywvlo?at_medium=RSS&at_campaign=rss",
       "description": "أعلن وزير الخارجية البريطاني، إد ميليباند، في مجلس العموم أن المملكة المتحدة ستحظر استيراد البضائع من المستوطنات الإسرائيلية في الضفة الغربية المحتلة بشكل غير قانوني، فيما ردّت إسرائيل بإغلاق القنصلية في القدس.",
       "date": "Tue, 08 Sep 2026 20:22:38 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "هل كانت سوريا قريبة من بناء مفاعل نووي في عهد الأسد؟",
-      "link": "https://www.bbc.com/arabic/articles/cdx50yxwdnro?at_medium=RSS&at_campaign=rss",
-      "description": "الوكالة الدولية للطاقة الذرية أفادت بالعثور على موقع لإنتاج الوقود النووي و73 طناً من اليورانيوم الطبيعي في سوريا، .تشمل 55 طناً من قضبان الوقود والباقي على شكل نفايات",
-      "date": "Tue, 08 Sep 2026 19:20:50 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -206,6 +206,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+      "date": "Wed, 09 Sep 2026 11:24:10 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
       "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
       "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
@@ -214,18 +222,18 @@
       "cat": "العالم"
     },
     {
-      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
-      "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
-      "description": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
-      "date": "Wed, 09 Sep 2026 07:44:20 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "Family of killed teen call for death penalty in D4vd trial",
       "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
       "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
       "date": "Wed, 09 Sep 2026 09:58:48 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
+      "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
+      "description": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
+      "date": "Wed, 09 Sep 2026 07:44:20 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -246,6 +254,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Hong Kong's first leader after British handover dies",
+      "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+      "description": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
+      "date": "Wed, 09 Sep 2026 04:24:30 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
       "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
       "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
@@ -256,14 +272,6 @@
         "BBC World",
         "BBC Technology"
       ]
-    },
-    {
-      "title": "Hong Kong's first leader after British handover dies",
-      "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
-      "description": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
-      "date": "Wed, 09 Sep 2026 04:24:30 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
     },
     {
       "title": "Argentina to file criminal case against oil company operating in Falklands",
@@ -298,14 +306,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
       "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
       "date": "Tue, 08 Sep 2026 17:10:54 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-      "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
-      "date": "Tue, 08 Sep 2026 13:58:32 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -421,7 +421,7 @@
       "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
       "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
       "description": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
-      "date": "Wed, 09 Sep 2026 10:57:15 GMT",
+      "date": "Wed, 09 Sep 2026 11:48:44 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
