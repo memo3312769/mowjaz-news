@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T05:51:12.927246+00:00",
+  "updatedAt": "2026-09-09T06:07:43.103632+00:00",
   "items": [
     {
       "title": "الجيش الأمريكي يعلن تدمير خَمس ناقلات نفط إيرانية، والحرس الثوري يتحدث عن شن غارات على \"قاعدة أمريكية في الأردن\"",
@@ -186,14 +186,6 @@
       "cat": "العالم"
     },
     {
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-      "date": "Wed, 09 Sep 2026 01:45:15 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
       "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
       "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
@@ -222,10 +214,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Renoir paintings worth millions stolen in French museum heist",
-      "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
-      "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
-      "date": "Tue, 08 Sep 2026 13:35:28 GMT",
+      "title": "South Park creators rename show 'South America' in apparent dig at Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
+      "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
+      "date": "Wed, 09 Sep 2026 05:39:16 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -240,6 +232,14 @@
         "BBC World",
         "BBC Technology"
       ]
+    },
+    {
+      "title": "Renoir paintings worth millions stolen in French museum heist",
+      "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+      "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+      "date": "Tue, 08 Sep 2026 13:35:28 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
     },
     {
       "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
