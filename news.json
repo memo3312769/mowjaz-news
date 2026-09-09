@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T08:06:32.272321+00:00",
+  "updatedAt": "2026-09-09T08:26:02.266160+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتطالب طواقم ناقلات نفط في الكويت والبحرين بـ\"مغادرة سفنهم فوراً\"",
@@ -434,10 +434,10 @@
       "cat": "العالم"
     },
     {
-      "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
-      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-      "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
-      "date": "Wed, 09 Sep 2026 02:59:38 GMT",
+      "title": "What are my rights if my flight is cancelled or delayed?",
+      "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+      "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
+      "date": "Wed, 09 Sep 2026 08:04:14 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -488,6 +488,14 @@
         "BBC Business",
         "BBC Technology"
       ]
+    },
+    {
+      "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
+      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+      "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+      "date": "Wed, 09 Sep 2026 08:14:16 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
     },
     {
       "title": "Sapporo to move some beer production from Canada to US after tariffs",
@@ -622,22 +630,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "China to pump $54bn into state banks and insurers to boost economy",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-      "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
-      "date": "Mon, 07 Sep 2026 02:26:12 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-      "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-      "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
-      "date": "Mon, 07 Sep 2026 14:57:30 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
       "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
       "description": "The Balkan nation is aiming to become a new centre for medical tourism.",
@@ -658,6 +650,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
       "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
       "date": "Fri, 04 Sep 2026 07:19:06 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Why wait? Business grads buying firms to install themselves as CEO",
+      "link": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+      "description": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
+      "date": "Wed, 02 Sep 2026 23:13:44 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
