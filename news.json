@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-09T16:41:37.534461+00:00",
+  "updatedAt": "2026-09-09T16:53:14.136634+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز",
       "link": "https://www.bbc.com/arabic/articles/cvgyp0j92z5o?at_medium=RSS&at_campaign=rss",
       "description": "أعلنت إيران استهداف قاعدة الأزرق العسكرية في الأردن، فيما قال الجيش الأردني إنه اعترض 18 من أصل 20 صاروخاً باليستياً من دون وقوع خسائر بشرية. وتزامن ذلك مع تصاعد المواجهة بين طهران وواشنطن في مضيق هرمز.",
-      "date": "Wed, 09 Sep 2026 16:36:11 GMT",
+      "date": "Wed, 09 Sep 2026 16:46:22 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "كيف ترى تركيا اتفاقية \"درع أخيل\" اليونانية-الإسرائيلية؟",
+      "link": "https://www.bbc.com/arabic/articles/cwyz0xe1kggo?at_medium=RSS&at_campaign=rss",
+      "description": "يرى محللون أن مصدر القلق التركي لا يقتصر على امتلاك اليونان منظومة دفاع متطورة، بل يمتد إلى التعاون العسكري والاستخباراتي والتكنولوجي المتزايد بين إسرائيل واليونان.",
+      "date": "Wed, 09 Sep 2026 16:48:13 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/c980l1q3j9jo?at_medium=RSS&at_campaign=rss",
       "description": "سيشهد رئيس وزراء سنغافورة لورانس وونغ زيادة في راتبه السنوي ليصبح 3.6 مليون دولار سنغافوري (2.8 مليون دولار أمريكي؛ 2.1 مليون جنيه إسترليني).",
       "date": "Wed, 09 Sep 2026 03:02:41 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "إلغاء نحو 1100 رحلة جوية بسبب خلل فني في مطارات في بريطانيا",
-      "link": "https://www.bbc.com/arabic/articles/ckg8e5lv099o?at_medium=RSS&at_campaign=rss",
-      "description": "تتأثر عمليات المغادرة من عدد من المطارات البريطانية بمشكلة فنية تؤثر على مزود خدمات مراقبة الحركة الجوية \"ناتس\".",
-      "date": "Tue, 08 Sep 2026 23:20:35 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -189,7 +189,7 @@
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
       "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-      "date": "Wed, 09 Sep 2026 09:47:39 GMT",
+      "date": "Wed, 09 Sep 2026 16:46:53 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
