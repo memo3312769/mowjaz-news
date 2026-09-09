@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T09:06:01.000122+00:00",
+  "updatedAt": "2026-09-09T09:26:14.602593+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتطالب طواقم ناقلات نفط في الكويت والبحرين بـ\"مغادرة سفنهم فوراً\"",
@@ -178,7 +178,7 @@
       "cat": "العالم"
     },
     {
-      "title": "Oil hits $100 a barrel for first time since July after flare in US-Iran conflict",
+      "title": "Oil hits $100 a barrel for first time since July after flare up in US-Iran conflict",
       "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
       "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
       "date": "Wed, 09 Sep 2026 09:03:41 GMT",
@@ -186,18 +186,10 @@
       "cat": "العالم"
     },
     {
-      "title": "British-Israeli relations at lowest ebb in decades",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-      "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
-      "date": "Tue, 08 Sep 2026 21:46:31 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
       "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "description": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
-      "date": "Wed, 09 Sep 2026 06:28:57 GMT",
+      "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+      "date": "Wed, 09 Sep 2026 09:21:50 GMT",
       "source": "BBC World",
       "cat": "العالم",
       "sources": [
@@ -232,6 +224,14 @@
         "BBC World",
         "BBC Technology"
       ]
+    },
+    {
+      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
+      "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
+      "description": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
+      "date": "Wed, 09 Sep 2026 07:44:20 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
     },
     {
       "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
@@ -318,6 +318,14 @@
       "cat": "العالم"
     },
     {
+      "title": "British-Israeli relations at lowest ebb in decades",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "date": "Tue, 08 Sep 2026 21:46:31 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
       "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
       "description": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
@@ -344,14 +352,6 @@
         "BBC World",
         "BBC Business"
       ]
-    },
-    {
-      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
-      "date": "Mon, 07 Sep 2026 05:31:06 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
     },
     {
       "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
@@ -413,7 +413,7 @@
       "title": "Learner drivers still waiting 20 weeks to book tests",
       "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
       "description": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
-      "date": "Wed, 09 Sep 2026 08:50:02 GMT",
+      "date": "Wed, 09 Sep 2026 09:05:54 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -426,18 +426,22 @@
       "cat": "اقتصاد"
     },
     {
+      "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+      "date": "Wed, 09 Sep 2026 08:59:52 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد",
+      "sources": [
+        "BBC Business",
+        "BBC Technology"
+      ]
+    },
+    {
       "title": "I'm 27 and I've already written my will - here's why",
       "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
       "description": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
       "date": "Tue, 08 Sep 2026 23:04:17 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Cowboy builder tore my home apart and disappeared off the face of the Earth with £14k",
-      "link": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
-      "description": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
-      "date": "Wed, 09 Sep 2026 05:00:30 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -452,6 +456,14 @@
         "BBC Business",
         "BBC Technology"
       ]
+    },
+    {
+      "title": "Cowboy builder tore my home apart and disappeared off the face of the Earth with £14k",
+      "link": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
+      "description": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
+      "date": "Wed, 09 Sep 2026 05:00:30 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
     },
     {
       "title": "Singaporean man pleads guilty in US to massive crypto heist",
@@ -598,14 +610,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
-      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-      "description": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
-      "date": "Mon, 07 Sep 2026 16:05:37 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
       "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
       "description": "The Balkan nation is aiming to become a new centre for medical tourism.",
@@ -636,14 +640,6 @@
       "date": "Wed, 02 Sep 2026 23:13:44 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
-    },
-    {
-      "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-      "date": "Wed, 09 Sep 2026 08:59:52 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
     },
     {
       "title": "New law to force tech firms to stop children taking or sharing nude images",
