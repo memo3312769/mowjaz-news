@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T03:39:09.287762+00:00",
+  "updatedAt": "2026-09-09T03:51:53.134670+00:00",
   "items": [
     {
       "title": "الجيش الأمريكي يعلن تدمير 5 ناقلات نفط إيرانية، والحرس الثوري يتحدث عن شن غارات على \"قاعدة أمريكية في الأردن\"",
@@ -442,10 +442,30 @@
       "cat": "اقتصاد"
     },
     {
+      "title": "Singaporean man pleads guilty in US to massive crypto heist",
+      "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
+      "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
+      "date": "Wed, 09 Sep 2026 03:40:48 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
       "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
       "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
       "date": "Tue, 08 Sep 2026 20:57:09 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد",
+      "sources": [
+        "BBC Business",
+        "BBC Technology"
+      ]
+    },
+    {
+      "title": "Should promotion depend on how workers use AI?",
+      "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+      "description": "More companies are tying career progression to AI use: is that fair?",
+      "date": "Tue, 08 Sep 2026 23:05:23 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد",
       "sources": [
@@ -460,18 +480,6 @@
       "date": "Tue, 08 Sep 2026 17:41:42 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
-    },
-    {
-      "title": "Should promotion depend on how workers use AI?",
-      "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
-      "description": "More companies are tying career progression to AI use: is that fair?",
-      "date": "Tue, 08 Sep 2026 23:05:23 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد",
-      "sources": [
-        "BBC Business",
-        "BBC Technology"
-      ]
     },
     {
       "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
@@ -618,14 +626,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
       "description": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
       "date": "Mon, 07 Sep 2026 17:46:25 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
-      "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
-      "description": "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels.",
-      "date": "Sat, 05 Sep 2026 01:03:35 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
