@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T19:22:45.414006+00:00",
+  "updatedAt": "2026-09-09T19:35:03.860396+00:00",
   "items": [
     {
       "title": "الوكالة الدولية للطاقة الذرية تحيل إيران إلى مجلس الأمن",
@@ -14,6 +14,14 @@
       "link": "https://www.bbc.com/arabic/articles/cwyz0xe1kggo?at_medium=RSS&at_campaign=rss",
       "description": "يرى محللون أن مصدر القلق التركي لا يقتصر على امتلاك اليونان منظومة دفاع متطورة، بل يمتد إلى التعاون العسكري والاستخباراتي والتكنولوجي المتزايد بين إسرائيل واليونان.",
       "date": "Wed, 09 Sep 2026 16:48:13 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "ما هي احتمالية أن يتمكن الذكاء الاصطناعي من \"قتل جميع البشر\"؟",
+      "link": "https://www.bbc.com/arabic/articles/crm948n7797o?at_medium=RSS&at_campaign=rss",
+      "description": "ما هي قصة أحدث حلقة في سلسلة متزايدة من التحذيرات بشأن التهديد الذي يشكّله الذكاء الاصطناعي على سلامة البشر؟",
+      "date": "Wed, 09 Sep 2026 19:20:55 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/c624w5dwp99o?at_medium=RSS&at_campaign=rss",
       "description": "اتساخ اليدين بالتراب والوحل قد لا يكون محبذاً لدى البعض، لكن العلماء يرون فيه فوائد صحية للبشرة والجهاز المناعي.",
       "date": "Wed, 09 Sep 2026 08:39:01 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "مليون دولار زيادة على راتب القائد الأعلى أجراً في العالم",
-      "link": "https://www.bbc.com/arabic/articles/c980l1q3j9jo?at_medium=RSS&at_campaign=rss",
-      "description": "سيشهد رئيس وزراء سنغافورة لورانس وونغ زيادة في راتبه السنوي ليصبح 3.6 مليون دولار سنغافوري (2.8 مليون دولار أمريكي؛ 2.1 مليون جنيه إسترليني).",
-      "date": "Wed, 09 Sep 2026 03:02:41 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -434,7 +434,7 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Apple unveils its first folding iPhone",
+      "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
       "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
       "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
       "date": "Wed, 09 Sep 2026 18:39:45 GMT",
