@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T14:05:54.417101+00:00",
+  "updatedAt": "2026-09-09T14:25:34.308683+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز",
@@ -14,6 +14,14 @@
       "link": "https://www.bbc.com/arabic/articles/c23xp15yyz8o?at_medium=RSS&at_campaign=rss",
       "description": "\"في نهاية المطاف، يتعين على بريطانيا أن تظل منخرطة مع مؤسسات السياسة الخارجية الأمريكية، بحيث نتمكن، عندما يرحل السيد ترامب عن المشهد، من إقناع إدارة مستقبلية بممارسة ضغوط حقيقية على الحكومة الإسرائيلية، للقيام بما ينبغي القيام به\".",
       "date": "Wed, 09 Sep 2026 12:57:55 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "\"عمري 27 عاماً وكتبت وصيتي\"، ما السبب؟",
+      "link": "https://www.bbc.com/arabic/articles/cd79y0z9n3jo?at_medium=RSS&at_campaign=rss",
+      "description": "قد لا تكون كتابة الوصية من الأمور التي يفكر فيها معظم الناس خصوصاً الشباب، لكن إيرين أتكينسون اختارت مبكراً أن تكتب وصية لتوزيع أموالها وممتلكاتها بعد وفاتها، فما القصة؟",
+      "date": "Wed, 09 Sep 2026 14:10:53 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/ckg8e5lv099o?at_medium=RSS&at_campaign=rss",
       "description": "تتأثر عمليات المغادرة من عدد من المطارات البريطانية بمشكلة فنية تؤثر على مزود خدمات مراقبة الحركة الجوية \"ناتس\".",
       "date": "Tue, 08 Sep 2026 23:20:35 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "إسرائيل تغلق القنصلية البريطانية في القدس ردّاً على حظر لندن استيراد السلع من المستوطنات",
-      "link": "https://www.bbc.com/arabic/articles/c89jezxywvlo?at_medium=RSS&at_campaign=rss",
-      "description": "أعلن وزير الخارجية البريطاني، إد ميليباند، في مجلس العموم أن المملكة المتحدة ستحظر استيراد البضائع من المستوطنات الإسرائيلية في الضفة الغربية المحتلة بشكل غير قانوني، فيما ردّت إسرائيل بإغلاق القنصلية في القدس.",
-      "date": "Tue, 08 Sep 2026 20:22:38 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -430,18 +430,18 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
-      "description": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
-      "date": "Wed, 09 Sep 2026 12:20:40 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "What are my rights if my flight is cancelled or delayed?",
       "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
       "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
       "date": "Wed, 09 Sep 2026 08:04:14 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
+      "description": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
+      "date": "Wed, 09 Sep 2026 12:20:40 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
