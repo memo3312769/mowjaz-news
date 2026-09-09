@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T07:26:16.177886+00:00",
+  "updatedAt": "2026-09-09T07:39:58.961448+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتطالب طواقم ناقلات نفط في الكويت والبحرين بـ \"مغادرة سفنهم فوراً\"",
@@ -434,6 +434,14 @@
       "cat": "العالم"
     },
     {
+      "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
+      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+      "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+      "date": "Wed, 09 Sep 2026 02:59:38 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "I'm 27 and I've already written my will - here's why",
       "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
       "description": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
@@ -446,14 +454,6 @@
       "link": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
       "description": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
       "date": "Wed, 09 Sep 2026 05:00:30 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
-      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-      "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
-      "date": "Wed, 09 Sep 2026 02:59:38 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
