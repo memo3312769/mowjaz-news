@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T02:51:24.325702+00:00",
+  "updatedAt": "2026-09-09T03:05:40.030794+00:00",
   "items": [
     {
       "title": "الجيش الأمريكي يعلن تدمير 5 ناقلات نفط إيرانية، والحرس الثوري يتحدث عن شن غارات على \"قاعدة أمريكية في الأردن\"",
@@ -14,6 +14,14 @@
       "link": "https://www.bbc.com/arabic/articles/ckg8e5lv099o?at_medium=RSS&at_campaign=rss",
       "description": "تتأثر عمليات المغادرة من عدد من المطارات البريطانية بمشكلة فنية تؤثر على مزود خدمات مراقبة الحركة الجوية \"ناتس\".",
       "date": "Tue, 08 Sep 2026 23:20:35 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "مليون دولار زيادة على راتب القائد الأعلى أجراً في العالم",
+      "link": "https://www.bbc.com/arabic/articles/c980l1q3j9jo?at_medium=RSS&at_campaign=rss",
+      "description": "سيشهد رئيس وزراء سنغافورة لورانس وونغ زيادة في راتبه السنوي ليصبح 3.6 مليون دولار سنغافوري (2.8 مليون دولار أمريكي؛ 2.1 مليون جنيه إسترليني).",
+      "date": "Wed, 09 Sep 2026 03:02:41 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -38,14 +46,6 @@
       "link": "https://www.bbc.com/arabic/articles/cd79yx27p51o?at_medium=RSS&at_campaign=rss",
       "description": "تحتل الأندية الإنجليزية الخمسة مراكز ضمن أفضل 10 فرق من حيث احتمالات الفوز باللقب، كما حصلت جميعها على أكثر من 50 في المئة من حيث احتمالات التأهل إلى دور الـ16.",
       "date": "Tue, 08 Sep 2026 14:55:31 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية",
-      "link": "https://www.bbc.com/arabic/articles/c2l8ep44xrpo?at_medium=RSS&at_campaign=rss",
-      "description": "تأتي هجمات جماعة أنصار الله (الحوثيين) على السعودية على وقع معارك عنيفة، بين الحوثيين وقوات الحكومة اليمنية المدعومة من الرياض، إثر محاولة الحوثيين انتزاع السيطرة على مناطق متاخمة لمضيق باب المندب من قبضة الحكومة الشرعية.",
-      "date": "Tue, 08 Sep 2026 20:34:59 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -194,10 +194,10 @@
       "cat": "العالم"
     },
     {
-      "title": "US slaps import ban on Canadian alcohol and other goods",
+      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
       "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "description": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
-      "date": "Wed, 09 Sep 2026 01:09:15 GMT",
+      "description": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+      "date": "Wed, 09 Sep 2026 03:03:32 GMT",
       "source": "BBC World",
       "cat": "العالم",
       "sources": [
@@ -437,7 +437,7 @@
       "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
       "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
       "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
-      "date": "Tue, 08 Sep 2026 23:18:39 GMT",
+      "date": "Wed, 09 Sep 2026 02:59:38 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
