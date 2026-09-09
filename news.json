@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T08:52:33.351956+00:00",
+  "updatedAt": "2026-09-09T09:06:01.000122+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتطالب طواقم ناقلات نفط في الكويت والبحرين بـ\"مغادرة سفنهم فوراً\"",
@@ -178,10 +178,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Oil hits $100 a barrel for first time since July after US strikes",
+      "title": "Oil hits $100 a barrel for first time since July after flare in US-Iran conflict",
       "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
       "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-      "date": "Wed, 09 Sep 2026 08:42:36 GMT",
+      "date": "Wed, 09 Sep 2026 09:03:41 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -206,18 +206,18 @@
       ]
     },
     {
-      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
-      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-      "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
-      "date": "Tue, 08 Sep 2026 23:11:32 GMT",
+      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+      "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
+      "description": "The billion dollar payout marks the largest divorce settlement in the country's history.",
+      "date": "Wed, 09 Sep 2026 08:21:39 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
     {
-      "title": "South Park creators rename show 'South America' in apparent dig at Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-      "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
-      "date": "Wed, 09 Sep 2026 05:39:16 GMT",
+      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
+      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+      "date": "Tue, 08 Sep 2026 23:11:32 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -250,14 +250,6 @@
       "cat": "العالم"
     },
     {
-      "title": "Renoir paintings worth millions stolen in French museum heist",
-      "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
-      "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
-      "date": "Tue, 08 Sep 2026 13:35:28 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "Argentina to file criminal case against oil company operating in Falklands",
       "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
       "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
@@ -274,6 +266,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
       "description": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
       "date": "Tue, 08 Sep 2026 18:02:42 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "South Park creators rename show 'South America' in apparent dig at Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
+      "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
+      "date": "Wed, 09 Sep 2026 05:39:16 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -638,6 +638,14 @@
       "cat": "اقتصاد"
     },
     {
+      "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+      "date": "Wed, 09 Sep 2026 08:59:52 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
       "title": "New law to force tech firms to stop children taking or sharing nude images",
       "link": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
       "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
@@ -698,14 +706,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
       "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
       "date": "Thu, 03 Sep 2026 23:41:49 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
-    },
-    {
-      "title": "AI data centres are booming in Australia - but at what cost?",
-      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-      "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
-      "date": "Thu, 03 Sep 2026 18:32:03 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
