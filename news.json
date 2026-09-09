@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T13:06:57.654613+00:00",
+  "updatedAt": "2026-09-09T13:26:57.915120+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز",
@@ -178,6 +178,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+      "date": "Wed, 09 Sep 2026 11:24:10 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
       "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
@@ -206,20 +214,32 @@
       "cat": "العالم"
     },
     {
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-      "date": "Wed, 09 Sep 2026 11:24:10 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
       "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
       "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
       "date": "Wed, 09 Sep 2026 11:29:59 GMT",
       "source": "BBC World",
       "cat": "العالم"
+    },
+    {
+      "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+      "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
+      "description": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
+      "date": "Wed, 09 Sep 2026 06:42:01 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+      "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
+      "description": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
+      "date": "Wed, 09 Sep 2026 12:06:40 GMT",
+      "source": "BBC World",
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Technology"
+      ]
     },
     {
       "title": "Family of killed teen call for death penalty in D4vd trial",
@@ -242,14 +262,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
       "description": "The billion dollar payout marks the largest divorce settlement in the country's history.",
       "date": "Wed, 09 Sep 2026 08:21:39 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
-      "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
-      "description": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
-      "date": "Wed, 09 Sep 2026 06:42:01 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -557,7 +569,7 @@
       "title": "What tariffs will really cost Canadians and Americans",
       "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
       "description": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
-      "date": "Tue, 08 Sep 2026 12:16:30 GMT",
+      "date": "Wed, 09 Sep 2026 13:06:32 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -640,14 +652,6 @@
       "date": "Wed, 02 Sep 2026 23:13:44 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
-    },
-    {
-      "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
-      "description": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
-      "date": "Wed, 09 Sep 2026 12:06:40 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
     },
     {
       "title": "New law to force tech firms to stop children taking or sharing nude images",
