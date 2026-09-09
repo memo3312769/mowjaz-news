@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T11:24:58.051475+00:00",
+  "updatedAt": "2026-09-09T11:38:08.802016+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتطالب طواقم ناقلات نفط في الكويت والبحرين بـ\"مغادرة سفنهم فوراً\"",
@@ -198,10 +198,50 @@
       ]
     },
     {
+      "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "description": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk.",
+      "date": "Wed, 09 Sep 2026 10:59:18 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
+      "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
+      "date": "Wed, 09 Sep 2026 11:29:59 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
+      "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
+      "description": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
+      "date": "Wed, 09 Sep 2026 07:44:20 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Family of killed teen call for death penalty in D4vd trial",
+      "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
+      "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
+      "date": "Wed, 09 Sep 2026 09:58:48 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
       "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
       "description": "The billion dollar payout marks the largest divorce settlement in the country's history.",
       "date": "Wed, 09 Sep 2026 08:21:39 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+      "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
+      "description": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
+      "date": "Wed, 09 Sep 2026 06:42:01 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -216,22 +256,6 @@
         "BBC World",
         "BBC Technology"
       ]
-    },
-    {
-      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
-      "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
-      "description": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
-      "date": "Wed, 09 Sep 2026 07:44:20 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
-      "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
-      "description": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
-      "date": "Wed, 09 Sep 2026 06:42:01 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
     },
     {
       "title": "Hong Kong's first leader after British handover dies",
@@ -282,22 +306,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
       "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
       "date": "Tue, 08 Sep 2026 13:58:32 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Fourteen go on trial over deadliest Channel small boats disaster",
-      "link": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
-      "description": "At least 30 men, women and children drowned when their dinghy capsized on 24 November 2021.",
-      "date": "Tue, 08 Sep 2026 17:24:25 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "LIV files for bankruptcy protection with over $45m owed to players",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-      "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
-      "date": "Tue, 08 Sep 2026 21:20:22 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -405,7 +413,7 @@
       "title": "Learner drivers still waiting 20 weeks to book tests",
       "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
       "description": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
-      "date": "Wed, 09 Sep 2026 09:55:11 GMT",
+      "date": "Wed, 09 Sep 2026 11:32:34 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
