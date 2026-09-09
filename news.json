@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T00:09:47.424391+00:00",
+  "updatedAt": "2026-09-09T00:35:14.170625+00:00",
   "items": [
     {
       "title": "الجيش الأمريكي يعلن تدمير 5 ناقلات نفط إيرانية، والحرس الثوري يعلن شن غارات على \"قاعدة أمريكية في الأردن\"",
@@ -197,7 +197,7 @@
       "title": "US slaps import ban on Canadian alcohol and other goods",
       "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "description": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
-      "date": "Wed, 09 Sep 2026 00:01:53 GMT",
+      "date": "Wed, 09 Sep 2026 00:31:31 GMT",
       "source": "BBC World",
       "cat": "العالم",
       "sources": [
@@ -222,6 +222,26 @@
       "cat": "العالم"
     },
     {
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+      "date": "Tue, 08 Sep 2026 23:27:23 GMT",
+      "source": "BBC World",
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Technology"
+      ]
+    },
+    {
+      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
+      "date": "Tue, 08 Sep 2026 17:10:54 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Argentina to file criminal case against oil company operating in Falklands",
       "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
       "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
@@ -232,14 +252,6 @@
         "BBC World",
         "BBC Business"
       ]
-    },
-    {
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
-      "date": "Tue, 08 Sep 2026 17:10:54 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
     },
     {
       "title": "British widow faces deportation from Sweden after 22 years",
@@ -310,14 +322,6 @@
       "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
       "description": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
       "date": "Tue, 08 Sep 2026 11:38:07 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
-      "date": "Tue, 08 Sep 2026 21:41:11 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -648,14 +652,6 @@
       "date": "Fri, 04 Sep 2026 07:19:06 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
-    },
-    {
-      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
-      "date": "Tue, 08 Sep 2026 23:27:23 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
     },
     {
       "title": "New law to force tech firms to stop children taking or sharing nude images",
