@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T17:05:28.371925+00:00",
+  "updatedAt": "2026-09-09T17:23:59.034823+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز",
@@ -186,6 +186,18 @@
       "cat": "العالم"
     },
     {
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+      "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+      "date": "Wed, 09 Sep 2026 17:06:48 GMT",
+      "source": "BBC World",
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Technology"
+      ]
+    },
+    {
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
       "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
@@ -214,14 +226,6 @@
       "cat": "العالم"
     },
     {
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "description": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
-      "date": "Wed, 09 Sep 2026 16:01:54 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
       "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
       "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
@@ -234,6 +238,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
       "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
       "date": "Wed, 09 Sep 2026 15:01:58 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "description": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+      "date": "Wed, 09 Sep 2026 16:01:54 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -706,14 +718,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
       "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
       "date": "Fri, 04 Sep 2026 11:48:24 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
-    },
-    {
-      "title": "Could robots be the future of theme parks?",
-      "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
-      "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
-      "date": "Fri, 04 Sep 2026 02:02:02 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
