@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-09T12:54:13.249375+00:00",
+  "updatedAt": "2026-09-09T13:06:57.654613+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز",
       "link": "https://www.bbc.com/arabic/articles/cvgyp0j92z5o?at_medium=RSS&at_campaign=rss",
       "description": "أعلنت إيران استهداف قاعدة الأزرق العسكرية في الأردن، فيما قال الجيش الأردني إنه اعترض 18 من أصل 20 صاروخاً باليستياً من دون وقوع خسائر بشرية. وتزامن ذلك مع تصاعد المواجهة بين طهران وواشنطن في مضيق هرمز.",
       "date": "Wed, 09 Sep 2026 12:40:55 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "بريطانيا يجب أن تبذل المزيد لإبقاء حلم الدولة الفلسطينية حياً – الإندبندنت",
+      "link": "https://www.bbc.com/arabic/articles/c23xp15yyz8o?at_medium=RSS&at_campaign=rss",
+      "description": "\"في نهاية المطاف، يتعين على بريطانيا أن تظل منخرطة مع مؤسسات السياسة الخارجية الأمريكية، بحيث نتمكن، عندما يرحل السيد ترامب عن المشهد، من إقناع إدارة مستقبلية بممارسة ضغوط حقيقية على الحكومة الإسرائيلية، للقيام بما ينبغي القيام به\".",
+      "date": "Wed, 09 Sep 2026 12:57:55 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/c89jezxywvlo?at_medium=RSS&at_campaign=rss",
       "description": "أعلن وزير الخارجية البريطاني، إد ميليباند، في مجلس العموم أن المملكة المتحدة ستحظر استيراد البضائع من المستوطنات الإسرائيلية في الضفة الغربية المحتلة بشكل غير قانوني، فيما ردّت إسرائيل بإغلاق القنصلية في القدس.",
       "date": "Tue, 08 Sep 2026 20:22:38 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "كيف يستعد الرئيس الصيني للقاء دونالد ترامب؟ - مقال في الواشنطن بوست",
-      "link": "https://www.bbc.com/arabic/articles/c74kz4kzgego?at_medium=RSS&at_campaign=rss",
-      "description": "في جولة الصحافة اليوم، نطالع قراءة أمريكية لتحرّكات الرئيس الصيني الدبلوماسية في سبتمبر/أيلول وما تنطوي عليه من رسائل إلى واشنطن التي تستعد لاستقباله، ومقالاً حول زيارة جاريد كوشنر وستيف ويتكوف إلى روسيا وأوكرانيا، قبل أن نختتم بمقال ثالث عمّا يتركه الفهم الخاطئ لعُسر القراءة من آثار على الصحة النفس",
-      "date": "Tue, 08 Sep 2026 12:24:15 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -707,7 +707,7 @@
     },
     {
       "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&at_campaign=rss",
       "description": "Scammers demand money from Instagram users over fake copyright claims.",
       "date": "Tue, 08 Sep 2026 20:00:00 GMT",
       "source": "BBC Technology",
