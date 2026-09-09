@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-09T05:37:50.788235+00:00",
+  "updatedAt": "2026-09-09T05:51:12.927246+00:00",
   "items": [
     {
-      "title": "الجيش الأمريكي يعلن تدمير 5 ناقلات نفط إيرانية، والحرس الثوري يتحدث عن شن غارات على \"قاعدة أمريكية في الأردن\"",
+      "title": "الجيش الأمريكي يعلن تدمير خَمس ناقلات نفط إيرانية، والحرس الثوري يتحدث عن شن غارات على \"قاعدة أمريكية في الأردن\"",
       "link": "https://www.bbc.com/arabic/articles/cm2mk06lzkro?at_medium=RSS&at_campaign=rss",
-      "description": "الحرس الثوري الإيراني يهدد بضرب السفن التي تستضيف أمريكيين بالكويت والبحرين، وذلك رداً على استهداف واشنطن ناقلات نفط إيرانية",
+      "description": "الحرس الثوري الإيراني يهدد بضرب السفن التي تستضيف أمريكيين بالكويت والبحرين، وذلك ردّاً على استهداف واشنطن ناقلات نفط إيرانية",
       "date": "Wed, 09 Sep 2026 03:52:25 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
@@ -175,6 +175,14 @@
       "description": "بمناسبة اليوم الدولي لضحايا الاختفاء القسري، الذي يصادف 30 أغسطس/آب، تواصلت بي بي سي مع عائلات لا تزال تنتظر معرفة مصير أحبائها. وتقدّر منظمة العفو الدولية أن عائلات في العراق وسوريا واليمن ولبنان والسودان أمضت مجتمعةً \"أكثر من مليون سنة\" في انتظار إجابات، في ظل غياب أرقام رسمية دقيقة وتحقيقات كافية",
       "date": "Sun, 30 Aug 2026 04:38:26 GMT",
       "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "description": "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran.",
+      "date": "Wed, 09 Sep 2026 04:26:38 GMT",
+      "source": "BBC World",
       "cat": "العالم"
     },
     {
@@ -453,7 +461,7 @@
       "title": "Singaporean man pleads guilty in US to massive crypto heist",
       "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
       "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-      "date": "Wed, 09 Sep 2026 03:40:48 GMT",
+      "date": "Wed, 09 Sep 2026 05:49:30 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
