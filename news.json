@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T20:06:01.228952+00:00",
+  "updatedAt": "2026-09-09T20:25:11.919650+00:00",
   "items": [
     {
       "title": "الوكالة الدولية للطاقة الذرية تحيل إيران إلى مجلس الأمن",
@@ -439,11 +439,7 @@
       "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
       "date": "Wed, 09 Sep 2026 20:00:33 GMT",
       "source": "BBC Business",
-      "cat": "اقتصاد",
-      "sources": [
-        "BBC Business",
-        "BBC Technology"
-      ]
+      "cat": "اقتصاد"
     },
     {
       "title": "What are my rights if my flight is cancelled or delayed?",
@@ -698,6 +694,14 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
       "description": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
       "date": "Fri, 04 Sep 2026 14:59:13 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+      "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
+      "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+      "date": "Fri, 04 Sep 2026 11:48:24 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
