@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T20:25:11.919650+00:00",
+  "updatedAt": "2026-09-09T20:38:17.060498+00:00",
   "items": [
     {
       "title": "الوكالة الدولية للطاقة الذرية تحيل إيران إلى مجلس الأمن",
@@ -206,6 +206,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "description": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
+      "date": "Wed, 09 Sep 2026 20:22:51 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
       "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
@@ -226,14 +234,6 @@
       "cat": "العالم"
     },
     {
-      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-      "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
-      "date": "Wed, 09 Sep 2026 11:29:59 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
       "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
       "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
@@ -242,10 +242,18 @@
       "cat": "العالم"
     },
     {
+      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
+      "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
+      "date": "Wed, 09 Sep 2026 11:29:59 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
       "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
       "description": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
-      "date": "Wed, 09 Sep 2026 18:53:15 GMT",
+      "date": "Wed, 09 Sep 2026 20:28:04 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
