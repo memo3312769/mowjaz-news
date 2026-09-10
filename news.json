@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T15:51:10.784548+00:00",
+  "updatedAt": "2026-09-10T16:05:54.531948+00:00",
   "items": [
     {
       "title": "الجزائر تقطع علاقاتها مع الإمارات وتتّهمها بتصرفات \"استفزازية وعدائية\"",
@@ -10,18 +10,18 @@
       "cat": "العالم"
     },
     {
-      "title": "آب يسجّل أعلى درجات الحرارة على الإطلاق بالتزامن مع تفاقم تغير المناخ وظاهرة النينيو",
-      "link": "https://www.bbc.com/arabic/articles/c8xkrpj5wn0o?at_medium=RSS&at_campaign=rss",
-      "description": "أدى تغير المناخ وتزايد تأثير ظاهرة النينيو إلى وصول شهر أغسطس إلى الرقم القياسي لأدفأ شهر.",
-      "date": "Thu, 10 Sep 2026 15:45:00 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
       "title": "ترامب: الحرب مع إيران قد تتجاوز الانتخابات النصفية، وطهران تستهدف سفناً قرب هرمز وتُوسّع \"منطقة الحظر\"",
       "link": "https://www.bbc.com/arabic/articles/c207zr7953zo?at_medium=RSS&at_campaign=rss",
       "description": "التوتر المتصاعد في المنطقة يهدد حركة الملاحة وإمدادات النفط. وإيران تتمسك بتصعيدها وسط ضغوط أمريكية ودولية متزايدة.",
       "date": "Thu, 10 Sep 2026 15:38:46 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "آب يسجّل أعلى درجات الحرارة على الإطلاق بالتزامن مع تفاقم تغير المناخ وظاهرة النينيو",
+      "link": "https://www.bbc.com/arabic/articles/c8xkrpj5wn0o?at_medium=RSS&at_campaign=rss",
+      "description": "أدى تغير المناخ وتزايد تأثير ظاهرة النينيو إلى وصول شهر أغسطس إلى الرقم القياسي لأدفأ شهر.",
+      "date": "Thu, 10 Sep 2026 15:45:00 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -365,7 +365,7 @@
       "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
       "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
       "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-      "date": "Thu, 10 Sep 2026 15:18:24 GMT",
+      "date": "Thu, 10 Sep 2026 15:56:33 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
