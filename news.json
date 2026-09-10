@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T19:04:51.392212+00:00",
+  "updatedAt": "2026-09-10T19:20:46.257481+00:00",
   "items": [
     {
       "title": "الجزائر تقطع علاقاتها مع الإمارات، والخارجية الإماراتية تأمل أن يكون القرار مؤقتاً",
@@ -14,6 +14,14 @@
       "link": "https://www.bbc.com/arabic/articles/c207zr7953zo?at_medium=RSS&at_campaign=rss",
       "description": "التوتر المتصاعد في المنطقة يهدد حركة الملاحة وإمدادات النفط. وإيران تتمسك بتصعيدها وسط ضغوط أمريكية ودولية متزايدة.",
       "date": "Thu, 10 Sep 2026 17:41:26 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "مسيّرات روسيا النفاثة الجديدة تتفوق على دفاعات أوكرانيا بإطلاقات يومية",
+      "link": "https://www.bbc.com/arabic/articles/c0j3qn4nyvqo?at_medium=RSS&at_campaign=rss",
+      "description": "تصل سرعة الطرازات الجديدة إلى نحو 480 كيلومتراً في الساعة، متجاوزةً سرعة المسيّرات الاعتراضية التي تستخدمها الدفاعات الجوية الأوكرانية.",
+      "date": "Thu, 10 Sep 2026 19:14:07 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/c4gk64n9zx4o?at_medium=RSS&at_campaign=rss",
       "description": "كيف تحولت صورة شاب من الحسكة التقطها بعفوية في ساحة الأمويين إلى قضية رأي عام، بعدما تعرض للتنمر بسبب مظهره وملابسه، قبل أن تنقلب موجة السخرية إلى تضامن واسع وتكريم رسمي لنسيم الحمام.",
       "date": "Thu, 10 Sep 2026 11:28:22 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "ميليباند يرفض مزاعم الحاخام الأكبر بأن اليهود البريطانيين في خطر أكبر بعد فرض العقوبات على المستوطنات",
-      "link": "https://www.bbc.com/arabic/articles/c5ye0e0x773o?at_medium=RSS&at_campaign=rss",
-      "description": "وزير الخارجية البريطاني يرفض فكرة أن العقوبات المفروضة على المستوطنات الإسرائيلية في الضفة الغربية المحتلة قد تعرّض اليهود البريطانيين لمخاطر أكبر",
-      "date": "Thu, 10 Sep 2026 00:24:06 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -218,10 +218,10 @@
       "cat": "العالم"
     },
     {
-      "title": "More than 20 children feared dead in DR Congo school fire",
+      "title": "More than 20 children killed in DR Congo school fire",
       "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
       "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
-      "date": "Thu, 10 Sep 2026 16:21:50 GMT",
+      "date": "Thu, 10 Sep 2026 19:16:24 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
