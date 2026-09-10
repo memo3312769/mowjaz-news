@@ -1,26 +1,18 @@
 {
-  "updatedAt": "2026-09-10T06:08:10.073440+00:00",
+  "updatedAt": "2026-09-10T06:30:40.189690+00:00",
   "items": [
     {
-      "title": "سي بي إس: تضرر طائرات عسكرية أمريكية إثر ضربات إيرانية على قاعدة جوية في الأردن",
-      "link": "https://www.bbc.com/arabic/articles/cvgyp0j92z5o?at_medium=RSS&at_campaign=rss",
-      "description": "الرئيس الأمريكي دونالد ترامب يعتقد أن الحرب على إيران ستنتهي فور انتهاء انتخابات التجديد النصفي للكونغرس في نوفمبر/تشرين الثاني المقبل",
-      "date": "Thu, 10 Sep 2026 03:06:12 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "ماذا سيحدث لاسم بحيرة أونتاريو الذي يريد ترامب تغييره لبحيرة أمريكا؟",
-      "link": "https://www.bbc.com/arabic/articles/c0klzyvv575o?at_medium=RSS&at_campaign=rss",
-      "description": "عند فتح خرائط جوجل في تورونتو، قد يظهر لك اسم معين لمكان ما، بينما قد يظهر اسم آخر عند فتحها في نيويورك؛ إذ باتت الخريطة التي تحملها في جيبك تعتمد بشكل متزايد على موقعك الجغرافي.",
-      "date": "Thu, 10 Sep 2026 03:42:26 GMT",
+      "title": "إيران تعلن استهداف سفن قرب هرمز وتوسّع \"منطقة الحظر\"، وتقارير عن أضرار طفيفة لحقت بطائرات أمريكية في الأردن",
+      "link": "https://www.bbc.com/arabic/articles/c207zr7953zo?at_medium=RSS&at_campaign=rss",
+      "description": "التوتر المتصاعد في المنطقة يهدد حركة الملاحة وإمدادات النفط. وإيران تتمسك بتصعيدها وسط ضغوط أمريكية ودولية متزايدة.",
+      "date": "Thu, 10 Sep 2026 06:17:46 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
     {
       "title": "ميليباند يرفض مزاعم الحاخام الأكبر بأن اليهود البريطانيين في خطر أكبر بعد فرض العقوبات على المستوطنات",
       "link": "https://www.bbc.com/arabic/articles/c5ye0e0x773o?at_medium=RSS&at_campaign=rss",
-      "description": "وزير الخارجية البريطاني يرفض فكرة أن العقوبات المفروضة على المستوطنات الإسرائيلية في الضفة الغربية المحتلة قد تعرض اليهود البريطانيين لمخاطر أكبر",
+      "description": "وزير الخارجية البريطاني يرفض فكرة أن العقوبات المفروضة على المستوطنات الإسرائيلية في الضفة الغربية المحتلة قد تعرّض اليهود البريطانيين لمخاطر أكبر",
       "date": "Thu, 10 Sep 2026 00:24:06 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
@@ -30,6 +22,14 @@
       "link": "https://www.bbc.com/arabic/articles/cwyz0xe1kggo?at_medium=RSS&at_campaign=rss",
       "description": "يرى محللون أن مصدر القلق التركي لا يقتصر على امتلاك اليونان منظومة دفاع متطورة، بل يمتد إلى التعاون العسكري والاستخباراتي والتكنولوجي المتزايد بين إسرائيل واليونان.",
       "date": "Wed, 09 Sep 2026 16:48:13 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "ماذا سيحدث لاسم بحيرة أونتاريو الذي يريد ترامب تغييره لبحيرة أمريكا؟",
+      "link": "https://www.bbc.com/arabic/articles/c0klzyvv575o?at_medium=RSS&at_campaign=rss",
+      "description": "عند فتح خرائط جوجل في تورونتو، قد يظهر لك اسم معين لمكان ما، بينما قد يظهر اسم آخر عند فتحها في نيويورك؛ إذ باتت الخريطة التي تحملها في جيبك تعتمد بشكل متزايد على موقعك الجغرافي.",
+      "date": "Thu, 10 Sep 2026 03:42:26 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -197,7 +197,7 @@
       "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
       "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
       "description": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
-      "date": "Thu, 10 Sep 2026 04:08:07 GMT",
+      "date": "Thu, 10 Sep 2026 06:30:19 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
