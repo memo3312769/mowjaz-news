@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T09:52:03.129322+00:00",
+  "updatedAt": "2026-09-10T10:05:51.085889+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف سفن قرب هرمز وتُوسّع \"منطقة الحظر\"، وتقارير عن أضرار طفيفة لحقت بطائرات أمريكية في الأردن",
@@ -186,6 +186,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Watch: Is Trump's $5,000 election pledge legal?",
+      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
+      "date": "Thu, 10 Sep 2026 07:12:32 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Iran war won't end until after crucial November elections, says Trump",
       "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
       "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
@@ -202,10 +210,18 @@
       "cat": "العالم"
     },
     {
-      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-      "date": "Wed, 09 Sep 2026 21:23:45 GMT",
+      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+      "description": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
+      "date": "Thu, 10 Sep 2026 09:52:47 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "'Significant casualties' after fire on cargo ship in eastern China",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "description": "President Xi Jinping has called for urgent search and rescue efforts.",
+      "date": "Thu, 10 Sep 2026 10:04:52 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -222,22 +238,26 @@
       ]
     },
     {
-      "title": "Google picks Finland for its largest single investment in Europe",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-      "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
-      "date": "Wed, 09 Sep 2026 17:06:48 GMT",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+      "date": "Wed, 09 Sep 2026 21:23:45 GMT",
       "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World",
-        "BBC Technology"
-      ]
+      "cat": "العالم"
     },
     {
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-      "date": "Wed, 09 Sep 2026 16:46:53 GMT",
+      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+      "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+      "description": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
+      "date": "Wed, 09 Sep 2026 21:21:13 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Tate brothers to remain in US jail as they fight extradition to UK",
+      "link": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
+      "description": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
+      "date": "Wed, 09 Sep 2026 19:09:13 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -258,134 +278,6 @@
       "cat": "العالم"
     },
     {
-      "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
-      "link": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
-      "description": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
-      "date": "Wed, 09 Sep 2026 18:27:35 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
-      "date": "Wed, 09 Sep 2026 10:20:40 GMT",
-      "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World",
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-      "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
-      "date": "Wed, 09 Sep 2026 11:29:59 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "description": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
-      "date": "Wed, 09 Sep 2026 20:28:04 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Family of killed teen call for death penalty in D4vd trial",
-      "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-      "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
-      "date": "Wed, 09 Sep 2026 09:58:48 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Colombia's new president loosens gun control rules",
-      "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
-      "description": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms.",
-      "date": "Wed, 09 Sep 2026 11:01:41 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
-      "description": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
-      "date": "Wed, 09 Sep 2026 16:33:49 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
-      "description": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
-      "date": "Wed, 09 Sep 2026 12:06:40 GMT",
-      "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World",
-        "BBC Technology"
-      ]
-    },
-    {
-      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
-      "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
-      "description": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
-      "date": "Wed, 09 Sep 2026 07:44:20 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
-      "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
-      "description": "The billion dollar payout marks the largest divorce settlement in the country's history.",
-      "date": "Wed, 09 Sep 2026 08:21:39 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
-      "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
-      "description": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
-      "date": "Wed, 09 Sep 2026 06:42:01 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Hong Kong's first leader after British handover dies",
-      "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
-      "description": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
-      "date": "Wed, 09 Sep 2026 04:24:30 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
-      "date": "Tue, 08 Sep 2026 23:27:23 GMT",
-      "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World",
-        "BBC Technology"
-      ]
-    },
-    {
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
-      "date": "Tue, 08 Sep 2026 11:09:54 GMT",
-      "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World",
-        "BBC Business"
-      ]
-    },
-    {
       "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
       "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
       "description": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
@@ -402,50 +294,78 @@
       "cat": "العالم"
     },
     {
-      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
-      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-      "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
-      "date": "Tue, 08 Sep 2026 23:11:32 GMT",
+      "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
+      "link": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo?at_medium=RSS&at_campaign=rss",
+      "description": "A survivor has told the BBC of the chaos onboard as the ferry caught fire near the popular tourist spot of Coron.",
+      "date": "Thu, 10 Sep 2026 09:35:46 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
     {
-      "title": "British-Israeli relations at lowest ebb in decades",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-      "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
-      "date": "Tue, 08 Sep 2026 21:46:31 GMT",
+      "title": "Why some experts increasingly fear AI will take over",
+      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+      "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+      "date": "Wed, 09 Sep 2026 23:17:33 GMT",
+      "source": "BBC World",
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Business"
+      ]
+    },
+    {
+      "title": "American football is coming to Australia - can it succeed?",
+      "link": "https://www.bbc.co.uk/news/articles/crerv93pv9yo?at_medium=RSS&at_campaign=rss",
+      "description": "The LA Rams will face the San Francisco 49ers in the first regular season American football game to be played Down Under.",
+      "date": "Wed, 09 Sep 2026 22:29:13 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
     {
-      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-      "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
-      "description": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
-      "date": "Tue, 08 Sep 2026 23:11:41 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "A food safety officer has become a social media star in India - why?",
-      "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
-      "description": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
-      "date": "Mon, 07 Sep 2026 23:40:39 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "How a community living under demolition orders from Israel view UK sanctions",
+      "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
       "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+      "description": "Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar, and the neighbouring Israeli settlement of Maale Admumim.",
       "date": "Wed, 09 Sep 2026 22:17:22 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
     {
-      "title": "Primark finally set to launch home deliveries",
+      "title": "Watch: Do Republicans blame Trump for high oil prices?",
+      "link": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.",
+      "date": "Thu, 10 Sep 2026 01:37:31 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Inside Thailand's school shooter drills following recent attacks",
+      "link": "https://www.bbc.co.uk/news/videos/c07lpp4e993o?at_medium=RSS&at_campaign=rss",
+      "description": "Police say they hope the drill will help prepare students, as concern grows over the increase in school shootings in South East Asia.",
+      "date": "Wed, 09 Sep 2026 22:32:07 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Watch: Norway bids farewell to King Harald",
+      "link": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
+      "description": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
+      "date": "Wed, 09 Sep 2026 16:36:45 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Sinkhole appears outside Malibu home thought to belong to Nicolas Cage",
+      "link": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
+      "description": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities.",
+      "date": "Wed, 09 Sep 2026 09:49:08 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Primark finally set to launch home deliveries as UK sales struggle",
       "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
       "description": "The retailer launches the service four years after making its first foray into internet shopping.",
-      "date": "Thu, 10 Sep 2026 09:03:55 GMT",
+      "date": "Thu, 10 Sep 2026 10:02:26 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -470,14 +390,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
       "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
       "date": "Thu, 10 Sep 2026 09:44:51 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Why some experts increasingly fear AI will take over",
-      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-      "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-      "date": "Wed, 09 Sep 2026 23:17:33 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -570,6 +482,14 @@
       "cat": "اقتصاد"
     },
     {
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+      "date": "Wed, 09 Sep 2026 10:20:40 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "Sapporo to move some beer production from Canada to US after tariffs",
       "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
       "description": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
@@ -598,6 +518,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
       "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
       "date": "Tue, 08 Sep 2026 09:33:35 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+      "date": "Tue, 08 Sep 2026 11:09:54 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -678,6 +606,30 @@
       "link": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
       "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
       "date": "Thu, 10 Sep 2026 00:48:35 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+      "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+      "date": "Wed, 09 Sep 2026 17:06:48 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+      "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
+      "description": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
+      "date": "Wed, 09 Sep 2026 12:06:40 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+      "date": "Tue, 08 Sep 2026 23:27:23 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
