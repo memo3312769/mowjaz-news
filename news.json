@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T04:52:07.019730+00:00",
+  "updatedAt": "2026-09-10T05:05:37.159462+00:00",
   "items": [
     {
       "title": "سي بي إس: تضرر طائرات عسكرية أمريكية إثر ضربات إيرانية على قاعدة جوية في الأردن",
@@ -186,6 +186,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+      "date": "Thu, 10 Sep 2026 04:21:00 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
       "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
       "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
@@ -230,18 +238,6 @@
       "cat": "العالم"
     },
     {
-      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
-      "date": "Wed, 09 Sep 2026 10:20:40 GMT",
-      "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World",
-        "BBC Business"
-      ]
-    },
-    {
       "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
       "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
       "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
@@ -264,6 +260,18 @@
       "date": "Wed, 09 Sep 2026 18:27:35 GMT",
       "source": "BBC World",
       "cat": "العالم"
+    },
+    {
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+      "date": "Wed, 09 Sep 2026 10:20:40 GMT",
+      "source": "BBC World",
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Business"
+      ]
     },
     {
       "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
@@ -374,6 +382,14 @@
       ]
     },
     {
+      "title": "Russia outpacing Ukraine's air defences with daily use of new jet-powered drones",
+      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+      "description": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
+      "date": "Thu, 10 Sep 2026 04:43:54 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
       "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
       "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
@@ -406,18 +422,6 @@
       "cat": "العالم"
     },
     {
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "description": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
-      "date": "Tue, 08 Sep 2026 09:17:48 GMT",
-      "source": "BBC World",
-      "cat": "العالم",
-      "sources": [
-        "BBC World",
-        "BBC Business"
-      ]
-    },
-    {
       "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
       "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
       "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
@@ -426,18 +430,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Watch: Norway bids farewell to King Harald",
-      "link": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
-      "description": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
-      "date": "Wed, 09 Sep 2026 16:36:45 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Sinkhole appears outside Malibu home thought to belong to Nicolas Cage",
-      "link": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
-      "description": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities.",
-      "date": "Wed, 09 Sep 2026 09:49:08 GMT",
+      "title": "Watch: Do Republicans blame Trump for high oil prices?",
+      "link": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.",
+      "date": "Thu, 10 Sep 2026 01:37:31 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -574,6 +570,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
       "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
       "date": "Tue, 08 Sep 2026 15:19:43 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "description": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
+      "date": "Tue, 08 Sep 2026 09:17:48 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
