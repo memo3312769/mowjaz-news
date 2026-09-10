@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T09:05:44.287362+00:00",
+  "updatedAt": "2026-09-10T09:25:33.103017+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف سفن قرب هرمز وتُوسّع \"منطقة الحظر\"، وتقارير عن أضرار طفيفة لحقت بطائرات أمريكية في الأردن",
@@ -14,6 +14,14 @@
       "link": "https://www.bbc.com/arabic/articles/cwyxn7p7re9o?at_medium=RSS&at_campaign=rss",
       "description": "تفقّد رئيس الوزراء الإسرائيلي بنيامين نتنياهو القوات الإسرائيلية في \"جبل الشيخ\"، وقال إن إسرائيل تقترب من \"إسقاط النظام الإيراني\" و\"انهيار حلفائه\" في المنطقة. فماذا نعرف عنه؟",
       "date": "Thu, 10 Sep 2026 08:44:53 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "وثائق رسمية: الاستخبارات الإسبانية حذّرت من تدفق جماعي للمهاجرين إلى سبتة قبل يوم من حدوثه",
+      "link": "https://www.bbc.com/arabic/articles/cj0674qngdmo?at_medium=RSS&at_campaign=rss",
+      "description": "تُظهر وثائق رسمية رُفعت عنها السرية أن السلطات الإسبانية والمغربية كانت على علم بدعوات انتشرت على وسائل التواصل الاجتماعي لعبور جماعي للمهاجرين، وذلك قبل يوم واحد من دخول عشرات الآلاف إلى سبتة.",
+      "date": "Thu, 10 Sep 2026 09:15:28 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -54,14 +62,6 @@
       "link": "https://www.bbc.com/arabic/articles/c23xp15yyz8o?at_medium=RSS&at_campaign=rss",
       "description": "\"في نهاية المطاف، يتعين على بريطانيا أن تظل منخرطة مع مؤسسات السياسة الخارجية الأمريكية، بحيث نتمكن، عندما يرحل السيد ترامب عن المشهد، من إقناع إدارة مستقبلية بممارسة ضغوط حقيقية على الحكومة الإسرائيلية، للقيام بما ينبغي القيام به\".",
       "date": "Wed, 09 Sep 2026 12:57:55 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "\"عمري 27 عاماً وكتبت وصيتي\"... ما السبب؟",
-      "link": "https://www.bbc.com/arabic/articles/cd79y0z9n3jo?at_medium=RSS&at_campaign=rss",
-      "description": "قد لا تكون كتابة الوصية من الأمور التي يفكر فيها معظم الناس خصوصاً الشباب، لكن إيرين أتكينسون اختارت مبكراً أن تكتب وصية لتوزيع أموالها وممتلكاتها بعد وفاتها، فما القصة؟",
-      "date": "Wed, 09 Sep 2026 14:10:53 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -210,10 +210,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
+      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
       "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
       "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-      "date": "Wed, 09 Sep 2026 20:00:33 GMT",
+      "date": "Thu, 10 Sep 2026 09:21:02 GMT",
       "source": "BBC World",
       "cat": "العالم",
       "sources": [
