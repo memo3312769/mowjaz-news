@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T15:05:55.284967+00:00",
+  "updatedAt": "2026-09-10T15:25:56.906672+00:00",
   "items": [
     {
       "title": "الجزائر تقطع علاقاتها مع الإمارات وتتّهمها بتصرفات \"استفزازية وعدائية\"",
@@ -362,6 +362,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+      "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+      "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+      "date": "Thu, 10 Sep 2026 15:18:24 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
       "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
       "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
@@ -564,14 +572,6 @@
         "BBC Business",
         "BBC Technology"
       ]
-    },
-    {
-      "title": "What tariffs will really cost Canadians and Americans",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
-      "description": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
-      "date": "Wed, 09 Sep 2026 13:06:32 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
     },
     {
       "title": "Should promotion depend on how workers use AI?",
