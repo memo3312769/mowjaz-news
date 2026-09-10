@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T07:26:27.888321+00:00",
+  "updatedAt": "2026-09-10T07:40:13.620564+00:00",
   "items": [
     {
       "title": "إيران تعلن استهداف سفن قرب هرمز وتوسّع \"منطقة الحظر\"، وتقارير عن أضرار طفيفة لحقت بطائرات أمريكية في الأردن",
@@ -210,6 +210,18 @@
       "cat": "العالم"
     },
     {
+      "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "date": "Wed, 09 Sep 2026 20:00:33 GMT",
+      "source": "BBC World",
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Business"
+      ]
+    },
+    {
       "title": "Google picks Finland for its largest single investment in Europe",
       "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
       "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
@@ -226,14 +238,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
       "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
       "date": "Wed, 09 Sep 2026 16:46:53 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-      "date": "Wed, 09 Sep 2026 13:29:33 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -458,14 +462,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
       "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
       "date": "Wed, 09 Sep 2026 18:21:16 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-      "date": "Wed, 09 Sep 2026 20:00:33 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
