@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-10T12:30:55.044736+00:00",
+  "updatedAt": "2026-09-10T12:54:07.831533+00:00",
   "items": [
     {
-      "title": "ترامب: الحرب مع إيران قد تتجاوز الانتخابات النصفية، وطهران تستهدف سفناً قرب هرمز وتُوسع \"منطقة الحظر\"",
+      "title": "ترامب: الحرب مع إيران قد تتجاوز الانتخابات النصفية، وطهران تستهدف سفناً قرب هرمز وتُوسّع \"منطقة الحظر\"",
       "link": "https://www.bbc.com/arabic/articles/c207zr7953zo?at_medium=RSS&at_campaign=rss",
       "description": "التوتر المتصاعد في المنطقة يهدد حركة الملاحة وإمدادات النفط. وإيران تتمسك بتصعيدها وسط ضغوط أمريكية ودولية متزايدة.",
       "date": "Thu, 10 Sep 2026 11:31:46 GMT",
@@ -14,6 +14,14 @@
       "link": "https://www.bbc.com/arabic/articles/cwyxn7p7re9o?at_medium=RSS&at_campaign=rss",
       "description": "تفقّد رئيس الوزراء الإسرائيلي بنيامين نتنياهو القوات الإسرائيلية في \"جبل الشيخ\"، وقال إن إسرائيل تقترب من \"إسقاط النظام الإيراني\" و\"انهيار حلفائه\" في المنطقة. فماذا نعرف عنه؟",
       "date": "Thu, 10 Sep 2026 08:44:53 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "كيف يمكن للذكاء الاصطناعي القضاء على البشرية في أقل من خمس سنوات؟ - في الإندبندنت",
+      "link": "https://www.bbc.com/arabic/articles/cdj4z3vjvl4o?at_medium=RSS&at_campaign=rss",
+      "description": "المخاوف المتعلقة بالمخاطر الوجودية التي تهدد البشرية جراء التكنولوجيا \"لم تعد حبيسة عالم الخيال\"، و\"تهديد مميت\" للعمل الإغاثي في غزة وأوكرانيا، والحرب مع إيران أفقدت ترامب \"الورقة الرابحة\" في انتخابات التجديد النصفي الأمريكية.",
+      "date": "Thu, 10 Sep 2026 12:42:22 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -54,14 +62,6 @@
       "link": "https://www.bbc.com/arabic/articles/c0klzyvv575o?at_medium=RSS&at_campaign=rss",
       "description": "عند فتح خرائط جوجل في تورونتو، قد يظهر لك اسم معين لمكان ما، بينما قد يبرز اسم آخر عند فتحها في نيويورك؛ إذ باتت الخريطة التي تحملها في جيبك تعتمد بشكل متزايد على موقعك الجغرافي.",
       "date": "Thu, 10 Sep 2026 03:42:26 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "بريطانيا يجب أن تبذل المزيد لإبقاء حلم الدولة الفلسطينية حياً – الإندبندنت",
-      "link": "https://www.bbc.com/arabic/articles/c23xp15yyz8o?at_medium=RSS&at_campaign=rss",
-      "description": "\"في نهاية المطاف، يتعين على بريطانيا أن تظل منخرطة مع مؤسسات السياسة الخارجية الأمريكية، بحيث نتمكن، عندما يرحل السيد ترامب عن المشهد، من إقناع إدارة مستقبلية بممارسة ضغوط حقيقية على الحكومة الإسرائيلية، للقيام بما ينبغي القيام به\".",
-      "date": "Wed, 09 Sep 2026 12:57:55 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -386,10 +386,10 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "England's mayors to be given power to introduce tourist tax",
+      "title": "England's mayors to get power to impose tourist tax",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
       "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
-      "date": "Thu, 10 Sep 2026 12:05:53 GMT",
+      "date": "Thu, 10 Sep 2026 12:33:48 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
