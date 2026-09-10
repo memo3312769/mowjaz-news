@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-10T22:49:06.567686+00:00",
+  "updatedAt": "2026-09-10T23:04:51.641017+00:00",
   "items": [
-    {
-      "title": "ترامب يتوقّع استمرار الحرب مع إيران إلى ما بعد الانتخابات النصفية، وتفجيرات إسرائيلية في مرتفعات علي الطاهر جنوبي لبنان",
-      "link": "https://www.bbc.com/arabic/articles/c207zr7953zo?at_medium=RSS&at_campaign=rss",
-      "description": "التوتر المتصاعد في المنطقة يهدد حركة الملاحة وإمدادات النفط. وإيران تتمسك بتصعيدها وسط ضغوط أمريكية ودولية متزايدة.",
-      "date": "Thu, 10 Sep 2026 20:38:48 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
     {
       "title": "الجزائر تقطع علاقاتها مع الإمارات، والخارجية الإماراتية تأمل أن يكون القرار مؤقتاً",
       "link": "https://www.bbc.com/arabic/articles/cvgyr59r494o?at_medium=RSS&at_campaign=rss",
       "description": "أعلنت الجزائر قطع علاقاتها الدبلوماسية مع الإمارات، بعد ما قالت إن جميع السبل للحفاظ على العلاقات الثنائية قد استُنفدت. واتهمت الخارجية الجزائرية أبوظبي بتصرفات \"استفزازية أو عدائية\"، في حين قالت وزارة الخارجية الإماراتية إنها تأمل أن يكون القرار \"مؤقتاً\".",
       "date": "Thu, 10 Sep 2026 21:48:34 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "ترامب يتوقّع استمرار الحرب مع إيران إلى ما بعد الانتخابات النصفية، وتفجيرات إسرائيلية في مرتفعات علي الطاهر جنوبي لبنان",
+      "link": "https://www.bbc.com/arabic/articles/c207zr7953zo?at_medium=RSS&at_campaign=rss",
+      "description": "التوتر المتصاعد في المنطقة يهدد حركة الملاحة وإمدادات النفط. وإيران تتمسك بتصعيدها وسط ضغوط أمريكية ودولية متزايدة.",
+      "date": "Thu, 10 Sep 2026 20:38:48 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -370,6 +370,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Are interest rates on the way up again?",
+      "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+      "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+      "date": "Thu, 10 Sep 2026 23:03:09 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
       "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
       "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
@@ -566,14 +574,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
       "description": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
       "date": "Tue, 08 Sep 2026 14:46:16 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "The firms turning recruitment into X Factor-style competitions",
-      "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-      "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
-      "date": "Tue, 08 Sep 2026 07:43:15 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
