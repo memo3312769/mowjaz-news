@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T16:51:03.939977+00:00",
+  "updatedAt": "2026-09-10T17:05:37.908864+00:00",
   "items": [
     {
       "title": "الجزائر تقطع علاقاتها مع الإمارات وتتّهمها بتصرفات \"استفزازية وعدائية\"",
@@ -178,6 +178,22 @@
       "cat": "العالم"
     },
     {
+      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+      "description": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+      "date": "Thu, 10 Sep 2026 15:38:56 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+      "description": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+      "date": "Thu, 10 Sep 2026 16:31:30 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
       "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
       "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
@@ -186,34 +202,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-      "date": "Thu, 10 Sep 2026 07:12:32 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
-      "date": "Thu, 10 Sep 2026 10:43:53 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-      "description": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
-      "date": "Thu, 10 Sep 2026 06:30:19 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-      "description": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
-      "date": "Thu, 10 Sep 2026 13:12:40 GMT",
+      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+      "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+      "date": "Thu, 10 Sep 2026 15:54:17 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -222,6 +214,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
       "description": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
       "date": "Thu, 10 Sep 2026 12:24:54 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "More than 20 children feared dead in DR Congo school fire",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
+      "date": "Thu, 10 Sep 2026 16:21:50 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+      "description": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
+      "date": "Thu, 10 Sep 2026 13:12:40 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -236,6 +244,14 @@
         "BBC World",
         "BBC Business"
       ]
+    },
+    {
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+      "date": "Thu, 10 Sep 2026 10:43:53 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
     },
     {
       "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
@@ -254,26 +270,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Tate brothers to remain in US jail as they fight extradition to UK",
-      "link": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
-      "description": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
-      "date": "Wed, 09 Sep 2026 19:09:13 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-      "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
-      "date": "Thu, 10 Sep 2026 08:44:19 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Europe's royalty pay respects to King Harald V in Norway",
-      "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
-      "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
-      "date": "Wed, 09 Sep 2026 16:30:28 GMT",
+      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+      "description": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+      "date": "Thu, 10 Sep 2026 06:30:19 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -318,6 +318,14 @@
       "link": "https://www.bbc.co.uk/news/articles/crerv93pv9yo?at_medium=RSS&at_campaign=rss",
       "description": "The LA Rams will face the San Francisco 49ers in the first regular season American football game to be played Down Under.",
       "date": "Wed, 09 Sep 2026 22:29:13 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Watch: Is Trump's $5,000 election pledge legal?",
+      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
+      "date": "Thu, 10 Sep 2026 07:12:32 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -394,10 +402,10 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "England's mayors to get power to impose tourist tax",
+      "title": "Labour mayors in England vow to cap tourist tax at 5%",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
-      "date": "Thu, 10 Sep 2026 14:46:09 GMT",
+      "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+      "date": "Thu, 10 Sep 2026 16:59:38 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
