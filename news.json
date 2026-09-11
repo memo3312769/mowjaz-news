@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:38:37.154764+00:00",
+  "updatedAt": "2026-09-11T07:51:37.049633+00:00",
   "items": [
     {
       "title": "إسرائيل تعلن تدمير \"نفقين لحزب الله\" في جنوب لبنان باستخدام أكثر من ألف طن من المتفجرات",
@@ -338,6 +338,14 @@
       ]
     },
     {
+      "title": "Has Trump won over voters with his midterm convention?",
+      "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
+      "date": "Fri, 11 Sep 2026 06:16:54 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Watch: Americans remember what they were doing on 9/11",
       "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
@@ -370,18 +378,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-      "date": "Thu, 10 Sep 2026 07:12:32 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "UK economy grew faster than expected in July",
       "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
       "description": "The economy expanded by 0.4%, official figures show, whereas economists had predicted no growth.",
-      "date": "Fri, 11 Sep 2026 07:22:37 GMT",
+      "date": "Fri, 11 Sep 2026 07:45:18 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -405,7 +405,7 @@
       "title": "Alstom to build new battery-electric train fleet",
       "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
       "description": "The government says the work will support thousands of jobs across the UK.",
-      "date": "Thu, 10 Sep 2026 21:00:33 GMT",
+      "date": "Fri, 11 Sep 2026 07:42:35 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
