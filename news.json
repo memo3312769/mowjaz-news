@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T15:05:32.474212+00:00",
+  "updatedAt": "2026-09-11T15:07:31.805247+00:00",
   "items": [
     {
       "title": "الحوثيون يعززون السيطرة على باب المندب، وأنباء عن \"غارات سعودية\" على المخا",
@@ -642,6 +642,14 @@
       "cat": "اقتصاد"
     },
     {
+      "title": "UK government rejects 'kill switch' idea for dangerous AI",
+      "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+      "description": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
+      "date": "Fri, 11 Sep 2026 15:07:07 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
       "title": "Does this AI comic make you laugh?",
       "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
       "description": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
@@ -694,14 +702,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
       "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
       "date": "Tue, 08 Sep 2026 06:49:56 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
-    },
-    {
-      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-      "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-      "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-      "date": "Mon, 07 Sep 2026 15:27:50 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
