@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T09:51:36.471616+00:00",
+  "updatedAt": "2026-09-11T10:06:00.046447+00:00",
   "items": [
     {
       "title": "الحوثيون يسيطرون على مضيق باب المندب، وتقرير يفيد برفض ترامب طلب محمد بن سلمان استهدافهم",
@@ -74,6 +74,14 @@
       "cat": "العالم"
     },
     {
+      "title": "هل يتحول التصعيد في اليمن إلى حرب جديدة؟",
+      "link": "https://www.bbc.com/arabic/articles/clyqx95079eo?at_medium=RSS&at_campaign=rss",
+      "description": "يعيش آلاف النازحين في اليمن حالة من الخوف وعدم اليقينٍ بسبب تصاعد حدة القتال بين جماعة أنصار الله الحوثيين المدعومة من إيران والحكومة المعترف بها دوليًا والمدعومة من السعودية.",
+      "date": "Fri, 11 Sep 2026 09:00:17 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
       "title": "الحوثيون والسعودية.. ما أسباب التصعيد الحالي؟",
       "link": "https://www.bbc.com/arabic/articles/cg59ed6ngrjo?at_medium=RSS&at_campaign=rss",
       "description": "لماذا عادت المواجهات بين الحوثيين والسعودية؟ وما علاقة التصعيد الحالي بالحرب بين الولايات المتحدة وإيران؟",
@@ -102,14 +110,6 @@
       "link": "https://www.bbc.com/arabic/articles/clyeqvyeyeeo?at_medium=RSS&at_campaign=rss",
       "description": "الزهايمر يتجاوز حدود النسيان المعتاد، إذ يمكن أن يؤدي إلى عجز عن إتمام مهام يومية بسيطة مثل اتباع وصفة للطهي أو استخدام بطاقة مصرفية، لذلك يحتاج المصاب بالزهايمر لرعاية خاصة من أحد المقربين له",
       "date": "Thu, 03 Sep 2026 14:58:21 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "كيف تبدو مدينة سبتة بعد شهر من دخول عشرات الآلاف إليها من المغرب؟",
-      "link": "https://www.bbc.com/arabic/articles/cgqd949nqqgo?at_medium=RSS&at_campaign=rss",
-      "description": "مرّ شهر على العبور الجماعي غير المسبوق لعشرات الآلاف من المهاجرين من المغرب إلى سبتة، لكن تداعياته لا تزال مستمرة.",
-      "date": "Wed, 02 Sep 2026 09:21:40 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -238,10 +238,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
-      "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
-      "description": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
-      "date": "Fri, 11 Sep 2026 07:59:26 GMT",
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "description": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+      "date": "Fri, 11 Sep 2026 09:54:51 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -250,6 +250,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
       "description": "The father had threatened to behead a female primary school teacher near Toulouse.",
       "date": "Fri, 11 Sep 2026 06:28:42 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+      "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+      "description": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
+      "date": "Fri, 11 Sep 2026 07:59:26 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
