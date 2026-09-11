@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-11T10:51:15.412676+00:00",
+  "updatedAt": "2026-09-11T11:05:53.396540+00:00",
   "items": [
     {
       "title": "الحوثيون يسيطرون على مضيق باب المندب، وتقرير يفيد برفض ترامب طلب محمد بن سلمان استهدافهم",
       "link": "https://www.bbc.com/arabic/articles/c7v41qzn9j2o?at_medium=RSS&at_campaign=rss",
       "description": "مسؤولون يصرحون بأن الإدارة الأمريكية لا تعتزم القيام بعمل عسكري مباشر ضد الحوثيين على الرغم من سيطرتهم على بلدة وجزيرة بمضيق باب المندب، ووزراء خارجية دول الخليج يعتزمون الاجتماع بنظيرهم الإيراني يوم الاثنين.",
-      "date": "Fri, 11 Sep 2026 10:06:43 GMT",
+      "date": "Fri, 11 Sep 2026 10:53:42 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -28,7 +28,7 @@
     {
       "title": "بعد ربع قرن على هجمات 11 سبتمبر، لماذا فشل مشروع أسامة بن لادن؟ - الغارديان",
       "link": "https://www.bbc.com/arabic/articles/cyvz69vyv2vo?at_medium=RSS&at_campaign=rss",
-      "description": "في جولة الصحافة لهذا اليوم، نبدأ بمقال يناقش \"إخفاق\" مشروع بن لادن بعد ربع قرن على هجمات سبتمبر/أيلول، ثم إلى الجدل حول تهويل مخاطر الذكاء الاصطناعي وأولوية محاسبة شركاته، وأخيراً حديث حول عرض \"فستان الانتقام\" الشهير للأميرة الراحلة ديانا للبيع في مزاد.",
+      "description": "في جولة الصحافة لهذا اليوم، نبدأ بمقال يناقش \"إخفاق\" مشروع \"بن لادن\" بعد ربع قرن على هجمات سبتمبر/أيلول، ثم إلى الجدل حول تهويل مخاطر الذكاء الاصطناعي وأولوية محاسبة شركاته، وأخيراً حديث حول عرض \"فستان الانتقام\" الشهير للأميرة الراحلة ديانا للبيع في مزاد.",
       "date": "Fri, 11 Sep 2026 09:37:04 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
@@ -186,14 +186,6 @@
       "cat": "العالم"
     },
     {
-      "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-      "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
-      "description": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
-      "date": "Thu, 10 Sep 2026 22:36:02 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
       "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
       "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
       "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
@@ -222,6 +214,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "description": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+      "date": "Fri, 11 Sep 2026 10:50:04 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Princess Diana's 'revenge dress' goes up for auction",
       "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
       "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
@@ -234,14 +234,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
       "description": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
       "date": "Fri, 11 Sep 2026 06:33:15 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Jimmy Kimmel says interview with Democrat won't air on TV, cites regulator 'threats'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyrv39n4eo?at_medium=RSS&at_campaign=rss",
-      "description": "The White House denies Kimmel's allegations regarding his interview with James Talarico, accusing the TV host of \"play acting\".",
-      "date": "Thu, 10 Sep 2026 23:04:15 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -304,7 +296,7 @@
     {
       "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
       "link": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
-      "description": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely",
+      "description": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely.",
       "date": "Fri, 11 Sep 2026 09:38:23 GMT",
       "source": "BBC World",
       "cat": "العالم"
@@ -421,7 +413,7 @@
       "title": "Alstom to build new battery-electric train fleet",
       "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
       "description": "The government says the work will support thousands of jobs across the UK.",
-      "date": "Fri, 11 Sep 2026 09:17:00 GMT",
+      "date": "Fri, 11 Sep 2026 10:53:44 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
