@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T08:06:17.306037+00:00",
+  "updatedAt": "2026-09-11T08:26:36.156065+00:00",
   "items": [
     {
       "title": "إسرائيل تعلن تدمير \"نفقين لحزب الله\" في جنوب لبنان باستخدام أكثر من ألف طن من المتفجرات",
@@ -66,9 +66,9 @@
       "cat": "العالم"
     },
     {
-      "title": "كيف يمكن للذكاء الاصطناعي القضاء على البشرية في أقل من خمس سنوات؟ - في الإندبندنت",
+      "title": "كيف يمكن للذكاء الاصطناعي القضاء على البشرية في أقل من خمس سنوات؟ - الإندبندنت",
       "link": "https://www.bbc.com/arabic/articles/cdj4z3vjvl4o?at_medium=RSS&at_campaign=rss",
-      "description": "المخاوف المتعلقة بالمخاطر الوجودية التي تهدد البشرية جراء التكنولوجيا \"لم تعد حبيسة عالم الخيال\"، و\"تهديد مميت\" للعمل الإغاثي في غزة وأوكرانيا، والحرب مع إيران أفقدت ترامب \"الورقة الرابحة\" في انتخابات التجديد النصفي الأمريكية.",
+      "description": "المخاوف المتعلقة بالمخاطر الوجودية التي تهدد البشرية جرّاء التكنولوجيا \"لم تعد حبيسة عالم الخيال\"، و\"تهديد مميت\" للعمل الإغاثي في غزة وأوكرانيا، والحرب مع إيران أفقدت ترامب \"الورقة الرابحة\" في انتخابات التجديد النصفي الأمريكية.",
       "date": "Thu, 10 Sep 2026 12:42:22 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
@@ -186,9 +186,9 @@
       "cat": "العالم"
     },
     {
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "title": "Yemen's Houthis seize strategic Red Sea port of Mokha",
       "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "description": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+      "description": "Mokha's capture brings the Iran-backed group closer to controlling a key international shipping route.",
       "date": "Thu, 10 Sep 2026 18:15:47 GMT",
       "source": "BBC World",
       "cat": "العالم"
@@ -388,7 +388,7 @@
     {
       "title": "AI boom helps drive surprise UK growth in July",
       "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-      "description": "The economy expanded by 0.4%, official figures show, whereas economists had predicted no growth.",
+      "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
       "date": "Fri, 11 Sep 2026 08:04:22 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
@@ -626,6 +626,14 @@
       "cat": "اقتصاد"
     },
     {
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+      "date": "Fri, 11 Sep 2026 08:15:25 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
+    },
+    {
       "title": "UK needs new laws for AI in healthcare, says watchdog",
       "link": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
       "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
@@ -686,14 +694,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
       "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
       "date": "Mon, 07 Sep 2026 12:22:07 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
-    },
-    {
-      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
-      "description": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
-      "date": "Mon, 07 Sep 2026 11:30:27 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
