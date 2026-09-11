@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-11T13:25:29.047682+00:00",
+  "updatedAt": "2026-09-11T13:38:38.109986+00:00",
   "items": [
     {
-      "title": "الحوثيون يعززون نفوذهم قرب باب المندب، وواشنطن ترسل وفداً عسكرياً إلى السعودية",
+      "title": "الحوثيون يعززون نفوذهم في باب المندب، وواشنطن ترسل وفداً عسكرياً إلى السعودية",
       "link": "https://www.bbc.co.uk/arabic/live/c83v4z056d7nt?at_medium=RSS&at_campaign=rss",
       "description": "بسط الحوثيون سيطرتهم على مناطق استراتيجية مطلة على باب المندب، ما أثار مخاوف عالمية من تهديد حركة الملاحة والتجارة البحرية. ودفعت هذه التطورات الميدانية بوفد عسكري أمريكي لزيارة السعودية لبحث التصعيد وتأمين الممر المائي الدولي.",
       "date": "",
@@ -90,6 +90,14 @@
       "cat": "العالم"
     },
     {
+      "title": "ما أهمية مضيق باب المندب؟",
+      "link": "https://www.bbc.com/arabic/articles/c998y0zy3xko?at_medium=RSS&at_campaign=rss",
+      "description": "بسط الحوثيون سيطرتهم على مناطق استراتيجية مطلة على باب المندب، ما أثار مخاوف عالمية من تهديد حركة الملاحة والتجارة البحرية.",
+      "date": "Fri, 11 Sep 2026 13:33:22 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
       "title": "لماذا قد تكون ذكرياتنا حول 11 سبتمبر خاطئة؟",
       "link": "https://www.bbc.com/arabic/articles/c4g5jrkgld9o?at_medium=RSS&at_campaign=rss",
       "description": "في الذكرى الخامسة والعشرين لهجمات 11 سبتمبر، نقدم لكم هذا الفيديو حول \"ذكريات الوميض\"، ونشرح فيه لماذا قد تكون هذه الذكريات حول الهجمات غير موثوقة تماماً.",
@@ -102,14 +110,6 @@
       "link": "https://www.bbc.com/arabic/articles/cx2zx04vxjeo?at_medium=RSS&at_campaign=rss",
       "description": "تكشف لقطات فيديو حصلت عليها بي بي سي أن عمر البيومي، الرجل الذي يقف في صلب دعوى قضائية بقيمة تريليون دولار رفعتها عائلات ضحايا هجمات 11 سبتمبر/أيلول، كانت تربطه صلات واسعة بمسؤولين حكوميين سعوديين، وأنه مارس لعبة كرات الطلاء الملونة \"البينتبول\" مع شخص أصبح لاحقاً أحد قادة تنظيم القاعدة.",
       "date": "Tue, 08 Sep 2026 14:09:21 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "رعاية مريض الزهايمر... ما كنت أتمنى معرفته",
-      "link": "https://www.bbc.com/arabic/articles/clyeqvyeyeeo?at_medium=RSS&at_campaign=rss",
-      "description": "الزهايمر يتجاوز حدود النسيان المعتاد، إذ يمكن أن يؤدي إلى عجز عن إتمام مهام يومية بسيطة مثل اتباع وصفة للطهي أو استخدام بطاقة مصرفية، لذلك يحتاج المصاب بالزهايمر لرعاية خاصة من أحد المقربين له",
-      "date": "Thu, 03 Sep 2026 14:58:21 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -397,7 +397,7 @@
       "title": "US inflation holds steady as diesel prices pass $6 a gallon",
       "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
       "description": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official figures.",
-      "date": "Fri, 11 Sep 2026 13:20:03 GMT",
+      "date": "Fri, 11 Sep 2026 13:32:24 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
@@ -421,7 +421,7 @@
       "title": "Interest rates could rise again across the world – here's why",
       "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
       "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-      "date": "Fri, 11 Sep 2026 08:28:47 GMT",
+      "date": "Fri, 11 Sep 2026 13:35:29 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
