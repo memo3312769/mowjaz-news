@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>موجز الأخبار</title>
+<style>
+:root{--bg:#f3f5f7;--card:#fff;--ink:#17202a;--muted:#69747e;--line:#e2e7eb;--dark:#111827;--soft:#eef2f6}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Tahoma,Arial,sans-serif}
+header{background:var(--dark);color:#fff;position:sticky;top:0;z-index:10;box-shadow:0 4px 18px #0002}
+.top{max-width:1500px;margin:auto;padding:18px 24px;display:flex;justify-content:space-between;align-items:center;gap:20px}
+.logo{font-size:30px;font-weight:850}.sub{font-size:12px;color:#cbd5e1;margin-top:3px}.status{white-space:nowrap;font-size:14px}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%;background:#22c55e;margin-left:7px}
+nav{max-width:1500px;margin:auto;padding:0 24px 14px;display:flex;gap:8px;overflow:auto;scrollbar-width:none}
+nav button{border:1px solid #fff3;background:#fff1;color:#fff;border-radius:22px;padding:9px 16px;white-space:nowrap;cursor:pointer}
+nav button.active{background:#fff;color:#111827}main{max-width:1500px;margin:22px auto;padding:0 24px}
+.toolbar{display:flex;justify-content:space-between;align-items:center;gap:14px;margin-bottom:14px;flex-wrap:wrap}
+h1{margin:0;font-size:27px}.meta{font-size:12px;color:var(--muted)}
+.actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.refresh,.theme,.search{background:var(--card);border:1px solid var(--line);border-radius:11px}
+.refresh,.theme{padding:10px 14px;cursor:pointer}.search{width:min(340px,90vw);padding:10px 13px;outline:none}
+.ticker{display:flex;align-items:center;gap:10px;background:var(--dark);color:#fff;border-radius:13px;padding:10px 14px;margin-bottom:16px;overflow:hidden}
+.ticker-label{font-weight:800;white-space:nowrap}.ticker-track{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#e5e7eb}
+.layout{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:20px}
+.hero,.card,.side{background:var(--card);border:1px solid var(--line);border-radius:18px}
+.hero{padding:28px;margin-bottom:16px;box-shadow:0 2px 10px #00000008}.badge{display:inline-block;background:var(--dark);color:#fff;padding:6px 10px;border-radius:8px;font-size:12px}
+.hero h2{font-size:31px;line-height:1.38;margin:13px 0 8px}.hero p{font-size:16px;line-height:1.8;color:#4b5563;margin:10px 0 14px}
+.read{font-weight:700;text-decoration:underline}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.card{padding:18px;transition:.15s}.card:hover{transform:translateY(-2px);box-shadow:0 7px 20px #0001}
+.card h3{font-size:19px;line-height:1.5;margin:9px 0}.card p{color:#56616b;line-height:1.7;font-size:14px}
+.side{padding:18px;height:max-content;position:sticky;top:145px}.side h2{margin:0 0 8px;font-size:20px}
+.item{padding:12px 0;border-bottom:1px solid var(--line)}.item b{display:block;font-size:14px;line-height:1.55}.item a{text-decoration:none}.item small{color:var(--muted)}
+.counts{display:flex;gap:7px;flex-wrap:wrap;margin-top:9px}.count{background:var(--soft);border-radius:999px;padding:5px 9px;font-size:11px;color:#4b5563}
+.empty{padding:60px;text-align:center;background:var(--card);border:1px solid var(--line);border-radius:16px;color:var(--muted)}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:25px}
+@media(max-width:900px){.layout{grid-template-columns:1fr}.side{position:static}.grid{grid-template-columns:1fr}.hero h2{font-size:25px}}
+</style></head>
+<body>
+<header><div class="top"><div><div class="logo">موجز الأخبار</div><div class="sub">تجميع تلقائي • مصادر متعددة • إزالة التكرار • تنظيم حسب الموضوع</div></div>
+<div class="status"><span class="dot"></span><span id="status">جاري التحميل…</span></div></div><nav id="nav"></nav></header>
+<main><div class="toolbar"><div><h1 id="title">أهم الأخبار</h1><div class="meta" id="updated">—</div><div class="counts" id="counts"></div></div>
+<div class="actions"><input id="search" class="search" type="search" placeholder="🔎 ابحث في الأخبار…"><button class="theme" onclick="toggleTheme()">☀️ الوضع</button><button class="refresh" onclick="load()">↻ تحديث</button></div></div>
+<div class="ticker"><span class="ticker-label">🔴 الأحدث</span><span class="ticker-track" id="ticker">جاري تحميل آخر الأخبار…</span></div>
+<div class="layout"><section id="content"></section><aside class="side"><h2>📰 آخر الأخبار</h2><div class="meta">الأحدث حسب وقت النشر</div><div id="latest"></div></aside></div></main>
+<footer>موجز الأخبار — عناوين وملخصات قصيرة مع فتح المصدر الأصلي.</footer>
+<script>
+const cats=["الكل","مصر","العالم","اقتصاد","رياضة","تكنولوجيا","علوم"];let active="الكل",all=[],dark=false;
+const nav=document.getElementById("nav"),content=document.getElementById("content"),latest=document.getElementById("latest"),status=document.getElementById("status"),updated=document.getElementById("updated"),ticker=document.getElementById("ticker"),search=document.getElementById("search"),counts=document.getElementById("counts");
+const esc=s=>String(s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
+const fmt=v=>{const d=new Date(v);return isNaN(d)?String(v||""):d.toLocaleString("ar-EG",{dateStyle:"short",timeStyle:"short"})};
+function navRender(){nav.innerHTML=cats.map(c=>`<button class="${c===active?"active":""}" onclick="pick('${c}')">${c}</button>`).join("")}
+function pick(c){active=c;document.getElementById("title").textContent=c==="الكل"?"أهم الأخبار":c;navRender();render()}
+function getList(){let q=search.value.trim().toLowerCase(),l=active==="الكل"?all:all.filter(x=>x.cat===active);return q?l.filter(x=>(x.title+" "+(x.description||"")+" "+x.source).toLowerCase().includes(q)):l}
+function render(){
+counts.innerHTML=cats.map(c=>`<span class="count">${esc(c)}: ${c==="الكل"?all.length:all.filter(x=>x.cat===c).length}</span>`).join("");
+const l=getList();if(!l.length){content.innerHTML='<div class="empty">لا توجد نتائج متاحة الآن.</div>';latest.innerHTML="";return}
+const h=l[0];content.innerHTML=`<article class="hero"><span class="badge">${esc(h.cat)}</span><h2>${esc(h.title)}</h2><div class="meta">${esc(h.source)} • ${fmt(h.date)}</div>${h.description?`<p>${esc(h.description)}</p>`:""}<a class="read" href="${esc(h.link)}" target="_blank" rel="noopener noreferrer">فتح الخبر في المصدر الأصلي ←</a></article>
+<div class="grid">${l.slice(1,41).map(x=>`<article class="card"><div class="meta">${esc(x.cat)} • <b>${esc(x.source)}</b></div><h3><a href="${esc(x.link)}" target="_blank" rel="noopener noreferrer">${esc(x.title)}</a></h3>${x.description?`<p>${esc(x.description)}</p>`:""}<div class="meta">${fmt(x.date)}</div></article>`).join("")}</div>`;
+latest.innerHTML=l.slice(0,10).map(x=>`<div class="item"><a href="${esc(x.link)}" target="_blank" rel="noopener noreferrer"><b>${esc(x.title)}</b></a><small>${esc(x.source)} • ${fmt(x.date)}</small></div>`).join("");
+ticker.textContent=l.slice(0,5).map(x=>x.title).join("   •   ")
+}
+async function load(){status.textContent="جاري تحميل آخر الأخبار…";try{const r=await fetch("news.json?"+Date.now(),{cache:"no-store"});if(!r.ok)throw Error();const d=await r.json();all=Array.isArray(d.items)?d.items:[];updated.textContent=`آخر تحديث: ${fmt(d.updatedAt)} • ${all.length} خبر`;status.textContent="محدث تلقائيًا";render()}catch(e){status.textContent="تعذر تحميل الأخبار";content.innerHTML='<div class="empty">تعذر تحميل الأخبار حاليًا. اضغط «تحديث» بعد قليل.</div>'}}
+function toggleTheme(){dark=!dark;for(const [k,v] of Object.entries(dark?{"--bg":"#0b1220","--card":"#111827","--ink":"#f3f4f6","--muted":"#aab4c0","--line":"#263244","--soft":"#1b2638"}:{"--bg":"#f3f5f7","--card":"#fff","--ink":"#17202a","--muted":"#69747e","--line":"#e2e7eb","--soft":"#eef2f6"}))document.documentElement.style.setProperty(k,v)}
+search.addEventListener("input",render);navRender();load();setInterval(load,15*60*1000);
+</script></body></html>
