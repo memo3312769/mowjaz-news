@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T05:37:10.656022+00:00",
+  "updatedAt": "2026-09-11T05:50:21.853272+00:00",
   "items": [
     {
       "title": "بيسنت: سنفرض عقوبات على بنك \"كبير\" ضمن الضغوط الاقتصادية الأمريكية على طهران",
@@ -186,10 +186,10 @@
       "cat": "العالم"
     },
     {
-      "title": "Can Trump really pay $5,000 to every American adult?",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-      "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-      "date": "Thu, 10 Sep 2026 16:48:37 GMT",
+      "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+      "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+      "description": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
+      "date": "Thu, 10 Sep 2026 22:36:02 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -230,6 +230,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
       "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
       "date": "Fri, 11 Sep 2026 01:01:18 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+      "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+      "date": "Thu, 10 Sep 2026 16:48:37 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -278,18 +286,18 @@
       "cat": "العالم"
     },
     {
-      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-      "description": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
-      "date": "Thu, 10 Sep 2026 17:13:53 GMT",
+      "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+      "date": "Thu, 10 Sep 2026 23:22:11 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
     {
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "description": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
-      "date": "Thu, 10 Sep 2026 04:43:54 GMT",
+      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
+      "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
+      "description": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
+      "date": "Thu, 10 Sep 2026 17:13:53 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -302,10 +310,10 @@
       "cat": "العالم"
     },
     {
-      "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
-      "link": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo?at_medium=RSS&at_campaign=rss",
-      "description": "A survivor has told the BBC of the chaos onboard as the ferry caught fire near the popular tourist spot of Coron.",
-      "date": "Thu, 10 Sep 2026 09:35:46 GMT",
+      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+      "description": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
+      "date": "Thu, 10 Sep 2026 04:43:54 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -322,50 +330,42 @@
       ]
     },
     {
+      "title": "'Driving a limo', 'getting ready for school'- Americans remember what they were doing on 9/11",
+      "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
+      "date": "Fri, 11 Sep 2026 02:48:43 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "'Islam is being hijacked': Brother of Muslim first responder killed in 9/11",
+      "link": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
+      "description": "Zeshan Hamdani, who lost his older brother in the North Tower, is speaking out after push back against New York Mayor Zohran Mamdani attending the 25-year memorial.",
+      "date": "Fri, 11 Sep 2026 04:10:24 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Drone display recreates the Twin Towers over New York City",
+      "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
+      "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
+      "date": "Thu, 10 Sep 2026 14:19:26 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
+      "link": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&at_campaign=rss",
+      "description": "The senator has also proposed a sort of sovereign wealth fund in which the US would take a 50% stake in AI companies.",
+      "date": "Thu, 10 Sep 2026 22:48:37 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Watch: Is Trump's $5,000 election pledge legal?",
       "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
       "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
       "date": "Thu, 10 Sep 2026 07:12:32 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
-      "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-      "description": "Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar, and the neighbouring Israeli settlement of Maale Admumim.",
-      "date": "Wed, 09 Sep 2026 22:17:22 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Watch: Do Republicans blame Trump for high oil prices?",
-      "link": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.",
-      "date": "Thu, 10 Sep 2026 01:37:31 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Inside Thailand's school shooter drills following recent attacks",
-      "link": "https://www.bbc.co.uk/news/videos/c07lpp4e993o?at_medium=RSS&at_campaign=rss",
-      "description": "Police say they hope the drill will help prepare students, as concern grows over the increase in school shootings in South East Asia.",
-      "date": "Wed, 09 Sep 2026 22:32:07 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Watch: Norway bids farewell to King Harald",
-      "link": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
-      "description": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
-      "date": "Wed, 09 Sep 2026 16:36:45 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Sinkhole appears outside Malibu home thought to belong to Nicolas Cage",
-      "link": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
-      "description": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities.",
-      "date": "Wed, 09 Sep 2026 09:49:08 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
