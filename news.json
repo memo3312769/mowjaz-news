@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:25:21.511334+00:00",
+  "updatedAt": "2026-09-11T07:38:37.154764+00:00",
   "items": [
     {
       "title": "إسرائيل تعلن تدمير \"نفقين لحزب الله\" في جنوب لبنان باستخدام أكثر من ألف طن من المتفجرات",
@@ -14,6 +14,14 @@
       "link": "https://www.bbc.com/arabic/articles/cqlx7v0y2w6o?at_medium=RSS&at_campaign=rss",
       "description": "سيطرت جماعة الحوثي المدعومة من إيران على مدينة وميناء المخا وجزيرة في البحر الأحمر، بعد مواجهات مع القوات الحكومية المدعومة من السعودية. وتمنح السيطرة الحوثيين موقعاً متقدماً قرب مضيق باب المندب، أحد أهم الممرات البحرية للتجارة العالمية، وسط تصاعد التوترات الإقليمية.",
       "date": "Fri, 11 Sep 2026 07:00:33 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "هل يستعد العالم لـ\"عصر ما بعد النفط\"، وماذا سيحدث للدول التي تعتمد عليه؟",
+      "link": "https://www.bbc.com/arabic/articles/cgrv9zjej5po?at_medium=RSS&at_campaign=rss",
+      "description": "تُشير تقارير حديثة إلى أن العالم قد يتجه تدريجياً بعيداً عن النفط، ما قد يفرض ضغوطاً اقتصادية وسياسية واجتماعية كبيرة على الدول الأكثر اعتماداً على عائداته. وبينما تستعد دول الخليج بفضل التنويع والاستثمارات، تواجه دول مثل الجزائر ونيجيريا والعراق وليبيا تحدياً أكبر في بناء اقتصادات أقل ارتباطاً بالن",
+      "date": "Fri, 11 Sep 2026 07:33:53 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -52,16 +60,8 @@
     {
       "title": "لماذا تعاني النساء من نوبات الشقيقة أكثر من الرجال، وكيف يمكن الحدّ منها؟",
       "link": "https://www.bbc.com/arabic/articles/c62j6vvykx4o?at_medium=RSS&at_campaign=rss",
-      "description": "التوتر وساعات النوم القليلة والتغييرات التي تطال الهرمونات، جميعها عوامل قد تفاقم من الإصابة بنوبات الشقيقة.",
+      "description": "التوتر وساعات النوم القليلة والتغييرات التي تطال الهرمونات، جميعها عوامل قد تُفاقم من الإصابة بنوبات الشقيقة.",
       "date": "Thu, 10 Sep 2026 17:25:27 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "آب يسجّل أعلى درجات الحرارة على الإطلاق بالتزامن مع تفاقم تغير المناخ وظاهرة النينيو",
-      "link": "https://www.bbc.com/arabic/articles/c8xkrpj5wn0o?at_medium=RSS&at_campaign=rss",
-      "description": "أدى تغير المناخ وتزايد تأثير ظاهرة النينيو إلى وصول شهر أغسطس إلى الرقم القياسي لأدفأ شهر.",
-      "date": "Thu, 10 Sep 2026 15:45:00 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -338,7 +338,7 @@
       ]
     },
     {
-      "title": "'It was heartbreaking'- Americans remember what they were doing on 9/11",
+      "title": "Watch: Americans remember what they were doing on 9/11",
       "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
       "date": "Fri, 11 Sep 2026 02:48:43 GMT",
