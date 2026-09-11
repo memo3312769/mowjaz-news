@@ -382,16 +382,30 @@ function cleanText(value){
     .slice(0,300);
 }
 function buildNav(){
-  nav.innerHTML = categories.map(([name,key]) =>
-    `<button class="${active===key ? "active":""}"
-      onclick="pick('${key}')">${name}</button>`
-  ).join("");
-}
+  nav.innerHTML = "";
 
-function pick(cat){
-  active = cat;
-  buildNav();
-  render();
+  categories.forEach(([name,key]) => {
+    const button = document.createElement("button");
+
+    button.textContent = name;
+
+    if(active === key){
+      button.classList.add("active");
+    }
+
+    button.addEventListener("click", () => {
+      active = key;
+      buildNav();
+      render();
+
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
+    });
+
+    nav.appendChild(button);
+  });
 }
 
 function getList(){
