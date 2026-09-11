@@ -1,10 +1,18 @@
 {
-  "updatedAt": "2026-09-11T06:07:03.909079+00:00",
+  "updatedAt": "2026-09-11T06:29:48.322922+00:00",
   "items": [
     {
-      "title": "بيسنت: سنفرض عقوبات على بنك \"كبير\" ضمن الضغوط الاقتصادية الأمريكية على طهران",
+      "title": "إسرائيل تعلن تدمير \"نفقين لحزب الله\" في جنوب لبنان باستخدام أكثر من ألف طن من المتفجرات",
+      "link": "https://www.bbc.com/arabic/articles/cevwz7npy4wo?at_medium=RSS&at_campaign=rss",
+      "description": "أعلن الجيش الإسرائيلي تدمير \"نفقين لحزب الله\" في جنوب لبنان، وقال إنه استخدم أكثر من ألف طن من المتفجرات، وعثر داخلهما على صواريخ وطائرات مسيّرة وذخائر. وأكدت إسرائيل أن العملية تأتي ضمن استكمال إقامة منطقة أمنية في جنوب لبنان، بينما تسببت التفجيرات بارتدادات شعر بها سكان مناطق عدة.",
+      "date": "Fri, 11 Sep 2026 06:25:25 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "وزير الخزانة الأمريكي: عقوبات على بنك كبير يتعامل مع إيران الأسبوع المقبل",
       "link": "https://www.bbc.com/arabic/articles/c207zr7953zo?at_medium=RSS&at_campaign=rss",
-      "description": "التوتر المتصاعد في المنطقة يهدد حركة الملاحة وإمدادات النفط. وإيران تتمسك بتصعيدها وسط ضغوط أمريكية ودولية متزايدة",
+      "description": "قال وزير الخزانة الأمريكي سكوت بيسنت إن واشنطن ستفرض الأسبوع المقبل عقوبات على بنك كبير في إطار تصعيد الضغوط الاقتصادية على إيران. وتأتي الخطوة ضمن حملة أوسع تستهدف الكيانات والأفراد المتعاملين مع طهران، بينما يتوقع الرئيس دونالد ترامب استمرار الحرب حتى انتخابات التجديد النصفي في نوفمبر/تشرين الثاني",
       "date": "Fri, 11 Sep 2026 04:48:06 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
@@ -62,14 +70,6 @@
       "link": "https://www.bbc.com/arabic/articles/cdj4z3vjvl4o?at_medium=RSS&at_campaign=rss",
       "description": "المخاوف المتعلقة بالمخاطر الوجودية التي تهدد البشرية جراء التكنولوجيا \"لم تعد حبيسة عالم الخيال\"، و\"تهديد مميت\" للعمل الإغاثي في غزة وأوكرانيا، والحرب مع إيران أفقدت ترامب \"الورقة الرابحة\" في انتخابات التجديد النصفي الأمريكية.",
       "date": "Thu, 10 Sep 2026 12:42:22 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "ابن الحسكة: كيف تحوّلت صورة نسيم الحمام في دمشق إلى قضية رأي عام؟",
-      "link": "https://www.bbc.com/arabic/articles/c4gk64n9zx4o?at_medium=RSS&at_campaign=rss",
-      "description": "كيف تحولت صورة شاب من الحسكة التقطها بعفوية في ساحة الأمويين إلى قضية رأي عام، بعدما تعرض للتنمر بسبب مظهره وملابسه، قبل أن تنقلب موجة السخرية إلى تضامن واسع وتكريم رسمي لنسيم الحمام.",
-      "date": "Thu, 10 Sep 2026 11:28:22 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -221,7 +221,7 @@
       "title": "Man jailed after threatening to kill son's teacher in French village",
       "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
       "description": "The father had threatened to behead a female primary school teacher near Toulouse.",
-      "date": "Thu, 10 Sep 2026 20:10:51 GMT",
+      "date": "Fri, 11 Sep 2026 06:28:42 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -370,6 +370,14 @@
       "cat": "العالم"
     },
     {
+      "title": "UK economy grew faster than expected in July",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+      "description": "The economy expanded by 0.4%, official figures show, whereas economists had predicted no growth.",
+      "date": "Fri, 11 Sep 2026 06:26:50 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "I asked my husband to pay into my pension when we had a child - here's why",
       "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
       "description": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
@@ -402,14 +410,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-      "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
-      "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
-      "date": "Thu, 10 Sep 2026 13:34:17 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "Can Europe recharge its battery industry?",
       "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
       "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
@@ -420,6 +420,14 @@
         "BBC Business",
         "BBC Technology"
       ]
+    },
+    {
+      "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+      "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+      "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+      "date": "Thu, 10 Sep 2026 13:34:17 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
     },
     {
       "title": "Primark finally set to launch home deliveries",
@@ -578,14 +586,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
       "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
       "date": "Tue, 08 Sep 2026 09:33:35 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
-      "date": "Tue, 08 Sep 2026 11:09:54 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
