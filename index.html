@@ -368,7 +368,19 @@ function esc(value){
     .replace(/"/g,"&quot;")
     .replace(/'/g,"&#039;");
 }
-
+function cleanText(value){
+  return String(value ?? "")
+    .replace(/<[^>]*>/g," ")
+    .replace(/&nbsp;/g," ")
+    .replace(/&amp;/g,"&")
+    .replace(/&quot;/g,'"')
+    .replace(/&#39;/g,"'")
+    .replace(/&lt;/g,"<")
+    .replace(/&gt;/g,">")
+    .replace(/\s+/g," ")
+    .trim()
+    .slice(0,300);
+}
 function buildNav(){
   nav.innerHTML = categories.map(([name,key]) =>
     `<button class="${active===key ? "active":""}"
@@ -429,7 +441,7 @@ function render(){
           style="width:100%;max-height:420px;object-fit:cover;border-radius:15px;margin-bottom:18px"
           onerror="this.style.display='none'">` : ""}
         <h2>${esc(hero.title)}</h2>
-        <p>${esc(hero.description || "")}</p>
+        <p>${esc(cleanText(hero.description))}</p>
         <div class="source">${esc(hero.source || "")} • ${formatDate(hero.date)}</div>
         <p><a href="${esc(hero.link)}" target="_blank" rel="noopener">
           فتح الخبر في المصدر الأصلي ←
@@ -444,7 +456,7 @@ function render(){
             onerror="this.style.display='none'">` : ""}
           <span class="source">${esc(x.cat || "خبر")}</span>
           <h3>${esc(x.title)}</h3>
-          <p>${esc(x.description || "")}</p>
+          <p>${esc(cleanText(x.description))}</p>
           <div class="source">${esc(x.source || "")}</div>
           <p>
             <a href="${esc(x.link)}" target="_blank" rel="noopener">
