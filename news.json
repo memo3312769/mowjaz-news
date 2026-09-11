@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T12:30:12.087324+00:00",
+  "updatedAt": "2026-09-11T12:53:23.612359+00:00",
   "items": [
     {
       "title": "الحوثيون يسيطرون على مواقع استراتيجية في باب المندب، وتقرير يفيد برفض ترامب طلب بن سلمان استهدافهم",
@@ -394,6 +394,14 @@
       "cat": "العالم"
     },
     {
+      "title": "US inflation holds steady as diesel prices pass $6 a gallon",
+      "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+      "description": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official figures.",
+      "date": "Fri, 11 Sep 2026 12:46:22 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
       "title": "AI boom helps drive surprise UK growth in July",
       "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
       "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
@@ -418,14 +426,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Alstom to build new battery-electric train fleet",
-      "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-      "description": "The government says the work will support thousands of jobs across the UK.",
-      "date": "Fri, 11 Sep 2026 10:53:44 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "Can Europe recharge its battery industry?",
       "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
       "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
@@ -436,6 +436,14 @@
         "BBC Business",
         "BBC Technology"
       ]
+    },
+    {
+      "title": "Alstom to build new battery-electric train fleet",
+      "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+      "description": "The government says the work will support thousands of jobs across the UK.",
+      "date": "Fri, 11 Sep 2026 10:53:44 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
     },
     {
       "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
@@ -606,14 +614,6 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "description": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
-      "date": "Tue, 08 Sep 2026 09:17:48 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "Should promotion depend on how workers use AI?",
       "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
       "description": "More companies are tying career progression to AI use: is that fair?",
@@ -640,6 +640,14 @@
       "date": "Fri, 04 Sep 2026 05:09:02 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
+    },
+    {
+      "title": "Does this AI comic make you laugh?",
+      "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
+      "description": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
+      "date": "Fri, 11 Sep 2026 12:49:30 GMT",
+      "source": "BBC Technology",
+      "cat": "تكنولوجيا"
     },
     {
       "title": "UK needs new laws for AI in healthcare, says watchdog",
@@ -694,14 +702,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
       "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
       "date": "Mon, 07 Sep 2026 15:27:50 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
-    },
-    {
-      "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
-      "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
-      "date": "Mon, 07 Sep 2026 12:22:07 GMT",
       "source": "BBC Technology",
       "cat": "تكنولوجيا"
     },
