@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T05:50:21.853272+00:00",
+  "updatedAt": "2026-09-11T06:07:03.909079+00:00",
   "items": [
     {
       "title": "بيسنت: سنفرض عقوبات على بنك \"كبير\" ضمن الضغوط الاقتصادية الأمريكية على طهران",
@@ -330,7 +330,7 @@
       ]
     },
     {
-      "title": "'Driving a limo', 'getting ready for school'- Americans remember what they were doing on 9/11",
+      "title": "'It was heartbreaking'- Americans remember what they were doing on 9/11",
       "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
       "date": "Fri, 11 Sep 2026 02:48:43 GMT",
@@ -386,18 +386,18 @@
       "cat": "اقتصاد"
     },
     {
-      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-      "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-      "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-      "date": "Thu, 10 Sep 2026 17:38:31 GMT",
-      "source": "BBC Business",
-      "cat": "اقتصاد"
-    },
-    {
       "title": "Alstom to build new battery-electric train fleet",
       "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
       "description": "The government says the work will support thousands of jobs across the UK.",
       "date": "Thu, 10 Sep 2026 21:00:33 GMT",
+      "source": "BBC Business",
+      "cat": "اقتصاد"
+    },
+    {
+      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+      "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+      "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+      "date": "Thu, 10 Sep 2026 17:38:31 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
