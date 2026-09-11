@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-09-11T06:47:24.251453+00:00",
+  "updatedAt": "2026-09-11T07:06:37.511413+00:00",
   "items": [
     {
       "title": "إسرائيل تعلن تدمير \"نفقين لحزب الله\" في جنوب لبنان باستخدام أكثر من ألف طن من المتفجرات",
       "link": "https://www.bbc.com/arabic/articles/cevwz7npy4wo?at_medium=RSS&at_campaign=rss",
       "description": "أعلن الجيش الإسرائيلي تدمير \"نفقين لحزب الله\" في جنوب لبنان، وقال إنه استخدم أكثر من ألف طن من المتفجرات، وعثر داخلهما على صواريخ وطائرات مسيّرة وذخائر. وأكدت إسرائيل أن العملية تأتي ضمن استكمال إقامة منطقة أمنية في جنوب لبنان، بينما تسببت التفجيرات بارتدادات شعر بها سكان مناطق عدة.",
       "date": "Fri, 11 Sep 2026 06:25:25 GMT",
+      "source": "BBC العربية",
+      "cat": "العالم"
+    },
+    {
+      "title": "ماذا نعرف عن مدينة المخا ومينائها التي سيطر عليها الحوثيون؟",
+      "link": "https://www.bbc.com/arabic/articles/cqlx7v0y2w6o?at_medium=RSS&at_campaign=rss",
+      "description": "سيطرت جماعة الحوثي المدعومة من إيران على مدينة وميناء المخا وجزيرة في البحر الأحمر، بعد مواجهات مع القوات الحكومية المدعومة من السعودية. وتمنح السيطرة الحوثيين موقعاً متقدماً قرب مضيق باب المندب، أحد أهم الممرات البحرية للتجارة العالمية، وسط تصاعد التوترات الإقليمية.",
+      "date": "Fri, 11 Sep 2026 07:00:33 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -26,9 +34,9 @@
       "cat": "العالم"
     },
     {
-      "title": "ترامب يعد بتوزيع المال على الأمريكيين اذا فاز حزبه!",
+      "title": "ترامب يعد بتوزيع المال على الأمريكيين إذا فاز حزبه!",
       "link": "https://www.bbc.com/arabic/articles/c36lkjlzn8po?at_medium=RSS&at_campaign=rss",
-      "description": "جاء تحرك ترامب محاولة لإقامة صلة مالية مباشرة بينه وبين المواطن الأمريكي بإعلانه منح مبلغ الخمسة آلاف دولار لكل مواطن أمريكي بالغ. ولكن هناك تحفظات سياسية ومعضلة قانونية تواجه وعد ترامب.",
+      "description": "جاء تحرك ترامب محاولة لإقامة صلة مالية مباشرة بينه وبين المواطن الأمريكي بإعلانه منح مبلغ خمسة آلاف دولار لكل مواطن أمريكي بالغ. ولكن هناك تحفظات سياسية ومعضلة قانونية تواجه وعد ترامب.",
       "date": "Fri, 11 Sep 2026 00:14:23 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
@@ -46,14 +54,6 @@
       "link": "https://www.bbc.com/arabic/articles/c62j6vvykx4o?at_medium=RSS&at_campaign=rss",
       "description": "التوتر وساعات النوم القليلة والتغييرات التي تطال الهرمونات، جميعها عوامل قد تفاقم من الإصابة بنوبات الشقيقة.",
       "date": "Thu, 10 Sep 2026 17:25:27 GMT",
-      "source": "BBC العربية",
-      "cat": "العالم"
-    },
-    {
-      "title": "ماذا نعرف عن \"جبل الشيخ\" الذي تفقّد فيه نتنياهو القوات الإسرائيلية؟",
-      "link": "https://www.bbc.com/arabic/articles/cwyxn7p7re9o?at_medium=RSS&at_campaign=rss",
-      "description": "تفقّد رئيس الوزراء الإسرائيلي بنيامين نتنياهو القوات الإسرائيلية في \"جبل الشيخ\"، وقال إن إسرائيل تقترب من \"إسقاط النظام الإيراني\" و\"انهيار حلفائه\" في المنطقة. فماذا نعرف عنه؟",
-      "date": "Thu, 10 Sep 2026 08:44:53 GMT",
       "source": "BBC العربية",
       "cat": "العالم"
     },
@@ -237,7 +237,7 @@
       "title": "Princess Diana's 'revenge dress' goes up for auction",
       "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
       "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-      "date": "Fri, 11 Sep 2026 03:15:46 GMT",
+      "date": "Fri, 11 Sep 2026 06:54:46 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -381,7 +381,7 @@
       "title": "UK economy grew faster than expected in July",
       "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
       "description": "The economy expanded by 0.4%, official figures show, whereas economists had predicted no growth.",
-      "date": "Fri, 11 Sep 2026 06:26:50 GMT",
+      "date": "Fri, 11 Sep 2026 07:03:29 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
     },
