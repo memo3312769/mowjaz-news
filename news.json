@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T08:53:35.750833+00:00",
+  "updatedAt": "2026-09-11T09:05:49.596982+00:00",
   "items": [
     {
       "title": "إسرائيل تعلن تدمير \"نفقين لحزب الله\" في جنوب لبنان باستخدام أكثر من ألف طن من المتفجرات",
@@ -202,42 +202,30 @@
       "cat": "العالم"
     },
     {
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "description": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
-      "date": "Thu, 10 Sep 2026 16:31:30 GMT",
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+      "date": "Fri, 11 Sep 2026 08:15:25 GMT",
+      "source": "BBC World",
+      "cat": "العالم",
+      "sources": [
+        "BBC World",
+        "BBC Technology"
+      ]
+    },
+    {
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+      "date": "Fri, 11 Sep 2026 05:41:54 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
     {
-      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-      "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
-      "date": "Thu, 10 Sep 2026 15:54:17 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Man jailed after threatening to kill son's teacher in French village",
-      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-      "description": "The father had threatened to behead a female primary school teacher near Toulouse.",
-      "date": "Fri, 11 Sep 2026 06:28:42 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "Coach crash kills several people in Swiss Alps",
+      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
       "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
       "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
-      "date": "Fri, 11 Sep 2026 01:01:18 GMT",
-      "source": "BBC World",
-      "cat": "العالم"
-    },
-    {
-      "title": "More than 20 children killed in DR Congo school fire",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-      "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
-      "date": "Thu, 10 Sep 2026 19:16:24 GMT",
+      "date": "Fri, 11 Sep 2026 08:54:20 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -250,10 +238,42 @@
       "cat": "العالم"
     },
     {
-      "title": "Can Trump really pay $5,000 to every American adult?",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-      "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-      "date": "Thu, 10 Sep 2026 16:48:37 GMT",
+      "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+      "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+      "description": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
+      "date": "Fri, 11 Sep 2026 07:59:26 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "description": "The father had threatened to behead a female primary school teacher near Toulouse.",
+      "date": "Fri, 11 Sep 2026 06:28:42 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "More than 20 children killed in DR Congo school fire",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
+      "date": "Thu, 10 Sep 2026 19:16:24 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+      "description": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+      "date": "Thu, 10 Sep 2026 16:31:30 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+      "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+      "date": "Thu, 10 Sep 2026 15:54:17 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -302,6 +322,14 @@
       "cat": "العالم"
     },
     {
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+      "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+      "date": "Fri, 11 Sep 2026 05:53:06 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
       "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
       "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
       "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
@@ -314,6 +342,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
       "description": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
       "date": "Thu, 10 Sep 2026 17:13:53 GMT",
+      "source": "BBC World",
+      "cat": "العالم"
+    },
+    {
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+      "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+      "date": "Thu, 10 Sep 2026 16:48:37 GMT",
       "source": "BBC World",
       "cat": "العالم"
     },
@@ -624,14 +660,6 @@
       "date": "Tue, 08 Sep 2026 09:00:28 GMT",
       "source": "BBC Business",
       "cat": "اقتصاد"
-    },
-    {
-      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-      "date": "Fri, 11 Sep 2026 08:15:25 GMT",
-      "source": "BBC Technology",
-      "cat": "تكنولوجيا"
     },
     {
       "title": "UK needs new laws for AI in healthcare, says watchdog",
