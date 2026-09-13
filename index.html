@@ -6,18 +6,17 @@
 <title>موجز الأخبار</title>
 
 <style>
-*{
-  box-sizing:border-box;
-}
+*{box-sizing:border-box}
 
 :root{
   --bg:#f1f5f9;
-  --card:#ffffff;
+  --card:#fff;
   --text:#111827;
   --muted:#64748b;
   --line:#e2e8f0;
   --dark:#0f172a;
   --accent:#2563eb;
+  --danger:#dc2626;
 }
 
 body.dark{
@@ -39,24 +38,23 @@ body{
 
 header{
   background:var(--dark);
-  color:white;
-  padding:28px 5%;
+  color:#fff;
+  padding:28px 4%;
 }
 
-.header-inner{
+.header{
   max-width:1450px;
   margin:auto;
 }
 
 .logo{
-  font-size:38px;
+  font-size:40px;
   font-weight:900;
 }
 
 .subtitle{
   color:#cbd5e1;
   margin-top:6px;
-  font-size:15px;
 }
 
 nav{
@@ -69,15 +67,15 @@ nav{
 nav button{
   border:1px solid #475569;
   background:#1e293b;
-  color:white;
-  padding:10px 20px;
+  color:#fff;
+  padding:10px 21px;
   border-radius:30px;
   cursor:pointer;
   font-size:16px;
 }
 
 nav button.active{
-  background:white;
+  background:#fff;
   color:#111827;
 }
 
@@ -90,66 +88,66 @@ nav button.active{
   display:inline-block;
   width:10px;
   height:10px;
-  background:#22c55e;
   border-radius:50%;
+  background:#22c55e;
   margin-left:7px;
 }
 
 main{
   max-width:1450px;
   margin:auto;
-  padding:28px 5%;
+  padding:28px 4%;
 }
 
 .toolbar{
   display:flex;
-  gap:10px;
-  flex-wrap:wrap;
+  gap:12px;
   align-items:center;
-  margin-bottom:22px;
+  flex-wrap:wrap;
 }
 
-input{
+.search{
   flex:1;
   min-width:240px;
   padding:15px 18px;
   border:1px solid var(--line);
-  border-radius:14px;
+  border-radius:15px;
   background:var(--card);
   color:var(--text);
-  font-size:16px;
+  font-size:17px;
 }
 
 .action{
-  padding:14px 18px;
+  padding:14px 19px;
   border:1px solid var(--line);
-  border-radius:14px;
+  border-radius:15px;
   background:var(--card);
   color:var(--text);
   cursor:pointer;
+  font-size:15px;
 }
 
 .counts{
   display:flex;
   gap:10px;
   flex-wrap:wrap;
-  margin-bottom:22px;
+  margin:24px 0;
 }
 
 .count{
   background:var(--card);
   border:1px solid var(--line);
-  padding:9px 14px;
-  border-radius:20px;
+  padding:9px 15px;
+  border-radius:22px;
   color:var(--muted);
 }
 
 .ticker{
   background:var(--dark);
-  color:white;
-  border-radius:16px;
-  padding:14px 18px;
-  margin-bottom:26px;
+  color:#fff;
+  border-radius:17px;
+  padding:15px 20px;
+  margin-bottom:25px;
   overflow:hidden;
   white-space:nowrap;
   text-overflow:ellipsis;
@@ -171,36 +169,56 @@ input{
   overflow:hidden;
 }
 
-.card h2{
-  margin-top:0;
-  line-height:1.5;
-  overflow-wrap:anywhere;
-  word-break:break-word;
-}
-
-.card p{
-  color:var(--muted);
-  line-height:1.9;
-  overflow-wrap:anywhere;
-  word-break:break-word;
-}
-
-.card a{
-  color:var(--accent);
-  font-weight:700;
-  text-decoration:none;
-  overflow-wrap:anywhere;
-  word-break:break-word;
+.hero-image{
+  width:100%;
+  max-height:430px;
+  object-fit:cover;
+  border-radius:16px;
+  display:block;
+  margin-bottom:20px;
 }
 
 .badge{
   display:inline-block;
   background:var(--dark);
-  color:white;
-  padding:7px 12px;
+  color:#fff;
+  padding:7px 13px;
   border-radius:10px;
   font-size:13px;
   margin-bottom:12px;
+}
+
+.hero-title{
+  font-size:30px;
+  line-height:1.55;
+  margin:5px 0 12px;
+  overflow-wrap:anywhere;
+}
+
+.description{
+  color:var(--muted);
+  line-height:1.9;
+  font-size:16px;
+  overflow-wrap:anywhere;
+}
+
+.source{
+  color:var(--muted);
+  font-size:13px;
+  margin-top:8px;
+}
+
+a{
+  color:var(--accent);
+  text-decoration:none;
+  overflow-wrap:anywhere;
+  word-break:break-word;
+}
+
+.read{
+  display:inline-block;
+  margin-top:12px;
+  font-weight:700;
 }
 
 .news-grid{
@@ -218,37 +236,33 @@ input{
   overflow:hidden;
 }
 
-.news-card img{
+.news-image{
   width:100%;
   height:190px;
   object-fit:cover;
   border-radius:13px;
-  margin-bottom:12px;
   display:block;
+  margin-bottom:14px;
 }
 
 .news-card h3{
-  margin:5px 0 10px;
-  line-height:1.6;
   font-size:19px;
+  line-height:1.6;
+  margin:7px 0 10px;
   overflow-wrap:anywhere;
-  word-break:break-word;
-}
-
-.news-card p{
-  color:var(--muted);
-  line-height:1.7;
-  overflow-wrap:anywhere;
-  word-break:break-word;
-}
-
-.source{
-  color:var(--muted);
-  font-size:13px;
 }
 
 .side h2{
   margin-top:0;
+}
+
+.latest-item{
+  padding:13px 0;
+  border-bottom:1px solid var(--line);
+}
+
+.latest-item:last-child{
+  border-bottom:0;
 }
 
 .empty{
@@ -275,17 +289,10 @@ footer{
 }
 
 @media(max-width:600px){
-  .logo{
-    font-size:30px;
-  }
-
-  main{
-    padding:20px 4%;
-  }
-
-  .card{
-    padding:18px;
-  }
+  .logo{font-size:30px}
+  main{padding:20px 4%}
+  .card{padding:18px}
+  .hero-title{font-size:24px}
 }
 </style>
 </head>
@@ -293,27 +300,43 @@ footer{
 <body>
 
 <header>
-  <div class="header-inner">
-    <div class="logo">موجز الأخبار</div>
-    <div class="subtitle">
-      تجميع تلقائي • مصادر متعددة • تنظيم حسب الموضوع
-    </div>
+<div class="header">
 
-    <nav id="nav"></nav>
+  <div class="logo">موجز الأخبار</div>
 
-    <div class="status">
-      <span class="dot"></span>
-      محدث تلقائيًا
-    </div>
+  <div class="subtitle">
+    تجميع تلقائي • مصادر متعددة • تنظيم حسب الموضوع
   </div>
+
+  <nav id="nav"></nav>
+
+  <div class="status" id="status">
+    <span class="dot"></span>
+    جاري تحميل الأخبار...
+  </div>
+
+</div>
 </header>
 
 <main>
 
   <div class="toolbar">
-    <input id="search" type="search" placeholder="🔎 ابحث في الأخبار...">
-    <button class="action" onclick="toggleTheme()">☀️ الوضع</button>
-    <button class="action" onclick="loadNews()">↻ تحديث</button>
+
+    <input
+      id="search"
+      class="search"
+      type="search"
+      placeholder="🔎 ابحث في الأخبار..."
+    >
+
+    <button class="action" onclick="toggleTheme()">
+      ☀️ الوضع
+    </button>
+
+    <button class="action" onclick="loadNews()">
+      ↻ تحديث
+    </button>
+
   </div>
 
   <div class="counts" id="counts"></div>
@@ -325,13 +348,19 @@ footer{
   <div class="layout">
 
     <section>
+
       <div id="hero"></div>
+
       <div class="news-grid" id="newsGrid"></div>
+
     </section>
 
-    <aside class="side card">
-      <h2>📰 آخر الأخبار</h2>
+    <aside class="card side">
+
+      <h2>📰 آخر الأخبار</h2>1
+
       <div id="latest"></div>
+
     </aside>
 
   </div>
@@ -343,6 +372,7 @@ footer{
 </footer>
 
 <script>
+
 const categories = [
   ["الكل","all"],
   ["مصر","مصر"],
@@ -361,30 +391,41 @@ const nav = document.getElementById("nav");
 const search = document.getElementById("search");
 
 function esc(value){
+
   return String(value ?? "")
     .replace(/&/g,"&amp;")
     .replace(/</g,"&lt;")
     .replace(/>/g,"&gt;")
     .replace(/"/g,"&quot;")
     .replace(/'/g,"&#039;");
+
 }
+
 function cleanText(value){
+
   return String(value ?? "")
+    .replace(/<script[\s\S]*?<\/script>/gi," ")
+    .replace(/<style[\s\S]*?<\/style>/gi," ")
     .replace(/<[^>]*>/g," ")
-    .replace(/&nbsp;/g," ")
-    .replace(/&amp;/g,"&")
-    .replace(/&quot;/g,'"')
-    .replace(/&#39;/g,"'")
-    .replace(/&lt;/g,"<")
-    .replace(/&gt;/g,">")
+    .replace(/https?:\/\/\S+/g," ")
+    .replace(/&nbsp;/gi," ")
+    .replace(/&amp;/gi,"&")
+    .replace(/&quot;/gi,'"')
+    .replace(/&#39;/gi,"'")
+    .replace(/&lt;/gi,"<")
+    .replace(/&gt;/gi,">")
     .replace(/\s+/g," ")
     .trim()
-    .slice(0,300);
+    .slice(0,320);
+
 }
+
 function buildNav(){
+
   nav.innerHTML = "";
 
   categories.forEach(([name,key]) => {
+
     const button = document.createElement("button");
 
     button.textContent = name;
@@ -393,171 +434,301 @@ function buildNav(){
       button.classList.add("active");
     }
 
-    button.addEventListener("click", () => {
+    button.addEventListener("click",function(){
+
       active = key;
+
       buildNav();
+
       render();
 
       window.scrollTo({
-        top: 0,
-        behavior: "smooth"
+        top:0,
+        behavior:"smooth"
       });
+
     });
 
     nav.appendChild(button);
+
   });
+
 }
 
 function getList(){
+
   const q = search.value.trim().toLowerCase();
 
-  return news.filter(x=>{
-    const catOK = active==="all" || x.cat===active;
-    const text = `${x.title||""} ${x.description||""} ${x.source||""}`.toLowerCase();
-    return catOK && (!q || text.includes(q));
+  return news.filter(x => {
+
+    const categoryOK =
+      active === "all" ||
+      x.cat === active;
+
+    const text =
+      `${x.title || ""} ${x.description || ""} ${x.source || ""}`
+      .toLowerCase();
+
+    return categoryOK &&
+      (!q || text.includes(q));
+
   });
+
 }
 
-function formatDate(d){
-  const date = new Date(d);
-  if(isNaN(date)) return "";
-  return date.toLocaleString("ar-EG",{
+function formatDate(value){
+
+  const d = new Date(value);
+
+  if(isNaN(d)) return "";
+
+  return d.toLocaleString("ar-EG",{
     year:"numeric",
     month:"numeric",
     day:"numeric",
     hour:"2-digit",
     minute:"2-digit"
   });
+
+}
+
+function imageHTML(url,className){
+
+  if(!url) return "";
+
+  return `
+    <img
+      class="${className}"
+      src="${esc(url)}"
+      loading="lazy"
+      onerror="this.style.display='none'"
+      alt=""
+    >
+  `;
+
 }
 
 function render(){
+
   const list = getList();
 
   const counts = {};
-  categories.forEach(([name,key])=>{
-    counts[key] = key==="all"
+
+  categories.forEach(([name,key]) => {
+
+    counts[key] =
+      key === "all"
       ? news.length
-      : news.filter(x=>x.cat===key).length;
+      : news.filter(x => x.cat === key).length;
+
   });
 
   document.getElementById("counts").innerHTML =
-    categories.map(([name,key])=>
+    categories.map(([name,key]) =>
       `<span class="count">${name}: ${counts[key]}</span>`
     ).join("");
 
   if(list.length){
+
     const hero = list[0];
 
     document.getElementById("hero").innerHTML = `
+
       <article class="card">
-        <span class="badge">${esc(hero.cat || "خبر")}</span>
-        ${hero.image ? `<img src="${esc(hero.image)}"
-          style="width:100%;max-height:420px;object-fit:cover;border-radius:15px;margin-bottom:18px"
-          onerror="this.style.display='none'">` : ""}
-        <h2>${esc(hero.title)}</h2>
-        <p>${esc(cleanText(hero.description))}</p>
-        <div class="source">${esc(hero.source || "")} • ${formatDate(hero.date)}</div>
-        <p><a href="${esc(hero.link)}" target="_blank" rel="noopener">
+
+        <span class="badge">
+          ${esc(hero.cat || "خبر")}
+        </span>
+
+        ${imageHTML(hero.image,"hero-image")}
+
+        <h1 class="hero-title">
+          ${esc(hero.title)}
+        </h1>
+
+        <p class="description">
+          ${esc(cleanText(hero.description))}
+        </p>
+
+        <div class="source">
+          ${esc(hero.source || "")}
+          ${hero.date ? " • " + formatDate(hero.date) : ""}
+        </div>
+
+        <a
+          class="read"
+          href="${esc(hero.link)}"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           فتح الخبر في المصدر الأصلي ←
-        </a></p>
+        </a>
+
       </article>
     `;
 
     document.getElementById("newsGrid").innerHTML =
-      list.slice(1,41).map(x=>`
+
+      list.slice(1,41).map(x => `
+
         <article class="news-card">
-          ${x.image ? `<img src="${esc(x.image)}"
-            onerror="this.style.display='none'">` : ""}
-          <span class="source">${esc(x.cat || "خبر")}</span>
-          <h3>${esc(x.title)}</h3>
-          <p>${esc(cleanText(x.description))}</p>
-          <div class="source">${esc(x.source || "")}</div>
-          <p>
-            <a href="${esc(x.link)}" target="_blank" rel="noopener">
-              قراءة الخبر ←
-            </a>
+
+          ${imageHTML(x.image,"news-image")}
+
+          <div class="source">
+            ${esc(x.cat || "خبر")}
+          </div>
+
+          <h3>
+            ${esc(x.title)}
+          </h3>
+
+          <p class="description">
+            ${esc(cleanText(x.description))}
           </p>
+
+          <div class="source">
+            ${esc(x.source || "")}
+          </div>
+
+          <a
+            class="read"
+            href="${esc(x.link)}"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            قراءة الخبر ←
+          </a>
+
         </article>
+
       `).join("");
 
   }else{
+
     document.getElementById("hero").innerHTML =
-      `<div class="empty">لا توجد أخبار في هذا القسم حاليًا.</div>`;
+      `<div class="empty">
+        لا توجد أخبار في هذا القسم حاليًا.
+      </div>`;
 
     document.getElementById("newsGrid").innerHTML = "";
+
   }
 
   document.getElementById("latest").innerHTML =
-    news.slice(0,12).map(x=>`
-      <div style="padding:12px 0;border-bottom:1px solid var(--line)">
-        <a href="${esc(x.link)}" target="_blank" rel="noopener">
+
+    news.slice(0,15).map(x => `
+
+      <div class="latest-item">
+
+        <a
+          href="${esc(x.link)}"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           ${esc(x.title)}
         </a>
-        <div class="source">${esc(x.source || "")}</div>
+
+        <div class="source">
+          ${esc(x.source || "")}
+        </div>
+
       </div>
+
     `).join("");
 
   document.getElementById("ticker").textContent =
-    list.slice(0,6).map(x=>x.title).join(" • ") ||
+
+    list.slice(0,8)
+      .map(x => x.title)
+      .join(" • ") ||
+
     "لا توجد أخبار";
+
 }
 
 async function loadNews(){
-  document.querySelector(".status").innerHTML =
+
+  document.getElementById("status").innerHTML =
     '<span class="dot"></span> جاري تحديث الأخبار...';
 
   try{
-    const res = await fetch("news.json?t="+Date.now(),{
-      cache:"no-store"
-    });
 
-    const data = await res.json();
+    const response = await fetch(
+      "news.json?t=" + Date.now(),
+      {
+        cache:"no-store"
+      }
+    );
 
-    /*
-      يدعم news.json سواء كان:
-      {items:[...]}
-      أو
-      [...]
-    */
-    news = Array.isArray(data) ? data : (data.items || []);
+    if(!response.ok){
+      throw new Error("news.json error");
+    }
 
-    news = news.filter(x=>x && x.title && x.link);
+    const data = await response.json();
+
+    news =
+      Array.isArray(data)
+      ? data
+      : (data.items || []);
+
+    news = news.filter(x =>
+      x &&
+      x.title &&
+      x.link
+    );
 
     render();
 
-    document.querySelector(".status").innerHTML =
+    document.getElementById("status").innerHTML =
       `<span class="dot"></span> تم التحديث • ${news.length} خبر`;
 
   }catch(error){
 
-    document.querySelector(".status").innerHTML =
+    document.getElementById("status").innerHTML =
       '<span style="color:#ef4444">● تعذر تحميل الأخبار</span>';
 
     document.getElementById("hero").innerHTML =
       `<div class="empty">
         حدثت مشكلة في تحميل الأخبار. حاول تحديث الصفحة.
       </div>`;
+
   }
+
 }
 
 function toggleTheme(){
+
   dark = !dark;
+
   document.body.classList.toggle("dark",dark);
-  localStorage.setItem("mowjazDark",dark ? "1":"0");
+
+  localStorage.setItem(
+    "mowjazDark",
+    dark ? "1" : "0"
+  );
+
 }
 
 search.addEventListener("input",render);
 
-if(localStorage.getItem("mowjazDark")==="1"){
-  dark=true;
+if(localStorage.getItem("mowjazDark") === "1"){
+
+  dark = true;
+
   document.body.classList.add("dark");
+
 }
 
 buildNav();
+
 loadNews();
 
-/* تحديث الأخبار المعروضة كل 15 دقيقة */
-setInterval(loadNews,15*60*1000);
+setInterval(
+  loadNews,
+  15 * 60 * 1000
+);
+
 </script>
 
 </body>
