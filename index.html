@@ -565,7 +565,7 @@ function render(){
           ${esc(hero.cat || "خبر")}
         </span>
 
-        imageHTML(hero.image,"hero-image",hero.cat)
+        ${imageHTML(hero.image,"hero-image",hero.cat)}
 
         <h1 class="hero-title">
           ${esc(hero.title)}
@@ -598,7 +598,7 @@ function render(){
 
         <article class="news-card">
 
-          imageHTML(x.image,"news-image",x.cat)
+          ${imageHTML(x.image,"news-image",x.cat)}
 
           <div class="source">
             ${esc(x.cat || "خبر")}
