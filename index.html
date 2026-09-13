@@ -347,6 +347,27 @@ footer{
     grid-template-columns:1fr;
   }
 }
+  .breaking-news{
+  background:#dc2626;
+  color:#fff;
+  border-radius:16px;
+  padding:15px 20px;
+  margin-bottom:18px;
+  font-weight:900;
+  font-size:17px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+
+.breaking-news a{
+  color:#fff;
+  text-decoration:none;
+}
+
+.breaking-label{
+  margin-left:10px;
+  white-space:nowrap;
+}
 </style>
 </head>
 
@@ -399,6 +420,7 @@ footer{
   </div>
   <div id="importantNews" class="important-grid"></div>
 </section>
+  <div id="breakingNews" class="breaking-news" style="display:none"></div>
   <div class="ticker" id="ticker">
     🔴 جاري تحميل آخر الأخبار...
   </div>
@@ -677,6 +699,31 @@ function imageHTML(url,className,category){
 function render(){
 
   const list = getList();
+  const urgent = list.find(x => isUrgent(x));
+
+const breaking = document.getElementById("breakingNews");
+
+if(urgent){
+
+  breaking.style.display = "block";
+
+  breaking.innerHTML = `
+    <span class="breaking-label">🔴 عاجل الآن:</span>
+    <a
+      href="${esc(urgent.link)}"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      ${esc(urgent.title)}
+    </a>
+  `;
+
+}else{
+
+  breaking.style.display = "none";
+  breaking.innerHTML = "";
+
+}
 const important = [...list]
   .sort((a,b) => importanceScore(b) - importanceScore(a))
   .slice(0,3);
