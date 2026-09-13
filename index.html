@@ -294,6 +294,59 @@ footer{
   .card{padding:18px}
   .hero-title{font-size:24px}
 }
+  .important-section{
+  margin-bottom:25px;
+}
+
+.important-title{
+  font-size:25px;
+  font-weight:900;
+  margin-bottom:15px;
+}
+
+.important-grid{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:16px;
+}
+
+.important-card{
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:18px;
+  overflow:hidden;
+  min-width:0;
+}
+
+.important-card img{
+  width:100%;
+  height:170px;
+  object-fit:cover;
+  display:block;
+}
+
+.important-body{
+  padding:17px;
+}
+
+.important-card h3{
+  margin:8px 0;
+  line-height:1.6;
+  font-size:18px;
+  overflow-wrap:anywhere;
+}
+
+.urgent{
+  color:#dc2626;
+  font-weight:900;
+  margin-bottom:7px;
+}
+
+@media(max-width:900px){
+  .important-grid{
+    grid-template-columns:1fr;
+  }
+}
 </style>
 </head>
 
@@ -340,7 +393,12 @@ footer{
   </div>
 
   <div class="counts" id="counts"></div>
-
+<section class="important-section">
+  <div class="important-title">
+    🔥 الأكثر أهمية الآن
+  </div>
+  <div id="importantNews" class="important-grid"></div>
+</section>
   <div class="ticker" id="ticker">
     🔴 جاري تحميل آخر الأخبار...
   </div>
@@ -619,7 +677,42 @@ function imageHTML(url,className,category){
 function render(){
 
   const list = getList();
+const important = [...list]
+  .sort((a,b) => importanceScore(b) - importanceScore(a))
+  .slice(0,3);
 
+document.getElementById("importantNews").innerHTML =
+  important.map(x => `
+    <article class="important-card">
+
+      ${imageHTML(x.image,"news-image",x.cat)}
+
+      <div class="important-body">
+
+        ${isUrgent(x)
+          ? '<div class="urgent">🔴 عاجل</div>'
+          : '<div class="source">⭐ مهم</div>'
+        }
+
+        <h3>${esc(x.title)}</h3>
+
+        <div class="source">
+          ${esc(x.source || "")}
+        </div>
+
+        <a
+          class="read"
+          href="${esc(x.link)}"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          قراءة الخبر ←
+        </a>
+
+      </div>
+
+    </article>
+  `).join("");
   const counts = {};
 
   categories.forEach(([name,key]) => {
