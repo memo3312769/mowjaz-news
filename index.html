@@ -379,7 +379,7 @@ const categories = [
   ["العالم","العالم"],
   ["اقتصاد","اقتصاد"],
   ["رياضة","رياضة"],
-  ["تكنولوجيا","تكنولوجيا"],
+ ,  ["تكنولوجيا","تكنولوجيا"],
   ["علوم","علوم"]
 ];
 
@@ -492,20 +492,45 @@ function formatDate(value){
 
 }
 
-function imageHTML(url,className){
+function fallbackImage(category){
 
-  if(!url) return "";
+  const images = {
+    "مصر":
+      "https://images.unsplash.com/photo-1568322445389-f64ac2515020?auto=format&fit=crop&w=1200&q=80",
+
+    "العالم":
+      "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+
+    "اقتصاد":
+      "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+
+    "رياضة":
+      "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=80",
+
+    "تكنولوجيا":
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+
+    "علوم":
+      "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=80"
+  };
+
+  return images[category] || images["العالم"];
+}
+
+
+function imageHTML(url,className,category){
+
+  const image = url || fallbackImage(category);
 
   return `
     <img
       class="${className}"
-      src="${esc(url)}"
+      src="${esc(image)}"
       loading="lazy"
       onerror="this.style.display='none'"
-      alt=""
+      alt="${esc(category || "خبر")}"
     >
   `;
-
 }
 
 function render(){
@@ -540,7 +565,7 @@ function render(){
           ${esc(hero.cat || "خبر")}
         </span>
 
-        ${imageHTML(hero.image,"hero-image")}
+        imageHTML(hero.image,"hero-image",hero.cat)
 
         <h1 class="hero-title">
           ${esc(hero.title)}
@@ -573,7 +598,7 @@ function render(){
 
         <article class="news-card">
 
-          ${imageHTML(x.image,"news-image")}
+          imageHTML(x.image,"news-image",x.cat)
 
           <div class="source">
             ${esc(x.cat || "خبر")}
