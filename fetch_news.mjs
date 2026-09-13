@@ -68,12 +68,28 @@ function similarity(a, b) {
 }
 
 function imageFromChunk(x) {
-  return (
+  const media =
     attr(x, "media:content", "url") ||
     attr(x, "media:thumbnail", "url") ||
-    attr(x, "enclosure", "url") ||
-    ""
-  );
+    attr(x, "enclosure", "url");
+
+  if (media) return media;
+
+  const img =
+    x.match(/<img[^>]+src=["']([^"']+)["']/i);
+
+  if (img && img[1]) {
+    return img[1];
+  }
+
+  const og =
+    x.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
+
+  if (og && og[1]) {
+    return og[1];
+  }
+
+  return "";
 }
 
 async function feed([source, url, category]) {
