@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T14:12:06.626Z",
+  "updatedAt": "2026-09-14T14:25:24.923Z",
   "items": [
     {
       "title": "سقط أمام زملائه.. وفاة طالب في ثاني أيام الدراسة بمصر - عكاظ",
@@ -167,6 +167,17 @@
       "image": ""
     },
     {
+      "title": "Wild dogs record 2,500-mile trek across Africa in search of a mate",
+      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "date": "Mon, 14 Sep 2026 14:08:12 GMT",
+      "source": "BBC World",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fde/live/01feacf0-9cb4-11f1-84cf-fd4cfd9d6c84.jpg"
+    },
+    {
       "title": "مسيّرات تضرب الدمازين وتحذيرات من المجاعة في السودان",
       "link": "https://www.bbc.com/arabic/articles/cmew9j4vd5dko?at_medium=RSS&at_campaign=rss",
       "description": "هجوم بالمسيّرات يستهدف الدمازين التي تؤوي عشرات الآلاف من النازحين، مع تقدّم قوات الدعم السريع وحلفائها. وفيما تتصاعد التحذيرات من خطر المجاعة في دارفور وكردفان، يستمر الخلاف في مجلس الأمن بشأن توسيع حظر السلاح.",
@@ -321,15 +332,15 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26c0/live/41b45e90-b009-11f1-9713-5de61387c384.jpg"
     },
     {
-      "title": "هل يؤثر التصفح اللانهائي للفيديوهات على ذاكرة الشباب وانتباههم؟",
-      "link": "https://www.bbc.com/arabic/articles/ceq89843ezgo?at_medium=RSS&at_campaign=rss",
-      "description": "هذه قصة عن تأثير التمرير السريع للمحتوى كالفيديوهات القصيرة في مواقع التواصل الاجتماعي على انتباه الشباب وذاكرتهم، موضحة ارتباط الاستخدام المكثف بتشتت الانتباه والاندفاع ومشكلات نفسية، مع التأكيد أن السببية المباشرة ما زالت غير محسومة علمياً.",
-      "date": "Mon, 14 Sep 2026 07:02:18 GMT",
-      "source": "BBC العربية",
+      "title": "'Culture shift' needed in how UK does business, PM urges",
+      "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+      "description": "Burnham says those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+      "date": "Mon, 14 Sep 2026 14:22:55 GMT",
+      "source": "BBC Business",
       "sourceScore": 10,
       "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2c02/live/a26e20e0-a5eb-11f1-8348-fb0cb1cd9761.jpg"
+      "cat": "اقتصاد",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa04/live/90cf5970-af92-11f1-9dc8-673e33e35c20.jpg"
     },
     {
       "title": "Petrol and diesel prices hit highest since 2022",
@@ -363,17 +374,6 @@
       "sourceType": "official-rss",
       "cat": "اقتصاد",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd58/live/06bec250-b016-11f1-a540-61c3f7fc4e6c.jpg"
-    },
-    {
-      "title": "'Culture shift' needed in how UK does business, PM urges",
-      "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-      "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
-      "date": "Mon, 14 Sep 2026 07:39:43 GMT",
-      "source": "BBC Business",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "اقتصاد",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa04/live/90cf5970-af92-11f1-9dc8-673e33e35c20.jpg"
     },
     {
       "title": "أسعار الفراخ في بورصة الدواجن اليوم الإثنين 14-9-2026 - جريدة المال",
@@ -508,6 +508,17 @@
       "image": ""
     },
     {
+      "title": "تدخل رسمي في مصر بسبب أسرة حسام حسن..ماذا حدث؟ - صحيفة الخليج",
+      "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWTlZWlpPaDFUSENMVHpIOUFXSFVKLUx3d21MVWJLOFBIY0MzTW1SWDVRVmVjSFMyUWhFUFRDdHNvaGtvWWd2WkVFdTBEZERjLUlfd3EwR29qRElvdi1mWWxET0tFb0FpSGpkb3hFTXFqbFUtNlN3TmhMSXhaNUt3RktBb0d3d0F3S2VibzVuXzV6MHN5bEgyRVFtSUVHMVBGc1pZdDNLRTFJUTNHckFrOEQ5X1JKLWJRWktSaW8teGFLZ2ktUE1kR3N0dTZZSnRDWjZpYThCWnVoMGUxdjJENlhNaC1vbFJvRklBbEJ0QWl2S3NfNWotMHFacGp2bUhRcUwtaXZIR1BhNG95SmV6QklVRFBwR2VjVERwRVIyb1lpR20yemhydnZzZm55M3hJUzdlTjUzUml1TGpld2ZGS2ZUbUxIcUI4V2Y3ME11Ni1QTmg0T19tSkFBdGNfM1diUmhLWVBSU1BiTUI3NjNHNTRYX3ZidVl5aHhLSFVkOG1SdUpfV1ZEd1R1N3R5UkF2QnNyQzJTekd1Y1lWNXhTQVlHYmhLd0RBbHZHNk9wSjBkaGtIRERqcG44ZUVKSVJUNnBZbDctUDBOVV9fRW1qWFhNdk9ZZ216MFREYWtDWkd0bnE2YW9MQlVoWQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWTlZWlpPaDFUSENMVHpIOUFXSFVKLUx3d21MVWJLOFBIY0MzTW1SWDVRVmVjSFMyUWhFUFRDdHNvaGtvWWd2WkVFdTBEZERjLUlfd3EwR29qRElvdi1mWWxET0tFb0FpSGpkb3hFTXFqbFUtNlN3TmhMSXhaNUt3RktBb0d3d0F3S2VibzVuXzV6MHN5bEgyRVFtSUVHMVBGc1pZdDNLRTFJUTNHckFrOEQ5X1JKLWJRWktSaW8teGFLZ2ktUE1kR3N0dTZZSnRDWjZpYThCWnVoMGUxdjJENlhNaC1vbFJvRklBbEJ0QWl2S3NfNWotMHFacGp2bUhRcUwtaXZIR1BhNG95SmV6QklVRFBwR2VjVERwRVIyb1lpR20yemhydnZzZm55M3hJUzdlTjUzUml1TGpld2ZGS2ZUbUxIcUI4V2Y3ME11Ni1QTmg0T19tSkFBdGNfM1diUmhLWVBSU1BiTUI3NjNHNTRYX3ZidVl5aHhLSFVkOG1SdUpfV1ZEd1R1N3R5UkF2QnNyQzJTekd1Y1lWNXhTQVlHYmhLd0RBbHZHNk9wSjBkaGtIRERqcG44ZUVKSVJUNnBZbDctUDBOVV9fRW1qWFhNdk9ZZ216MFREYWtDWkd0bnE2YW9MQlVoWQ?oc=5\" target=\"_blank\">تدخل رسمي في مصر بسبب أسرة حسام حسن..ماذا حدث؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">صحيفة الخليج</font>",
+      "date": "Mon, 14 Sep 2026 13:18:45 GMT",
+      "source": "Google News رياضة",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "رياضة",
+      "image": ""
+    },
+    {
       "title": "مصر تفوز ببرونزية «جراند سلام للجودو» في المجر - صحيفة الخليج",
       "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxObHlxQVBnaW1vSDFyejZ1UXZZVHR2RDVZLW1nQTdSTVZtTkIybk1OalM1NC1WdlMxdG5iXy1mVnFKd1RrV3FZeHZQYVhRdThfQ0hrWm1IdTI1V0xtODBtTVhGUWtJT3J6N290NVpIcHAxQngyMWhhRWYxZVFPSXVvRlB3NmNlbEtNUy1MWGFMQUR5LUY5V2cxRnBsZ3Z3Q1QwMFZHYmxOYWZUUVdLZERKVWdUZE1iUDdIcjJpTjV4VGp2TDBTMzJwekx5Wl8wc2Qwa0lmenBfaWVkRnNlbE1rX0FBc2wxMEI2WXFhSFlyMlRyZHJ4V0Zpdm5mSFUzZ3BXemZkb1ZyUXFoT1pMeXY0WmIydnJVX2RwTzE4MHo2bG9mRTEtNlZjT2lCdVBSS3hhaGhhV1BMRnFZdHhuNXlMeGZYa05fM1ZjYnczRnNIanB6Sk9nZVc2M2FVSEtHcVJ4b1pjMm13NTRfU3BiWVJ4QXQxcTBuZnlPR0NOUUJXdHZvcUZOTVNIYVEwWnMzc0d1aVVHUU1GRC13bnQ4aUNFMzQ4bUpCd0NUcGo2dG44cGhod1pTQmQ4a04xeWNVeV96NDlkbndRdmZfdkExbjY5eHI2Y0ZLbnNfNjZPODlib2wwMnpzOFJBMV80WkhpSDJvV1RVXzBOVUZhUQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gNBVV95cUxObHlxQVBnaW1vSDFyejZ1UXZZVHR2RDVZLW1nQTdSTVZtTkIybk1OalM1NC1WdlMxdG5iXy1mVnFKd1RrV3FZeHZQYVhRdThfQ0hrWm1IdTI1V0xtODBtTVhGUWtJT3J6N290NVpIcHAxQngyMWhhRWYxZVFPSXVvRlB3NmNlbEtNUy1MWGFMQUR5LUY5V2cxRnBsZ3Z3Q1QwMFZHYmxOYWZUUVdLZERKVWdUZE1iUDdIcjJpTjV4VGp2TDBTMzJwekx5Wl8wc2Qwa0lmenBfaWVkRnNlbE1rX0FBc2wxMEI2WXFhSFlyMlRyZHJ4V0Zpdm5mSFUzZ3BXemZkb1ZyUXFoT1pMeXY0WmIydnJVX2RwTzE4MHo2bG9mRTEtNlZjT2lCdVBSS3hhaGhhV1BMRnFZdHhuNXlMeGZYa05fM1ZjYnczRnNIanB6Sk9nZVc2M2FVSEtHcVJ4b1pjMm13NTRfU3BiWVJ4QXQxcTBuZnlPR0NOUUJXdHZvcUZOTVNIYVEwWnMzc0d1aVVHUU1GRC13bnQ4aUNFMzQ4bUpCd0NUcGo2dG44cGhod1pTQmQ4a04xeWNVeV96NDlkbndRdmZfdkExbjY5eHI2Y0ZLbnNfNjZPODlib2wwMnpzOFJBMV80WkhpSDJvV1RVXzBOVUZhUQ?oc=5\" target=\"_blank\">مصر تفوز ببرونزية «جراند سلام للجودو» في المجر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">صحيفة الخليج</font>",
@@ -523,17 +534,6 @@
       "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNRmRCX2psN3U3Wlp6dDI3c2VJQkpFZUpqYUh0OEdPNWZPZ1BWMDZvU0hGd3RJckdSM0NERGZlVHplRVE0OW1fdDVfcUhRNFphYmhOT3l4eFc2eXVnUEotUlVFX0w2Y01NRlJEMW5KeE5CX2pXLVQ4dFRpSzYyTUt2TkNMMGVMUllFVzRfMW9MYW0yVjVSMUNwQmhBeExta1lnUTJUTXIxNnJGa2FuT2lMbkRoR2xabXh2M2JuRWhoSkVSbVNIdlQ1OXo4THFnSzhhTE0zaTM4aW5RV0xxVTl4WUxGS1BKVXJ2SXI0Wk9iaGpWTGZlWWFUZmJ0RmYwUkctZUxmNlVLOGFGbEc5ZlN0LTBxN2pPYWtYS29FTHdqSkF1NEpfRUxVVEtnQ0FEaUxRNnk4Qk9mSGo5WkRyalRORDNDS0JwQWFkeEw2SDNVSXNMbWVfN2J6c2VRN09tazlLRDY3WURaSUtxVXRmN0FMLVhpYkpzZktiS3NjaDFfRE9qTjRFZUpFcXdiUlJlaDMyaktSNtIBjwNBVV95cUxQaXo5VWFIVjNKYjVGZU5lWmFvZG0tUWtVUV9SSDJETldwdGlPdlluR2pRdmpnMkk5NlhQajZtaG1pVjlrVENhWjdlUUxtaHlxbWRlY01wc29OZ21wT3RIZnRoVHdxdThoblE2RlMwdm5xSXUyYWJHdUxYZE9ZeXZTbWFwalFyVjJjV3UxWmNQVmdFTVFqWE1EWlBIZmNrUkd6TWZQd0t0MTZVSnBaREhPeFpFOGxaSnVmYmkxX2t0YWJoSEhtOWFVVU5tUXdOc1NwVk9oeWhzU3lsY2VFXzF4VjUyY0o3ekNfMWlGd21pcXpMek94dXZoQV9KTGhnaXVZd0Fjam5OMUpocVFjMWI4TmVVUTJUek0yN3BmTmNqeW9iNUthaEFUc1l3ZGRzU0xNdEJqb1hPOHVaNU02TEkxMmRfYmVTSXRMSmFyNE4xSjdpNlZScXRHTTZEaHVhY0dIaTNkX1JWamlBdnhTUU9OWXcwcGRucGRwNXRvcjllM1hSa1U0RnJmWmlCbGppLXc?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilANBVV95cUxNRmRCX2psN3U3Wlp6dDI3c2VJQkpFZUpqYUh0OEdPNWZPZ1BWMDZvU0hGd3RJckdSM0NERGZlVHplRVE0OW1fdDVfcUhRNFphYmhOT3l4eFc2eXVnUEotUlVFX0w2Y01NRlJEMW5KeE5CX2pXLVQ4dFRpSzYyTUt2TkNMMGVMUllFVzRfMW9MYW0yVjVSMUNwQmhBeExta1lnUTJUTXIxNnJGa2FuT2lMbkRoR2xabXh2M2JuRWhoSkVSbVNIdlQ1OXo4THFnSzhhTE0zaTM4aW5RV0xxVTl4WUxGS1BKVXJ2SXI0Wk9iaGpWTGZlWWFUZmJ0RmYwUkctZUxmNlVLOGFGbEc5ZlN0LTBxN2pPYWtYS29FTHdqSkF1NEpfRUxVVEtnQ0FEaUxRNnk4Qk9mSGo5WkRyalRORDNDS0JwQWFkeEw2SDNVSXNMbWVfN2J6c2VRN09tazlLRDY3WURaSUtxVXRmN0FMLVhpYkpzZktiS3NjaDFfRE9qTjRFZUpFcXdiUlJlaDMyaktSNtIBjwNBVV95cUxQaXo5VWFIVjNKYjVGZU5lWmFvZG0tUWtVUV9SSDJETldwdGlPdlluR2pRdmpnMkk5NlhQajZtaG1pVjlrVENhWjdlUUxtaHlxbWRlY01wc29OZ21wT3RIZnRoVHdxdThoblE2RlMwdm5xSXUyYWJHdUxYZE9ZeXZTbWFwalFyVjJjV3UxWmNQVmdFTVFqWE1EWlBIZmNrUkd6TWZQd0t0MTZVSnBaREhPeFpFOGxaSnVmYmkxX2t0YWJoSEhtOWFVVU5tUXdOc1NwVk9oeWhzU3lsY2VFXzF4VjUyY0o3ekNfMWlGd21pcXpMek94dXZoQV9KTGhnaXVZd0Fjam5OMUpocVFjMWI4TmVVUTJUek0yN3BmTmNqeW9iNUthaEFUc1l3ZGRzU0xNdEJqb1hPOHVaNU02TEkxMmRfYmVTSXRMSmFyNE4xSjdpNlZScXRHTTZEaHVhY0dIaTNkX1JWamlBdnhTUU9OWXcwcGRucGRwNXRvcjllM1hSa1U0RnJmWmlCbGppLXc?oc=5\" target=\"_blank\">82 هدفاً بتوقيع 62 لاعباً فى 4 جولات بالدوري المصري.. اعرف قائمة الهدافين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
       "date": "Mon, 14 Sep 2026 12:00:00 GMT",
-      "source": "Google News رياضة",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "رياضة",
-      "image": ""
-    },
-    {
-      "title": "تدخل رسمي في مصر بسبب أسرة حسام حسن..ماذا حدث؟ - صحيفة الخليج",
-      "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWTlZWlpPaDFUSENMVHpIOUFXSFVKLUx3d21MVWJLOFBIY0MzTW1SWDVRVmVjSFMyUWhFUFRDdHNvaGtvWWd2WkVFdTBEZERjLUlfd3EwR29qRElvdi1mWWxET0tFb0FpSGpkb3hFTXFqbFUtNlN3TmhMSXhaNUt3RktBb0d3d0F3S2VibzVuXzV6MHN5bEgyRVFtSUVHMVBGc1pZdDNLRTFJUTNHckFrOEQ5X1JKLWJRWktSaW8teGFLZ2ktUE1kR3N0dTZZSnRDWjZpYThCWnVoMGUxdjJENlhNaC1vbFJvRklBbEJ0QWl2S3NfNWotMHFacGp2bUhRcUwtaXZIR1BhNG95SmV6QklVRFBwR2VjVERwRVIyb1lpR20yemhydnZzZm55M3hJUzdlTjUzUml1TGpld2ZGS2ZUbUxIcUI4V2Y3ME11Ni1QTmg0T19tSkFBdGNfM1diUmhLWVBSU1BiTUI3NjNHNTRYX3ZidVl5aHhLSFVkOG1SdUpfV1ZEd1R1N3R5UkF2QnNyQzJTekd1Y1lWNXhTQVlHYmhLd0RBbHZHNk9wSjBkaGtIRERqcG44ZUVKSVJUNnBZbDctUDBOVV9fRW1qWFhNdk9ZZ216MFREYWtDWkd0bnE2YW9MQlVoWQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWTlZWlpPaDFUSENMVHpIOUFXSFVKLUx3d21MVWJLOFBIY0MzTW1SWDVRVmVjSFMyUWhFUFRDdHNvaGtvWWd2WkVFdTBEZERjLUlfd3EwR29qRElvdi1mWWxET0tFb0FpSGpkb3hFTXFqbFUtNlN3TmhMSXhaNUt3RktBb0d3d0F3S2VibzVuXzV6MHN5bEgyRVFtSUVHMVBGc1pZdDNLRTFJUTNHckFrOEQ5X1JKLWJRWktSaW8teGFLZ2ktUE1kR3N0dTZZSnRDWjZpYThCWnVoMGUxdjJENlhNaC1vbFJvRklBbEJ0QWl2S3NfNWotMHFacGp2bUhRcUwtaXZIR1BhNG95SmV6QklVRFBwR2VjVERwRVIyb1lpR20yemhydnZzZm55M3hJUzdlTjUzUml1TGpld2ZGS2ZUbUxIcUI4V2Y3ME11Ni1QTmg0T19tSkFBdGNfM1diUmhLWVBSU1BiTUI3NjNHNTRYX3ZidVl5aHhLSFVkOG1SdUpfV1ZEd1R1N3R5UkF2QnNyQzJTekd1Y1lWNXhTQVlHYmhLd0RBbHZHNk9wSjBkaGtIRERqcG44ZUVKSVJUNnBZbDctUDBOVV9fRW1qWFhNdk9ZZ216MFREYWtDWkd0bnE2YW9MQlVoWQ?oc=5\" target=\"_blank\">تدخل رسمي في مصر بسبب أسرة حسام حسن..ماذا حدث؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">صحيفة الخليج</font>",
-      "date": "Mon, 14 Sep 2026 11:52:17 GMT",
       "source": "Google News رياضة",
       "sourceScore": 6,
       "sourceType": "aggregator",
@@ -662,6 +662,17 @@
       "image": ""
     },
     {
+      "title": "الصين تنتقد دعوات إبطاء تطوير الذكاء الاصطناعي وتصفها بـ«تكتيك من الحرب الباردة» - جريدة المال",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQNHNhMlMzWnNwYWF4N3MwUi1WM3RkX0RGVkZRQUdvU1NIakwtVHhIbVgtSHp3SE1pMGNRQnhOendFd3hRR3NMOURhNjhrZzJEcEZoeUhZVHRJMHR6YkpBVmZqcDFfX0JSeEhLaDljYkM5aC1USGpNT2lGSTVlSkhDa1BvYno4Ukc1Z0JfdnlrdWdZOHFBVTE5eGo2NEtuc0hzZk53NnUwRm83dThpNVNiMDl3VUNsNU91Q0xXVGRXU09sNWlTV01KSU5rZWM4Y2ZxdGxXT0NQb0xROXdTeTNaeGNiRWJpYXJOQ2xza09CRlV2bFhieVRUWVdHX2MySjBoTDBhV1R0bkNYNk93RDR0WmFNZ2tkQXA0Q2VWamloNGRYdncxVGR0cXJDRmN0eVptWTJhWXlYRUFCRGdrd09VM0ZveHlKcVVtSkJ4ZTBTNE1wakRTWUNBVDhsWE5hT3AzT1dNbGFWeEk3X1J0TE1pNXdJeFR0NEtRcWxBa1VpSmY0X2E0Y0xycDQ1dTBMQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxQNHNhMlMzWnNwYWF4N3MwUi1WM3RkX0RGVkZRQUdvU1NIakwtVHhIbVgtSHp3SE1pMGNRQnhOendFd3hRR3NMOURhNjhrZzJEcEZoeUhZVHRJMHR6YkpBVmZqcDFfX0JSeEhLaDljYkM5aC1USGpNT2lGSTVlSkhDa1BvYno4Ukc1Z0JfdnlrdWdZOHFBVTE5eGo2NEtuc0hzZk53NnUwRm83dThpNVNiMDl3VUNsNU91Q0xXVGRXU09sNWlTV01KSU5rZWM4Y2ZxdGxXT0NQb0xROXdTeTNaeGNiRWJpYXJOQ2xza09CRlV2bFhieVRUWVdHX2MySjBoTDBhV1R0bkNYNk93RDR0WmFNZ2tkQXA0Q2VWamloNGRYdncxVGR0cXJDRmN0eVptWTJhWXlYRUFCRGdrd09VM0ZveHlKcVVtSkJ4ZTBTNE1wakRTWUNBVDhsWE5hT3AzT1dNbGFWeEk3X1J0TE1pNXdJeFR0NEtRcWxBa1VpSmY0X2E0Y0xycDQ1dTBMQQ?oc=5\" target=\"_blank\">الصين تنتقد دعوات إبطاء تطوير الذكاء الاصطناعي وتصفها بـ«تكتيك من الحرب الباردة»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة المال</font>",
+      "date": "Mon, 14 Sep 2026 14:14:28 GMT",
+      "source": "Google News تكنولوجيا",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "تكنولوجيا",
+      "image": ""
+    },
+    {
       "title": "رئيس أنثروبيك: سلوك المسارات الخاطئة يرفع كثيرا مخاطر الذكاء الاصطناعي - الجزيرة نت",
       "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPcGxSVE4tUTl1ZExTdm9OUVA0elVLVFBkYXZKNThVWHQxNkNWMldEYUxOcXVMczh3cUJFZmpNb1YwLVo3ZG1RSzlyZWlVaTd2UHBrcUVRTGFUMWlDQmVSTWI0QmF6d2o5bG9XcXdvNHZycUI3V3ZBR0drVGhRVTJsc3VSelVHbGdxaFg0MkVva0tHdFpoSUU5dWV5TzgyTm9HZW1JV2E2SHhTYzlmSmhUMkRZNEpqSTB4Z083a0FYM2VHMzFIQjA2azFxdm5IMGxiWVIxUjd4VGttQTBWUnNPSFNldjhPcDBzTFBPYW96UWtpV3VVZ2xCb3RyZEFuX1M1UDA1ZmNOYnFZSmNhenJyWllZMFJ5SFZ3a2NnQXU2SzQ4ZXAzWE5HSXJ2cWI1UFdnNi1temw5OVY2ZldwYmF2ZW5vLXUwVDRZS1pCZi1RNWjSAdYCQVVfeXFMUGEzaDVjN044c3ZuTHlpeUx5eWpDX0FYMm5ibnROX1FhQVp2NHdzbHZ5LUV4ejVHWU1WT0Z1NnNGU1dSMEl1VmsyUm5MVEJCOVFPSWpGb2J4QjBFUEtPYlFTZ0ZwNDQtcG54ZEhpVnpXVXRPNkxZYzBmczhqLWNTLU9kX1dfcGRZWk1waHYzTjl1Q1NyYXphTjR1dFdqVXFiZlJuRXk3ZTR0YkJaMUJiTmd2bTV0V0JjLW9haDZvSnVLTVk0eTRqdDhEQm9ETkh4emU1NXNGaHllNkRucU1zQUxpeTFET2xSdnpSQ2xEWFdOUG9ud3VaRVY4QkVjZFVFY0IxeTNhS09DVGdjUWxNbHBQZFEwRVMzZTQteTBXc1NtUEppOUZObHlFUHRJQjFhdUFsbFVhWG1iV3Z0VXZaZTU1eGYtSVpwaVl3U183Tks4dGh4TDdB?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AJBVV95cUxPcGxSVE4tUTl1ZExTdm9OUVA0elVLVFBkYXZKNThVWHQxNkNWMldEYUxOcXVMczh3cUJFZmpNb1YwLVo3ZG1RSzlyZWlVaTd2UHBrcUVRTGFUMWlDQmVSTWI0QmF6d2o5bG9XcXdvNHZycUI3V3ZBR0drVGhRVTJsc3VSelVHbGdxaFg0MkVva0tHdFpoSUU5dWV5TzgyTm9HZW1JV2E2SHhTYzlmSmhUMkRZNEpqSTB4Z083a0FYM2VHMzFIQjA2azFxdm5IMGxiWVIxUjd4VGttQTBWUnNPSFNldjhPcDBzTFBPYW96UWtpV3VVZ2xCb3RyZEFuX1M1UDA1ZmNOYnFZSmNhenJyWllZMFJ5SFZ3a2NnQXU2SzQ4ZXAzWE5HSXJ2cWI1UFdnNi1temw5OVY2ZldwYmF2ZW5vLXUwVDRZS1pCZi1RNWjSAdYCQVVfeXFMUGEzaDVjN044c3ZuTHlpeUx5eWpDX0FYMm5ibnROX1FhQVp2NHdzbHZ5LUV4ejVHWU1WT0Z1NnNGU1dSMEl1VmsyUm5MVEJCOVFPSWpGb2J4QjBFUEtPYlFTZ0ZwNDQtcG54ZEhpVnpXVXRPNkxZYzBmczhqLWNTLU9kX1dfcGRZWk1waHYzTjl1Q1NyYXphTjR1dFdqVXFiZlJuRXk3ZTR0YkJaMUJiTmd2bTV0V0JjLW9haDZvSnVLTVk0eTRqdDhEQm9ETkh4emU1NXNGaHllNkRucU1zQUxpeTFET2xSdnpSQ2xEWFdOUG9ud3VaRVY4QkVjZFVFY0IxeTNhS09DVGdjUWxNbHBQZFEwRVMzZTQteTBXc1NtUEppOUZObHlFUHRJQjFhdUFsbFVhWG1iV3Z0VXZaZTU1eGYtSVpwaVl3U183Tks4dGh4TDdB?oc=5\" target=\"_blank\">رئيس أنثروبيك: سلوك المسارات الخاطئة يرفع كثيرا مخاطر الذكاء الاصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
@@ -695,9 +706,9 @@
       "image": ""
     },
     {
-      "title": "وظائف في مأمن من الذكاء الاصطناعي... ما المجالات الأكثر صموداً؟ - aawsat.com",
+      "title": "وظائف في مأمن من الذكاء الاصطناعي... ما المجالات الأكثر صموداً؟ - الشرق الأوسط",
       "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxQeGZkeDMwaExvVzI3YzRoZmFFR1BhTWI4VGR5N3ZHOTU3eTJBQ214SXJYLWJ6MWItUUREWWE5S0FkMkw4NFgxZ2lYZGp0WFQ4VFM4NlBwcFdIbVlDY0x1N29ZcklqSFVWUkV2Rjk1WjI2aWw1eGQ1S1dMWkpKclNYeXNoUFZPUFAzOElDcFFrdWlQN2lTVXFveEsyaWl6VFZFaGR6ZWhTcXhya1hhU0dITDctZmE0c0haeXlTTm8xSVkyemJ4NnNZbUVPR2ZoaVFxT25DVjZqR216Q3Z3Z2hmNmFESmw4V1FTX2JMSGxMSkZMcTJOX1ZvNnkwQ0hneUxiV0lwMHJxSDN1UXB5REpZV0hUc0lydFFSQ1J5MjhJMzVVMWZ0T1RENy1oYVVEbkxHUDI1RTQxWGs3ZGVrX3hzcGo5cWJzTUVHb0oyeEx0STdaUWJNanRHUzVZdVhWSVVoUEZDQzhCYVhUR2dHclplM0RVUHNtOEljRGdDbDhIRjFoUVo5azB1Y2FvYnM3UjIwbldobmtNaHNwcWJmazhjUnhZRjJhUW5TanR1Umt3RXd5b3U0aFhHTTlwY3pWWVhQNjV3YndxRlBiejVCVVpUUjNDYXNNRDRYbDlNUDY5SHM1WE4xdEJMSnpuZmpIVFZPUHZBTHFQeDZvaGtBR0FUd3lIVDV4b1prZ1hYOHlkYWJHNVliOGR3dEVJVjNTdldIbFUtTHhrQkg4V3ZfWGc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgRBVV95cUxQeGZkeDMwaExvVzI3YzRoZmFFR1BhTWI4VGR5N3ZHOTU3eTJBQ214SXJYLWJ6MWItUUREWWE5S0FkMkw4NFgxZ2lYZGp0WFQ4VFM4NlBwcFdIbVlDY0x1N29ZcklqSFVWUkV2Rjk1WjI2aWw1eGQ1S1dMWkpKclNYeXNoUFZPUFAzOElDcFFrdWlQN2lTVXFveEsyaWl6VFZFaGR6ZWhTcXhya1hhU0dITDctZmE0c0haeXlTTm8xSVkyemJ4NnNZbUVPR2ZoaVFxT25DVjZqR216Q3Z3Z2hmNmFESmw4V1FTX2JMSGxMSkZMcTJOX1ZvNnkwQ0hneUxiV0lwMHJxSDN1UXB5REpZV0hUc0lydFFSQ1J5MjhJMzVVMWZ0T1RENy1oYVVEbkxHUDI1RTQxWGs3ZGVrX3hzcGo5cWJzTUVHb0oyeEx0STdaUWJNanRHUzVZdVhWSVVoUEZDQzhCYVhUR2dHclplM0RVUHNtOEljRGdDbDhIRjFoUVo5azB1Y2FvYnM3UjIwbldobmtNaHNwcWJmazhjUnhZRjJhUW5TanR1Umt3RXd5b3U0aFhHTTlwY3pWWVhQNjV3YndxRlBiejVCVVpUUjNDYXNNRDRYbDlNUDY5SHM1WE4xdEJMSnpuZmpIVFZPUHZBTHFQeDZvaGtBR0FUd3lIVDV4b1prZ1hYOHlkYWJHNVliOGR3dEVJVjNTdldIbFUtTHhrQkg4V3ZfWGc?oc=5\" target=\"_blank\">وظائف في مأمن من الذكاء الاصطناعي... ما المجالات الأكثر صموداً؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aawsat.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgRBVV95cUxQeGZkeDMwaExvVzI3YzRoZmFFR1BhTWI4VGR5N3ZHOTU3eTJBQ214SXJYLWJ6MWItUUREWWE5S0FkMkw4NFgxZ2lYZGp0WFQ4VFM4NlBwcFdIbVlDY0x1N29ZcklqSFVWUkV2Rjk1WjI2aWw1eGQ1S1dMWkpKclNYeXNoUFZPUFAzOElDcFFrdWlQN2lTVXFveEsyaWl6VFZFaGR6ZWhTcXhya1hhU0dITDctZmE0c0haeXlTTm8xSVkyemJ4NnNZbUVPR2ZoaVFxT25DVjZqR216Q3Z3Z2hmNmFESmw4V1FTX2JMSGxMSkZMcTJOX1ZvNnkwQ0hneUxiV0lwMHJxSDN1UXB5REpZV0hUc0lydFFSQ1J5MjhJMzVVMWZ0T1RENy1oYVVEbkxHUDI1RTQxWGs3ZGVrX3hzcGo5cWJzTUVHb0oyeEx0STdaUWJNanRHUzVZdVhWSVVoUEZDQzhCYVhUR2dHclplM0RVUHNtOEljRGdDbDhIRjFoUVo5azB1Y2FvYnM3UjIwbldobmtNaHNwcWJmazhjUnhZRjJhUW5TanR1Umt3RXd5b3U0aFhHTTlwY3pWWVhQNjV3YndxRlBiejVCVVpUUjNDYXNNRDRYbDlNUDY5SHM1WE4xdEJMSnpuZmpIVFZPUHZBTHFQeDZvaGtBR0FUd3lIVDV4b1prZ1hYOHlkYWJHNVliOGR3dEVJVjNTdldIbFUtTHhrQkg4V3ZfWGc?oc=5\" target=\"_blank\">وظائف في مأمن من الذكاء الاصطناعي... ما المجالات الأكثر صموداً؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق الأوسط</font>",
       "date": "Mon, 14 Sep 2026 12:49:44 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -706,9 +717,9 @@
       "image": ""
     },
     {
-      "title": "قادة الذكاء الاصطناعي يتفقون على ضرورة إبطاء تطويره - العربية",
+      "title": "قادة الذكاء الاصطناعي يتفقون على ضرورة إبطاء تطويره - alarabiya.net",
       "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPTV9xdm5PN0xXdUJONWQzWE8wVGZSRlM1WkZUVmpIX19iU3lqVERDOUxWTHpSV0ZjVl9NZ2hUd05YZzI1RVhqT1RvRUFrVUtaQnhPRGhwamNiU0poQXI1S1NGeXRpUGNKdzdlWm9IOWpvS2VnZHo5T0NVUUdxZHlLaUZpUExpbUwyTDdaOGxHWmx6aldtT1B0Z0h3Y29PbkU2Q2dNNEY2bXQ5WHQ5QVpWdDBueC1Rb1BRTkRESU1XTkEyX2pUQUVoc2k0RTNmSFNYczY5c1lsYVZwNVRGd0hwa0E1MlNYaUZ3S2N3ZzdkRk9FVElVMGFGa0txMkc3eFF0RERPZkVNdllFTmZDV2JBTWdVZ1FFWktTTEdZTmppeEZiZTJ6Qjlsb1pURjN1UzJWNmFmaks4ZUxVbFhaaXo1T1Q5cDNaaS12a0x3Sl9YT3lIa1BXdnBfbWZZcWZpR084V1JIZFJtVzRhTTc5SFB0QV9VS1RyRklndlVLSUtGU3h2MmFXb0RLTkl2SmZmQVRSQjFoSDIzaWxlbDVEaV9yUjdvdDZNclZMWW5CU281YmREcVVBV1lMSTlRYTNlUzZQY3NmRzMwSUNMbVBOR0JXWjdSZVnSAdoDQVVfeXFMT2phSVlJdzFmV2RrNDhEenJqaFVQWDVSUXhDNGlwZjlzMEI1T25kY3lJRzJwSHBQRFcwYUxzbDBJSk5FMGt1ZVk3ZndzazZkZmhLcFRRd1E2NEZGd3dYVHdmalljYnZwWnVKMnBiR0NLRGdYUUYxc3hZWHNXdm1YR1pCSFBvMk5mX2Q0SHU4d3lrS2JaY21XTUc1aXlmRWM4TkhwSEZlNW1HdXhXNGduYkVrQTd5akVrMVhZa085bnh5bGd0Y01kOG1TRTBpOXgwRzd3NF91bXgwS0VnbDZIeU1RaGxzdkNWMGkzdVBHN1NYRjhwR05PTlJ6OWxEdXlJakdXcUN1VkhXNjE0NVpTQm1KSEVjLXJkcFA3T29DcGFkRFczc0tHUGxDRnNDMVp2SzRGSjlNWEFVQmx2VWdtSTRneE5NQXFsREROZk1tTWx5dW1vbEdlRGl2akNodnlHYldGOHhJa1lEU1RSUlVVUC1XaHY4eWdVYU9CaG9Hc3RHYVdURjVqWG9DQ3ZWMnA0andTNDJ4NkFJVWpDOV93a0xTeTZEY0pYUnhXS0x0cEh0b1Q1UFhzLXhnM1hLdzI1RXFBcGpsNE13LXBoa0ZUMWJvQUwzLThHemln?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1ANBVV95cUxPTV9xdm5PN0xXdUJONWQzWE8wVGZSRlM1WkZUVmpIX19iU3lqVERDOUxWTHpSV0ZjVl9NZ2hUd05YZzI1RVhqT1RvRUFrVUtaQnhPRGhwamNiU0poQXI1S1NGeXRpUGNKdzdlWm9IOWpvS2VnZHo5T0NVUUdxZHlLaUZpUExpbUwyTDdaOGxHWmx6aldtT1B0Z0h3Y29PbkU2Q2dNNEY2bXQ5WHQ5QVpWdDBueC1Rb1BRTkRESU1XTkEyX2pUQUVoc2k0RTNmSFNYczY5c1lsYVZwNVRGd0hwa0E1MlNYaUZ3S2N3ZzdkRk9FVElVMGFGa0txMkc3eFF0RERPZkVNdllFTmZDV2JBTWdVZ1FFWktTTEdZTmppeEZiZTJ6Qjlsb1pURjN1UzJWNmFmaks4ZUxVbFhaaXo1T1Q5cDNaaS12a0x3Sl9YT3lIa1BXdnBfbWZZcWZpR084V1JIZFJtVzRhTTc5SFB0QV9VS1RyRklndlVLSUtGU3h2MmFXb0RLTkl2SmZmQVRSQjFoSDIzaWxlbDVEaV9yUjdvdDZNclZMWW5CU281YmREcVVBV1lMSTlRYTNlUzZQY3NmRzMwSUNMbVBOR0JXWjdSZVnSAdoDQVVfeXFMT2phSVlJdzFmV2RrNDhEenJqaFVQWDVSUXhDNGlwZjlzMEI1T25kY3lJRzJwSHBQRFcwYUxzbDBJSk5FMGt1ZVk3ZndzazZkZmhLcFRRd1E2NEZGd3dYVHdmalljYnZwWnVKMnBiR0NLRGdYUUYxc3hZWHNXdm1YR1pCSFBvMk5mX2Q0SHU4d3lrS2JaY21XTUc1aXlmRWM4TkhwSEZlNW1HdXhXNGduYkVrQTd5akVrMVhZa085bnh5bGd0Y01kOG1TRTBpOXgwRzd3NF91bXgwS0VnbDZIeU1RaGxzdkNWMGkzdVBHN1NYRjhwR05PTlJ6OWxEdXlJakdXcUN1VkhXNjE0NVpTQm1KSEVjLXJkcFA3T29DcGFkRFczc0tHUGxDRnNDMVp2SzRGSjlNWEFVQmx2VWdtSTRneE5NQXFsREROZk1tTWx5dW1vbEdlRGl2akNodnlHYldGOHhJa1lEU1RSUlVVUC1XaHY4eWdVYU9CaG9Hc3RHYVdURjVqWG9DQ3ZWMnA0andTNDJ4NkFJVWpDOV93a0xTeTZEY0pYUnhXS0x0cEh0b1Q1UFhzLXhnM1hLdzI1RXFBcGpsNE13LXBoa0ZUMWJvQUwzLThHemln?oc=5\" target=\"_blank\">قادة الذكاء الاصطناعي يتفقون على ضرورة إبطاء تطويره</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربية</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1ANBVV95cUxPTV9xdm5PN0xXdUJONWQzWE8wVGZSRlM1WkZUVmpIX19iU3lqVERDOUxWTHpSV0ZjVl9NZ2hUd05YZzI1RVhqT1RvRUFrVUtaQnhPRGhwamNiU0poQXI1S1NGeXRpUGNKdzdlWm9IOWpvS2VnZHo5T0NVUUdxZHlLaUZpUExpbUwyTDdaOGxHWmx6aldtT1B0Z0h3Y29PbkU2Q2dNNEY2bXQ5WHQ5QVpWdDBueC1Rb1BRTkRESU1XTkEyX2pUQUVoc2k0RTNmSFNYczY5c1lsYVZwNVRGd0hwa0E1MlNYaUZ3S2N3ZzdkRk9FVElVMGFGa0txMkc3eFF0RERPZkVNdllFTmZDV2JBTWdVZ1FFWktTTEdZTmppeEZiZTJ6Qjlsb1pURjN1UzJWNmFmaks4ZUxVbFhaaXo1T1Q5cDNaaS12a0x3Sl9YT3lIa1BXdnBfbWZZcWZpR084V1JIZFJtVzRhTTc5SFB0QV9VS1RyRklndlVLSUtGU3h2MmFXb0RLTkl2SmZmQVRSQjFoSDIzaWxlbDVEaV9yUjdvdDZNclZMWW5CU281YmREcVVBV1lMSTlRYTNlUzZQY3NmRzMwSUNMbVBOR0JXWjdSZVnSAdoDQVVfeXFMT2phSVlJdzFmV2RrNDhEenJqaFVQWDVSUXhDNGlwZjlzMEI1T25kY3lJRzJwSHBQRFcwYUxzbDBJSk5FMGt1ZVk3ZndzazZkZmhLcFRRd1E2NEZGd3dYVHdmalljYnZwWnVKMnBiR0NLRGdYUUYxc3hZWHNXdm1YR1pCSFBvMk5mX2Q0SHU4d3lrS2JaY21XTUc1aXlmRWM4TkhwSEZlNW1HdXhXNGduYkVrQTd5akVrMVhZa085bnh5bGd0Y01kOG1TRTBpOXgwRzd3NF91bXgwS0VnbDZIeU1RaGxzdkNWMGkzdVBHN1NYRjhwR05PTlJ6OWxEdXlJakdXcUN1VkhXNjE0NVpTQm1KSEVjLXJkcFA3T29DcGFkRFczc0tHUGxDRnNDMVp2SzRGSjlNWEFVQmx2VWdtSTRneE5NQXFsREROZk1tTWx5dW1vbEdlRGl2akNodnlHYldGOHhJa1lEU1RSUlVVUC1XaHY4eWdVYU9CaG9Hc3RHYVdURjVqWG9DQ3ZWMnA0andTNDJ4NkFJVWpDOV93a0xTeTZEY0pYUnhXS0x0cEh0b1Q1UFhzLXhnM1hLdzI1RXFBcGpsNE13LXBoa0ZUMWJvQUwzLThHemln?oc=5\" target=\"_blank\">قادة الذكاء الاصطناعي يتفقون على ضرورة إبطاء تطويره</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alarabiya.net</font>",
       "date": "Mon, 14 Sep 2026 12:49:00 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -717,9 +728,9 @@
       "image": ""
     },
     {
-      "title": "إبطاء تطوير نماذج الذكاء الاصطناعي المتقدمة.. ما أبرز العقبات؟ - الشرق للأخبار",
+      "title": "إبطاء تطوير نماذج الذكاء الاصطناعي المتقدمة.. ما أبرز العقبات؟ - asharq.com",
       "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNUWxQRjVvdTZPejFPMHJrRGxESVZLSUVpZVc3S0dUa1QwQ2pOTUtpVmZhZURoRWRWbm90RGNfWHhwWHJyS3g3WlpwRnAtWFNNWmNwNVBPZVY0Y3ZjaURPNVc0N25keXB1RWRYX0JYVXJjaVViSHJuWkhlaGRoUTdMY3VyZjZOTGpCVUlGandQLWxDOFlBUnc2dTZ3RzRwZlpxb3FEYkFzSExMbjQtRVZOQ294S1YxY04xRUE5LWlQX0hrTk5GRFFjQl9xdWJtTjBycHhFekZoTDZRWlhiVU1OM3dtVDJfeDhLS0dEeW1Qd3lDQTJVb1NIejYtcjl2UkxjTlkyclhzVDJEelVlMFV0LXAxejRvaWNBeXl5SUc2NGFOcTUwTEJ1cVFBTHpFRjUtOFhEQUs2N1dQdUMyemN6czNuV0M5WkR1N1R3U1ZPQzZCbE1WOTJjUVAtbllWZ3dJM3NKb0xwdGVZZ1hjTFF5LU9Cb2FZVDk2UVRzNTkxRlpPNk1fMUZnRDF5bHktSzZEYUN3T1ZtclpCRXF1NGUyQTdLS00waEJQYzlpM0V5YXMyX0RsTlZmU1VNMkxOZXZQWkNiWUQ2ZHBlM2dGb0FwWERubjdJZHdYa2RueGRCM09DUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gNBVV95cUxNUWxQRjVvdTZPejFPMHJrRGxESVZLSUVpZVc3S0dUa1QwQ2pOTUtpVmZhZURoRWRWbm90RGNfWHhwWHJyS3g3WlpwRnAtWFNNWmNwNVBPZVY0Y3ZjaURPNVc0N25keXB1RWRYX0JYVXJjaVViSHJuWkhlaGRoUTdMY3VyZjZOTGpCVUlGandQLWxDOFlBUnc2dTZ3RzRwZlpxb3FEYkFzSExMbjQtRVZOQ294S1YxY04xRUE5LWlQX0hrTk5GRFFjQl9xdWJtTjBycHhFekZoTDZRWlhiVU1OM3dtVDJfeDhLS0dEeW1Qd3lDQTJVb1NIejYtcjl2UkxjTlkyclhzVDJEelVlMFV0LXAxejRvaWNBeXl5SUc2NGFOcTUwTEJ1cVFBTHpFRjUtOFhEQUs2N1dQdUMyemN6czNuV0M5WkR1N1R3U1ZPQzZCbE1WOTJjUVAtbllWZ3dJM3NKb0xwdGVZZ1hjTFF5LU9Cb2FZVDk2UVRzNTkxRlpPNk1fMUZnRDF5bHktSzZEYUN3T1ZtclpCRXF1NGUyQTdLS00waEJQYzlpM0V5YXMyX0RsTlZmU1VNMkxOZXZQWkNiWUQ2ZHBlM2dGb0FwWERubjdJZHdYa2RueGRCM09DUQ?oc=5\" target=\"_blank\">إبطاء تطوير نماذج الذكاء الاصطناعي المتقدمة.. ما أبرز العقبات؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق للأخبار</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gNBVV95cUxNUWxQRjVvdTZPejFPMHJrRGxESVZLSUVpZVc3S0dUa1QwQ2pOTUtpVmZhZURoRWRWbm90RGNfWHhwWHJyS3g3WlpwRnAtWFNNWmNwNVBPZVY0Y3ZjaURPNVc0N25keXB1RWRYX0JYVXJjaVViSHJuWkhlaGRoUTdMY3VyZjZOTGpCVUlGandQLWxDOFlBUnc2dTZ3RzRwZlpxb3FEYkFzSExMbjQtRVZOQ294S1YxY04xRUE5LWlQX0hrTk5GRFFjQl9xdWJtTjBycHhFekZoTDZRWlhiVU1OM3dtVDJfeDhLS0dEeW1Qd3lDQTJVb1NIejYtcjl2UkxjTlkyclhzVDJEelVlMFV0LXAxejRvaWNBeXl5SUc2NGFOcTUwTEJ1cVFBTHpFRjUtOFhEQUs2N1dQdUMyemN6czNuV0M5WkR1N1R3U1ZPQzZCbE1WOTJjUVAtbllWZ3dJM3NKb0xwdGVZZ1hjTFF5LU9Cb2FZVDk2UVRzNTkxRlpPNk1fMUZnRDF5bHktSzZEYUN3T1ZtclpCRXF1NGUyQTdLS00waEJQYzlpM0V5YXMyX0RsTlZmU1VNMkxOZXZQWkNiWUQ2ZHBlM2dGb0FwWERubjdJZHdYa2RueGRCM09DUQ?oc=5\" target=\"_blank\">إبطاء تطوير نماذج الذكاء الاصطناعي المتقدمة.. ما أبرز العقبات؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">asharq.com</font>",
       "date": "Mon, 14 Sep 2026 12:42:41 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -809,17 +820,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNRHhEMmRlRnJSRTFzd0lROUcxQVdjMDBRdVNvYl9MU1pBVnNpN0pPYkdfVmZkTFZneW5ORXQ5VXJ4TjlZSVJTS1d5b1pHdEx2bjN6S2RLaTRqRFlsYVo0OWZKTmZKYVZ0d20zTGNjQUN0SGZaYTljTzk2bjNYMm1faEJDeUdmMXFfT2RMTWxfaUtpMkFULVRQWU5iQ2p0dGRlMDloVHI4Q0RGRmR1dVZpUmVZNk1WQnhhVDh6Nm9oaTNQSFBBTE9OXzFtQmRxM1JXNmlBMWpqa2RieG1idGh4UDF2SkZ1YTlndEsyeGFWMnRLa1djV1NCYy1Vdzc4SURhenBTQnFQbUpWS1VEYWo3YTVMdVRiTmpzbW9HT3hfdmg3cHA4Z28yZl94UGpFN3R3cE1JaEN0ZVhHNVItVHdBZkdsUl_SAcoCQVVfeXFMTUJRTk8xdm5JZnRmVmRwbjJJRTViNi1RT2ozOHJKeU1fSXR5NkpjWTA2TEsySUtydzUzQ1JRWmVHVXNPeDZNdlllV1BrQ2NNbElFeHZwZ0IzU1VzVXZYdUsxZ3g5ZDRmcENKeUU5VnFCODVMZFBnZnRQYXRHNEJNVGdRMWIwNUw1TC04cl91SnBQRDNab3NPMmdCcGcwUUVPeWNGUE84WEw1ZmEzQkR2ajF5Nmp0Q2RQQWx3Ykl1WW1hZWhzcEtIdEJkaG5EbVFIY0VKbDgxTGlOWHZWMFlhM0RRY3Zqa1NSLUh4S1o5cVZtalZCTW9NUnNaQlRZbDVBR3NnOGpwb2hqdFY0NXR3SW5mTk4xS0FXUEJRZlAxUFF0aEI0OXNJbE54cVk0TmtWYzUzQlNRTHlXX3FTU3BPandUSXExcmhnQVB3?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxNRHhEMmRlRnJSRTFzd0lROUcxQVdjMDBRdVNvYl9MU1pBVnNpN0pPYkdfVmZkTFZneW5ORXQ5VXJ4TjlZSVJTS1d5b1pHdEx2bjN6S2RLaTRqRFlsYVo0OWZKTmZKYVZ0d20zTGNjQUN0SGZaYTljTzk2bjNYMm1faEJDeUdmMXFfT2RMTWxfaUtpMkFULVRQWU5iQ2p0dGRlMDloVHI4Q0RGRmR1dVZpUmVZNk1WQnhhVDh6Nm9oaTNQSFBBTE9OXzFtQmRxM1JXNmlBMWpqa2RieG1idGh4UDF2SkZ1YTlndEsyeGFWMnRLa1djV1NCYy1Vdzc4SURhenBTQnFQbUpWS1VEYWo3YTVMdVRiTmpzbW9HT3hfdmg3cHA4Z28yZl94UGpFN3R3cE1JaEN0ZVhHNVItVHdBZkdsUl_SAcoCQVVfeXFMTUJRTk8xdm5JZnRmVmRwbjJJRTViNi1RT2ozOHJKeU1fSXR5NkpjWTA2TEsySUtydzUzQ1JRWmVHVXNPeDZNdlllV1BrQ2NNbElFeHZwZ0IzU1VzVXZYdUsxZ3g5ZDRmcENKeUU5VnFCODVMZFBnZnRQYXRHNEJNVGdRMWIwNUw1TC04cl91SnBQRDNab3NPMmdCcGcwUUVPeWNGUE84WEw1ZmEzQkR2ajF5Nmp0Q2RQQWx3Ykl1WW1hZWhzcEtIdEJkaG5EbVFIY0VKbDgxTGlOWHZWMFlhM0RRY3Zqa1NSLUh4S1o5cVZtalZCTW9NUnNaQlRZbDVBR3NnOGpwb2hqdFY0NXR3SW5mTk4xS0FXUEJRZlAxUFF0aEI0OXNJbE54cVk0TmtWYzUzQlNRTHlXX3FTU3BPandUSXExcmhnQVB3?oc=5\" target=\"_blank\">مكاسب أم مخاطر؟ تعرف على أبرز مزايا الذكاء الاصطناعي وسلبياته</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
       "date": "Mon, 14 Sep 2026 11:49:39 GMT",
-      "source": "Google News تكنولوجيا",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "تكنولوجيا",
-      "image": ""
-    },
-    {
-      "title": "موبيلات حديثة تمزج الذكاء الاصطناعى والأداء القوى.. أبرزها أبل - اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxNQVVLTFh5d1BrNjdpeU5TZW1PZi1ZOGxNdE95QllhelJLR2p1YWd5cUNuaFJpN0RsZzhkNGtkanZUMS1tSkhpZ21ka3RWQy1vc3pwanh2M3NodkNmSUFJbklTdEdRSE40ajhJWnd3RHlnUWVSY2I2dzlEZE11OUluVVBBTHphU2FoVGVjOUxyTXM2OGJqWkhGNVgyUjdrRGtYTU9ERDAzQUpBbkRqaFBFbWNiTmtGNk9IMkItenplYWJGVlpnRG5XSURsNHRWaTluSm0xZlFoVkM4U1VOLWgyYlZWV3BON1VpWkpxaGhDRTkxVGw3aG1Cb3lKZHVoNmdhT2VOYlJkeVBRQ2ZzQlRUMnlLTUZsRE5iUXdFeUNWNl9LVFFrTmJEOF9XRWlneEV4dXNHUkY4RjYwUU1VRFRIZHNUWFRTeV9wNUV6UlhHUU81RHA4elBkdXpOWkxiY0pCX3U3QXR2ZTV6ZlBtMnRmVlNydE0zX3ZhUnZCaU5yVHJyTElLQklYdXB1c2tSYk1qQi1zbmpjVnRGZWp1RERpcm5GTmlYcF96Q2Zrbl9TWHZyQkR6YXk1WHBHQTN5dWZtOTJ3d2g4WFRKX2tpREVyX0pHS3Y1WlhtTzdWQ0lCYjdxMW1sNHhuSEpiOThNZ0JXWnFKTkx1c3F4QTJWeG9WRG1maVbSAf8DQVVfeXFMUEVHQS1HZ3o5RDBoUXItVm5sWmpXODgtdVdxY0RtbVlEeng4amlEeFhGb0hHLUlJajBnbDFJTWVodFhfNHhabXVodW1wLXNlMUxIVWlmdXN4UWRDZERQdUpWVDlFRnVqRnV0RjJNVERjbjJmTUcxRDVvX0Z5QWZZU3lwUk5iSmlOeVNnT1pxclJQU2VBd25sZ3d3UWc3TmdrSXdrUXVJMWtSQzNtWFNZb2ZobTQ0YWd6VUFpaTJzUkRIeHpXS3BYTlpKOXRlVnBDVV9ZVmhXcWhmdE0tWUlabEx0MWYxYTFpc3F3UHJjMjByYWpka092bjBZelMxNDhQMHVlZzBUOVdEWENaWkEzekxSNzBqRkpoZVBpc2hZX0FwV3RXX1p0cmtmSFhUdzFPRXVHOThvZWVDcVVCamZ2TGNXdVcwdGtudXViZDVldE5xa1pRMnlUbmdrNUNDM0J3WjEzOVhuTHNIem5uMnloODR2SlBpRkJ0blZhMHNIZDF2Z1N5eDZ5WGY1dm5qdHpCS0ZXZkpYVTROb3pIeVV0eE12a2hldHJjQWQ0RzN4Sk5FUWJwNEFoN3FVM2VEbXYteVJZbTQxUHJyOVB2QUNWSHk0RUpISW4wVzdwaWc4Si04MEdsT3ZDNFdENnIwQmhWcVM5RHpuUGd0WE41TkU3aw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihARBVV95cUxNQVVLTFh5d1BrNjdpeU5TZW1PZi1ZOGxNdE95QllhelJLR2p1YWd5cUNuaFJpN0RsZzhkNGtkanZUMS1tSkhpZ21ka3RWQy1vc3pwanh2M3NodkNmSUFJbklTdEdRSE40ajhJWnd3RHlnUWVSY2I2dzlEZE11OUluVVBBTHphU2FoVGVjOUxyTXM2OGJqWkhGNVgyUjdrRGtYTU9ERDAzQUpBbkRqaFBFbWNiTmtGNk9IMkItenplYWJGVlpnRG5XSURsNHRWaTluSm0xZlFoVkM4U1VOLWgyYlZWV3BON1VpWkpxaGhDRTkxVGw3aG1Cb3lKZHVoNmdhT2VOYlJkeVBRQ2ZzQlRUMnlLTUZsRE5iUXdFeUNWNl9LVFFrTmJEOF9XRWlneEV4dXNHUkY4RjYwUU1VRFRIZHNUWFRTeV9wNUV6UlhHUU81RHA4elBkdXpOWkxiY0pCX3U3QXR2ZTV6ZlBtMnRmVlNydE0zX3ZhUnZCaU5yVHJyTElLQklYdXB1c2tSYk1qQi1zbmpjVnRGZWp1RERpcm5GTmlYcF96Q2Zrbl9TWHZyQkR6YXk1WHBHQTN5dWZtOTJ3d2g4WFRKX2tpREVyX0pHS3Y1WlhtTzdWQ0lCYjdxMW1sNHhuSEpiOThNZ0JXWnFKTkx1c3F4QTJWeG9WRG1maVbSAf8DQVVfeXFMUEVHQS1HZ3o5RDBoUXItVm5sWmpXODgtdVdxY0RtbVlEeng4amlEeFhGb0hHLUlJajBnbDFJTWVodFhfNHhabXVodW1wLXNlMUxIVWlmdXN4UWRDZERQdUpWVDlFRnVqRnV0RjJNVERjbjJmTUcxRDVvX0Z5QWZZU3lwUk5iSmlOeVNnT1pxclJQU2VBd25sZ3d3UWc3TmdrSXdrUXVJMWtSQzNtWFNZb2ZobTQ0YWd6VUFpaTJzUkRIeHpXS3BYTlpKOXRlVnBDVV9ZVmhXcWhmdE0tWUlabEx0MWYxYTFpc3F3UHJjMjByYWpka092bjBZelMxNDhQMHVlZzBUOVdEWENaWkEzekxSNzBqRkpoZVBpc2hZX0FwV3RXX1p0cmtmSFhUdzFPRXVHOThvZWVDcVVCamZ2TGNXdVcwdGtudXViZDVldE5xa1pRMnlUbmdrNUNDM0J3WjEzOVhuTHNIem5uMnloODR2SlBpRkJ0blZhMHNIZDF2Z1N5eDZ5WGY1dm5qdHpCS0ZXZkpYVTROb3pIeVV0eE12a2hldHJjQWQ0RzN4Sk5FUWJwNEFoN3FVM2VEbXYteVJZbTQxUHJyOVB2QUNWSHk0RUpISW4wVzdwaWc4Si04MEdsT3ZDNFdENnIwQmhWcVM5RHpuUGd0WE41TkU3aw?oc=5\" target=\"_blank\">موبيلات حديثة تمزج الذكاء الاصطناعى والأداء القوى.. أبرزها أبل</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
-      "date": "Mon, 14 Sep 2026 11:00:00 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
       "sourceType": "aggregator",
@@ -937,9 +937,9 @@
       "image": ""
     },
     {
-      "title": "الدكتور فاروق الباز :كنت أحلم بدراسة الطب ودخلت عالم الفضاء بسبب المجموع - الهيئة الوطنية للإعلام",
+      "title": "الدكتور فاروق الباز :كنت أحلم بدراسة الطب ودخلت عالم الفضاء بسبب المجموع - maspero.eg",
       "link": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxOM0J4RXFqbnZlLVVYUEZkaTJMNlZLSXlEOURJaUxyaTBPWU4xSUwya18tai16dS03QXY3Qy11aE00U20zOTlSSnp6dVBPdDJPN0FqMW5zQXFlQzNIUW5ERjZCTS1XVDRDRWhJWFJYZ3hTVG5ZV2szUmRhSnNjZndxS1FncFZkakVPNjRPX0tYamJveDRZTUtOaGZjdnpERTMwdnduTjVXRzd0UENzVkIzZFQtNTFPTXg4MXRXa1NfXzB1bHBJSE1idDVZanlpY2tHTVBfTW5PZ3hUcXBwekl4cFotNEk3V1FxejhCMHZibGFhV3RrYl9QNlNqdHltbml0Yy1vWDl0UkpHZWY4RzNqcW1BX0xJQVZEbzZzSnFxMFBXbzJYckY5TjBmODVDRDZ2NXFXZ1BNcnYtcWtlRWsta3N5djh2bGNaOHVJRm1yWVZrRjMwUXpZeEU1WGFzZ2tTdklia1BkQVctTGFpeXljcmIxSXBPRmpZSFhld2VSUGpiQjFJSHJjX0x0YXJMY3NqZVV5YU00dXhOc25Zem5PZFZkM1d3aXdIWERaRndWLTRpenh2aUZGSG0wUlJ3TlJfeHlzX3pMY2ctUGVha3RmVTNIcGY2Rl9kb3BHX3RaR0d4bWNXVzdSY2pkenRBX2pzYW9GS1VsckVyTUg3RFl3Yko4RFhBUDlhS1QwNmJHT2k2U0d6Q3hxTXpYdml2OVo0WTBCaDNDMDFTM0hxQWFVMWVWcEplZ1hneVlzMVhFUW9qazk3ZjNmUkxRUFFQQjFlNi1aS1VFbV9rX0JfdTNtYmstMDNDazA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wRBVV95cUxOM0J4RXFqbnZlLVVYUEZkaTJMNlZLSXlEOURJaUxyaTBPWU4xSUwya18tai16dS03QXY3Qy11aE00U20zOTlSSnp6dVBPdDJPN0FqMW5zQXFlQzNIUW5ERjZCTS1XVDRDRWhJWFJYZ3hTVG5ZV2szUmRhSnNjZndxS1FncFZkakVPNjRPX0tYamJveDRZTUtOaGZjdnpERTMwdnduTjVXRzd0UENzVkIzZFQtNTFPTXg4MXRXa1NfXzB1bHBJSE1idDVZanlpY2tHTVBfTW5PZ3hUcXBwekl4cFotNEk3V1FxejhCMHZibGFhV3RrYl9QNlNqdHltbml0Yy1vWDl0UkpHZWY4RzNqcW1BX0xJQVZEbzZzSnFxMFBXbzJYckY5TjBmODVDRDZ2NXFXZ1BNcnYtcWtlRWsta3N5djh2bGNaOHVJRm1yWVZrRjMwUXpZeEU1WGFzZ2tTdklia1BkQVctTGFpeXljcmIxSXBPRmpZSFhld2VSUGpiQjFJSHJjX0x0YXJMY3NqZVV5YU00dXhOc25Zem5PZFZkM1d3aXdIWERaRndWLTRpenh2aUZGSG0wUlJ3TlJfeHlzX3pMY2ctUGVha3RmVTNIcGY2Rl9kb3BHX3RaR0d4bWNXVzdSY2pkenRBX2pzYW9GS1VsckVyTUg3RFl3Yko4RFhBUDlhS1QwNmJHT2k2U0d6Q3hxTXpYdml2OVo0WTBCaDNDMDFTM0hxQWFVMWVWcEplZ1hneVlzMVhFUW9qazk3ZjNmUkxRUFFQQjFlNi1aS1VFbV9rX0JfdTNtYmstMDNDazA?oc=5\" target=\"_blank\">الدكتور فاروق الباز :كنت أحلم بدراسة الطب ودخلت عالم الفضاء بسبب المجموع</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الهيئة الوطنية للإعلام</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wRBVV95cUxOM0J4RXFqbnZlLVVYUEZkaTJMNlZLSXlEOURJaUxyaTBPWU4xSUwya18tai16dS03QXY3Qy11aE00U20zOTlSSnp6dVBPdDJPN0FqMW5zQXFlQzNIUW5ERjZCTS1XVDRDRWhJWFJYZ3hTVG5ZV2szUmRhSnNjZndxS1FncFZkakVPNjRPX0tYamJveDRZTUtOaGZjdnpERTMwdnduTjVXRzd0UENzVkIzZFQtNTFPTXg4MXRXa1NfXzB1bHBJSE1idDVZanlpY2tHTVBfTW5PZ3hUcXBwekl4cFotNEk3V1FxejhCMHZibGFhV3RrYl9QNlNqdHltbml0Yy1vWDl0UkpHZWY4RzNqcW1BX0xJQVZEbzZzSnFxMFBXbzJYckY5TjBmODVDRDZ2NXFXZ1BNcnYtcWtlRWsta3N5djh2bGNaOHVJRm1yWVZrRjMwUXpZeEU1WGFzZ2tTdklia1BkQVctTGFpeXljcmIxSXBPRmpZSFhld2VSUGpiQjFJSHJjX0x0YXJMY3NqZVV5YU00dXhOc25Zem5PZFZkM1d3aXdIWERaRndWLTRpenh2aUZGSG0wUlJ3TlJfeHlzX3pMY2ctUGVha3RmVTNIcGY2Rl9kb3BHX3RaR0d4bWNXVzdSY2pkenRBX2pzYW9GS1VsckVyTUg3RFl3Yko4RFhBUDlhS1QwNmJHT2k2U0d6Q3hxTXpYdml2OVo0WTBCaDNDMDFTM0hxQWFVMWVWcEplZ1hneVlzMVhFUW9qazk3ZjNmUkxRUFFQQjFlNi1aS1VFbV9rX0JfdTNtYmstMDNDazA?oc=5\" target=\"_blank\">الدكتور فاروق الباز :كنت أحلم بدراسة الطب ودخلت عالم الفضاء بسبب المجموع</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">maspero.eg</font>",
       "date": "Wed, 25 Feb 2026 08:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
@@ -948,9 +948,9 @@
       "image": ""
     },
     {
-      "title": "مركز محمد بن راشد للفضاء يفتح باب التسجيل في برنامج أبحاث علوم الفضاء للطلبة الجامعيين 2026 - Government of Dubai Media Office",
+      "title": "مركز محمد بن راشد للفضاء يفتح باب التسجيل في برنامج أبحاث علوم الفضاء للطلبة الجامعيين 2026 - mediaoffice.ae",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWnV3ZHc1SHRJSnFKclh2UmI0c1VfSWZoOWJOMTRLd2VCMmd5alZJc2ZVellOaHlrTTJWS09kX3Y1VlZieG9iYWRWZDA5VjJRNHNIMFQ0VVpVLV9XQlg1VERKQnFhTjREQ25KOHhnRzluUFY4RDBocWt1VEFLSDhhV1N0WG9ZUWNfQVpHMjRoZGR3NkNBOTNGSXFsLWpmcG1nVWM4V2xBYThnVVo4azE3ZmhKWm1JdVowaUpjV25DZVAxZnJPMHl0NHRBQ1V6RldzRkF3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWnV3ZHc1SHRJSnFKclh2UmI0c1VfSWZoOWJOMTRLd2VCMmd5alZJc2ZVellOaHlrTTJWS09kX3Y1VlZieG9iYWRWZDA5VjJRNHNIMFQ0VVpVLV9XQlg1VERKQnFhTjREQ25KOHhnRzluUFY4RDBocWt1VEFLSDhhV1N0WG9ZUWNfQVpHMjRoZGR3NkNBOTNGSXFsLWpmcG1nVWM4V2xBYThnVVo4azE3ZmhKWm1JdVowaUpjV25DZVAxZnJPMHl0NHRBQ1V6RldzRkF3?oc=5\" target=\"_blank\">مركز محمد بن راشد للفضاء يفتح باب التسجيل في برنامج أبحاث علوم الفضاء للطلبة الجامعيين 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Government of Dubai Media Office</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWnV3ZHc1SHRJSnFKclh2UmI0c1VfSWZoOWJOMTRLd2VCMmd5alZJc2ZVellOaHlrTTJWS09kX3Y1VlZieG9iYWRWZDA5VjJRNHNIMFQ0VVpVLV9XQlg1VERKQnFhTjREQ25KOHhnRzluUFY4RDBocWt1VEFLSDhhV1N0WG9ZUWNfQVpHMjRoZGR3NkNBOTNGSXFsLWpmcG1nVWM4V2xBYThnVVo4azE3ZmhKWm1JdVowaUpjV25DZVAxZnJPMHl0NHRBQ1V6RldzRkF3?oc=5\" target=\"_blank\">مركز محمد بن راشد للفضاء يفتح باب التسجيل في برنامج أبحاث علوم الفضاء للطلبة الجامعيين 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mediaoffice.ae</font>",
       "date": "Mon, 23 Feb 2026 08:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
