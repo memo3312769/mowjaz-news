@@ -24,7 +24,8 @@ jobs:
       - name: تحديث الأخبار
         run: node fetch_news.mjs
 
-      - name: حفظ الأخبار
+      - 
+name: حفظ الأخبار
         run: |
           git config user.name "mowjaz-news-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
