@@ -1,23 +1,114 @@
+```javascript
 import fs from "node:fs/promises";
 
-const UA = "MowjazNews/2.0";
+const UA = "MowjazNews/3.0";
+
+/*
+  مستويات المصادر:
+  10 = مصدر رسمي قوي
+   8 = مصدر إخباري موثوق عبر RSS
+   6 = مصدر تجميعي / اكتشاف
+*/
 
 const feeds = [
-  ["BBC العربية", "https://feeds.bbci.co.uk/arabic/rss.xml", "العالم"],
-  ["BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml", "العالم"],
-  ["BBC Business", "https://feeds.bbci.co.uk/news/business/rss.xml", "اقتصاد"],
-  ["BBC Technology", "https://feeds.bbci.co.uk/news/technology/rss.xml", "تكنولوجيا"],
+  // =========================
+  // BBC
+  // =========================
 
-  ["Google News مصر", "https://news.google.com/rss/search?q=%D9%85%D8%B5%D8%B1+%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1&hl=ar&gl=EG&ceid=EG:ar", "مصر"],
+  {
+    source: "BBC العربية",
+    url: "https://feeds.bbci.co.uk/arabic/rss.xml",
+    category: "العالم",
+    score: 10,
+    type: "official-rss"
+  },
 
-  ["Google News رياضة", "https://news.google.com/rss/search?q=%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9+%D9%85%D8%B5%D8%B1&hl=ar&gl=EG&ceid=EG:ar", "رياضة"],
+  {
+    source: "BBC World",
+    url: "https://feeds.bbci.co.uk/news/world/rss.xml",
+    category: "العالم",
+    score: 10,
+    type: "official-rss"
+  },
 
-  ["Google News علوم", "https://news.google.com/rss/search?q=%D8%B9%D9%84%D9%88%D9%85+%D9%81%D8%B6%D8%A7%D8%A1+%D8%B7%D8%A8&hl=ar&gl=EG&ceid=EG:ar", "علوم"],
+  {
+    source: "BBC Business",
+    url: "https://feeds.bbci.co.uk/news/business/rss.xml",
+    category: "اقتصاد",
+    score: 10,
+    type: "official-rss"
+  },
 
-  ["Google News تكنولوجيا", "https://news.google.com/rss/search?q=%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7+%D8%B0%D9%83%D8%A7%D8%A1+%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A&hl=ar&gl=EG&ceid=EG:ar", "تكنولوجيا"],
+  {
+    source: "BBC Technology",
+    url: "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    category: "تكنولوجيا",
+    score: 10,
+    type: "official-rss"
+  },
 
-  ["Google News اقتصاد", "https://news.google.com/rss/search?q=%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF+%D8%A3%D8%B3%D9%88%D8%A7%D9%82+%D8%A8%D9%88%D8%B1%D8%B5%D8%A9&hl=ar&gl=EG&ceid=EG:ar", "اقتصاد"]
+  // =========================
+  // DW عربية
+  // =========================
+
+  {
+    source: "DW عربية",
+    url: "https://rss.dw.com/syndication/feeds/MENA_RSS_GNS_AR.42103-copypaste.html",
+    category: "العالم",
+    score: 9,
+    type: "official-rss"
+  },
+
+  // =========================
+  // Google News
+  // مصدر اكتشاف وليس ناشراً أصلياً
+  // =========================
+
+  {
+    source: "Google News مصر",
+    url: "https://news.google.com/rss/search?q=%D9%85%D8%B5%D8%B1+%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1&hl=ar&gl=EG&ceid=EG:ar",
+    category: "مصر",
+    score: 6,
+    type: "aggregator"
+  },
+
+  {
+    source: "Google News رياضة",
+    url: "https://news.google.com/rss/search?q=%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9+%D9%85%D8%B5%D8%B1&hl=ar&gl=EG&ceid=EG:ar",
+    category: "رياضة",
+    score: 6,
+    type: "aggregator"
+  },
+
+  {
+    source: "Google News علوم",
+    url: "https://news.google.com/rss/search?q=%D8%B9%D9%84%D9%88%D9%85+%D9%81%D8%B6%D8%A7%D8%A1+%D8%B7%D8%A8&hl=ar&gl=EG&ceid=EG:ar",
+    category: "علوم",
+    score: 6,
+    type: "aggregator"
+  },
+
+  {
+    source: "Google News تكنولوجيا",
+    url: "https://news.google.com/rss/search?q=%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7+%D8%B0%D9%83%D8%A7%D8%A1+%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A&hl=ar&gl=EG&ceid=EG:ar",
+    category: "تكنولوجيا",
+    score: 6,
+    type: "aggregator"
+  },
+
+  {
+    source: "Google News اقتصاد",
+    url: "https://news.google.com/rss/search?q=%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF+%D8%A3%D8%B3%D9%88%D8%A7%D9%82+%D8%A8%D9%88%D8%B1%D8%B5%D8%A9&hl=ar&gl=EG&ceid=EG:ar",
+    category: "اقتصاد",
+    score: 6,
+    type: "aggregator"
+  }
 ];
+
+
+// =========================
+// تنظيف النص
+// =========================
 
 const strip = (s = "") =>
   s
@@ -31,19 +122,46 @@ const strip = (s = "") =>
     .replace(/\s+/g, " ")
     .trim();
 
+
+// =========================
+// استخراج عنصر XML
+// =========================
+
 const between = (s, a, b) => {
   const i = s.indexOf(a);
+
   if (i < 0) return "";
+
   const j = s.indexOf(b, i + a.length);
-  return strip(s.slice(i + a.length, j < 0 ? s.length : j));
+
+  return strip(
+    s.slice(
+      i + a.length,
+      j < 0 ? s.length : j
+    )
+  );
 };
+
+
+// =========================
+// استخراج Attribute
+// =========================
 
 const attr = (s, tag, name) => {
   const m = s.match(
-    new RegExp(`<${tag}\\b[^>]*\\b${name}=["']([^"']+)["']`, "i")
+    new RegExp(
+      `<${tag}\\b[^>]*\\b${name}=["']([^"']+)["']`,
+      "i"
+    )
   );
+
   return m ? m[1] : "";
 };
+
+
+// =========================
+// توحيد النص العربي
+// =========================
 
 const norm = (s) =>
   strip(s)
@@ -54,36 +172,65 @@ const norm = (s) =>
     .replace(/\s+/g, " ")
     .trim();
 
+
+// =========================
+// تشابه العناوين
+// =========================
+
 function similarity(a, b) {
-  const A = new Set(norm(a).split(" ").filter((x) => x.length > 2));
-  const B = new Set(norm(b).split(" ").filter((x) => x.length > 2));
 
-  let n = 0;
+  const A = new Set(
+    norm(a)
+      .split(" ")
+      .filter((x) => x.length > 2)
+  );
 
-  for (const x of A) {
-    if (B.has(x)) n++;
+  const B = new Set(
+    norm(b)
+      .split(" ")
+      .filter((x) => x.length > 2)
+  );
+
+  let common = 0;
+
+  for (const word of A) {
+    if (B.has(word)) {
+      common++;
+    }
   }
 
-  return n / Math.max(A.size, B.size, 1);
+  return common / Math.max(A.size, B.size, 1);
 }
 
+
+// =========================
+// استخراج الصورة
+// =========================
+
 function imageFromChunk(x) {
+
   const media =
     attr(x, "media:content", "url") ||
     attr(x, "media:thumbnail", "url") ||
     attr(x, "enclosure", "url");
 
-  if (media) return media;
+  if (media) {
+    return media;
+  }
 
   const img =
-    x.match(/<img[^>]+src=["']([^"']+)["']/i);
+    x.match(
+      /<img[^>]+src=["']([^"']+)["']/i
+    );
 
   if (img && img[1]) {
     return img[1];
   }
 
   const og =
-    x.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
+    x.match(
+      /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i
+    );
 
   if (og && og[1]) {
     return og[1];
@@ -92,69 +239,201 @@ function imageFromChunk(x) {
   return "";
 }
 
-async function feed([source, url, category]) {
-  try {
-    const res = await fetch(url, {
-      headers: {
-        "user-agent": UA
-      }
-    });
 
-    if (!res.ok) return [];
+// =========================
+// جلب Feed
+// =========================
+
+async function feed(config) {
+
+  try {
+
+    const res = await fetch(
+      config.url,
+      {
+        headers: {
+          "user-agent": UA
+        }
+      }
+    );
+
+    if (!res.ok) {
+
+      console.log(
+        `Feed failed: ${config.source} (${res.status})`
+      );
+
+      return [];
+    }
 
     const text = await res.text();
 
-    const chunks = text.split(/<item\b/i).slice(1);
+    const chunks =
+      text
+        .split(/<item\b/i)
+        .slice(1);
 
     return chunks
       .slice(0, 40)
       .map((x) => ({
-        title: between(x, "<title>", "</title>"),
+
+        title:
+          between(
+            x,
+            "<title>",
+            "</title>"
+          ),
 
         link:
-          between(x, "<link>", "</link>") ||
-          attr(x, "link", "href"),
+          between(
+            x,
+            "<link>",
+            "</link>"
+          ) ||
+          attr(
+            x,
+            "link",
+            "href"
+          ),
 
         description:
-          between(x, "<description>", "</description>") ||
-          between(x, "<summary>", "</summary>"),
+          between(
+            x,
+            "<description>",
+            "</description>"
+          ) ||
+          between(
+            x,
+            "<summary>",
+            "</summary>"
+          ),
 
         date:
-          between(x, "<pubDate>", "</pubDate>") ||
-          between(x, "<published>", "</published>") ||
-          between(x, "<updated>", "</updated>") ||
+          between(
+            x,
+            "<pubDate>",
+            "</pubDate>"
+          ) ||
+          between(
+            x,
+            "<published>",
+            "</published>"
+          ) ||
+          between(
+            x,
+            "<updated>",
+            "</updated>"
+          ) ||
           new Date().toISOString(),
 
-        source,
+        source: config.source,
 
-        cat: category,
+        sourceScore: config.score,
 
-        image: imageFromChunk(x)
+        sourceType: config.type,
+
+        cat: config.category,
+
+        image:
+          imageFromChunk(x)
+
       }))
-      .filter((x) => x.title && x.link);
+      .filter(
+        (x) =>
+          x.title &&
+          x.link
+      );
 
-  } catch {
+  } catch (error) {
+
+    console.log(
+      `Feed error: ${config.source}`
+    );
+
     return [];
   }
 }
 
-const rows = (await Promise.all(feeds.map(feed)))
-  .flat()
-  .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+// =========================
+// تحميل جميع المصادر
+// =========================
+
+const rows =
+  (
+    await Promise.all(
+      feeds.map(feed)
+    )
+  )
+    .flat()
+    .sort(
+      (a, b) =>
+        new Date(b.date) -
+        new Date(a.date)
+    );
+
+
+// =========================
+// إزالة التكرار
+// =========================
 
 const unique = [];
 
 for (const x of rows) {
-  const same = unique.find(
-    (y) => similarity(x.title, y.title) >= 0.72
-  );
+
+  const same =
+    unique.find(
+      (y) =>
+        similarity(
+          x.title,
+          y.title
+        ) >= 0.72
+    );
 
   if (!same) {
+
     unique.push(x);
-  } else if (!same.image && x.image) {
-    same.image = x.image;
+
+  } else {
+
+    // إذا كان المصدر الجديد أفضل
+    // نحتفظ بالمصدر الأعلى ثقة
+
+    if (
+      x.sourceScore >
+      same.sourceScore
+    ) {
+
+      same.source =
+        x.source;
+
+      same.sourceScore =
+        x.sourceScore;
+
+      same.sourceType =
+        x.sourceType;
+
+    }
+
+    // الاحتفاظ بصورة إن كانت متوفرة
+
+    if (
+      !same.image &&
+      x.image
+    ) {
+
+      same.image =
+        x.image;
+
+    }
+
   }
 }
+
+
+// =========================
+// ترتيب الأقسام
+// =========================
 
 const priority = [
   "مصر",
@@ -168,28 +447,62 @@ const priority = [
 const balanced = [];
 
 for (const cat of priority) {
+
   balanced.push(
     ...unique
-      .filter((x) => x.cat === cat)
+      .filter(
+        (x) =>
+          x.cat === cat
+      )
       .slice(0, 15)
   );
+
 }
 
+
+// أي تصنيف جديد مستقبلاً
+
 balanced.push(
-  ...unique.filter((x) => !priority.includes(x.cat))
+  ...unique.filter(
+    (x) =>
+      !priority.includes(
+        x.cat
+      )
+  )
 );
+
+
+// =========================
+// الناتج النهائي
+// =========================
 
 const out = {
-  updatedAt: new Date().toISOString(),
-  items: balanced.slice(0, 140)
+
+  updatedAt:
+    new Date().toISOString(),
+
+  items:
+    balanced.slice(0, 140)
+
 };
 
+
 await fs.writeFile(
+
   "news.json",
-  JSON.stringify(out, null, 2),
+
+  JSON.stringify(
+    out,
+    null,
+    2
+  ),
+
   "utf8"
+
 );
 
+
 console.log(
-  `Saved ${out.items.length} news items.`
+  `Saved ${out.items.length} news items from ${feeds.length} feeds.`
 );
+```
