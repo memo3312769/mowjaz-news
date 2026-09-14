@@ -1,4 +1,4 @@
-javascript
+
 import fs from "node:fs/promises";
 
 const UA = "MowjazNews/3.0";
