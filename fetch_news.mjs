@@ -255,9 +255,13 @@ async function feed(config) {
 
     if (!res.ok) {
 
-      console.log(
-        `Feed failed: ${config.source} (${res.status})`
-      );
+ console.log(
+  "Feed failed: " +
+  config.source +
+  " (" +
+  res.status +
+  ")"
+);     
 
       return [];
     }
