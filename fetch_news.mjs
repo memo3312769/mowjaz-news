@@ -478,30 +478,15 @@ balanced.push(
 // =========================
 
 const out = {
-
-  updatedAt:
-    new Date().toISOString(),
-
-  items:
-    balanced.slice(0, 140)
-
+  updatedAt: new Date().toISOString(),
+  items: balanced.slice(0, 140)
 };
 
-
 await fs.writeFile(
-
   "news.json",
-
-  JSON.stringify(
-    out,
-    null,
-    2
-  ),
-
+  JSON.stringify(out, null, 2),
   "utf8"
-
 );
-
 
 console.log(
   "Saved " +
@@ -510,4 +495,3 @@ console.log(
   feeds.length +
   " feeds."
 );
-```
