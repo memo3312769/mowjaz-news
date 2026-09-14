@@ -142,12 +142,14 @@ const between = (s, a, b) => {
 // =========================
 
 const attr = (s, tag, name) => {
-  const m = s.match(
-    new RegExp(
-      `<${tag}\\b[^>]*\\b${name}=["']([^"']+)["']`,
-      "i"
-    )
-  );
+  const pattern =
+    "<" +
+    tag +
+    "\\b[^>]*\\b" +
+    name +
+    "=[\"']([^\"']+)[\"']";
+
+  const m = s.match(new RegExp(pattern, "i"));
 
   return m ? m[1] : "";
 };
