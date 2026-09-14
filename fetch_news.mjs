@@ -46,6 +46,13 @@ const feeds = [
     score: 10,
     type: "official-rss"
   },
+    {
+    source: "France 24 العربية",
+    url: "https://www.france24.com/ar/rss",
+    category: "العالم",
+    score: 10,
+    type: "official-rss"
+  },
 
   // =========================
   // DW عربية
