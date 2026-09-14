@@ -51,13 +51,7 @@ const feeds = [
   // DW عربية
   // =========================
 
-  {
-    source: "DW عربية",
-    url: "https://rss.dw.com/syndication/feeds/MENA_RSS_GNS_AR.42103-copypaste.html",
-    category: "العالم",
-    score: 9,
-    type: "official-rss"
-  },
+ 
 
   // =========================
   // Google News
