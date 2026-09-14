@@ -504,6 +504,10 @@ await fs.writeFile(
 
 
 console.log(
-  `Saved ${out.items.length} news items from ${feeds.length} feeds.`
+  "Saved " +
+  out.items.length +
+  " news items from " +
+  feeds.length +
+  " feeds."
 );
 ```
