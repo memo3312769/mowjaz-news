@@ -382,50 +382,37 @@ const unique = [];
 
 for (const x of rows) {
 
-  const same =
-    unique.find(
-      (y) =>
-        similarity(
-          x.title,
-          y.title
-        ) >= 0.72
-    );
+  const same = unique.find(
+    (y) =>
+      similarity(x.title, y.title) >= 0.72
+  );
 
   if (!same) {
 
-    unique.push(x);
+    unique.push({
+      ...x,
+      sourceCount: 1,
+      sources: [x.source]
+    });
 
   } else {
 
-    // إذا كان المصدر الجديد أفضل
-    // نحتفظ بالمصدر الأعلى ثقة
-
-    if (
-      x.sourceScore >
-      same.sourceScore
-    ) {
-
-      same.source =
-        x.source;
-
-      same.sourceScore =
-        x.sourceScore;
-
-      same.sourceType =
-        x.sourceType;
-
+    // إضافة المصدر الجديد إذا لم يكن موجودًا
+    if (!same.sources.includes(x.source)) {
+      same.sources.push(x.source);
+      same.sourceCount = same.sources.length;
     }
 
-    // الاحتفاظ بصورة إن كانت متوفرة
+    // الاحتفاظ بالمصدر الأعلى موثوقية
+    if (x.sourceScore > same.sourceScore) {
+      same.source = x.source;
+      same.sourceScore = x.sourceScore;
+      same.sourceType = x.sourceType;
+    }
 
-    if (
-      !same.image &&
-      x.image
-    ) {
-
-      same.image =
-        x.image;
-
+    // الاحتفاظ بصورة إذا لم تكن موجودة
+    if (!same.image && x.image) {
+      same.image = x.image;
     }
 
   }
