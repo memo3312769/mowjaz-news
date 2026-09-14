@@ -346,9 +346,10 @@ async function feed(config) {
 
   } catch (error) {
 
-    console.log(
-      `Feed error: ${config.source}`
-    );
+   console.log(
+  "Feed error: " +
+  config.source
+); 
 
     return [];
   }
