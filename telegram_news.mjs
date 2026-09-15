@@ -1,4 +1,4 @@
-const fs = require("fs");
+import fs from "fs";
 
 const token = process.env.TELEGRAM_BOT_TOKEN;
 
