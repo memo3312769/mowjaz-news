@@ -848,8 +848,8 @@ ${isUrgent(x) ? '<div style="color:#dc2626;font-weight:900;margin-bottom:8px">ðŸ
           </p>
 
           <div class="source">
-            ${esc(x.source || "")}
-          </div>
+  ${esc((x.sources || [x.source || ""]).join(" Â· "))}
+</div>
 
           <a
             class="read"
