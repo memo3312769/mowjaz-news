@@ -12,7 +12,11 @@ const offsetFile = "telegram_offset.json";
 let news = [];
 
 if (fs.existsSync(newsFile)) {
-  news = JSON.parse(fs.readFileSync(newsFile, "utf8"));
+  const savedNews = JSON.parse(fs.readFileSync(newsFile, "utf8"));
+
+  news = Array.isArray(savedNews)
+    ? savedNews
+    : (Array.isArray(savedNews.news) ? savedNews.news : []);
 }
 
 let offset = 0;
