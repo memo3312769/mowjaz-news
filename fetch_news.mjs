@@ -53,7 +53,14 @@ const feeds = [
     score: 10,
     type: "official-rss"
   },
-
+  
+{
+  source: "Sky News عربية",
+  url: "https://www.skynewsarabia.com/rss.xml",
+  category: "العالم",
+  score: 10,
+  type: "official-rss"
+},
   // =========================
   // DW عربية
   // =========================
