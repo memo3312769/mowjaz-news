@@ -826,6 +826,9 @@ ${isUrgent(hero) ? '<div style="color:#dc2626;font-weight:900;margin-bottom:10px
           <div class="source">
             ${esc(x.cat || "خبر")}
           </div>
+          ${Number(x.sourceCount || 1) > 1
+  ? `<span class="source-count">📰 ${x.sourceCount === 2 ? "مصدران" : x.sourceCount + " مصادر"}</span>`
+  : ""}ر
 ${isUrgent(x) ? '<div style="color:#dc2626;font-weight:900;margin-bottom:8px">🔴 عاجل</div>' : ""}
           <h3>
             ${esc(x.title)}
