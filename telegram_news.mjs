@@ -98,7 +98,7 @@ const output = {
   items: news
 };
 
-await fs.writeFile(
+fs.writeFileSync(
   newsFile,
   JSON.stringify(output, null, 2),
   "utf8"
