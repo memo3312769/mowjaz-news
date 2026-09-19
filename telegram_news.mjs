@@ -9,20 +9,25 @@ if (!token) {
 const newsFile = "news.json";
 const offsetFile = "telegram_offset.json";
 
-// قراءة الأخبار الحالية دون فقدانها
-let news = [];
+let newsData = {
+  updatedAt: new Date().toISOString(),
+  items: []
+};
 
+// قراءة الأخبار الحالية
 if (fs.existsSync(newsFile)) {
   const saved = JSON.parse(
     fs.readFileSync(newsFile, "utf8")
   );
 
   if (Array.isArray(saved)) {
-    news = saved;
+    newsData.items = saved;
   } else if (Array.isArray(saved.items)) {
-    news = saved.items;
+    newsData = saved;
   }
 }
+
+const news = newsData.items;
 
 let offset = 0;
 
@@ -44,7 +49,9 @@ if (!response.ok) {
 const data = await response.json();
 
 if (!data.ok) {
-  throw new Error("Telegram API returned an error");
+  throw new Error(
+    `Telegram API returned an error: ${data.description || "Unknown error"}`
+  );
 }
 
 let newOffset = offset;
@@ -55,25 +62,54 @@ for (const update of data.result) {
     update.update_id + 1
   );
 
-  const post = update.channel_post;
+  const post =
+    update.channel_post ||
+    update.message;
 
   if (!post || !post.text) {
     continue;
   }
 
-  const channel =
+  // قناة التجميع التي استقبلت المنشور
+  const receivingChannel =
     post.chat?.title || "Telegram";
 
-  const username =
+  const receivingUsername =
     post.chat?.username || "";
 
   const messageId = post.message_id;
 
-  const link = username
-    ? `https://t.me/${username}/${messageId}`
+  const receivingLink = receivingUsername
+    ? `https://t.me/${receivingUsername}/${messageId}`
     : "";
 
-  // استخدام عنوان مختصر بدل نسخ المنشور بالكامل
+  // محاولة معرفة المصدر الأصلي للمنشور المعاد توجيهه
+  const origin = post.forward_origin;
+
+  let originalSource = receivingChannel;
+  let originalUsername = "";
+  let originalMessageId = "";
+
+  if (
+    origin &&
+    origin.type === "channel" &&
+    origin.chat
+  ) {
+    originalSource =
+      origin.chat.title || receivingChannel;
+
+    originalUsername =
+      origin.chat.username || "";
+
+    originalMessageId =
+      origin.message_id || "";
+  }
+
+  const originalLink =
+    originalUsername && originalMessageId
+      ? `https://t.me/${originalUsername}/${originalMessageId}`
+      : receivingLink;
+
   const lines = post.text
     .split("\n")
     .map(x => x.trim())
@@ -86,38 +122,44 @@ for (const update of data.result) {
   const description =
     post.text.slice(0, 240);
 
+  // منع التكرار
+  const exists = news.some(item =>
+    (originalLink && item.link === originalLink) ||
+    (
+      item.sourceType === "telegram" &&
+      item.title === title &&
+      item.date === new Date(post.date * 1000).toISOString()
+    )
+  );
+
+  if (exists) {
+    continue;
+  }
+
   const item = {
     title,
-    link,
+    link: originalLink,
     description,
     date: new Date(
       post.date * 1000
     ).toISOString(),
-    source: channel,
+    source: originalSource,
     sourceScore: 8,
     sourceType: "telegram",
     cat: "العالم",
     image: "",
     sourceCount: 1,
-    sources: [channel]
+    sources: [originalSource]
   };
 
-  const exists = news.some(x =>
-    link &&
-    x.link &&
-    x.link === link
+  news.push(item);
+
+  console.log(
+    `تمت إضافة خبر Telegram من: ${originalSource}`
   );
-
-  if (!exists && link) {
-    news.push(item);
-
-    console.log(
-      `تمت إضافة خبر Telegram من: ${channel}`
-    );
-  }
 }
 
-// الحفاظ على بنية news.json
+// الحفاظ على جميع الأخبار
 const output = {
   updatedAt: new Date().toISOString(),
   items: news
