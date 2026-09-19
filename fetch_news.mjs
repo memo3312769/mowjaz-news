@@ -478,6 +478,12 @@ balanced.push(
 // الناتج النهائي
 // =========================
 
+if (balanced.length === 0) {
+  throw new Error(
+    "لم يتم جلب أي أخبار. تم إيقاف الحفظ لحماية news.json."
+  );
+}
+
 const out = {
   updatedAt: new Date().toISOString(),
   items: balanced.slice(0, 140)
