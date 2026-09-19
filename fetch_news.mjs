@@ -484,9 +484,49 @@ if (balanced.length === 0) {
   );
 }
 
+// الاحتفاظ بأخبار Telegram السابقة
+let oldTelegramNews = [];
+
+try {
+  const previous = JSON.parse(
+    await fs.readFile("news.json", "utf8")
+  );
+
+  const previousItems = Array.isArray(previous)
+    ? previous
+    : previous.items || [];
+
+  oldTelegramNews = previousItems.filter(
+    item => item.sourceType === "telegram"
+  );
+} catch {
+  oldTelegramNews = [];
+}
+
+// دمج الأخبار الجديدة مع أخبار Telegram القديمة
+const mergedNews = [
+  ...balanced,
+  ...oldTelegramNews
+];
+
+// منع التكرار
+const uniqueNews = [];
+const seenLinks = new Set();
+
+for (const item of mergedNews) {
+  const key =
+    item.link ||
+    `${item.title}-${item.date}`;
+
+  if (!seenLinks.has(key)) {
+    seenLinks.add(key);
+    uniqueNews.push(item);
+  }
+}
+
 const out = {
   updatedAt: new Date().toISOString(),
-  items: balanced.slice(0, 140)
+  items: uniqueNews.slice(0, 160)
 };
 
 await fs.writeFile(
