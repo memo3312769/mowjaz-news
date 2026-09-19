@@ -93,9 +93,14 @@ for (const update of data.result) {
   }
 }
 
-fs.writeFileSync(
+const output = {
+  updatedAt: new Date().toISOString(),
+  items: news
+};
+
+await fs.writeFile(
   newsFile,
-  JSON.stringify(news, null, 2),
+  JSON.stringify(output, null, 2),
   "utf8"
 );
 
