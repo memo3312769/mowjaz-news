@@ -3,36 +3,37 @@ import fs from "fs";
 const token = process.env.TELEGRAM_BOT_TOKEN;
 
 if (!token) {
-  throw new Error("TELEGRAM_BOT_TOKEN غير موجود");
+  throw new Error("TELEGRAM_BOT_TOKEN مفقود");
 }
 
 const newsFile = "news.json";
 const offsetFile = "telegram_offset.json";
 
+// قراءة الأخبار الحالية دون فقدانها
 let news = [];
 
 if (fs.existsSync(newsFile)) {
-  const savedNews = JSON.parse(
+  const saved = JSON.parse(
     fs.readFileSync(newsFile, "utf8")
   );
 
-  if (Array.isArray(savedNews)) {
-    news = savedNews;
-  } else if (Array.isArray(savedNews.items)) {
-    news = savedNews.items;
-  } else if (Array.isArray(savedNews.news)) {
-    news = savedNews.news;
+  if (Array.isArray(saved)) {
+    news = saved;
+  } else if (Array.isArray(saved.items)) {
+    news = saved.items;
   }
 }
 
 let offset = 0;
 
 if (fs.existsSync(offsetFile)) {
-  offset = Number(fs.readFileSync(offsetFile, "utf8")) || 0;
+  offset =
+    Number(fs.readFileSync(offsetFile, "utf8")) || 0;
 }
 
 const url =
-  `https://api.telegram.org/bot${token}/getUpdates?timeout=10&offset=${offset}`;
+  `https://api.telegram.org/bot${token}/getUpdates` +
+  `?timeout=10&offset=${offset}`;
 
 const response = await fetch(url);
 
@@ -49,8 +50,10 @@ if (!data.ok) {
 let newOffset = offset;
 
 for (const update of data.result) {
-
-  newOffset = Math.max(newOffset, update.update_id + 1);
+  newOffset = Math.max(
+    newOffset,
+    update.update_id + 1
+  );
 
   const post = update.channel_post;
 
@@ -58,19 +61,38 @@ for (const update of data.result) {
     continue;
   }
 
-  const channel = post.chat?.title || "Telegram";
-  const username = post.chat?.username || "";
+  const channel =
+    post.chat?.title || "Telegram";
+
+  const username =
+    post.chat?.username || "";
+
   const messageId = post.message_id;
 
   const link = username
     ? `https://t.me/${username}/${messageId}`
     : "";
 
+  // استخدام عنوان مختصر بدل نسخ المنشور بالكامل
+  const lines = post.text
+    .split("\n")
+    .map(x => x.trim())
+    .filter(Boolean);
+
+  const title =
+    lines[0]?.slice(0, 200) ||
+    "خبر من Telegram";
+
+  const description =
+    post.text.slice(0, 240);
+
   const item = {
-    title: post.text.slice(0, 200),
+    title,
     link,
-    description: post.text,
-    date: new Date(post.date * 1000).toISOString(),
+    description,
+    date: new Date(
+      post.date * 1000
+    ).toISOString(),
     source: channel,
     sourceScore: 8,
     sourceType: "telegram",
@@ -80,19 +102,22 @@ for (const update of data.result) {
     sources: [channel]
   };
 
-  const exists = news.some(
-    x =>
-      x.link &&
-      link &&
-      x.link === link
+  const exists = news.some(x =>
+    link &&
+    x.link &&
+    x.link === link
   );
 
-  if (!exists) {
+  if (!exists && link) {
     news.push(item);
-    console.log(`تمت إضافة خبر من Telegram: ${channel}`);
+
+    console.log(
+      `تمت إضافة خبر Telegram من: ${channel}`
+    );
   }
 }
 
+// الحفاظ على بنية news.json
 const output = {
   updatedAt: new Date().toISOString(),
   items: news
@@ -110,5 +135,10 @@ fs.writeFileSync(
   "utf8"
 );
 
-console.log(`Telegram updates: ${data.result.length}`);
-console.log(`News total: ${news.length}`);
+console.log(
+  `Telegram updates: ${data.result.length}`
+);
+
+console.log(
+  `News total: ${news.length}`
+);
