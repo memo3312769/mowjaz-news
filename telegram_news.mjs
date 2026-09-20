@@ -174,7 +174,7 @@ for (const update of data.result) {
     telegramUpdateId: update.update_id
   };
 
-  telegramNews.push(item);
+  telegramNews.unshift(item);
   added++;
 
   console.log(
