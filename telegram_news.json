@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-20T20:23:13.739Z",
+  "updatedAt": "2026-09-20T20:29:33.757Z",
   "items": [
+    {
+      "title": "🇷🇺 مفتي موسكو يدلي بصوته في انتخابات مجلس الدوما",
+      "link": "https://t.me/rtarabictelegram/519371",
+      "description": "🇷🇺 مفتي موسكو يدلي بصوته في انتخابات مجلس الدوما\n\nأدلى مفتي موسكو ألبير كرغانوف وزوجته بصوتيهما، السبت، في انتخابات مجلس الدوما داخل مركز اقتراع بحي ليفورتوفو في موسكو. وقال إن التصويت واجب مدني على كل أبناء البلاد.\n\nولاحظ كرغانوف تدفقا م",
+      "date": "2026-09-20T20:28:56.000Z",
+      "source": "RT Arabic",
+      "sourceScore": 8,
+      "sourceType": "telegram",
+      "cat": "العالم",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "RT Arabic"
+      ],
+      "telegramUpdateId": 241993281
+    },
+    {
+      "title": "ايوه",
+      "link": "https://t.me/mowjaz_news_test/19",
+      "description": "ايوه",
+      "date": "2026-09-20T20:26:24.000Z",
+      "source": "موجز نيوز",
+      "sourceScore": 8,
+      "sourceType": "telegram",
+      "cat": "العالم",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "موجز نيوز"
+      ],
+      "telegramUpdateId": 241993280
+    },
     {
       "title": "الووووو",
       "link": "https://t.me/mowjaz_news_test/18",
