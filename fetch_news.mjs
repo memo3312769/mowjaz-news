@@ -536,7 +536,12 @@ for (const item of mergedNews) {
 
 const out = {
   updatedAt: new Date().toISOString(),
-  items: uniqueNews.slice(0, 160)
+  items: uniqueNews
+    .sort(
+      (a, b) =>
+        new Date(b.date) - new Date(a.date)
+    )
+    .slice(0, 160)
 };
 
 await fs.writeFile(
