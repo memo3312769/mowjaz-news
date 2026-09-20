@@ -914,44 +914,72 @@ async function loadNews(){
 
   try{
 
-    const response = await fetch(
-      "news.json?t=" + Date.now(),
-      {
-        cache:"no-store"
-      }
-    );
+    const [newsResponse, telegramResponse] = await Promise.all([
 
-    if(!response.ok){
+      fetch("news.json?t=" + Date.now(), {
+        cache: "no-store"
+      }),
+
+      fetch("telegram_news.json?t=" + Date.now(), {
+        cache: "no-store"
+      })
+
+    ]);
+
+    if(!newsResponse.ok){
       throw new Error("news.json error");
     }
 
-    const data = await response.json();
+    const mainData = await newsResponse.json();
 
-    news =
-      Array.isArray(data)
-      ? data
-      : (data.items || []);
+    const telegramData = telegramResponse.ok
+      ? await telegramResponse.json()
+      : [];
 
-    news = news.filter(x =>
-      x &&
-      x.title &&
-      x.link
-    );
+    const mainNews = Array.isArray(mainData)
+      ? mainData
+      : (mainData.items || []);
+
+    const telegramNews = Array.isArray(telegramData)
+      ? telegramData
+      : (telegramData.items || []);
+
+    const mergedNews = [
+      ...mainNews,
+      ...telegramNews
+    ];
+
+    const seen = new Set();
+
+    news = mergedNews.filter(item => {
+
+      if(!item || !item.title || !item.link){
+        return false;
+      }
+
+      const key = item.link || item.title;
+
+      if(seen.has(key)){
+        return false;
+      }
+
+      seen.add(key);
+      return true;
+
+    });
 
     render();
 
     document.getElementById("status").innerHTML =
-      `<span class="dot"></span> تم التحديث • ${news.length} خبر`;
+      '<span class="dot"></span> تم تحديث الأخبار — ' +
+      news.length + ' خبر';
 
   }catch(error){
 
-    document.getElementById("status").innerHTML =
-      '<span style="color:#ef4444">● تعذر تحميل الأخبار</span>';
+    console.error(error);
 
-    document.getElementById("hero").innerHTML =
-      `<div class="empty">
-        حدثت مشكلة في تحميل الأخبار. حاول تحديث الصفحة.
-      </div>`;
+    document.getElementById("status").innerHTML =
+      '<span style="color:#ef4444">⚠ تعذر تحميل الأخبار</span>';
 
   }
 
