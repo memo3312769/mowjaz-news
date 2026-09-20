@@ -484,52 +484,42 @@ if (balanced.length === 0) {
   );
 }
 
-// تحميل أخبار Telegram من الملف المستقل
-let telegramNews = [];
+// الاحتفاظ بأخبار Telegram السابقة
+let oldTelegramNews = [];
 
 try {
-  const telegramData = JSON.parse(
-    await fs.readFile("telegram_news.json", "utf8")
+  const previousText = await fs.readFile(
+    "news.json",
+    "utf8"
   );
 
-  telegramNews = Array.isArray(telegramData)
-    ? telegramData
-    : telegramData.items || [];
-
-} catch {
-  telegramNews = [];
-}
-
-// دمج أخبار RSS مع أخبار Telegram
-// الاحتفاظ بأخبار Telegram السابقة
-
-
-
-  const previous = JSON.parse(
-    await fs.readFile("news.json", "utf8")
-  );
+  const previous = JSON.parse(previousText);
 
   const previousItems = Array.isArray(previous)
     ? previous
-    : previous.items || [];
+    : Array.isArray(previous.items)
+      ? previous.items
+      : [];
 
   oldTelegramNews = previousItems.filter(
-    item => item.sourceType === "telegram"
+    (item) => item.sourceType === "telegram"
   );
-} catch {
+
+} catch (error) {
+  console.log(
+    "لا توجد أخبار Telegram سابقة، أو تعذر قراءتها."
+  );
+
   oldTelegramNews = [];
 }
 
-// دمج أخبار Telegram مع الأخبار الجديدة
+// دمج الأخبار العادية مع أخبار Telegram
 const mergedNews = [
-  ...oldTelegramNews,
-  ...balanced
-].sort(
-  (a, b) =>
-    new Date(b.date) - new Date(a.date)
-);
+  ...balanced,
+  ...oldTelegramNews
+];
 
-// منع التكرار
+// منع تكرار الأخبار
 const uniqueNews = [];
 const seenLinks = new Set();
 
@@ -556,43 +546,5 @@ await fs.writeFile(
 );
 
 console.log(
-  "Saved " +
-  out.items.length +
-  " news items from " +
-  feeds.length +
-  " feeds."
-);
-
-// إزالة التكرار
-const uniqueNews = [];
-const seenKeys = new Set();
-
-for (const item of mergedNews) {
-  const key =
-    item.link ||
-    `${item.title}-${item.date}`;
-
-  if (!seenKeys.has(key)) {
-    seenKeys.add(key);
-    uniqueNews.push(item);
-  }
-}
-
-const out = {
-  updatedAt: new Date().toISOString(),
-  items: uniqueNews.slice(0, 160)
-};
-
-await fs.writeFile(
-  "news.json",
-  JSON.stringify(out, null, 2),
-  "utf8"
-);
-
-console.log(
-  "تم حفظ " +
-  out.items.length +
-  " خبرًا، منها " +
-  telegramNews.length +
-  " من Telegram."
+  `تم حفظ ${out.items.length} خبرًا بنجاح.`
 );
