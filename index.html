@@ -986,23 +986,6 @@ async function loadNews(){
 
 }
 
-    render();
-
-    document.getElementById("status").innerHTML =
-      '<span class="dot"></span> تم تحديث الأخبار — ' +
-      news.length + ' خبر';
-
-  }catch(error){
-
-    console.error(error);
-
-    document.getElementById("status").innerHTML =
-      '<span style="color:#ef4444">⚠ تعذر تحميل الأخبار</span>';
-
-  }
-
-}
-
 function toggleTheme(){
 
   dark = !dark;
