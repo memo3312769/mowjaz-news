@@ -501,12 +501,66 @@ try {
 }
 
 // دمج أخبار RSS مع أخبار Telegram
+// الاحتفاظ بأخبار Telegram السابقة
+let oldTelegramNews = [];
+
+try {
+  const previous = JSON.parse(
+    await fs.readFile("news.json", "utf8")
+  );
+
+  const previousItems = Array.isArray(previous)
+    ? previous
+    : previous.items || [];
+
+  oldTelegramNews = previousItems.filter(
+    item => item.sourceType === "telegram"
+  );
+} catch {
+  oldTelegramNews = [];
+}
+
+// دمج أخبار Telegram مع الأخبار الجديدة
 const mergedNews = [
   ...oldTelegramNews,
   ...balanced
 ].sort(
   (a, b) =>
     new Date(b.date) - new Date(a.date)
+);
+
+// منع التكرار
+const uniqueNews = [];
+const seenLinks = new Set();
+
+for (const item of mergedNews) {
+  const key =
+    item.link ||
+    `${item.title}-${item.date}`;
+
+  if (!seenLinks.has(key)) {
+    seenLinks.add(key);
+    uniqueNews.push(item);
+  }
+}
+
+const out = {
+  updatedAt: new Date().toISOString(),
+  items: uniqueNews.slice(0, 160)
+};
+
+await fs.writeFile(
+  "news.json",
+  JSON.stringify(out, null, 2),
+  "utf8"
+);
+
+console.log(
+  "Saved " +
+  out.items.length +
+  " news items from " +
+  feeds.length +
+  " feeds."
 );
 
 // إزالة التكرار
