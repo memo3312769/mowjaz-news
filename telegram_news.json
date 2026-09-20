@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-09-20T19:25:48.184Z",
+  "updatedAt": "2026-09-20T19:34:12.744Z",
   "items": [
+    {
+      "title": "الووووو",
+      "link": "https://t.me/mowjaz_news_test/18",
+      "description": "الووووو",
+      "date": "2026-09-20T19:26:51.000Z",
+      "source": "موجز نيوز",
+      "sourceScore": 8,
+      "sourceType": "telegram",
+      "cat": "العالم",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "موجز نيوز"
+      ],
+      "telegramUpdateId": 241993279
+    },
     {
       "title": "الاختبار الامثل",
       "link": "https://t.me/mowjaz_news_test/17",
