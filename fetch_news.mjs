@@ -502,9 +502,9 @@ try {
 
 // دمج أخبار RSS مع أخبار Telegram
 // الاحتفاظ بأخبار Telegram السابقة
-let oldTelegramNews = [];
 
-try {
+
+
   const previous = JSON.parse(
     await fs.readFile("news.json", "utf8")
   );
