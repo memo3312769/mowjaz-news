@@ -6,29 +6,28 @@ if (!token) {
   throw new Error("TELEGRAM_BOT_TOKEN مفقود");
 }
 
-const newsFile = "news.json";
+const telegramFile = "telegram_news.json";
 const offsetFile = "telegram_offset.json";
 
-let newsData = {
-  updatedAt: new Date().toISOString(),
-  items: []
-};
+// قراءة أخبار Telegram السابقة فقط
+let telegramNews = [];
 
-// قراءة الأخبار الحالية
-if (fs.existsSync(newsFile)) {
-  const saved = JSON.parse(
-    fs.readFileSync(newsFile, "utf8")
-  );
+if (fs.existsSync(telegramFile)) {
+  try {
+    const saved = JSON.parse(
+      fs.readFileSync(telegramFile, "utf8")
+    );
 
-  if (Array.isArray(saved)) {
-    newsData.items = saved;
-  } else if (Array.isArray(saved.items)) {
-    newsData = saved;
+    telegramNews = Array.isArray(saved)
+      ? saved
+      : saved.items || [];
+
+  } catch {
+    telegramNews = [];
   }
 }
 
-const news = newsData.items;
-
+// قراءة آخر تحديث تمت معالجته
 let offset = 0;
 
 if (fs.existsSync(offsetFile)) {
@@ -43,18 +42,23 @@ const url =
 const response = await fetch(url);
 
 if (!response.ok) {
-  throw new Error(`Telegram API error: ${response.status}`);
+  throw new Error(
+    `Telegram API error: ${response.status}`
+  );
 }
 
 const data = await response.json();
 
 if (!data.ok) {
   throw new Error(
-    `Telegram API returned an error: ${data.description || "Unknown error"}`
+    `Telegram API returned an error: ${
+      data.description || "Unknown error"
+    }`
   );
 }
 
 let newOffset = offset;
+let added = 0;
 
 for (const update of data.result) {
   newOffset = Math.max(
@@ -66,11 +70,21 @@ for (const update of data.result) {
     update.channel_post ||
     update.message;
 
-  if (!post || !post.text) {
+  if (!post) {
     continue;
   }
 
-  // قناة التجميع التي استقبلت المنشور
+  // يدعم النصوص والتعليقات المصاحبة للصور
+  const postText =
+    post.text ||
+    post.caption ||
+    "";
+
+  if (!postText.trim()) {
+    continue;
+  }
+
+  // القناة التي استقبلت المنشور
   const receivingChannel =
     post.chat?.title || "Telegram";
 
@@ -83,7 +97,7 @@ for (const update of data.result) {
     ? `https://t.me/${receivingUsername}/${messageId}`
     : "";
 
-  // محاولة معرفة المصدر الأصلي للمنشور المعاد توجيهه
+  // معرفة المصدر الأصلي إذا كان المنشور معاد التوجيه
   const origin = post.forward_origin;
 
   let originalSource = receivingChannel;
@@ -110,9 +124,9 @@ for (const update of data.result) {
       ? `https://t.me/${originalUsername}/${originalMessageId}`
       : receivingLink;
 
-  const lines = post.text
+  const lines = postText
     .split("\n")
-    .map(x => x.trim())
+    .map(line => line.trim())
     .filter(Boolean);
 
   const title =
@@ -120,15 +134,22 @@ for (const update of data.result) {
     "خبر من Telegram";
 
   const description =
-    post.text.slice(0, 240);
+    postText.slice(0, 240);
 
-  // منع التكرار
-  const exists = news.some(item =>
-    (originalLink && item.link === originalLink) ||
+  // منع تكرار الخبر
+  const exists = telegramNews.some(item =>
     (
-      item.sourceType === "telegram" &&
+      originalLink &&
+      item.link === originalLink
+    ) ||
+    (
+      item.telegramUpdateId === update.update_id
+    ) ||
+    (
       item.title === title &&
-      item.date === new Date(post.date * 1000).toISOString()
+      item.date === new Date(
+        post.date * 1000
+      ).toISOString()
     )
   );
 
@@ -149,28 +170,31 @@ for (const update of data.result) {
     cat: "العالم",
     image: "",
     sourceCount: 1,
-    sources: [originalSource]
+    sources: [originalSource],
+    telegramUpdateId: update.update_id
   };
 
-  news.push(item);
+  telegramNews.push(item);
+  added++;
 
   console.log(
     `تمت إضافة خبر Telegram من: ${originalSource}`
   );
 }
 
-// الحفاظ على جميع الأخبار
+// حفظ أخبار Telegram في ملف مستقل
 const output = {
   updatedAt: new Date().toISOString(),
-  items: news
+  items: telegramNews
 };
 
 fs.writeFileSync(
-  newsFile,
+  telegramFile,
   JSON.stringify(output, null, 2),
   "utf8"
 );
 
+// حفظ موضع آخر تحديث
 fs.writeFileSync(
   offsetFile,
   String(newOffset),
@@ -182,5 +206,9 @@ console.log(
 );
 
 console.log(
-  `News total: ${news.length}`
+  `Telegram news added: ${added}`
+);
+
+console.log(
+  `Telegram news total: ${telegramNews.length}`
 );
