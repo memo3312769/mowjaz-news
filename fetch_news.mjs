@@ -484,42 +484,39 @@ if (balanced.length === 0) {
   );
 }
 
-// الاحتفاظ بأخبار Telegram السابقة
-let oldTelegramNews = [];
+// تحميل أخبار Telegram من الملف المستقل
+let telegramNews = [];
 
 try {
-  const previous = JSON.parse(
-    await fs.readFile("news.json", "utf8")
+  const telegramData = JSON.parse(
+    await fs.readFile("telegram_news.json", "utf8")
   );
 
-  const previousItems = Array.isArray(previous)
-    ? previous
-    : previous.items || [];
+  telegramNews = Array.isArray(telegramData)
+    ? telegramData
+    : telegramData.items || [];
 
-  oldTelegramNews = previousItems.filter(
-    item => item.sourceType === "telegram"
-  );
 } catch {
-  oldTelegramNews = [];
+  telegramNews = [];
 }
 
-// دمج الأخبار الجديدة مع أخبار Telegram القديمة
+// دمج أخبار RSS مع أخبار Telegram
 const mergedNews = [
   ...balanced,
-  ...oldTelegramNews
+  ...telegramNews
 ];
 
-// منع التكرار
+// إزالة التكرار
 const uniqueNews = [];
-const seenLinks = new Set();
+const seenKeys = new Set();
 
 for (const item of mergedNews) {
   const key =
     item.link ||
     `${item.title}-${item.date}`;
 
-  if (!seenLinks.has(key)) {
-    seenLinks.add(key);
+  if (!seenKeys.has(key)) {
+    seenKeys.add(key);
     uniqueNews.push(item);
   }
 }
@@ -536,9 +533,9 @@ await fs.writeFile(
 );
 
 console.log(
-  "Saved " +
+  "تم حفظ " +
   out.items.length +
-  " news items from " +
-  feeds.length +
-  " feeds."
+  " خبرًا، منها " +
+  telegramNews.length +
+  " من Telegram."
 );
