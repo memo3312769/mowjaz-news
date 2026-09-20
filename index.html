@@ -915,15 +915,12 @@ async function loadNews(){
   try{
 
     const [mainResponse, telegramResponse] = await Promise.all([
-
       fetch("news.json?t=" + Date.now(), {
         cache: "no-store"
       }),
-
       fetch("telegram_news.json?t=" + Date.now(), {
         cache: "no-store"
       })
-
     ]);
 
     if(!mainResponse.ok){
@@ -931,9 +928,10 @@ async function loadNews(){
     }
 
     const mainData = await mainResponse.json();
+
     const telegramData = telegramResponse.ok
       ? await telegramResponse.json()
-      : {items: []};
+      : [];
 
     const mainNews = Array.isArray(mainData)
       ? mainData
@@ -944,36 +942,32 @@ async function loadNews(){
       : (telegramData.items || []);
 
     const combined = [
-      ...mainNews,
-      ...telegramNews
+      ...telegramNews,
+      ...mainNews
     ];
 
-    const unique = [];
     const seen = new Set();
 
-    for(const item of combined){
+    news = combined.filter(x => {
 
-      if(!item || !item.title || !item.link) continue;
+      if(!x || !x.title || !x.link){
+        return false;
+      }
 
-      const key = item.link || item.title;
+      if(seen.has(x.link)){
+        return false;
+      }
 
-      if(seen.has(key)) continue;
+      seen.add(x.link);
+      return true;
 
-      seen.add(key);
-      unique.push(item);
-
-    }
-
-    news = unique;
-
-    news.sort((a,b) =>
-      new Date(b.date || 0) - new Date(a.date || 0)
-    );
+    });
 
     render();
 
     document.getElementById("status").innerHTML =
-      '<span class="dot"></span> تم التحديث — ' + news.length + ' خبر';
+      '<span class="dot"></span> تم التحديث — ' +
+      news.length + ' خبر';
 
   }catch(error){
 
@@ -981,6 +975,12 @@ async function loadNews(){
 
     document.getElementById("status").innerHTML =
       '<span style="color:#ef4444">⚠ تعذر تحميل الأخبار</span>';
+
+    document.getElementById("hero").innerHTML = `
+      <div class="empty">
+        حدثت مشكلة في تحميل الأخبار.
+      </div>
+    `;
 
   }
 
