@@ -502,9 +502,12 @@ try {
 
 // دمج أخبار RSS مع أخبار Telegram
 const mergedNews = [
-  ...balanced,
-  ...telegramNews
-];
+  ...oldTelegramNews,
+  ...balanced
+].sort(
+  (a, b) =>
+    new Date(b.date) - new Date(a.date)
+);
 
 // إزالة التكرار
 const uniqueNews = [];
