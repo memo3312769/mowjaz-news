@@ -1,19 +1,34 @@
 {
-  "updatedAt": "2026-09-21T05:51:46.541Z",
+  "updatedAt": "2026-09-21T06:09:14.867Z",
   "items": [
+    {
+      "title": "الخرف في الأمازون.. سر انخفاضه الظاهري",
+      "link": "https://www.skynewsarabia.com/technology/1893381-%D8%A7%D9%84%D8%AE%D8%B1%D9%81-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86-%D8%B3%D8%B1-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6%D9%87-%D8%A7%D9%84%D8%B8%D8%A7%D9%87%D8%B1%D9%8A",
+      "description": "لسنوات، بدا أن مجتمعين من السكان الأصليين في الأمازون البوليفية يمتلكان سراً يحمي الدماغ من الخرف. لكن دراسة حديثة كشفت أن انخفاض أعداد المصابين لا يعود بالضرورة إلى ندرة الإصابة وحدها، بل قد يخفي وراءه حقيقة أكثر قسوة: قِصر مدة بقاء المرضى على قيد الحياة بعد ظهور الخرف.",
+      "date": "Mon, 21 Sep 2026 05:58:14 GMT",
+      "source": "Sky News عربية",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://images.skynewsarabia.com/images/v1/2026/09/21/1893380/95/53/1-1893380.png",
+      "sourceCount": 1,
+      "sources": [
+        "Sky News عربية"
+      ]
+    },
     {
       "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
       "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
       "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
       "date": "Mon, 21 Sep 2026 05:50:56 GMT",
-      "source": "BBC Technology",
+      "source": "BBC Business",
       "sourceScore": 10,
       "sourceType": "official-rss",
-      "cat": "تكنولوجيا",
+      "cat": "اقتصاد",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8242/live/884826e0-b57f-11f1-b53e-014a16f73df2.jpg",
       "sourceCount": 1,
       "sources": [
-        "BBC Technology"
+        "BBC Business"
       ]
     },
     {
@@ -198,7 +213,7 @@
       ]
     },
     {
-      "title": "4 إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب",
+      "title": "أربع إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب",
       "link": "https://www.bbc.com/arabic/articles/c64gd0z1g5zno?at_medium=RSS&at_campaign=rss",
       "description": "قال قائد عمليات حلب في مديرية الطوارئ وإدارة الكوارث فيصل محمد علي، في ‏تصريح لـ سانا: إن استمرار الانفجارات عرقل وصول فرق الإسعاف والإنقاذ، قبل ‏أن تتمكن فرق الدفاع المدني من دخول المنطقة وإجلاء أربعة مصابين.‏",
       "date": "Mon, 21 Sep 2026 04:51:08 GMT",
@@ -378,21 +393,6 @@
       ]
     },
     {
-      "title": "انفجارات متتالية في موقع عسكري قرب حلب تعيق وصول فرق الإنقاذ",
-      "link": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20260921-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AA%D8%AA%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%87%D8%B2-%D9%85%D9%88%D9%82%D8%B9%D8%A7-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A7-%D9%82%D8%B1%D8%A8-%D8%AD%D9%84%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%AA%D8%BA%D9%84%D9%82-%D8%A7%D9%84%D8%B7%D8%B1%D9%82-%D8%A7%D9%84%D9%85%D8%A4%D8%AF%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
-      "description": "أغلقت السلطات السورية طرقا مؤدية إلى منطقة العيس جنوب حلب ورفعت جاهزية المستشفيات وفرق الطوارئ، بعدما شهد موقع عسكري انفجارات متتالية أعاقت وصول فرق الإنقاذ. ولم تتضح حتى الآن أسباب الحادثة، كما لم ترد تقارير عن وقوع ضحايا.",
-      "date": "Mon, 21 Sep 2026 02:59:57 GMT",
-      "source": "France 24 العربية",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://s.france24.com/media/display/a294f016-91ce-11f1-93f6-005056a90284/w:1024/p:16x9/2026-08-06T193416Z-1537537069-RC24TMAIA2RX-RTRMADP-3-SYRIA-SECURITY.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "France 24 العربية"
-      ]
-    },
-    {
       "title": "مصر تُدين اقتحام مسئول إسرائيلي ومجموعة من المستوطنين للمسجد الأقصى - Masrawy",
       "link": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxOXzVwdVFJNzFsQXByYVBsQ2ctbE10TzMxdVNPM2phRjVUbEdGb29hRGtfMXhZUFBwTm02R1NDcGF1SHFLSldxODAzRnd4Z3psMllzdjNnckw3Uk1KM213SEhKbVNTVGZsYzhtUVhYYU9aWU9IOGFzSWlUdFNMbFMzM1g4S2tDZzFFNnBXdC1qSEpodjB6aWNYYXh3cGxpQkVPVzlUb3lJRHA2V0IzLWtHNVUyWHktQTctZnViUTUtUjI2WXZpTlFnQy1GMmZZZHItVTlrM1kxRlBrZnlNM0RwT1ZsMjlZa3pBMzRPR05Vdnp3dnhlNllPR3pHTTdTUDQ3Z1FkSFZTUkh3MHl4X21LSl8yNlZ6Qk1XRDlIRGU4YWtkNmtiNHBldWR3RUJ6MHdKTF9CODZ5c001QjlwZWVvd20xMlZBOHhmMzk1TkVCNVk0ZEMxNVhkMUlfbEdWbk91NDlONzlablFwYWFENVJaRU9ELWdaMnpGZVNuY1hnUVd4ck1fU1N5a2lZdk1TYzFNdDhrZ2ZTZTdFTGUtRWcwOVNrTEZ6R0t3S25CLVhqM2VQbGdBTHQ1cTNIcmNIZC1ualFySmNlMVN1T2VrenByNndJS2dpLUNiYTl2R011dGljS0Z0OFVwMzBVSlg1UHhRR3luVzJpOTlHdnVZTDI1TVZGZHBfeUlBaTBQVWxwbHM2eDIyRmdzbFZnUDlLbVNidHB0enRmbngzbXQtclM4eDNuLTVfM2ZsblpYajZlcGpjeF9fTExJNUNDazJHRTVpUzlZZNIB2gRBVV95cUxOdGRyOUNjREpsV0tzdXBOR0hxZ2d4eGRfZEdTMHNHdWgtRXl2RDZiTDVGZ1VWVEFkUzBkYnZuOWtLZjhDUFpJbUVNdWNST1FHWDFsR1VIT01RSFQ3WDZTQXBrMk5rZXowSGdyR2o2eEV2Vm1oYjJxVEN3dEpvNm14MzhtYm1iano4Q19PcFdGSTFLWUFXOFd4TUI4ajBKdU5DZ012dzVMUmx3WnBMZGxna1VjZkVCS25kdk45UDVybHVMNW5XNzM0ZE1ZS3MxamRqVldFd2xmcEhUYkV1c3pBVWlRcmdyM0x0dHB5cTMzc3FneGVaZk11WVFaR3UxNy11c3JtcmpvUUctSVNGSWQwdjR5M2pZZmkzMjZub1V5NFF1bEdIOWNnNVNRcEF3Y3NPODRuTlFPb3J6QWRzMG4tTGpPXzB0aHhCR0NlcGh3akpvVDI5YS05TzFiNFpEWDl0RVg5eVBNc2IwOVVzS0hIemZXR2lDTy1fSzdvN3FwTFRaTURRZFd4UkRVcHBvS1I1eExTSHY1V3RkZzIyV1BoeUVBWHphX3NQS0cwcjFHWTNJVVNXUmU5SkhMQjdZLXQ4ZTV5LXhHdnBnQWFxejZWcExRQVZWMi1FNWEzWkRvdG4ybFVzQ01SeWlLQmNuOVVMTjN3VjE4dnBEUUF4QW9PWE1Wek5najdVaDJWNDlUM0lXZnBITFZvaHpNSmR6YkFWTUZLekpFYm1rN1FBTzFRbzZRckp5cS0tYU5NMmJRN1EzU3pXLUpOSGlmd0RpSmJBd3FJTWdGLU9MUQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi1ARBVV95cUxOXzVwdVFJNzFsQXByYVBsQ2ctbE10TzMxdVNPM2phRjVUbEdGb29hRGtfMXhZUFBwTm02R1NDcGF1SHFLSldxODAzRnd4Z3psMllzdjNnckw3Uk1KM213SEhKbVNTVGZsYzhtUVhYYU9aWU9IOGFzSWlUdFNMbFMzM1g4S2tDZzFFNnBXdC1qSEpodjB6aWNYYXh3cGxpQkVPVzlUb3lJRHA2V0IzLWtHNVUyWHktQTctZnViUTUtUjI2WXZpTlFnQy1GMmZZZHItVTlrM1kxRlBrZnlNM0RwT1ZsMjlZa3pBMzRPR05Vdnp3dnhlNllPR3pHTTdTUDQ3Z1FkSFZTUkh3MHl4X21LSl8yNlZ6Qk1XRDlIRGU4YWtkNmtiNHBldWR3RUJ6MHdKTF9CODZ5c001QjlwZWVvd20xMlZBOHhmMzk1TkVCNVk0ZEMxNVhkMUlfbEdWbk91NDlONzlablFwYWFENVJaRU9ELWdaMnpGZVNuY1hnUVd4ck1fU1N5a2lZdk1TYzFNdDhrZ2ZTZTdFTGUtRWcwOVNrTEZ6R0t3S25CLVhqM2VQbGdBTHQ1cTNIcmNIZC1ualFySmNlMVN1T2VrenByNndJS2dpLUNiYTl2R011dGljS0Z0OFVwMzBVSlg1UHhRR3luVzJpOTlHdnVZTDI1TVZGZHBfeUlBaTBQVWxwbHM2eDIyRmdzbFZnUDlLbVNidHB0enRmbngzbXQtclM4eDNuLTVfM2ZsblpYajZlcGpjeF9fTExJNUNDazJHRTVpUzlZZNIB2gRBVV95cUxOdGRyOUNjREpsV0tzdXBOR0hxZ2d4eGRfZEdTMHNHdWgtRXl2RDZiTDVGZ1VWVEFkUzBkYnZuOWtLZjhDUFpJbUVNdWNST1FHWDFsR1VIT01RSFQ3WDZTQXBrMk5rZXowSGdyR2o2eEV2Vm1oYjJxVEN3dEpvNm14MzhtYm1iano4Q19PcFdGSTFLWUFXOFd4TUI4ajBKdU5DZ012dzVMUmx3WnBMZGxna1VjZkVCS25kdk45UDVybHVMNW5XNzM0ZE1ZS3MxamRqVldFd2xmcEhUYkV1c3pBVWlRcmdyM0x0dHB5cTMzc3FneGVaZk11WVFaR3UxNy11c3JtcmpvUUctSVNGSWQwdjR5M2pZZmkzMjZub1V5NFF1bEdIOWNnNVNRcEF3Y3NPODRuTlFPb3J6QWRzMG4tTGpPXzB0aHhCR0NlcGh3akpvVDI5YS05TzFiNFpEWDl0RVg5eVBNc2IwOVVzS0hIemZXR2lDTy1fSzdvN3FwTFRaTURRZFd4UkRVcHBvS1I1eExTSHY1V3RkZzIyV1BoeUVBWHphX3NQS0cwcjFHWTNJVVNXUmU5SkhMQjdZLXQ4ZTV5LXhHdnBnQWFxejZWcExRQVZWMi1FNWEzWkRvdG4ybFVzQ01SeWlLQmNuOVVMTjN3VjE4dnBEUUF4QW9PWE1Wek5najdVaDJWNDlUM0lXZnBITFZvaHpNSmR6YkFWTUZLekpFYm1rN1FBTzFRbzZRckp5cS0tYU5NMmJRN1EzU3pXLUpOSGlmd0RpSmJBd3FJTWdGLU9MUQ?oc=5\" target=\"_blank\">مصر تُدين اقتحام مسئول إسرائيلي ومجموعة من المستوطنين للمسجد الأقصى</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
@@ -423,9 +423,9 @@
       ]
     },
     {
-      "title": "تكنولوجيا الذكاء الاصطناعي و\"نهاية العالم\".. ماذا يخشى البشر من الآلة؟ - hespress.com",
+      "title": "تكنولوجيا الذكاء الاصطناعي و\"نهاية العالم\".. ماذا يخشى البشر من الآلة؟ - Hespress",
       "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPNkwyTVBHYkYtVmpLSjZhRU9ha0VzaDdUd19WZEhZR20taXZGZzlCQVh1Z2RBWWptU3pYWVRYeG5CYThuZUgybXFZTHE2MDUyeEJoYThVbW94X21wUFNhSUJHTk5JSE0tbkZhUDNHOWo0RDBtNnJsbUxkQjN5R3ZBOE1teHRyRFVvRFU0Ri16SlhuX3dDSzAtNlFTcFNOR0RYVmJvei1wZmpmeUdRc3phMERkbEtMSmE2MXdmbzhqTWVXd292YlI1LThRNXA0ODhOZ3FCbmJkTGtEVVFRRDBDVXp5S3RZZ1lCbjJja1NTaFkydGVpRkRRXzhPZklhb2RldUpQemdMdC1BdGpjUEZKX01KMnA0U2VVTGxrNnBFVnFwZ3VNN0ltZjQ5S3J0dElRalZuRWtKbzlUS2ZJNnFzU1plM3pXSmhDYXdZRGszcDJ0TE9x?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxPNkwyTVBHYkYtVmpLSjZhRU9ha0VzaDdUd19WZEhZR20taXZGZzlCQVh1Z2RBWWptU3pYWVRYeG5CYThuZUgybXFZTHE2MDUyeEJoYThVbW94X21wUFNhSUJHTk5JSE0tbkZhUDNHOWo0RDBtNnJsbUxkQjN5R3ZBOE1teHRyRFVvRFU0Ri16SlhuX3dDSzAtNlFTcFNOR0RYVmJvei1wZmpmeUdRc3phMERkbEtMSmE2MXdmbzhqTWVXd292YlI1LThRNXA0ODhOZ3FCbmJkTGtEVVFRRDBDVXp5S3RZZ1lCbjJja1NTaFkydGVpRkRRXzhPZklhb2RldUpQemdMdC1BdGpjUEZKX01KMnA0U2VVTGxrNnBFVnFwZ3VNN0ltZjQ5S3J0dElRalZuRWtKbzlUS2ZJNnFzU1plM3pXSmhDYXdZRGszcDJ0TE9x?oc=5\" target=\"_blank\">تكنولوجيا الذكاء الاصطناعي و\"نهاية العالم\".. ماذا يخشى البشر من الآلة؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hespress.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxPNkwyTVBHYkYtVmpLSjZhRU9ha0VzaDdUd19WZEhZR20taXZGZzlCQVh1Z2RBWWptU3pYWVRYeG5CYThuZUgybXFZTHE2MDUyeEJoYThVbW94X21wUFNhSUJHTk5JSE0tbkZhUDNHOWo0RDBtNnJsbUxkQjN5R3ZBOE1teHRyRFVvRFU0Ri16SlhuX3dDSzAtNlFTcFNOR0RYVmJvei1wZmpmeUdRc3phMERkbEtMSmE2MXdmbzhqTWVXd292YlI1LThRNXA0ODhOZ3FCbmJkTGtEVVFRRDBDVXp5S3RZZ1lCbjJja1NTaFkydGVpRkRRXzhPZklhb2RldUpQemdMdC1BdGpjUEZKX01KMnA0U2VVTGxrNnBFVnFwZ3VNN0ltZjQ5S3J0dElRalZuRWtKbzlUS2ZJNnFzU1plM3pXSmhDYXdZRGszcDJ0TE9x?oc=5\" target=\"_blank\">تكنولوجيا الذكاء الاصطناعي و\"نهاية العالم\".. ماذا يخشى البشر من الآلة؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hespress</font>",
       "date": "Mon, 21 Sep 2026 01:02:13 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -469,9 +469,9 @@
       ]
     },
     {
-      "title": "مصر تدين اقتحام مسؤول إسرائيلي ومستوطنين للمسجد الأقصى - akhbarelyom.com",
+      "title": "مصر تدين اقتحام مسؤول إسرائيلي ومستوطنين للمسجد الأقصى - بوابة أخبار اليوم الإلكترونية",
       "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPakRwcTB3RXZDNU1fTWVJZzh1NUVlcVRPOHBmbk1NaEVMeEZwUm9fT05FSHl1QWhqckdrek9HMkJ0RFlwWE9PU1BvX0ZVUDFvNUFMb1hSOEJwRFNKRG1Sc1N1MzhCbkhFTElIRElyNDJZc0ZSUjBsQTFMSkNWNmVVVU9qZ3cyckdxVXlUQ3VZNU8xVVZic2dTZENtMl9OZzJGc1QzelZEc2M5NnZOWEVUNzBPblpxYU9oRVhRMXpVWF9mZ0lQWkNXQW51MUJzMkxHNWdqN2Nxa21vMHEwc2V3MUtPUGZZV2ZqNGhLRk5PcTZLeTVxNXk2amdfWUdOV28xSjJ0TUx5VkVOT2YzeDdMbl94cjAyU1BuZDc3TVNuVVkyRWVIdW1HSFRWdzVNVTJJSzJfbFNUX0dsTjhUQ1VmOWpXYzE1aS1WeUZhSloxb2Jzb0dRWUVpT1dlUHB4OEJsc3d6UmI5NHJ2M1BYNUFsdGR4R1dndHFGMlR6MmV5bFE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigANBVV95cUxPakRwcTB3RXZDNU1fTWVJZzh1NUVlcVRPOHBmbk1NaEVMeEZwUm9fT05FSHl1QWhqckdrek9HMkJ0RFlwWE9PU1BvX0ZVUDFvNUFMb1hSOEJwRFNKRG1Sc1N1MzhCbkhFTElIRElyNDJZc0ZSUjBsQTFMSkNWNmVVVU9qZ3cyckdxVXlUQ3VZNU8xVVZic2dTZENtMl9OZzJGc1QzelZEc2M5NnZOWEVUNzBPblpxYU9oRVhRMXpVWF9mZ0lQWkNXQW51MUJzMkxHNWdqN2Nxa21vMHEwc2V3MUtPUGZZV2ZqNGhLRk5PcTZLeTVxNXk2amdfWUdOV28xSjJ0TUx5VkVOT2YzeDdMbl94cjAyU1BuZDc3TVNuVVkyRWVIdW1HSFRWdzVNVTJJSzJfbFNUX0dsTjhUQ1VmOWpXYzE1aS1WeUZhSloxb2Jzb0dRWUVpT1dlUHB4OEJsc3d6UmI5NHJ2M1BYNUFsdGR4R1dndHFGMlR6MmV5bFE?oc=5\" target=\"_blank\">مصر تدين اقتحام مسؤول إسرائيلي ومستوطنين للمسجد الأقصى</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">akhbarelyom.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigANBVV95cUxPakRwcTB3RXZDNU1fTWVJZzh1NUVlcVRPOHBmbk1NaEVMeEZwUm9fT05FSHl1QWhqckdrek9HMkJ0RFlwWE9PU1BvX0ZVUDFvNUFMb1hSOEJwRFNKRG1Sc1N1MzhCbkhFTElIRElyNDJZc0ZSUjBsQTFMSkNWNmVVVU9qZ3cyckdxVXlUQ3VZNU8xVVZic2dTZENtMl9OZzJGc1QzelZEc2M5NnZOWEVUNzBPblpxYU9oRVhRMXpVWF9mZ0lQWkNXQW51MUJzMkxHNWdqN2Nxa21vMHEwc2V3MUtPUGZZV2ZqNGhLRk5PcTZLeTVxNXk2amdfWUdOV28xSjJ0TUx5VkVOT2YzeDdMbl94cjAyU1BuZDc3TVNuVVkyRWVIdW1HSFRWdzVNVTJJSzJfbFNUX0dsTjhUQ1VmOWpXYzE1aS1WeUZhSloxb2Jzb0dRWUVpT1dlUHB4OEJsc3d6UmI5NHJ2M1BYNUFsdGR4R1dndHFGMlR6MmV5bFE?oc=5\" target=\"_blank\">مصر تدين اقتحام مسؤول إسرائيلي ومستوطنين للمسجد الأقصى</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة أخبار اليوم الإلكترونية</font>",
       "date": "Mon, 21 Sep 2026 00:46:00 GMT",
       "source": "Google News مصر",
       "sourceScore": 6,
@@ -739,9 +739,9 @@
       ]
     },
     {
-      "title": "إبراهيم حسن: إصابة حمدي فتحي.. ويغيب عن معسكر منتخب مصر - akhbarelyom.com",
+      "title": "إبراهيم حسن: إصابة حمدي فتحي.. ويغيب عن معسكر منتخب مصر - بوابة أخبار اليوم الإلكترونية",
       "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTnR6ZDVhQ2o5X1BBWnh6MnFZY0xMb2hPN0dDTzRnQ3RtaS1aM2hVanpIeGh4M01FN1Q2cWU0RF9NeWx6V0J1YV9aRXF4VGc2bllnNGRWT3JoWGZFczlGbF9TOE80bzBnbXFPTUwzY2c2bV93T2dtVWVBVFR5VEdmWnktUkh6aFUxN1Rua2s2c1pGVHJEXzZkX0pHeWgxam8xY3ZYb2VKbDVOb01pQVNfVmVKVXBkQXppWjVabVQ2eUxhc0RQcEdndTBBZHdQR2lQbjFYZzVoR2w2NWszOGwxRkZRd0JVNGE1RHg3N21EdHRiMFdmd2VOLUlHSXJhS25EVlBQckR1V0pDVExOblFGeTNuV3RIazVzUUxPUm1zY3FjVFhmUmJETW9fb0xoU01jTkFkZkxKcmpyelRLczFoOWh4NU00ZTJJalZKUmUyYVh1ay01OUZRVFZYSHFfRUxzaF9KMzI2VUJyZV85eWFkNg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTnR6ZDVhQ2o5X1BBWnh6MnFZY0xMb2hPN0dDTzRnQ3RtaS1aM2hVanpIeGh4M01FN1Q2cWU0RF9NeWx6V0J1YV9aRXF4VGc2bllnNGRWT3JoWGZFczlGbF9TOE80bzBnbXFPTUwzY2c2bV93T2dtVWVBVFR5VEdmWnktUkh6aFUxN1Rua2s2c1pGVHJEXzZkX0pHeWgxam8xY3ZYb2VKbDVOb01pQVNfVmVKVXBkQXppWjVabVQ2eUxhc0RQcEdndTBBZHdQR2lQbjFYZzVoR2w2NWszOGwxRkZRd0JVNGE1RHg3N21EdHRiMFdmd2VOLUlHSXJhS25EVlBQckR1V0pDVExOblFGeTNuV3RIazVzUUxPUm1zY3FjVFhmUmJETW9fb0xoU01jTkFkZkxKcmpyelRLczFoOWh4NU00ZTJJalZKUmUyYVh1ay01OUZRVFZYSHFfRUxzaF9KMzI2VUJyZV85eWFkNg?oc=5\" target=\"_blank\">إبراهيم حسن: إصابة حمدي فتحي.. ويغيب عن معسكر منتخب مصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">akhbarelyom.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTnR6ZDVhQ2o5X1BBWnh6MnFZY0xMb2hPN0dDTzRnQ3RtaS1aM2hVanpIeGh4M01FN1Q2cWU0RF9NeWx6V0J1YV9aRXF4VGc2bllnNGRWT3JoWGZFczlGbF9TOE80bzBnbXFPTUwzY2c2bV93T2dtVWVBVFR5VEdmWnktUkh6aFUxN1Rua2s2c1pGVHJEXzZkX0pHeWgxam8xY3ZYb2VKbDVOb01pQVNfVmVKVXBkQXppWjVabVQ2eUxhc0RQcEdndTBBZHdQR2lQbjFYZzVoR2w2NWszOGwxRkZRd0JVNGE1RHg3N21EdHRiMFdmd2VOLUlHSXJhS25EVlBQckR1V0pDVExOblFGeTNuV3RIazVzUUxPUm1zY3FjVFhmUmJETW9fb0xoU01jTkFkZkxKcmpyelRLczFoOWh4NU00ZTJJalZKUmUyYVh1ay01OUZRVFZYSHFfRUxzaF9KMzI2VUJyZV85eWFkNg?oc=5\" target=\"_blank\">إبراهيم حسن: إصابة حمدي فتحي.. ويغيب عن معسكر منتخب مصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة أخبار اليوم الإلكترونية</font>",
       "date": "Sun, 20 Sep 2026 20:38:54 GMT",
       "source": "Google News مصر",
       "sourceScore": 6,
@@ -845,21 +845,6 @@
       ]
     },
     {
-      "title": "إيقاف برنامج مجدي عبد الغني يجدد الجدل حول «التعصب الكروي» بمصر - الشرق الأوسط",
-      "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxQaV9XUVRhRHRvMnRxU3U1dVJMMENfQlpwWUNZYTFhVUxXQ19CcndtY0Zvang1REJIUWZPX3ZNeUFCNDlBM3FBLURMX0plNWtocU8wVjlUWFZVNWx2T25XVGFyZnVrZGVCQnNtQTJEUWxDVW1SNDJlWE5rQ0tscVJ4aTkwNW1fc0xSODVRTG8yMTJneUZDUFNCWlUyNDAtMFh5SW02NWZwaEh4aDlmVVhjN2RvMnJxbmZjaGtPaWVQT3l2RGZCcGtPaDB6Q3dNeFp6NTJKNzVTeXVNTGZycWNBX3d6am1pd0lybWFhVmJoVTJoRFNYOUYxR05CbkJoZWVycUZsTjBUTFZsczdPWVhzMkpFV0c0X1EzUkg2SWt3NnNvaGlWUVdmWUFsd3pVOTlwNlVVN3d6eDM5VExxLWVSZGpYLWRSdnBzbS0yZVYyVnoxcEtmWktpanRQZ0dqeXRxaEt0WTVHNVhVUkRfM0llbEdIWUhMTTdTakVuQ2I5aFRDXzhNSFNwdGhtbHV6aHV6UTZjZjFSOU5LRDhMQ01lOWNud3YwUXVZSTVFTEx0TVpKb25VTi1kVTlScDhOaDA1Vm84eFZxUnRpNDYweTFsX1k3WWhYVHg1RmMtNVd5d2lWTExheFQzdlRIU0tkaXMwV1h1aGp3b2NKVXNHOEVDZllfeXlZOEZFaUItYUpORjVNUGxVOWZ5WDVDNjZ0V1k?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwRBVV95cUxQaV9XUVRhRHRvMnRxU3U1dVJMMENfQlpwWUNZYTFhVUxXQ19CcndtY0Zvang1REJIUWZPX3ZNeUFCNDlBM3FBLURMX0plNWtocU8wVjlUWFZVNWx2T25XVGFyZnVrZGVCQnNtQTJEUWxDVW1SNDJlWE5rQ0tscVJ4aTkwNW1fc0xSODVRTG8yMTJneUZDUFNCWlUyNDAtMFh5SW02NWZwaEh4aDlmVVhjN2RvMnJxbmZjaGtPaWVQT3l2RGZCcGtPaDB6Q3dNeFp6NTJKNzVTeXVNTGZycWNBX3d6am1pd0lybWFhVmJoVTJoRFNYOUYxR05CbkJoZWVycUZsTjBUTFZsczdPWVhzMkpFV0c0X1EzUkg2SWt3NnNvaGlWUVdmWUFsd3pVOTlwNlVVN3d6eDM5VExxLWVSZGpYLWRSdnBzbS0yZVYyVnoxcEtmWktpanRQZ0dqeXRxaEt0WTVHNVhVUkRfM0llbEdIWUhMTTdTakVuQ2I5aFRDXzhNSFNwdGhtbHV6aHV6UTZjZjFSOU5LRDhMQ01lOWNud3YwUXVZSTVFTEx0TVpKb25VTi1kVTlScDhOaDA1Vm84eFZxUnRpNDYweTFsX1k3WWhYVHg1RmMtNVd5d2lWTExheFQzdlRIU0tkaXMwV1h1aGp3b2NKVXNHOEVDZllfeXlZOEZFaUItYUpORjVNUGxVOWZ5WDVDNjZ0V1k?oc=5\" target=\"_blank\">إيقاف برنامج مجدي عبد الغني يجدد الجدل حول «التعصب الكروي» بمصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق الأوسط</font>",
-      "date": "Sun, 20 Sep 2026 17:18:59 GMT",
-      "source": "Google News رياضة",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "رياضة",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News رياضة"
-      ]
-    },
-    {
       "title": "شركات التكنولوجيا الكبرى توسّع ضمانات تمويل الذكاء الاصطناعي - CNN الاقتصادية",
       "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNbVhRUzh2MjJqWDZ6N25lV0NXYkk4R0hnNzlFV1diQm9JLVEzX1VWRlFJX29TZWlfZmE0Y191NEpQdEhDMm9SSDhSRVpIRzBHM1I5WldYaU9SNDg4VklfS1N6Z3MxYXQ3N3VZNzZ4NnZUOEhjaWpHUXktRlhaU2ZOVEx4d0c3alVaRVZabUlTZTdhaHpJUHpCNU91aVhMNHJFaExmRnhxS0hDZzJJRVA5c3V4Vi1td3lTUi1tcFZfRF9KLV9tRkROYmE2ZzlqWEZkTHItVkNnVk9UdnpYU2VIZkhHOVMyNm1uQ3RobG9DTmVBb3VKaHJidU9HQXlQdnhyYlBuZWNRU21LcUVxN1gzUzdrY2ZtMGZZSjRqMVNwdS1fakZlakNnSHFPQnpROTJyX2lfb083UnNabjNISkxDZ2lmaGpYclFZaURidlZqZ0tvYl9VbUNJUlJvSFlNZ0FtdzcwY01yZHl2Sjc1aUoyYjhRUkpSc2dVSWZTbGlKQnNfdzUwa2h1OWFzZlh3aUVXazlJaExQUXRBLWJqNTR6bjRQN3I2cXNMSnhHUzFHd0FYV3ByQmRvaHZsZ1FlZGFHVy1JNjRnTnlDX2RZVi1jc0g0YzVmSHRjVFZnU0dSWXhjZm5vNmJXX0NlaHdnSHVtSGhGZE1hTVVvbU84UmRUaUw3N2RtVjQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihwRBVV95cUxNbVhRUzh2MjJqWDZ6N25lV0NXYkk4R0hnNzlFV1diQm9JLVEzX1VWRlFJX29TZWlfZmE0Y191NEpQdEhDMm9SSDhSRVpIRzBHM1I5WldYaU9SNDg4VklfS1N6Z3MxYXQ3N3VZNzZ4NnZUOEhjaWpHUXktRlhaU2ZOVEx4d0c3alVaRVZabUlTZTdhaHpJUHpCNU91aVhMNHJFaExmRnhxS0hDZzJJRVA5c3V4Vi1td3lTUi1tcFZfRF9KLV9tRkROYmE2ZzlqWEZkTHItVkNnVk9UdnpYU2VIZkhHOVMyNm1uQ3RobG9DTmVBb3VKaHJidU9HQXlQdnhyYlBuZWNRU21LcUVxN1gzUzdrY2ZtMGZZSjRqMVNwdS1fakZlakNnSHFPQnpROTJyX2lfb083UnNabjNISkxDZ2lmaGpYclFZaURidlZqZ0tvYl9VbUNJUlJvSFlNZ0FtdzcwY01yZHl2Sjc1aUoyYjhRUkpSc2dVSWZTbGlKQnNfdzUwa2h1OWFzZlh3aUVXazlJaExQUXRBLWJqNTR6bjRQN3I2cXNMSnhHUzFHd0FYV3ByQmRvaHZsZ1FlZGFHVy1JNjRnTnlDX2RZVi1jc0g0YzVmSHRjVFZnU0dSWXhjZm5vNmJXX0NlaHdnSHVtSGhGZE1hTVVvbU84UmRUaUw3N2RtVjQ?oc=5\" target=\"_blank\">شركات التكنولوجيا الكبرى توسّع ضمانات تمويل الذكاء الاصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN الاقتصادية</font>",
@@ -905,10 +890,25 @@
       ]
     },
     {
-      "title": "40 ألف مشجع في مباراة مصر وأنجولا بتصفيات أمم إفريقيا 2027 - mobtada.com",
+      "title": "40 ألف مشجع في مباراة مصر وأنجولا بتصفيات أمم إفريقيا 2027 - مبتدا",
       "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQODBHZi1kejBUUm90N3VYSXc2aVBRN2dnYTNHX09ZRjlJX0Q4aEFCZXFpTnhoX01DdEh1aU9XZmoybmRNS1B1Rl9qU3llTDQ1ZlJJTjhlRlRtdTd0aEJQRVRCWlVHOUhiajhQYjByU01MTVJFS0Z2bm5mY3NmTmhKRDkzd0lZOGJkV0R3aXJ0Z2g3VXczUnBScndnZUktVjB4Q2RZQXd4X2c2RTEzakNmTy1QcEdBTjVtMUhnT24weW1Lb0RVSnBYVk9qQlJhaHcwUnhWUEtRWVhJbmtHbU15YjNNaEIwNWlMSm5SeWJybEFkdnZsRjdDX3otbzZjR3FLeE93akhqUHVkWGhzQXBJVUxzajZ5WUppUl8ybWVWQ2szdU03TXpZckd0ZjlmUkFNSlE2UHBkT0VqbFhZNHJKU1BNRHR4d1FGN0RVTkZzZlBtdjh6c0VVelFnRUNWb1FUYWlQb2lHRWx1NmVDV2gydEN6aVQzbGxYQ1ZpX08zU0dfZXRlTGp4ekE2bGZLYkNrOFVnc193RDZkem1DbDV6ckttc3dnWFFYbjdxRGhYM0U3d1V0VUE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgNBVV95cUxQODBHZi1kejBUUm90N3VYSXc2aVBRN2dnYTNHX09ZRjlJX0Q4aEFCZXFpTnhoX01DdEh1aU9XZmoybmRNS1B1Rl9qU3llTDQ1ZlJJTjhlRlRtdTd0aEJQRVRCWlVHOUhiajhQYjByU01MTVJFS0Z2bm5mY3NmTmhKRDkzd0lZOGJkV0R3aXJ0Z2g3VXczUnBScndnZUktVjB4Q2RZQXd4X2c2RTEzakNmTy1QcEdBTjVtMUhnT24weW1Lb0RVSnBYVk9qQlJhaHcwUnhWUEtRWVhJbmtHbU15YjNNaEIwNWlMSm5SeWJybEFkdnZsRjdDX3otbzZjR3FLeE93akhqUHVkWGhzQXBJVUxzajZ5WUppUl8ybWVWQ2szdU03TXpZckd0ZjlmUkFNSlE2UHBkT0VqbFhZNHJKU1BNRHR4d1FGN0RVTkZzZlBtdjh6c0VVelFnRUNWb1FUYWlQb2lHRWx1NmVDV2gydEN6aVQzbGxYQ1ZpX08zU0dfZXRlTGp4ekE2bGZLYkNrOFVnc193RDZkem1DbDV6ckttc3dnWFFYbjdxRGhYM0U3d1V0VUE?oc=5\" target=\"_blank\">40 ألف مشجع في مباراة مصر وأنجولا بتصفيات أمم إفريقيا 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mobtada.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgNBVV95cUxQODBHZi1kejBUUm90N3VYSXc2aVBRN2dnYTNHX09ZRjlJX0Q4aEFCZXFpTnhoX01DdEh1aU9XZmoybmRNS1B1Rl9qU3llTDQ1ZlJJTjhlRlRtdTd0aEJQRVRCWlVHOUhiajhQYjByU01MTVJFS0Z2bm5mY3NmTmhKRDkzd0lZOGJkV0R3aXJ0Z2g3VXczUnBScndnZUktVjB4Q2RZQXd4X2c2RTEzakNmTy1QcEdBTjVtMUhnT24weW1Lb0RVSnBYVk9qQlJhaHcwUnhWUEtRWVhJbmtHbU15YjNNaEIwNWlMSm5SeWJybEFkdnZsRjdDX3otbzZjR3FLeE93akhqUHVkWGhzQXBJVUxzajZ5WUppUl8ybWVWQ2szdU03TXpZckd0ZjlmUkFNSlE2UHBkT0VqbFhZNHJKU1BNRHR4d1FGN0RVTkZzZlBtdjh6c0VVelFnRUNWb1FUYWlQb2lHRWx1NmVDV2gydEN6aVQzbGxYQ1ZpX08zU0dfZXRlTGp4ekE2bGZLYkNrOFVnc193RDZkem1DbDV6ckttc3dnWFFYbjdxRGhYM0U3d1V0VUE?oc=5\" target=\"_blank\">40 ألف مشجع في مباراة مصر وأنجولا بتصفيات أمم إفريقيا 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">مبتدا</font>",
       "date": "Sun, 20 Sep 2026 16:22:52 GMT",
+      "source": "Google News رياضة",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "رياضة",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News رياضة"
+      ]
+    },
+    {
+      "title": "\"تصل لـ300 جنيه\".. أسعار تذاكر مباراة مصر وأنجولا بالتصفيات المؤهلة لأمم أفريقيا 2027 - Masrawy",
+      "link": "https://news.google.com/rss/articles/CBMigwVBVV95cUxOZXFzdzNhX2VGQzNSYkIzM0Nic3E2MkR2QmJYQlhNLTd2MndySGtzS1NDYmFwLVNxcVM2RFB5SGJKM2ZGeFMtMExQREt0Vy02YnJKZ3VxSmtZREp0Z3MyTVFaMUh3VXRZMVg0dk4yeEQ0TTRPdnQ0Ym9DcWtfd2c0bzhmc2QxMTJNN2txTzFIT2xzalluY0x4WjlEdEFkeHhpQkg0bWFfSEJzYndlUUtzYU5WamM3SmpvRTdmd3ZqTmZHejRVOWxIcl9Za2RfX2xqaEw4aVVGRHVkN21uRjhSTVFRa0FuTmlUWEsxRXJsdzRfa3BXMkg5QzFGZC1weEdaTXJLN1Z5MmpuXzVha0VLQmRhVmE3ajZxZ0s3OHhZYlNOaTk2dWlWOFZicVI3SWI5WWY5TG1UdDZ4eUZrWVdKWkdwblhYYWU4MkI2NUs1T2R2Tk9OUnZ5bmJsNkIxem4xNnBhWThMWGE0UFZRS1laZUpKVGJKbllYeFpIQmw1RTRfQV9rSlJkeTJRY0RsVEhuZnYwdTBpTmUxNjd3Zk9EZkZhMWhRcm5BUWdfelJhYlhyYndwc25GU3QyckVZMUpZVHJBVDVJMFY0TGhmS1dfb3FoRk9JOE0zTXJ2dkVIS0UtWUE3RHNIMVlIaUFhaFdvUmRVVUQ4dWYzdWZxRjZFNTdDTDJDWm5jOWZJV3Q5N2w2SUdFaWtNYWhGR2lwcDdUNEM0aUVZejBOZEZUM1VaazdMczF1TmlDRU9GUFc3bjRYRHRBYW5OelBaRkRESzFhcFFjRlVlQmctSElzaFVlRkZDUDhVb19mbHBkVjZVMk5PazFXNUhQSjFLNkpSRlpEbFdN0gGIBUFVX3lxTE14Z1lQLTR3bmtkLVVTUU1FSTVfZWU0bU9BOHBrOGVkN3NPSW5leDJGRG1lWmFHMURTQVJ3ajRfQzJSUWMxYjY5Vzgxb0cyN0tYeGtDeXFMUFFSOHRuWFhUbVJtYXgtZExmRElwMVBLTERlMmM3emdKRUpONDdkM25DX0REVm1jU3h1VlJiV285allLWWdCcktacTcwbE1NRENUU0U5Rk9MWmQ4YVdzdGotbzV3alFmeUxqcGNQV1FtZ1Rud3lPX1lMekFkZDFMblE3dGozRXpNVTd4Ukl0VHo1M19ZWmZsbkJWbkFlM29BZUhPdDZLNEVNNExLSXV6MHNveVMxZXBXVmZpTEhyQW1tMm5yWTU3b1o2SENCV1pnM0ZOSnNKVTFqczBCaldrOTVJc0o1T2phRVk4bkl1dEczSTA3dGdNMTNRWTlfS0hCc2V1ek45R0Nqa1p1RTczQm1IcUk5aGhUcUZaSndYUGdqbkwxcjlwNkZtZjRaZng2ZE1WZDJKSHl6LUNhZDJtSTdERmdTekMySEpIbDBxWHEydkhGMTd6bVZpMVB2X0RRcFlTRG02YUt0LUg1RmxzLVl5djVfcmZ5M0JuUnIza3J2OEM2c0lLa3IxempFUUdPYnVtSjRPcU43cUk1WWFaRFU2ekdDLUx2VG9jZlpkMVNzOXZHWThwV2p3T2IwS0xJbFE3OGxONjh2Y0VBSmpNNWt4a3M1OWRpTDFPUG5MdVVPS09sU0t4MVZuMWRMaVJGNTZmcTN4VTA3bXJaY3NGTzRlWFpycFhpdFJyTmRYMS1QMnU5dGhDbzhEazNyNnBLSGwwT0k2R3dzS0didF9tUUpwT2R4N1pyVQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwVBVV95cUxOZXFzdzNhX2VGQzNSYkIzM0Nic3E2MkR2QmJYQlhNLTd2MndySGtzS1NDYmFwLVNxcVM2RFB5SGJKM2ZGeFMtMExQREt0Vy02YnJKZ3VxSmtZREp0Z3MyTVFaMUh3VXRZMVg0dk4yeEQ0TTRPdnQ0Ym9DcWtfd2c0bzhmc2QxMTJNN2txTzFIT2xzalluY0x4WjlEdEFkeHhpQkg0bWFfSEJzYndlUUtzYU5WamM3SmpvRTdmd3ZqTmZHejRVOWxIcl9Za2RfX2xqaEw4aVVGRHVkN21uRjhSTVFRa0FuTmlUWEsxRXJsdzRfa3BXMkg5QzFGZC1weEdaTXJLN1Z5MmpuXzVha0VLQmRhVmE3ajZxZ0s3OHhZYlNOaTk2dWlWOFZicVI3SWI5WWY5TG1UdDZ4eUZrWVdKWkdwblhYYWU4MkI2NUs1T2R2Tk9OUnZ5bmJsNkIxem4xNnBhWThMWGE0UFZRS1laZUpKVGJKbllYeFpIQmw1RTRfQV9rSlJkeTJRY0RsVEhuZnYwdTBpTmUxNjd3Zk9EZkZhMWhRcm5BUWdfelJhYlhyYndwc25GU3QyckVZMUpZVHJBVDVJMFY0TGhmS1dfb3FoRk9JOE0zTXJ2dkVIS0UtWUE3RHNIMVlIaUFhaFdvUmRVVUQ4dWYzdWZxRjZFNTdDTDJDWm5jOWZJV3Q5N2w2SUdFaWtNYWhGR2lwcDdUNEM0aUVZejBOZEZUM1VaazdMczF1TmlDRU9GUFc3bjRYRHRBYW5OelBaRkRESzFhcFFjRlVlQmctSElzaFVlRkZDUDhVb19mbHBkVjZVMk5PazFXNUhQSjFLNkpSRlpEbFdN0gGIBUFVX3lxTE14Z1lQLTR3bmtkLVVTUU1FSTVfZWU0bU9BOHBrOGVkN3NPSW5leDJGRG1lWmFHMURTQVJ3ajRfQzJSUWMxYjY5Vzgxb0cyN0tYeGtDeXFMUFFSOHRuWFhUbVJtYXgtZExmRElwMVBLTERlMmM3emdKRUpONDdkM25DX0REVm1jU3h1VlJiV285allLWWdCcktacTcwbE1NRENUU0U5Rk9MWmQ4YVdzdGotbzV3alFmeUxqcGNQV1FtZ1Rud3lPX1lMekFkZDFMblE3dGozRXpNVTd4Ukl0VHo1M19ZWmZsbkJWbkFlM29BZUhPdDZLNEVNNExLSXV6MHNveVMxZXBXVmZpTEhyQW1tMm5yWTU3b1o2SENCV1pnM0ZOSnNKVTFqczBCaldrOTVJc0o1T2phRVk4bkl1dEczSTA3dGdNMTNRWTlfS0hCc2V1ek45R0Nqa1p1RTczQm1IcUk5aGhUcUZaSndYUGdqbkwxcjlwNkZtZjRaZng2ZE1WZDJKSHl6LUNhZDJtSTdERmdTekMySEpIbDBxWHEydkhGMTd6bVZpMVB2X0RRcFlTRG02YUt0LUg1RmxzLVl5djVfcmZ5M0JuUnIza3J2OEM2c0lLa3IxempFUUdPYnVtSjRPcU43cUk1WWFaRFU2ekdDLUx2VG9jZlpkMVNzOXZHWThwV2p3T2IwS0xJbFE3OGxONjh2Y0VBSmpNNWt4a3M1OWRpTDFPUG5MdVVPS09sU0t4MVZuMWRMaVJGNTZmcTN4VTA3bXJaY3NGTzRlWFpycFhpdFJyTmRYMS1QMnU5dGhDbzhEazNyNnBLSGwwT0k2R3dzS0didF9tUUpwT2R4N1pyVQ?oc=5\" target=\"_blank\">\"تصل لـ300 جنيه\".. أسعار تذاكر مباراة مصر وأنجولا بالتصفيات المؤهلة لأمم أفريقيا 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
+      "date": "Sun, 20 Sep 2026 15:55:50 GMT",
       "source": "Google News رياضة",
       "sourceScore": 6,
       "sourceType": "aggregator",
@@ -932,6 +932,21 @@
       "sourceCount": 1,
       "sources": [
         "Google News رياضة"
+      ]
+    },
+    {
+      "title": "عمالقة التكنولوجيا في البيت الأبيض على شرف زيارة الرئيس الصيني.. ما القصة؟ - aljazeera.net",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPN1RoQ3FPSnJlQllOTXlla1Y4WFEzMmJ1UERSNVF0TGdlTHMwWXVGNW12X2RtLTNGYzliVkU3ZWVHelc2WjNSRFdTNGZVai1ybWNZVnBjd0RINHE4NklSemhwOXZBYkVTc0pRaFgwaTB3RGcza0Iwa1l2c0FXZVNhTzdFeHFWNEd3dmdhU2pSRVAydTY4VHBweEkxZDBNeVVHU3RwR3BVSDdYLUluQTBUVlBsLUxhd0dPVnRKSWhtbGhsR2MyMkZIc0JGMG04a05FMTNnc2FQUnQ4SlYwS2dOdXpOZXFnamRCRmRRSzRRT0RGTTFMVzJ2VTRmMkFNTEFCV1lPMlctdHBDOUdVdW9mX1NaQTI5TWplRV9hYnJMLWJWM1dhUDRzZ2VmX0Q0RkR5TnIxQldMcVg5em9nNmJXTmhyOF9uam9R0gHOAkFVX3lxTE55SjRXRERXLWpURmhRaEI0bzZ1VmlLcHZ5RjZnNExabndIRk5VbUxSNnlhb1U2SjNZeU1HUWFGajktaENIN1FoT2ZQdFhPSUppOTduMVNXM2FhUFctVkdZb2Q5dlpVS3F6MktKbXVONkdBYVVFSkFJd0tONlpuN3lvWDdfcXRsc0lzTUtaNVJwMDVfblc5cm5KUlYydGpyUmF3bEQ2dnJRZkRGekhTa2ViX2kwR3FtbFBBdU05V0FGbGJjYUJkWEd4QWk3SHBRc1ZEVHlhWDFKS1pBbmk1dE5KLVJSTE96dk1pb2xna3ZNa0RRQTNuX0E0YnBXdnlXYjJIMWVvYThzenFGVDM3VDdyV0NTNjFoSGNWbDM1eGpjelVuak5iSlhNYnpnYk9ENjBBSVpUMWpUY3BFVE1Ebm54N1QybWItdm94YTE0Z0E?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxPN1RoQ3FPSnJlQllOTXlla1Y4WFEzMmJ1UERSNVF0TGdlTHMwWXVGNW12X2RtLTNGYzliVkU3ZWVHelc2WjNSRFdTNGZVai1ybWNZVnBjd0RINHE4NklSemhwOXZBYkVTc0pRaFgwaTB3RGcza0Iwa1l2c0FXZVNhTzdFeHFWNEd3dmdhU2pSRVAydTY4VHBweEkxZDBNeVVHU3RwR3BVSDdYLUluQTBUVlBsLUxhd0dPVnRKSWhtbGhsR2MyMkZIc0JGMG04a05FMTNnc2FQUnQ4SlYwS2dOdXpOZXFnamRCRmRRSzRRT0RGTTFMVzJ2VTRmMkFNTEFCV1lPMlctdHBDOUdVdW9mX1NaQTI5TWplRV9hYnJMLWJWM1dhUDRzZ2VmX0Q0RkR5TnIxQldMcVg5em9nNmJXTmhyOF9uam9R0gHOAkFVX3lxTE55SjRXRERXLWpURmhRaEI0bzZ1VmlLcHZ5RjZnNExabndIRk5VbUxSNnlhb1U2SjNZeU1HUWFGajktaENIN1FoT2ZQdFhPSUppOTduMVNXM2FhUFctVkdZb2Q5dlpVS3F6MktKbXVONkdBYVVFSkFJd0tONlpuN3lvWDdfcXRsc0lzTUtaNVJwMDVfblc5cm5KUlYydGpyUmF3bEQ2dnJRZkRGekhTa2ViX2kwR3FtbFBBdU05V0FGbGJjYUJkWEd4QWk3SHBRc1ZEVHlhWDFKS1pBbmk1dE5KLVJSTE96dk1pb2xna3ZNa0RRQTNuX0E0YnBXdnlXYjJIMWVvYThzenFGVDM3VDdyV0NTNjFoSGNWbDM1eGpjelVuak5iSlhNYnpnYk9ENjBBSVpUMWpUY3BFVE1Ebm54N1QybWItdm94YTE0Z0E?oc=5\" target=\"_blank\">عمالقة التكنولوجيا في البيت الأبيض على شرف زيارة الرئيس الصيني.. ما القصة؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.net</font>",
+      "date": "Sun, 20 Sep 2026 15:21:23 GMT",
+      "source": "Google News تكنولوجيا",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "تكنولوجيا",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News تكنولوجيا"
       ]
     },
     {
@@ -1070,6 +1085,21 @@
       ]
     },
     {
+      "title": "عاصفة تجتاح بورصة إسطنبول - صحيفة الخليج",
+      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPS21fUTdIbnltemRvMzBIV0FId2NLSXJSOWx4VGEtVTl4VV9IZzhKeUg4ekgyMnZzbWhBMTRiMms2S25XLUQ4bE5FcnpOOTQ4My1RNEZXSThlTVhDd0dTVjdvbnFvMmpCSTlnNEQ2UVRfcUFCdHpDZHkwYjQxS01QT1NiTkM3VDB3eVpKRzRyV1NCSVliU1BXY3lid2NYX05nUnhpOUVNcElILWpJQThEMHFUYThwc0hwQmw3bzcwREFCMFIxQUdmb3pIaUxtUEwxWmkzVDJkRjJ0WW5qYkcxb2lCcHBrSEM2Y0s5NGwwamdLMXhIeEkxZkE0VlpxU0xHcE9WOWxqbEw2RXVtVjg1cGhlU056QXJpelVYN1h4WEMxMHNmQXdhandMRUdTbTFWbU1LY3ZhMHpzVEVjWWJPZFA4VHVZaHhYZGQxVDVvRFh6LTJwREVGZUxZMlRUVjdWZWNDT2x6UGEweWVwRGFjNWZzUHIwaFFpcV9PNS1iQjNWYjllNDZtUHRPbGdZSHktLVRUVUlSSzdLN3dMdWNHazJpUUVwN21IaHRoSWtpVDVpc0VES2JGOVp0dFhsQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgNBVV95cUxPS21fUTdIbnltemRvMzBIV0FId2NLSXJSOWx4VGEtVTl4VV9IZzhKeUg4ekgyMnZzbWhBMTRiMms2S25XLUQ4bE5FcnpOOTQ4My1RNEZXSThlTVhDd0dTVjdvbnFvMmpCSTlnNEQ2UVRfcUFCdHpDZHkwYjQxS01QT1NiTkM3VDB3eVpKRzRyV1NCSVliU1BXY3lid2NYX05nUnhpOUVNcElILWpJQThEMHFUYThwc0hwQmw3bzcwREFCMFIxQUdmb3pIaUxtUEwxWmkzVDJkRjJ0WW5qYkcxb2lCcHBrSEM2Y0s5NGwwamdLMXhIeEkxZkE0VlpxU0xHcE9WOWxqbEw2RXVtVjg1cGhlU056QXJpelVYN1h4WEMxMHNmQXdhandMRUdTbTFWbU1LY3ZhMHpzVEVjWWJPZFA4VHVZaHhYZGQxVDVvRFh6LTJwREVGZUxZMlRUVjdWZWNDT2x6UGEweWVwRGFjNWZzUHIwaFFpcV9PNS1iQjNWYjllNDZtUHRPbGdZSHktLVRUVUlSSzdLN3dMdWNHazJpUUVwN21IaHRoSWtpVDVpc0VES2JGOVp0dFhsQQ?oc=5\" target=\"_blank\">عاصفة تجتاح بورصة إسطنبول</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">صحيفة الخليج</font>",
+      "date": "Fri, 18 Sep 2026 18:29:05 GMT",
+      "source": "Google News اقتصاد",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "اقتصاد",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News اقتصاد"
+      ]
+    },
+    {
       "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
       "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
       "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
@@ -1109,36 +1139,6 @@
       "sourceType": "official-rss",
       "cat": "اقتصاد",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4468/live/9a3d9590-9fbc-11ef-8538-e1655f5a8342.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "Flight chaos caused by 'millisecond' software defect, report says",
-      "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-      "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
-      "date": "Fri, 18 Sep 2026 15:48:58 GMT",
-      "source": "BBC Business",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "اقتصاد",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04eb/live/b7de6560-b37f-11f1-b1d1-571ed4d7ff2c.png",
-      "sourceCount": 1,
-      "sources": [
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "'Insufficient funds' to pay Brewdog creditors after takeover deal",
-      "link": "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&at_campaign=rss",
-      "description": "Administrators say about £489,000 was owed for staff wages and holiday pay and £2.4m was owed to HMRC for unpaid VAT.",
-      "date": "Fri, 18 Sep 2026 13:19:34 GMT",
-      "source": "BBC Business",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "اقتصاد",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb5a/live/c4324ac0-170d-11f1-b048-c9424b2cf5fd.jpg",
       "sourceCount": 1,
       "sources": [
         "BBC Business"
