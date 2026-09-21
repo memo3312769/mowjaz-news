@@ -405,22 +405,26 @@ footer{
 
   <div class="toolbar">
 
-    <input
-      id="search"
-      class="search"
-      type="search"
-      placeholder="🔎 ابحث في الأخبار..."
-    >
+  <input
+    id="search"
+    class="search"
+    type="search"
+    placeholder="🔎 ابحث في الأخبار..."
+  >
 
-    <button class="action" onclick="toggleTheme()">
-      ☀️ الوضع
-    </button>
+  <select id="sourceFilter" class="search">
+    <option value="all">📰 كل المصادر</option>
+  </select>
 
-    <button class="action" onclick="loadNews()">
-      ↻ تحديث
-    </button>
+  <button class="action" onclick="toggleTheme()">
+    ☀️ الوضع
+  </button>
 
-  </div>
+  <button class="action" onclick="loadNews()">
+    ↻ تحديث
+  </button>
+
+</div>
 
   <div class="counts" id="counts"></div>
 <section class="important-section">
