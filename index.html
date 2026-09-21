@@ -652,6 +652,27 @@ function getList(){
     });
 
 }
+  function updateSourceFilter(){
+
+  const currentValue = sourceFilter.value;
+
+  const sources = [...new Set(
+    news
+      .map(x => x.source)
+      .filter(Boolean)
+  )].sort();
+
+  sourceFilter.innerHTML =
+    '<option value="all">📰 كل المصادر</option>' +
+    sources.map(source =>
+      `<option value="${esc(source)}">${esc(source)}</option>`
+    ).join("");
+
+  if(sources.includes(currentValue)){
+    sourceFilter.value = currentValue;
+  }
+
+}
 
 function formatDate(value){
 
