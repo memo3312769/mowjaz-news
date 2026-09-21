@@ -621,6 +621,7 @@ function isUrgent(x){
 function getList(){
 
   const q = search.value.trim().toLowerCase();
+  const selectedSource = sourceFilter.value;
 
   return news
     .filter(x => {
@@ -629,11 +630,17 @@ function getList(){
         active === "all" ||
         x.cat === active;
 
+      const sourceOK =
+        selectedSource === "all" ||
+        (x.source || "").trim().toLowerCase() ===
+        selectedSource.trim().toLowerCase();
+
       const text =
         `${x.title || ""} ${x.description || ""} ${x.source || ""}`
         .toLowerCase();
 
       return categoryOK &&
+        sourceOK &&
         (!q || text.includes(q));
 
     })
