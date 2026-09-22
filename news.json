@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-22T04:51:05.154Z",
+  "updatedAt": "2026-09-22T05:06:26.711Z",
   "items": [
+    {
+      "title": "Soaring fuel costs hit small businesses",
+      "link": "https://www.bbc.co.uk/news/articles/c8qlwp7q9662o?at_medium=RSS&at_campaign=rss",
+      "description": "It comes as fuel prices reach their highest since 2022, driven by conflict in the Middle East.",
+      "date": "Tue, 22 Sep 2026 05:05:41 GMT",
+      "source": "BBC Business",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "اقتصاد",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a68d/live/d678b2f0-b5d2-11f1-8c16-65d8f060d73f.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "BBC Business"
+      ]
+    },
+    {
+      "title": "مواعيد مباريات الجولة الأولى بدور المجموعات فى كأس عاصمة مصر - اليوم السابع",
+      "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQekNkZGJ0b0ZTU2dhTWN0dXVvQ0lDYVpqaVdMeWcwOWpMMnNXZG8ta0dBaGQ0QWdmZHRHTEszeHpBNU0xbUpHVXdMcGhqWDhJZDBrRmY4dHJXWWM1YXZuLXVBY280VmFJNXF5VlZKc3B3bkJkemZOcEJDMGtMbl8yRXlmQnpjNml4ejVTZmJQdVUwUnFna0RObFN5cnMxcXpJWk9TNTMzRUxlTHItN09ZNEVPOW9OMllCVjh1LU5UVmozcWtpbUVyVE5QbFdoNF9KNUl5bExWQXA2aDI4QTJkZTg2c3hZOHh4M0R3cTFzc2dmWnVFYXVVQlFpcHV4UmdiQUdyc0Z2dG1WSkczbFFva2lmQjUza0ZoRXBLTnNkYkdwaURrUW9GWmhHeDFmeDZGOG9LMjhmY2Uyclpmcno2Z2ZrbmhpeUUwOVVtN1JqT0VxRFl0ZzZ1S1ppS3E2c1ZKT2p6Q2daZktYaG85Vy13aVJadW96aVBaNzFyaFk2bkxUcTVXWkp3R3ZzZ0M4QWtoeFhrM1k2c1lDUURCWTlsWGR1Z1MtMUptRWp5UEJ4c1Rac3l6Rk1aYmxVVjUxcTNLczhhSzFwM3hvSGZOWnRtcUNXZk1sbFV6VVN3cEt4bnh3NFhydnpXOXhXLXg2SmU4OVpIbmhZN0p0SVVfVFHSAfgDQVVfeXFMTkU4eG5Hb2tsNW9jUlNIOE5tUHBMRnhuY2c3NGlITXhKSEdrdFZhWGNBQ2pNb3RrOHRHQ2VsdTBSeEV6bXFtVkIxYVRiR0pCb3RKc0ZvYlp5eXRLN2RkS2FXZVFPaFJRcWZTTzQzd3Y3cmp5Y2tNWlNxNnc3TTB4UGVCVmgtNTJTclZ4NlV6ME84U1FfejBoV1dvZnNSblFpWDlvRmQ2T1JLMm5fREZlSlBncVM3eHdMcXAtWWJYZlpDUTJqMnhkLUJtZ0lOdVpXWEJiNklZWlJQOHRtVEJ3M0ZwRDk4cld0RlY4aXhobFJ1ekhRS0JLb0s5d2JXVEEtUzdnNE5OZ1NNTnNndVMyRXlCLVMyZGN2MGZKd0Y2czlCbFVlNldDMDJScG5GYWtXWU5LalItZ0VPSHFQZXNZTjFhakNLVTdrMzV6LXNtd0lpejljNnI1RGtNT3dVeENrb2dKLUpfZzFuYm5yT2lKa2dVWHNPdnk5U0NVc21HZmxFSy0yUERsLUFTd1duMGJma25DNlZHSVJHcDQzZGhVMEJQVEY4RjloTE5EekE5VE5BMTQtX2xNVkFPNTA2b3JVWW1rSldrLVROdkdleWJRMjVfUnZyeGx1d2VMRGhMdVk5VzNPQ1YxSlZ3Nm9JS2ZudTM3dS1YLWJn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_gNBVV95cUxQekNkZGJ0b0ZTU2dhTWN0dXVvQ0lDYVpqaVdMeWcwOWpMMnNXZG8ta0dBaGQ0QWdmZHRHTEszeHpBNU0xbUpHVXdMcGhqWDhJZDBrRmY4dHJXWWM1YXZuLXVBY280VmFJNXF5VlZKc3B3bkJkemZOcEJDMGtMbl8yRXlmQnpjNml4ejVTZmJQdVUwUnFna0RObFN5cnMxcXpJWk9TNTMzRUxlTHItN09ZNEVPOW9OMllCVjh1LU5UVmozcWtpbUVyVE5QbFdoNF9KNUl5bExWQXA2aDI4QTJkZTg2c3hZOHh4M0R3cTFzc2dmWnVFYXVVQlFpcHV4UmdiQUdyc0Z2dG1WSkczbFFva2lmQjUza0ZoRXBLTnNkYkdwaURrUW9GWmhHeDFmeDZGOG9LMjhmY2Uyclpmcno2Z2ZrbmhpeUUwOVVtN1JqT0VxRFl0ZzZ1S1ppS3E2c1ZKT2p6Q2daZktYaG85Vy13aVJadW96aVBaNzFyaFk2bkxUcTVXWkp3R3ZzZ0M4QWtoeFhrM1k2c1lDUURCWTlsWGR1Z1MtMUptRWp5UEJ4c1Rac3l6Rk1aYmxVVjUxcTNLczhhSzFwM3hvSGZOWnRtcUNXZk1sbFV6VVN3cEt4bnh3NFhydnpXOXhXLXg2SmU4OVpIbmhZN0p0SVVfVFHSAfgDQVVfeXFMTkU4eG5Hb2tsNW9jUlNIOE5tUHBMRnhuY2c3NGlITXhKSEdrdFZhWGNBQ2pNb3RrOHRHQ2VsdTBSeEV6bXFtVkIxYVRiR0pCb3RKc0ZvYlp5eXRLN2RkS2FXZVFPaFJRcWZTTzQzd3Y3cmp5Y2tNWlNxNnc3TTB4UGVCVmgtNTJTclZ4NlV6ME84U1FfejBoV1dvZnNSblFpWDlvRmQ2T1JLMm5fREZlSlBncVM3eHdMcXAtWWJYZlpDUTJqMnhkLUJtZ0lOdVpXWEJiNklZWlJQOHRtVEJ3M0ZwRDk4cld0RlY4aXhobFJ1ekhRS0JLb0s5d2JXVEEtUzdnNE5OZ1NNTnNndVMyRXlCLVMyZGN2MGZKd0Y2czlCbFVlNldDMDJScG5GYWtXWU5LalItZ0VPSHFQZXNZTjFhakNLVTdrMzV6LXNtd0lpejljNnI1RGtNT3dVeENrb2dKLUpfZzFuYm5yT2lKa2dVWHNPdnk5U0NVc21HZmxFSy0yUERsLUFTd1duMGJma25DNlZHSVJHcDQzZGhVMEJQVEY4RjloTE5EekE5VE5BMTQtX2xNVkFPNTA2b3JVWW1rSldrLVROdkdleWJRMjVfUnZyeGx1d2VMRGhMdVk5VzNPQ1YxSlZ3Nm9JS2ZudTM3dS1YLWJn?oc=5\" target=\"_blank\">مواعيد مباريات الجولة الأولى بدور المجموعات فى كأس عاصمة مصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
+      "date": "Tue, 22 Sep 2026 05:00:00 GMT",
+      "source": "Google News رياضة",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "رياضة",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News رياضة"
+      ]
+    },
     {
       "title": "الضوء أثناء النوم يرتبط بارتفاع خطر أمراض القلب",
       "link": "https://www.skynewsarabia.com/technology/1893477-%D8%A7%D9%84%D8%B6%D9%88%D8%A1-%D8%A3%D8%AB%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D9%86%D9%88%D9%85-%D9%8A%D8%B1%D8%AA%D8%A8%D8%B7-%D8%A8%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AE%D8%B7%D8%B1-%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%82%D9%84%D8%A8",
@@ -107,9 +137,9 @@
       ]
     },
     {
-      "title": "لليوم الخامس.. الذكاء الاصطناعي يدفع الأسهم الآسيوية لتسجيل مكاسب - الشرق بلومبرغ",
+      "title": "لليوم الخامس.. الذكاء الاصطناعي يدفع الأسهم الآسيوية لتسجيل مكاسب - asharqbusiness.com",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOVVFZaGRmekxBUndoQjc3RFFBNmYtX2ctcWNvMTM0WnphQ3ZIVE9sRkJCT0pZNUdyVE5RZkp0Q25QeVpiUFVMVWhZU1E5ZnpBVGZfMzBMeWszUWhpRVRtRnhsQ3dYYlNfR3RLNTlXRkFJdEUyYUpocUdUVTQwOVFDNHM3ZDB6MmFjUUY0cS1HVTF4UmpnYndrdjBJcDZaX0ZwVmRpN3VTczZzUXlxc1lfVGNmRDR0QXY1ZmJzQWVLTVBVX0FMTDhQakhLWFZmOEkwcHZoeWtrbFlpVzJnRVplZ1BJMlpKN1FGVllBUmpRX25IN2dFTzRjZlVYVzJZR1hXSzRhdlNRaUxQQjV4ZUhxYTBGNGtHZTAzVGpucVAzVXZTRTFqeXhweVZB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxOVVFZaGRmekxBUndoQjc3RFFBNmYtX2ctcWNvMTM0WnphQ3ZIVE9sRkJCT0pZNUdyVE5RZkp0Q25QeVpiUFVMVWhZU1E5ZnpBVGZfMzBMeWszUWhpRVRtRnhsQ3dYYlNfR3RLNTlXRkFJdEUyYUpocUdUVTQwOVFDNHM3ZDB6MmFjUUY0cS1HVTF4UmpnYndrdjBJcDZaX0ZwVmRpN3VTczZzUXlxc1lfVGNmRDR0QXY1ZmJzQWVLTVBVX0FMTDhQakhLWFZmOEkwcHZoeWtrbFlpVzJnRVplZ1BJMlpKN1FGVllBUmpRX25IN2dFTzRjZlVYVzJZR1hXSzRhdlNRaUxQQjV4ZUhxYTBGNGtHZTAzVGpucVAzVXZTRTFqeXhweVZB?oc=5\" target=\"_blank\">لليوم الخامس.. الذكاء الاصطناعي يدفع الأسهم الآسيوية لتسجيل مكاسب</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق بلومبرغ</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxOVVFZaGRmekxBUndoQjc3RFFBNmYtX2ctcWNvMTM0WnphQ3ZIVE9sRkJCT0pZNUdyVE5RZkp0Q25QeVpiUFVMVWhZU1E5ZnpBVGZfMzBMeWszUWhpRVRtRnhsQ3dYYlNfR3RLNTlXRkFJdEUyYUpocUdUVTQwOVFDNHM3ZDB6MmFjUUY0cS1HVTF4UmpnYndrdjBJcDZaX0ZwVmRpN3VTczZzUXlxc1lfVGNmRDR0QXY1ZmJzQWVLTVBVX0FMTDhQakhLWFZmOEkwcHZoeWtrbFlpVzJnRVplZ1BJMlpKN1FGVllBUmpRX25IN2dFTzRjZlVYVzJZR1hXSzRhdlNRaUxQQjV4ZUhxYTBGNGtHZTAzVGpucVAzVXZTRTFqeXhweVZB?oc=5\" target=\"_blank\">لليوم الخامس.. الذكاء الاصطناعي يدفع الأسهم الآسيوية لتسجيل مكاسب</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">asharqbusiness.com</font>",
       "date": "Tue, 22 Sep 2026 03:45:13 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -350,21 +380,6 @@
       ]
     },
     {
-      "title": "I couldn't cook when I left home – but these easy £2.50 recipes became my go-to",
-      "link": "https://www.bbc.co.uk/news/articles/cgjqgjn3n2wo?at_medium=RSS&at_campaign=rss",
-      "description": "Former culinary-challenged students share four low cost meals they think everyone can master.",
-      "date": "Mon, 21 Sep 2026 23:41:20 GMT",
-      "source": "BBC Business",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "اقتصاد",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9cd/live/8b3a0650-b5e5-11f1-a430-4d16ee157c41.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "BBC Business"
-      ]
-    },
-    {
       "title": "المقاولون العرب يواصل استعداداته لمواجهة الجونة فى كأس عاصمة مصر - اليوم السابع",
       "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxQTjNBNTgwTHRnTHNhVzdFdVA2LWtwS3NZbXlMVlpHeDBwV2xveFdTU2lvUno1dkpTZm05Z01hRUNsb0g3bWd5WmN0SVdrT0JaTFFFQ19tMGQ0aEMwV3h6SW5tTXFqMDVYR19ZcGVRbUJwVVZtTkRNb2wtbTNwYUtXZ3JYZ2E4T1pfeTVpOFZQaXM5NURVek82ZWlEcFg2WWhrbXh5cVJNNWRBcGcyN19INUtONmw4TnpKb09hMzJnM25uZ3lwQThQWlBReHR2cXVQM1N5eEh2bXVEY0dmSExwN2lzWm8zWGFnSXZjVlVwOEVFM3ZubkdaS2ZkeTBLRW02dXMwQkpIX1Z2Rk9nZFZsNWlERHBQX2d3cldjRVFFN1VoSWFjNUJWbFFPekMxelkySldmNVZEWHk1ZGZhTzh5am5MM2UwTENFSzVtV3BoQndraWRSRzI5bGhGWnd6SG45a3E0MWtMR0J3dHZIQzllTmN1Ukg5RG51SHNVSzM2QWRjaFA2X1JYRUwzNWdYWXdCaF93NlZvTGJJN3BLZjFQb2ltZ2NyNEZmTk5QM0FCZEZrRmd4WUNWX0RIUERGemFTUm5TN1QzNFU1cVlvRFctVDUwbjF6VzVkd3hBbFBBeF94WThYelBCOGp6Nld5U3pIMWxpX05RR195QUx1QzNOaDlFYlhnNGZKZ1pyTi1pRlVEWTdTVzRVWWxaSi1NUdIBmARBVV95cUxObFNjaGx6Z0hvaXlXVnBsbG1Ra05ESzh2TGlwZGNxemRtOEZQX2ViS04tVUpnLVlNa3hzZjJVcDVkeEFSU04tRTBCWXU2Ny11YUE5djVERU5hYmlBUm5zMXJQVGtFX3lmTnVuUUtDM3Z6bnlkV1N2VDVodFhLQWJCX1oxd0VNbXVFQ09YNkt5aklMNFlOYlFCNkNDcUp2SEZxNk9PcXZZdFE4b2I2am53Mk5UZElVVkh5YVVzLXFoZGxadUVwbnR3dG5ycHlrSzRJQlAtbWl1M1RSbktsN29yc0RtaWxsZmpVMEMzWVctTElVTEw1aDROQ3hlRzNYQllJbTFKRVZ5WUxoNFJwRncwUDR5QkNoa2V1NXJia00wS3ZwNGROM252THJ4dF93bDBMRDU4WExaQUlobHJ2Q1RYbmtyMnZDcXM2MFZLUS11emc2OWswdzV3LXlQRm1WMThMY3RTQlZ1YURmdEZQd0lSeG5EZUJJb25NaDBfbVhOU3BLdDQyYnhuWTYzdjk1cUlpdU1HQy0xcjhLSElYU0piclNyeW95b1Q2QTZ0WEJpN3JWQVZGRXc0NWdwRlZRNkxEVldaV0JDTDJIa3FJaU5Xeks5N19yVjY2eE9mN21Fb1AyUG9pSDEwbFh4UjhCYjJweXpQeUlmcmRIRzlsTFhqZUFaU3cyYkdHZVBUYWVOWlpjMUticzBRWg?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMingRBVV95cUxQTjNBNTgwTHRnTHNhVzdFdVA2LWtwS3NZbXlMVlpHeDBwV2xveFdTU2lvUno1dkpTZm05Z01hRUNsb0g3bWd5WmN0SVdrT0JaTFFFQ19tMGQ0aEMwV3h6SW5tTXFqMDVYR19ZcGVRbUJwVVZtTkRNb2wtbTNwYUtXZ3JYZ2E4T1pfeTVpOFZQaXM5NURVek82ZWlEcFg2WWhrbXh5cVJNNWRBcGcyN19INUtONmw4TnpKb09hMzJnM25uZ3lwQThQWlBReHR2cXVQM1N5eEh2bXVEY0dmSExwN2lzWm8zWGFnSXZjVlVwOEVFM3ZubkdaS2ZkeTBLRW02dXMwQkpIX1Z2Rk9nZFZsNWlERHBQX2d3cldjRVFFN1VoSWFjNUJWbFFPekMxelkySldmNVZEWHk1ZGZhTzh5am5MM2UwTENFSzVtV3BoQndraWRSRzI5bGhGWnd6SG45a3E0MWtMR0J3dHZIQzllTmN1Ukg5RG51SHNVSzM2QWRjaFA2X1JYRUwzNWdYWXdCaF93NlZvTGJJN3BLZjFQb2ltZ2NyNEZmTk5QM0FCZEZrRmd4WUNWX0RIUERGemFTUm5TN1QzNFU1cVlvRFctVDUwbjF6VzVkd3hBbFBBeF94WThYelBCOGp6Nld5U3pIMWxpX05RR195QUx1QzNOaDlFYlhnNGZKZ1pyTi1pRlVEWTdTVzRVWWxaSi1NUdIBmARBVV95cUxObFNjaGx6Z0hvaXlXVnBsbG1Ra05ESzh2TGlwZGNxemRtOEZQX2ViS04tVUpnLVlNa3hzZjJVcDVkeEFSU04tRTBCWXU2Ny11YUE5djVERU5hYmlBUm5zMXJQVGtFX3lmTnVuUUtDM3Z6bnlkV1N2VDVodFhLQWJCX1oxd0VNbXVFQ09YNkt5aklMNFlOYlFCNkNDcUp2SEZxNk9PcXZZdFE4b2I2am53Mk5UZElVVkh5YVVzLXFoZGxadUVwbnR3dG5ycHlrSzRJQlAtbWl1M1RSbktsN29yc0RtaWxsZmpVMEMzWVctTElVTEw1aDROQ3hlRzNYQllJbTFKRVZ5WUxoNFJwRncwUDR5QkNoa2V1NXJia00wS3ZwNGROM252THJ4dF93bDBMRDU4WExaQUlobHJ2Q1RYbmtyMnZDcXM2MFZLUS11emc2OWswdzV3LXlQRm1WMThMY3RTQlZ1YURmdEZQd0lSeG5EZUJJb25NaDBfbVhOU3BLdDQyYnhuWTYzdjk1cUlpdU1HQy0xcjhLSElYU0piclNyeW95b1Q2QTZ0WEJpN3JWQVZGRXc0NWdwRlZRNkxEVldaV0JDTDJIa3FJaU5Xeks5N19yVjY2eE9mN21Fb1AyUG9pSDEwbFh4UjhCYjJweXpQeUlmcmRIRzlsTFhqZUFaU3cyYkdHZVBUYWVOWlpjMUticzBRWg?oc=5\" target=\"_blank\">المقاولون العرب يواصل استعداداته لمواجهة الجونة فى كأس عاصمة مصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
@@ -408,6 +423,21 @@
       "sourceCount": 1,
       "sources": [
         "BBC Business"
+      ]
+    },
+    {
+      "title": "ختام فعاليات دورة تدريب كرة القدم النسائية بالتعاون بين مصر والنرويج.. اليوم - اليوم السابع",
+      "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxOekR0cXlrZGg0MDhCMzBfX05QanNTQThVdnVaOFFtRWl0SFZYWnRwX3JiWXJBNGo3Y0tndWNENC0zZ1RWX2hmbTdNYzIxS2VicTJwUEwxMHNLT3dLYWZ3U1VLU2Z0Q0dySlZOQWxjZldiMkxDNGFiSk9fQkdkcjZJMUJ4OTJlUTFZTGRZNGhENDI5cW5hbE9wa2FGUU9WY3M4Yi15bldWS002M0lqSkNNTzhyVmZMbEtqb0FiS0ZOQWp1S1RibWJQUWVFYlBITXZzaXJNeENNTWFFRWJZSWQzM3hBLVgyT05fczN5eTA5SG9pRnJrM0VFb20waVpnRnk2OE9aSXFrdndKYlRFWUltR1FMZlJTQmZnZTZDdFRCMEZkWkJUMU11ZkhoOW1yZV9tYW1UNzkwRHRLTGQ4MHMtS1RxYm5TTDBXMTYwemJLZ0Z3OFlSQ3B0bjFZamhfRGhYS2NETUl0MjhwSkVGeVVXRDVEUWRMSlFEWVBwQkUtU2dvV3dJNDd6eWF1V1E1eVFwTlNLSTZyWXBCOXA4VkI1X3gxekJxeHc2RFZXLW02ejV3THB5ZVRaZVp6bDBsSzFQUFR2OV9vMl9sd2pnU19DN0VvZzNNTURXbDRWRUdwX1VVbFpBS3YwM0Zsb3pfTHN5ZHF2SzVB0gHwA0FVX3lxTE9kYW5abUc2QUYweDhzUnp0UWpJTkhBYlpFd1MwUzBKREdpMmFscElyMlBSSmVubm83eV9FM1ozdGd6Q1N1YnBjNHNSdTJ0ZmlyejJtUjlCSkJYcHVwb3hGTjh2M1BLdFlZaU1fVUwzSEZPMHE4VGNkQU5tU3o4QzJEX05NZnRJVzVhQi1hdkJldExJQU5GQTJhOTNvYXlsQWo2TTN4X1VpZGxTYW9uYkxZVTZMZzVXZ214M0dCOTEzWlplWnRjQWVGbVdZSUtEd2lRREtkQXJlai1ScFhtNHFzWUcwczA0Q3E1clhUWHR5NVkwaUMzS3BfTExMdUZ5SGVCNTlqNjN4TDJLc2d1S2xiM3YtWjJLcjdIbUt1ekxQZE5NWDRfXzBzSzNrS0RPS25mZlJkdWNMdld2R0hrOFVsTHJySW5HWExTeExBOWVvdGFMTUE0bFV1VjVOa1JicEJkVTNTQWJEM0VJZlBockVIdmFzS3NnaUdLRkRRWW1wSlg2dXVCTU5GdVlUSHIyTllxc1V0U3A1TU1wUENJVHMwNzZNcHV6ZFVPX0M1OHJtZktIcG1iYjhqOW9yNXp4M1RmS004bU82RUlqX09Wdmk5QWlVZnc0THUtUnd0S0ZINldfckdxVkt5bUtUdHNaUDQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gNBVV95cUxOekR0cXlrZGg0MDhCMzBfX05QanNTQThVdnVaOFFtRWl0SFZYWnRwX3JiWXJBNGo3Y0tndWNENC0zZ1RWX2hmbTdNYzIxS2VicTJwUEwxMHNLT3dLYWZ3U1VLU2Z0Q0dySlZOQWxjZldiMkxDNGFiSk9fQkdkcjZJMUJ4OTJlUTFZTGRZNGhENDI5cW5hbE9wa2FGUU9WY3M4Yi15bldWS002M0lqSkNNTzhyVmZMbEtqb0FiS0ZOQWp1S1RibWJQUWVFYlBITXZzaXJNeENNTWFFRWJZSWQzM3hBLVgyT05fczN5eTA5SG9pRnJrM0VFb20waVpnRnk2OE9aSXFrdndKYlRFWUltR1FMZlJTQmZnZTZDdFRCMEZkWkJUMU11ZkhoOW1yZV9tYW1UNzkwRHRLTGQ4MHMtS1RxYm5TTDBXMTYwemJLZ0Z3OFlSQ3B0bjFZamhfRGhYS2NETUl0MjhwSkVGeVVXRDVEUWRMSlFEWVBwQkUtU2dvV3dJNDd6eWF1V1E1eVFwTlNLSTZyWXBCOXA4VkI1X3gxekJxeHc2RFZXLW02ejV3THB5ZVRaZVp6bDBsSzFQUFR2OV9vMl9sd2pnU19DN0VvZzNNTURXbDRWRUdwX1VVbFpBS3YwM0Zsb3pfTHN5ZHF2SzVB0gHwA0FVX3lxTE9kYW5abUc2QUYweDhzUnp0UWpJTkhBYlpFd1MwUzBKREdpMmFscElyMlBSSmVubm83eV9FM1ozdGd6Q1N1YnBjNHNSdTJ0ZmlyejJtUjlCSkJYcHVwb3hGTjh2M1BLdFlZaU1fVUwzSEZPMHE4VGNkQU5tU3o4QzJEX05NZnRJVzVhQi1hdkJldExJQU5GQTJhOTNvYXlsQWo2TTN4X1VpZGxTYW9uYkxZVTZMZzVXZ214M0dCOTEzWlplWnRjQWVGbVdZSUtEd2lRREtkQXJlai1ScFhtNHFzWUcwczA0Q3E1clhUWHR5NVkwaUMzS3BfTExMdUZ5SGVCNTlqNjN4TDJLc2d1S2xiM3YtWjJLcjdIbUt1ekxQZE5NWDRfXzBzSzNrS0RPS25mZlJkdWNMdld2R0hrOFVsTHJySW5HWExTeExBOWVvdGFMTUE0bFV1VjVOa1JicEJkVTNTQWJEM0VJZlBockVIdmFzS3NnaUdLRkRRWW1wSlg2dXVCTU5GdVlUSHIyTllxc1V0U3A1TU1wUENJVHMwNzZNcHV6ZFVPX0M1OHJtZktIcG1iYjhqOW9yNXp4M1RmS004bU82RUlqX09Wdmk5QWlVZnc0THUtUnd0S0ZINldfckdxVkt5bUtUdHNaUDQ?oc=5\" target=\"_blank\">ختام فعاليات دورة تدريب كرة القدم النسائية بالتعاون بين مصر والنرويج.. اليوم</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
+      "date": "Mon, 21 Sep 2026 23:00:00 GMT",
+      "source": "Google News رياضة",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "رياضة",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News رياضة"
       ]
     },
     {
@@ -471,9 +501,9 @@
       ]
     },
     {
-      "title": "«إيتيدا» تستعد للتعاون مع «NVIDIA» لدعم نمو منظومة الذكاء الاصطناعي في مصر - جريدة البورصة",
+      "title": "«إيتيدا» تستعد للتعاون مع «NVIDIA» لدعم نمو منظومة الذكاء الاصطناعي في مصر - alborsaanews.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pS19Lem9CYjZhUGhTSWY5Z3FuLUdLazlDY1Y5QXIzM0JIYUI2bDQtbHlhcVZPTldka29jb29pU0N5UVpuczFrUHowZlcyV0VPdlk3anpyd2J6RWs?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pS19Lem9CYjZhUGhTSWY5Z3FuLUdLazlDY1Y5QXIzM0JIYUI2bDQtbHlhcVZPTldka29jb29pU0N5UVpuczFrUHowZlcyV0VPdlk3anpyd2J6RWs?oc=5\" target=\"_blank\">«إيتيدا» تستعد للتعاون مع «NVIDIA» لدعم نمو منظومة الذكاء الاصطناعي في مصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة البورصة</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pS19Lem9CYjZhUGhTSWY5Z3FuLUdLazlDY1Y5QXIzM0JIYUI2bDQtbHlhcVZPTldka29jb29pU0N5UVpuczFrUHowZlcyV0VPdlk3anpyd2J6RWs?oc=5\" target=\"_blank\">«إيتيدا» تستعد للتعاون مع «NVIDIA» لدعم نمو منظومة الذكاء الاصطناعي في مصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alborsaanews.com</font>",
       "date": "Mon, 21 Sep 2026 21:25:34 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -588,21 +618,6 @@
       "sourceCount": 1,
       "sources": [
         "Google News مصر"
-      ]
-    },
-    {
-      "title": "سفيرنا لدى مصر يستقبل وفد نادي «الطموح» المشارك بالأولمبياد الخاص - شبكة سرمد الإعلامية",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE4tTVhQa3JURk5BOS1VR2RfRFBVbEVNQ2l2cUVDdVBybG5wS2RmdzF1VDctWEpXN2kzUVB3T1ZHaw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE4tTVhQa3JURk5BOS1VR2RfRFBVbEVNQ2l2cUVDdVBybG5wS2RmdzF1VDctWEpXN2kzUVB3T1ZHaw?oc=5\" target=\"_blank\">سفيرنا لدى مصر يستقبل وفد نادي «الطموح» المشارك بالأولمبياد الخاص</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة سرمد الإعلامية</font>",
-      "date": "Mon, 21 Sep 2026 19:47:27 GMT",
-      "source": "Google News رياضة",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "رياضة",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News رياضة"
       ]
     },
     {
@@ -753,21 +768,6 @@
       "sourceCount": 1,
       "sources": [
         "Google News تكنولوجيا"
-      ]
-    },
-    {
-      "title": "وفد شبابي مصري يواصل فعاليات برنامج التبادل الثقافي في المغرب (صور) - مبتدا",
-      "link": "https://news.google.com/rss/articles/CBMilgRBVV95cUxOY1hKWWx5SjVFWEZRMUx6QWJ4RlFQV1EwRnpmeTNXQ1ctbnJGZ0ZFMHFhRS1zUk5MeTBsbDB5dGxablRqY25heE1HYVpNN3lwOThMeUJZNmFJcVZZUW5WS244ZnFjcmxwNl9YMGpiX2ViRFVzM3hreGFVTkZYNVppc0xYV0s2eG9EVnc5S3RjUUNXUVdWdUNpSHNWdmduOThOUEVObHBfd19aVGotam5HN2RJZkdUek5MTDZ0WWFiOWl3cmxUVzZGT0Z3RXpRSk5TRzJXVy1wSlhBQVZtS0pxbVVYSldKZHd3X0NvX3Zka1JhclFoVGw0emU5WGs3RU56Z3RyZHRKb2dldlFCOUlraFJBbFJyYkNZdTh5NzdyR2w1aXh4LXdhU0E0aXhyNGVqU000VU80a3ptaGhXU3ZNYTZvSEQyRUgzcWNpVnFCUVRNQjg2bFlraGJlSTRpSnplUGk3NnR2YUVCWXU4SEpVR3Z0a3VlaC1qWlJUV21mNzRBanpTMm5mVDltTkhHYmVDeDdSWEpiY0FSOUFzVWl4cUwtV1dPS0Z5WFdSVXpkX1BpcElZSndzLWp2NlFrVUUybF9DbjN4Wll4MDZZMVZOd1JGUE5wemFKYVdCZnl1MmxxZFFPMlItZHhRcnBqMDFnZmVORGR1RURneWRZaUdPOGEwVTRqZ0hSR2FTOU9VODAyeE01dVE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgRBVV95cUxOY1hKWWx5SjVFWEZRMUx6QWJ4RlFQV1EwRnpmeTNXQ1ctbnJGZ0ZFMHFhRS1zUk5MeTBsbDB5dGxablRqY25heE1HYVpNN3lwOThMeUJZNmFJcVZZUW5WS244ZnFjcmxwNl9YMGpiX2ViRFVzM3hreGFVTkZYNVppc0xYV0s2eG9EVnc5S3RjUUNXUVdWdUNpSHNWdmduOThOUEVObHBfd19aVGotam5HN2RJZkdUek5MTDZ0WWFiOWl3cmxUVzZGT0Z3RXpRSk5TRzJXVy1wSlhBQVZtS0pxbVVYSldKZHd3X0NvX3Zka1JhclFoVGw0emU5WGs3RU56Z3RyZHRKb2dldlFCOUlraFJBbFJyYkNZdTh5NzdyR2w1aXh4LXdhU0E0aXhyNGVqU000VU80a3ptaGhXU3ZNYTZvSEQyRUgzcWNpVnFCUVRNQjg2bFlraGJlSTRpSnplUGk3NnR2YUVCWXU4SEpVR3Z0a3VlaC1qWlJUV21mNzRBanpTMm5mVDltTkhHYmVDeDdSWEpiY0FSOUFzVWl4cUwtV1dPS0Z5WFdSVXpkX1BpcElZSndzLWp2NlFrVUUybF9DbjN4Wll4MDZZMVZOd1JGUE5wemFKYVdCZnl1MmxxZFFPMlItZHhRcnBqMDFnZmVORGR1RURneWRZaUdPOGEwVTRqZ0hSR2FTOU9VODAyeE01dVE?oc=5\" target=\"_blank\">وفد شبابي مصري يواصل فعاليات برنامج التبادل الثقافي في المغرب (صور)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">مبتدا</font>",
-      "date": "Mon, 21 Sep 2026 17:34:05 GMT",
-      "source": "Google News رياضة",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "رياضة",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News رياضة"
       ]
     },
     {
@@ -951,21 +951,6 @@
       ]
     },
     {
-      "title": "مواعيد مباريات الجولة الأولى بدور المجموعات فى كأس عاصمة مصر - اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxPV1ZCdnNqeFMyVXJpakpodFdPLXd6NEs3VzNZd25ueGwwdUJjZFVabjk5ZTI5Z3BLbDBrUno5QTVVRlJqQ1FCTmRCQnN4d2dZWkhCS1FvUnU2MDdqM0w3ejBGTUtiQTg1NVJGb3ZpWG16SW4zS0V4MTBWUVpXbm1rb3NBaWNQcHRnTDJRLXVZd1ZQeE5RX19CR2JfU2NLbEcxTFFuUDFoc1FMN1VtVktUTFhudnVkZ2czdmczeExOSDExcWNxU1E3VzdydWlRMTdnNEFXMnBNLVZDbC01RG5wdFVKTUt3WmkycUtOQ2pIMGcxbGs4bU1tdlpDcGMwV1lIMGI5Um9EdnY1ZmxKck5LT2RaTEU1cVBHY3Exb1dNU3dHVE1FSDJXSkpmaVpwclVvVVdpbnFkZVdZT1RjM0RBYkNYZlp3eE1LUUh3dGtvaHRld2Y3RmdHU0xTLXVyTnlxanJqTkhtakhOS3d1UlRQYloyQnd6OUFvZ3BnQzZTVmVDdC1XUUdpNXNtdjBsV0VOU3BheXZtcjFrS2J0TUNNbFFiTWFsajJEUXNOWDhHZHpqdkc3aUFqVmZaUWF6d1N2d2JmLXVpNHNHekpOOXBnb1hNQjU4SmppYVl3c2Y0VGNEY01NbkRIekdBd19RR3BaVjhNOVY2SUZQbXV3dUHSAfgDQVVfeXFMTmRwQ0lKYkE5eTF3YjhicWk1NWM3TjBadk5FdU1lVTJKVWRQUF9taE9ZVUZiTzBaVklhTkZtTzlXZEZldHAzVUhENVF3UkdSblBadWV3bHVsRkJnZGlmeFJGYzJsMzZCUTdmdGtuQWdWVlFxZUhPdXU4UUtMQ05HZHlxZXVLMVhCejdQYjYwRDhLaWdUbzRYdjJFeEpzcGEzaldjeEZiQjdWUG1kdWhXeDNpQkRuQk5TLWoyTWlrOVNkaXREUFVRT1JQd3BnMjViV0ZxY0U5a2JXUnk5dW92c2wzX0Q5bmM3Sk9PUWpjclJZOHA1UUExNmFyWEJTYjZTYkYtaXQtWEF2cThZT21QOHhvdzNFUGs5UlI0VC1xMi1zNVFfRmltT29ma2d6Rk9YOVpnOUllRUtEM2tVV3M1a3hSQlh6U08zdHpCZmd0TW1EWUFxS19IamZpZEhlNW4tQkJBNjYweDl1Z0tqVVUwNzlhMkExMGgwRmdGUW95dlQzN1Vjb2k1TzhRekZSNXk3NUhXcm9VZXFMQjk0Q1JGczRLcmdjbXpOemt2MzVraTNoc0pjSTVTcFNmX1gzM2h0RlJ4ZGVCdEc4Wk9mazlRb2tROWo3bDF2TU5JemRiWHB6VmlYM280bmN1MXd6WVdES19hcFRySkw0?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_gNBVV95cUxPV1ZCdnNqeFMyVXJpakpodFdPLXd6NEs3VzNZd25ueGwwdUJjZFVabjk5ZTI5Z3BLbDBrUno5QTVVRlJqQ1FCTmRCQnN4d2dZWkhCS1FvUnU2MDdqM0w3ejBGTUtiQTg1NVJGb3ZpWG16SW4zS0V4MTBWUVpXbm1rb3NBaWNQcHRnTDJRLXVZd1ZQeE5RX19CR2JfU2NLbEcxTFFuUDFoc1FMN1VtVktUTFhudnVkZ2czdmczeExOSDExcWNxU1E3VzdydWlRMTdnNEFXMnBNLVZDbC01RG5wdFVKTUt3WmkycUtOQ2pIMGcxbGs4bU1tdlpDcGMwV1lIMGI5Um9EdnY1ZmxKck5LT2RaTEU1cVBHY3Exb1dNU3dHVE1FSDJXSkpmaVpwclVvVVdpbnFkZVdZT1RjM0RBYkNYZlp3eE1LUUh3dGtvaHRld2Y3RmdHU0xTLXVyTnlxanJqTkhtakhOS3d1UlRQYloyQnd6OUFvZ3BnQzZTVmVDdC1XUUdpNXNtdjBsV0VOU3BheXZtcjFrS2J0TUNNbFFiTWFsajJEUXNOWDhHZHpqdkc3aUFqVmZaUWF6d1N2d2JmLXVpNHNHekpOOXBnb1hNQjU4SmppYVl3c2Y0VGNEY01NbkRIekdBd19RR3BaVjhNOVY2SUZQbXV3dUHSAfgDQVVfeXFMTmRwQ0lKYkE5eTF3YjhicWk1NWM3TjBadk5FdU1lVTJKVWRQUF9taE9ZVUZiTzBaVklhTkZtTzlXZEZldHAzVUhENVF3UkdSblBadWV3bHVsRkJnZGlmeFJGYzJsMzZCUTdmdGtuQWdWVlFxZUhPdXU4UUtMQ05HZHlxZXVLMVhCejdQYjYwRDhLaWdUbzRYdjJFeEpzcGEzaldjeEZiQjdWUG1kdWhXeDNpQkRuQk5TLWoyTWlrOVNkaXREUFVRT1JQd3BnMjViV0ZxY0U5a2JXUnk5dW92c2wzX0Q5bmM3Sk9PUWpjclJZOHA1UUExNmFyWEJTYjZTYkYtaXQtWEF2cThZT21QOHhvdzNFUGs5UlI0VC1xMi1zNVFfRmltT29ma2d6Rk9YOVpnOUllRUtEM2tVV3M1a3hSQlh6U08zdHpCZmd0TW1EWUFxS19IamZpZEhlNW4tQkJBNjYweDl1Z0tqVVUwNzlhMkExMGgwRmdGUW95dlQzN1Vjb2k1TzhRekZSNXk3NUhXcm9VZXFMQjk0Q1JGczRLcmdjbXpOemt2MzVraTNoc0pjSTVTcFNmX1gzM2h0RlJ4ZGVCdEc4Wk9mazlRb2tROWo3bDF2TU5JemRiWHB6VmlYM280bmN1MXd6WVdES19hcFRySkw0?oc=5\" target=\"_blank\">مواعيد مباريات الجولة الأولى بدور المجموعات فى كأس عاصمة مصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
-      "date": "Mon, 21 Sep 2026 13:20:00 GMT",
-      "source": "Google News رياضة",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "رياضة",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News رياضة"
-      ]
-    },
-    {
       "title": "Tories pledge to bring back tax-free shopping for tourists",
       "link": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
       "description": "The party says scrapping the scheme in 2021 left the UK less competitive than European destinations.",
@@ -1115,6 +1100,21 @@
         "موجز نيوز"
       ],
       "telegramUpdateId": 241993278
+    },
+    {
+      "title": "رمضان صبحي.. من أبرز مواهب مصر إلى مسيرة منتهية عمليا - الجزيرة نت",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZHZIY29jYXpmWmdKZVdvNkhRNlQ3TUFhcmNCcGFuWUlodGxNN0RTa2FmRWVoMVYySTdXZzZRUFFkbFBCQlRXYmlRNHBiUlFUSlB0QVlqZ1BzR2RrWTVKNTNtcjBNSVo3VjhpaExTNkJIdmh1WVlRb084azVNZzBHWFJTelh1Sm8wOHpOSDN2UTB3aVBDLXRDd0JQX29oTDlfR2ZWLUI2UVYwRkZ3aUMtclM0VWN4OEFqa2ZWTkV0ekxEelVDVDlzNDFkZndTN2pPbWVuNkE0dzlZVzEwTzd6UkRRWjFrYXVYMGJLQkRWNVdWZUc4R04yLW5JVW50aFhJWnVoWXNoYnk3Z19FWWZJLTBJVlFWUWkzS2VhS243NzRaNERsbm96TUJRa0JfcDlSNUtSbGZNeVZQbFN6eTRhMDQ2N2xDbjdQNmFmdzFqZjdBRUdoeWfSAdsCQVVfeXFMTkRWR1FEa3I4TTRLa05HcXhSUzBnXzdfY08tUVpLUzRxSlVrNENRc3Z0VC1iZ2tJMnVuMUxMNFFCdnJaM0RGeDVyeWp4V21HRDJBbVdwVng3Snp2R3dyS2liVTl0SUxtaW1uaVIwaG13cFZKMDVfWTZfdl9Ob0NJN1lzN0lneGM5NEZpTDA4anhRekRCUFRQdTlKMl90ZE1lQm5SMl9yMXdwV2ZjanZKREd0OVhvRF83bElxaGEzWEpQOUk2TTFIVDlBaXV0Si1rUlFkNThiQUhwR2piLTNsd1R0ZnNQdVRtallDUDI5WWJLQ0FnUVNvYjJPM3NZUnhpS2V0UkU2Vnl4N0ZKS1dHbmRRbUUtWnpzbm9XSVkwbEhxT2dIaTA3cERIaDdiVXpUTGxISVpYVHBPdDhNYTBKbW9TOWNTcGtqcVhJU0hZNkhkaFRVVUQtY2lSMEk?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZHZIY29jYXpmWmdKZVdvNkhRNlQ3TUFhcmNCcGFuWUlodGxNN0RTa2FmRWVoMVYySTdXZzZRUFFkbFBCQlRXYmlRNHBiUlFUSlB0QVlqZ1BzR2RrWTVKNTNtcjBNSVo3VjhpaExTNkJIdmh1WVlRb084azVNZzBHWFJTelh1Sm8wOHpOSDN2UTB3aVBDLXRDd0JQX29oTDlfR2ZWLUI2UVYwRkZ3aUMtclM0VWN4OEFqa2ZWTkV0ekxEelVDVDlzNDFkZndTN2pPbWVuNkE0dzlZVzEwTzd6UkRRWjFrYXVYMGJLQkRWNVdWZUc4R04yLW5JVW50aFhJWnVoWXNoYnk3Z19FWWZJLTBJVlFWUWkzS2VhS243NzRaNERsbm96TUJRa0JfcDlSNUtSbGZNeVZQbFN6eTRhMDQ2N2xDbjdQNmFmdzFqZjdBRUdoeWfSAdsCQVVfeXFMTkRWR1FEa3I4TTRLa05HcXhSUzBnXzdfY08tUVpLUzRxSlVrNENRc3Z0VC1iZ2tJMnVuMUxMNFFCdnJaM0RGeDVyeWp4V21HRDJBbVdwVng3Snp2R3dyS2liVTl0SUxtaW1uaVIwaG13cFZKMDVfWTZfdl9Ob0NJN1lzN0lneGM5NEZpTDA4anhRekRCUFRQdTlKMl90ZE1lQm5SMl9yMXdwV2ZjanZKREd0OVhvRF83bElxaGEzWEpQOUk2TTFIVDlBaXV0Si1rUlFkNThiQUhwR2piLTNsd1R0ZnNQdVRtallDUDI5WWJLQ0FnUVNvYjJPM3NZUnhpS2V0UkU2Vnl4N0ZKS1dHbmRRbUUtWnpzbm9XSVkwbEhxT2dIaTA3cERIaDdiVXpUTGxISVpYVHBPdDhNYTBKbW9TOWNTcGtqcVhJU0hZNkhkaFRVVUQtY2lSMEk?oc=5\" target=\"_blank\">رمضان صبحي.. من أبرز مواهب مصر إلى مسيرة منتهية عمليا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
+      "date": "Sun, 20 Sep 2026 18:51:15 GMT",
+      "source": "Google News رياضة",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "رياضة",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News رياضة"
+      ]
     },
     {
       "title": "Ed Davey calls for immediate 10p cut to fuel duty",
