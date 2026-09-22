@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T15:50:40.568Z",
+  "updatedAt": "2026-09-22T16:06:54.604Z",
   "items": [
     {
       "title": "ترامب يقول أمام الجمعية العامة للأمم المتحدة إنه يدرس الخيار بين التوصل إلى اتفاق مع إيران أو \"دفعها إلى الجحيم\"",
       "link": "https://www.bbc.co.uk/arabic/live/ck3reyw8ne2zt?at_medium=RSS&at_campaign=rss",
       "description": "يشارك نحو 130 رئيس دولة وحكومة في الاجتماعات في وقت يواجه فيه النظام الدولي الذي تشكل بعد الحرب العالمية الثانية ضغوطا متزايدة بينما تكافح ‌الأمم المتحدة للحفاظ على دورها وتأثيرها في ظل انتقادات ترامب",
-      "date": "2026-09-22T15:50:39.558Z",
+      "date": "2026-09-22T16:06:53.649Z",
       "source": "BBC العربية",
       "sourceScore": 10,
       "sourceType": "official-rss",
@@ -17,10 +17,115 @@
       ]
     },
     {
-      "title": "\"الرباعي الإقليمي\" يدعو للالتزام بمذكرة التفاهم ويدين اعتداءات الحوثي - asharq.com",
+      "title": "آلية إبلاغ متبادلة بين واشنطن وبكين لمواجهة مخاطر الذكاء الاصطناعي - إرم بزنس",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JYmVlLWJ5TG5DZlkwbUhnN00yNjVGcXZlVDZUZk0wbzIwbEptSEpZWGR5Um1CTlRjUjhFd2hoUUllaWpPNFo3X3lRc3BlUl9NV1ZmTVl6UXh0d2M?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JYmVlLWJ5TG5DZlkwbUhnN00yNjVGcXZlVDZUZk0wbzIwbEptSEpZWGR5Um1CTlRjUjhFd2hoUUllaWpPNFo3X3lRc3BlUl9NV1ZmTVl6UXh0d2M?oc=5\" target=\"_blank\">آلية إبلاغ متبادلة بين واشنطن وبكين لمواجهة مخاطر الذكاء الاصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">إرم بزنس</font>",
+      "date": "Tue, 22 Sep 2026 16:02:04 GMT",
+      "source": "Google News تكنولوجيا",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "تكنولوجيا",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News تكنولوجيا"
+      ]
+    },
+    {
+      "title": "ملك الأردن يحذر من محاولات محو الوجود الفلسطيني",
+      "link": "https://www.skynewsarabia.com/middle-east/1893762-%D9%85%D9%84%D9%83-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%85%D8%AD%D9%88-%D8%A7%D9%84%D9%88%D8%AC%D9%88%D8%AF-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A",
+      "description": "حذر العاهل الأردني الملك عبد الله الثاني، في كلمته أمام الجمعية العامة للأمم المتحدة، من أن الأطماع التوسعية للحكومة الإسرائيلية باتت تهديدا إقليميا، مؤكدا أن أي تهديد لحدود الأردن الشمالية أو أمنه المائي يمثل تهديدا لأمنه القومي.",
+      "date": "Tue, 22 Sep 2026 16:01:16 GMT",
+      "source": "Sky News عربية",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://images.skynewsarabia.com/images/v1/2026/09/22/1893761/95/53/1-1893761.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "Sky News عربية"
+      ]
+    },
+    {
+      "title": "Father admits causing death of his son in Cyprus hotel fall",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+      "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+      "date": "Tue, 22 Sep 2026 15:52:35 GMT",
+      "source": "BBC World",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/f8142c20-b670-11f1-b711-df5e4d50c2fd.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "سفير مصر بالمانيا يستقبل أوائل الثانوية العامة بمقر السفارة ببرلين - akhbarelnaselyoum.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04cDZHbGlUd0dfZ3NGUHF2eGZWSTVLRVZ2MFdVLXpoX3FPYlJHaURDb2kwZFlnemY3ZHRuek45WTB1Rl9LaExoNEw2YXhqSmhVU2RKVE53amxFUDFfTEE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE04cDZHbGlUd0dfZ3NGUHF2eGZWSTVLRVZ2MFdVLXpoX3FPYlJHaURDb2kwZFlnemY3ZHRuek45WTB1Rl9LaExoNEw2YXhqSmhVU2RKVE53amxFUDFfTEE?oc=5\" target=\"_blank\">سفير مصر بالمانيا يستقبل أوائل الثانوية العامة بمقر السفارة ببرلين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">akhbarelnaselyoum.com</font>",
+      "date": "Tue, 22 Sep 2026 15:51:50 GMT",
+      "source": "Google News مصر",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "مصر",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News مصر"
+      ]
+    },
+    {
+      "title": "صدمة جديدة للدراويش.. الإسماعيلي يودع كأس مصر من الدور التمهيدي - Masrawy",
+      "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxQbXJwakxZTnZKd0NMOF9kYlJPWUdxQXRZdFZDcG9YNm5uQ1dfRVJxU1psd2xNc0tSVE5US210MGpQeE92Z3RyWHRqQ1VTMVFmVmlKZTRwV2Qtb05iZUx5RjlaZ2lDVjNyOUE1dXVEbjVSQnUtdV9BM2toRGVDaFNWT29la3dISVNqN2NDNHNqZmpUcmFRRWFJbkdtcUdNS0hfLUhOQkIwMm9ycW5KakpDV2UtMzVtOXhUaTdFTF9OV0FJOHZ4T3pPWENFb0hDV0Zpa0VibDVLcmcwRmMtelJlNGJHX1NCUjN6Q2tzRnFrTXZVcWpkdl9HTUQ1X1hrUmdIaDJnZWlzYnpFREpLbVpvenZHd0FiczR6ZmxMN2JSYW9uZ3ZNMXBlYS1wbXgxbmoteVFHVkxBcnBlRTlsVkdOQjVJUWpqUlZ4Q3FzbEQzZVFDd0xVR1pjaEFTZ2N0NDZ1NjVhNERUR1dlMVFxblBTdVU3anNnUWRGVW5EZU1SNHh3VlFZd1VKRFZaelZ6bDQ5Wll4YlQyeWtnZG41X0V0U3p1TkF0aUNFSjZ3Q01lbmJCNHRaWWZqcmRGMjZOOWVLWVp5SkJkWFhsTEEtRjVNWUtYSHVyaTdCdXRKTVVVMi1BcFJrcGRKWXZMUE9RcDIyQ1NuT3F4OTd0aVl0eWVubE1uMldqOGtsSXV2OXlpeWJWMHZTbWppd1NfYlMzMmI5UE9TZ9IBqgRBVV95cUxQNU5SRWczYVZnTXdlVzRDRzhxTDJoaG85clR6eWprMDBxdkJjZEU5RldxZWVYWHdRUXBjdnA4NGZDa29Edjlvam80SE5DeHFmS19YYXV5V3RJUEdnWVhzMFp4YTdnYWdWTkdYWlBQX0l5elZCVFJ4RGo4QmpJNHRuaFhpWFJndUIwWUlCMlM3SUtQbjZQY2poX012RXBTSEpjNXNkSXVTcmQxNDZpVmdpbWREU2pJUGdLQ1lzbTkzMGNCaU5Va3RNeUNsVE9DcWxUTEM1Nk5XcWFwVldlMFNQUjNmbHRoREpPTnoycHZxSlhla240SHUtMEJHUmJhZG1PWEhRajNGbnRiN21QemJsODUtWWxqQ2dISW1mZjVuUUtkdnJQX0FOV2VjM3NXTDBlUWZ6UzNaTUIzSVdOSDVOQUxNNFdhYVpHb2xMM2pYZ3pmdjZnRE5QUzM2VVVudU4wLTdXdWVrNXlweXd5bFFqMFBFOEpTN1pXVlZZZXptTjB1TDJNaWFFWHFYeTBHRVVtSW9keXRjM2xzNG5Gc0EzOWVLWTBBakJGYmRnZXdaMFZZei1PNTQ2UGdOcW5qTDBDcnQzRkdEeldFTE1CMXkxbF80Z0xraDZ0Smp4YWVlemFDYk1nNWE5a2RZUEhvVjJmUE9Nek1YalFxM0I4TlRVV0plaEt6QUQyWmdJVjBCV3BnQzF4TlhoRlE0UWpwZFNuZk5ESEVFdEJkQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipARBVV95cUxQbXJwakxZTnZKd0NMOF9kYlJPWUdxQXRZdFZDcG9YNm5uQ1dfRVJxU1psd2xNc0tSVE5US210MGpQeE92Z3RyWHRqQ1VTMVFmVmlKZTRwV2Qtb05iZUx5RjlaZ2lDVjNyOUE1dXVEbjVSQnUtdV9BM2toRGVDaFNWT29la3dISVNqN2NDNHNqZmpUcmFRRWFJbkdtcUdNS0hfLUhOQkIwMm9ycW5KakpDV2UtMzVtOXhUaTdFTF9OV0FJOHZ4T3pPWENFb0hDV0Zpa0VibDVLcmcwRmMtelJlNGJHX1NCUjN6Q2tzRnFrTXZVcWpkdl9HTUQ1X1hrUmdIaDJnZWlzYnpFREpLbVpvenZHd0FiczR6ZmxMN2JSYW9uZ3ZNMXBlYS1wbXgxbmoteVFHVkxBcnBlRTlsVkdOQjVJUWpqUlZ4Q3FzbEQzZVFDd0xVR1pjaEFTZ2N0NDZ1NjVhNERUR1dlMVFxblBTdVU3anNnUWRGVW5EZU1SNHh3VlFZd1VKRFZaelZ6bDQ5Wll4YlQyeWtnZG41X0V0U3p1TkF0aUNFSjZ3Q01lbmJCNHRaWWZqcmRGMjZOOWVLWVp5SkJkWFhsTEEtRjVNWUtYSHVyaTdCdXRKTVVVMi1BcFJrcGRKWXZMUE9RcDIyQ1NuT3F4OTd0aVl0eWVubE1uMldqOGtsSXV2OXlpeWJWMHZTbWppd1NfYlMzMmI5UE9TZ9IBqgRBVV95cUxQNU5SRWczYVZnTXdlVzRDRzhxTDJoaG85clR6eWprMDBxdkJjZEU5RldxZWVYWHdRUXBjdnA4NGZDa29Edjlvam80SE5DeHFmS19YYXV5V3RJUEdnWVhzMFp4YTdnYWdWTkdYWlBQX0l5elZCVFJ4RGo4QmpJNHRuaFhpWFJndUIwWUlCMlM3SUtQbjZQY2poX012RXBTSEpjNXNkSXVTcmQxNDZpVmdpbWREU2pJUGdLQ1lzbTkzMGNCaU5Va3RNeUNsVE9DcWxUTEM1Nk5XcWFwVldlMFNQUjNmbHRoREpPTnoycHZxSlhla240SHUtMEJHUmJhZG1PWEhRajNGbnRiN21QemJsODUtWWxqQ2dISW1mZjVuUUtkdnJQX0FOV2VjM3NXTDBlUWZ6UzNaTUIzSVdOSDVOQUxNNFdhYVpHb2xMM2pYZ3pmdjZnRE5QUzM2VVVudU4wLTdXdWVrNXlweXd5bFFqMFBFOEpTN1pXVlZZZXptTjB1TDJNaWFFWHFYeTBHRVVtSW9keXRjM2xzNG5Gc0EzOWVLWTBBakJGYmRnZXdaMFZZei1PNTQ2UGdOcW5qTDBDcnQzRkdEeldFTE1CMXkxbF80Z0xraDZ0Smp4YWVlemFDYk1nNWE5a2RZUEhvVjJmUE9Nek1YalFxM0I4TlRVV0plaEt6QUQyWmdJVjBCV3BnQzF4TlhoRlE0UWpwZFNuZk5ESEVFdEJkQQ?oc=5\" target=\"_blank\">صدمة جديدة للدراويش.. الإسماعيلي يودع كأس مصر من الدور التمهيدي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
+      "date": "Tue, 22 Sep 2026 15:51:02 GMT",
+      "source": "Google News رياضة",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "رياضة",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News رياضة"
+      ]
+    },
+    {
+      "title": "شقيق ديانا يصدر كتابا ينتقد فيه العائلة الملكية البريطانية ومحمد الفايد",
+      "link": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20260922-%D8%B4%D9%82%D9%8A%D9%82-%D8%AF%D9%8A%D8%A7%D9%86%D8%A7-%D9%8A%D8%B5%D8%AF%D8%B1-%D9%83%D8%AA%D8%A7%D8%A8%D8%A7-%D9%8A%D9%86%D8%AA%D9%82%D8%AF-%D9%81%D9%8A%D9%87-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A9-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%81%D8%A7%D9%8A%D8%AF",
+      "description": "يصدر الثلاثاء كتاب يثير ضجة إعلامية منذ أيام، يصفّي فيه تشارلز سبنسر، شقيق الأميرة ديانا، حساباته مع العائلة الملكية البريطانية، ولا سيما مع الملك تشارلز الثالث، بعد نحو ثلاثين عاما على وفاة أميرة ويلز. وفي ما يلي أبرز ما يتضمّنه كتاب \"سوان سونغ: ديانا، ماي سيستر\" (أغنية البجعة: ديانا، شقيقتي) الذي تنشر صحيفة \"ديلي ميل\" منذ 16 أيلول/سبتمبر الجاري مقتطفات منه استدعى إحداها ردّا من قصر باكنغهام.",
+      "date": "Tue, 22 Sep 2026 15:50:37 GMT",
+      "source": "France 24 العربية",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://s.france24.com/media/display/9a7dfe62-b623-11f1-a964-e554abee39f5/w:1024/p:16x9/7ff782a1b2ff00e8685c9c55fbfbd763fc7a9ff2.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "France 24 العربية"
+      ]
+    },
+    {
+      "title": "\"الرباعي الإقليمي\" يدعو للالتزام بمذكرة التفاهم ويدين اعتداءات الحوثي - الشرق للأخبار",
       "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOY3VHMllrZDJiT09yaUJoel93X1VHTldnVFMyMXRYVEpTNVFMTnAwbld2d003NlhhUEJ4TG84LUF4ZV9FMWk2d2N4Z3BfT0h4b2tRRnZpb1ppNmpYNVJ3MUVTOUpsNVNRTGxKaUs2ZzgyUGtJTE9qUXZiX1hmd1duUTR2TF9TUkk1WUpwNWxybE5yZ3htdlVyZEkxQzBoUU1GWHNYUkQtSlM0MmtWXzY2R2g5akhVYzRsVy1JRldMSVlxaE5nNndZcnlyamVoOGxuRWdBbEpqeVF1LTU5a2lMc1F6ODVvSVVrVlJObWdwVnpwWnY4ZGRNaXBGOXNEUjlLR0l6aE1NcWwyTDB5VGR1SnpkRVVlTVNUeGZhcGIxRWlzVkowdldBVWRIZkRaSFhkczVjSk1HZ1g2Nlo5QUNVVGtPUGRHNEo5N3p5WGtSYlVOc2NpaFRQZ1lDWmtXQ0ptNEw3TV9xdjY2dXFXNnkzNkE3aWJMRDJKX2NTRjN4WUNQTXdnTm1ta0VlQVVLWHRPWHRjWm14WENCdEpxOGtDUGIxdnBTMUdIdnh6em1LOVhKVFJXY1dYa21PTU93S01ydHdNejBTUjdxbXJLeUdmeU5NMDFFX3dER05vWG1PLUZ3MTBoNHc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gNBVV95cUxOY3VHMllrZDJiT09yaUJoel93X1VHTldnVFMyMXRYVEpTNVFMTnAwbld2d003NlhhUEJ4TG84LUF4ZV9FMWk2d2N4Z3BfT0h4b2tRRnZpb1ppNmpYNVJ3MUVTOUpsNVNRTGxKaUs2ZzgyUGtJTE9qUXZiX1hmd1duUTR2TF9TUkk1WUpwNWxybE5yZ3htdlVyZEkxQzBoUU1GWHNYUkQtSlM0MmtWXzY2R2g5akhVYzRsVy1JRldMSVlxaE5nNndZcnlyamVoOGxuRWdBbEpqeVF1LTU5a2lMc1F6ODVvSVVrVlJObWdwVnpwWnY4ZGRNaXBGOXNEUjlLR0l6aE1NcWwyTDB5VGR1SnpkRVVlTVNUeGZhcGIxRWlzVkowdldBVWRIZkRaSFhkczVjSk1HZ1g2Nlo5QUNVVGtPUGRHNEo5N3p5WGtSYlVOc2NpaFRQZ1lDWmtXQ0ptNEw3TV9xdjY2dXFXNnkzNkE3aWJMRDJKX2NTRjN4WUNQTXdnTm1ta0VlQVVLWHRPWHRjWm14WENCdEpxOGtDUGIxdnBTMUdIdnh6em1LOVhKVFJXY1dYa21PTU93S01ydHdNejBTUjdxbXJLeUdmeU5NMDFFX3dER05vWG1PLUZ3MTBoNHc?oc=5\" target=\"_blank\">\"الرباعي الإقليمي\" يدعو للالتزام بمذكرة التفاهم ويدين اعتداءات الحوثي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">asharq.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gNBVV95cUxOY3VHMllrZDJiT09yaUJoel93X1VHTldnVFMyMXRYVEpTNVFMTnAwbld2d003NlhhUEJ4TG84LUF4ZV9FMWk2d2N4Z3BfT0h4b2tRRnZpb1ppNmpYNVJ3MUVTOUpsNVNRTGxKaUs2ZzgyUGtJTE9qUXZiX1hmd1duUTR2TF9TUkk1WUpwNWxybE5yZ3htdlVyZEkxQzBoUU1GWHNYUkQtSlM0MmtWXzY2R2g5akhVYzRsVy1JRldMSVlxaE5nNndZcnlyamVoOGxuRWdBbEpqeVF1LTU5a2lMc1F6ODVvSVVrVlJObWdwVnpwWnY4ZGRNaXBGOXNEUjlLR0l6aE1NcWwyTDB5VGR1SnpkRVVlTVNUeGZhcGIxRWlzVkowdldBVWRIZkRaSFhkczVjSk1HZ1g2Nlo5QUNVVGtPUGRHNEo5N3p5WGtSYlVOc2NpaFRQZ1lDWmtXQ0ptNEw3TV9xdjY2dXFXNnkzNkE3aWJMRDJKX2NTRjN4WUNQTXdnTm1ta0VlQVVLWHRPWHRjWm14WENCdEpxOGtDUGIxdnBTMUdIdnh6em1LOVhKVFJXY1dYa21PTU93S01ydHdNejBTUjdxbXJLeUdmeU5NMDFFX3dER05vWG1PLUZ3MTBoNHc?oc=5\" target=\"_blank\">\"الرباعي الإقليمي\" يدعو للالتزام بمذكرة التفاهم ويدين اعتداءات الحوثي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق للأخبار</font>",
       "date": "Tue, 22 Sep 2026 15:48:41 GMT",
+      "source": "Google News مصر",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "مصر",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News مصر"
+      ]
+    },
+    {
+      "title": "كأس مصر - تحديد مواجهات التمهيدي الرابع والمؤهل لدور الـ32 - FilGoal",
+      "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxONFlKOXJXQ2QtV0Zja1V4cUdZdEtwUjJDNURyWkI3Y0xkLXFXMHVZNldDdUdSZ1o2djFCVWpqZTFFWm52NEdsX0hUQWd3dmNWVUhyN2ZqUVNiX2JYdTRoUVppRUNUa1pqemREV0RBRkljZF9fRHNhVnhoM3JjSHo1bjNabElKYWFlUVlqZ00tLWdSejNGQ3QwbldUVTE0TzhiYjY3RWtLWktnRVRqSWNLakd6djcyc25jN3dGUDhoMjF2eDluNmFkbmt3Mm1HR05ac25KMnVUalpib0FOSm83NU9rYTlNWG5rVlBCQl91UFI5b3owMV8tWVZnZU9BZncyRERiM3d1WXZYZkFHdjhXUFhjMUZ2eUZsRGxleWwya0NBcXpFRW41QlR6S0tjMENqeXE0T2p6eWY3bE5DNnM3c011QUhwdndVcDU5MlJWU3BRWUpVYUZBa0NuODNoQ0o5MnRndW9ralBuTWxMUVA3V0FPa1lOT0htRldneE95ZTZ6MkNLUWlXWURwOUJkdlJtNk5aYXZ5UVVFMDlWMGgyUlY2MFcxYWQ1UGRSeHc5V0ZLak9hbTVhYUdqNnYyZVA5RFlXaXpnQ29sZjFvWVlmRXRhZXNEWUVxXy1KSGZkdG1UbVZ1RzRRNGM1TdIB1ANBVV95cUxQcGd4cHg2dGNZQ2ZSQkxRRVdiZWx1MVBBaTU0eUNsczhrNFdXVUV4Mko3Y09NSEhCejh0VDBVT1BUNUxGU25nbEkyQU55T1NORFctVEJYVUpETF9reDU2UFpYM0xUV25yQmU0eFVMOFF0SV96WWxGV1pnYVY3V2Z2dFpTcEFydDZ4VkV2SGNYbkZPNUd3QkJkNldjajNuZkJOMVNJak5LY3dsVDBtcnh1NXdxUWpxVWVqbkg5QWxucmVHVFl6T1RYVnRIcUNhOU5GM3BiWFQwRVZxaFpsSlBYZXE2bzhqMU9VQVpLc3o5VjJXLWFyVU9tb1h5eDVoZFNTWlJyejdyRXlFYVgyV0NUVE05TFFtUW9YTzZNR3p5cnlEQ3BNTWc5bF9YeHg0RmI0TFZ3b01wTkRIanFTM3UzVGx6blhJSWc5Rk1uOHdjVThXdGpPemUxOWozNDNGeWl0UzNkc1c1YUxmQW5HQzc3eGdsdndKMm5mSS1meDlFaER6YWxtU0IxcDJiVTk1TmVBZWFiWlFRRUxfb2dEU1g4V2ZBbFQ1M1pXRFVWaENlamYwU2pDbmlELVVQd2ZkckM2eFhmc0pMY2pob2hPOTZGb3Q1anY?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wNBVV95cUxONFlKOXJXQ2QtV0Zja1V4cUdZdEtwUjJDNURyWkI3Y0xkLXFXMHVZNldDdUdSZ1o2djFCVWpqZTFFWm52NEdsX0hUQWd3dmNWVUhyN2ZqUVNiX2JYdTRoUVppRUNUa1pqemREV0RBRkljZF9fRHNhVnhoM3JjSHo1bjNabElKYWFlUVlqZ00tLWdSejNGQ3QwbldUVTE0TzhiYjY3RWtLWktnRVRqSWNLakd6djcyc25jN3dGUDhoMjF2eDluNmFkbmt3Mm1HR05ac25KMnVUalpib0FOSm83NU9rYTlNWG5rVlBCQl91UFI5b3owMV8tWVZnZU9BZncyRERiM3d1WXZYZkFHdjhXUFhjMUZ2eUZsRGxleWwya0NBcXpFRW41QlR6S0tjMENqeXE0T2p6eWY3bE5DNnM3c011QUhwdndVcDU5MlJWU3BRWUpVYUZBa0NuODNoQ0o5MnRndW9ralBuTWxMUVA3V0FPa1lOT0htRldneE95ZTZ6MkNLUWlXWURwOUJkdlJtNk5aYXZ5UVVFMDlWMGgyUlY2MFcxYWQ1UGRSeHc5V0ZLak9hbTVhYUdqNnYyZVA5RFlXaXpnQ29sZjFvWVlmRXRhZXNEWUVxXy1KSGZkdG1UbVZ1RzRRNGM1TdIB1ANBVV95cUxQcGd4cHg2dGNZQ2ZSQkxRRVdiZWx1MVBBaTU0eUNsczhrNFdXVUV4Mko3Y09NSEhCejh0VDBVT1BUNUxGU25nbEkyQU55T1NORFctVEJYVUpETF9reDU2UFpYM0xUV25yQmU0eFVMOFF0SV96WWxGV1pnYVY3V2Z2dFpTcEFydDZ4VkV2SGNYbkZPNUd3QkJkNldjajNuZkJOMVNJak5LY3dsVDBtcnh1NXdxUWpxVWVqbkg5QWxucmVHVFl6T1RYVnRIcUNhOU5GM3BiWFQwRVZxaFpsSlBYZXE2bzhqMU9VQVpLc3o5VjJXLWFyVU9tb1h5eDVoZFNTWlJyejdyRXlFYVgyV0NUVE05TFFtUW9YTzZNR3p5cnlEQ3BNTWc5bF9YeHg0RmI0TFZ3b01wTkRIanFTM3UzVGx6blhJSWc5Rk1uOHdjVThXdGpPemUxOWozNDNGeWl0UzNkc1c1YUxmQW5HQzc3eGdsdndKMm5mSS1meDlFaER6YWxtU0IxcDJiVTk1TmVBZWFiWlFRRUxfb2dEU1g4V2ZBbFQ1M1pXRFVWaENlamYwU2pDbmlELVVQd2ZkckM2eFhmc0pMY2pob2hPOTZGb3Q1anY?oc=5\" target=\"_blank\">كأس مصر - تحديد مواجهات التمهيدي الرابع والمؤهل لدور الـ32</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FilGoal</font>",
+      "date": "Tue, 22 Sep 2026 15:48:00 GMT",
       "source": "Google News مصر",
       "sourceScore": 6,
       "sourceType": "aggregator",
@@ -63,16 +168,17 @@
     },
     {
       "title": "نتائج مباريات الدور التمهيدى الثالث لكأس مصر.. خروج الحرس والإسماعيلى - اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxOMnNZSzNOcmp2NnJvRzk3dnItTlZtd2gtRjZXRkNFZ0t4LXhXM2E0ZXdLNWwyZm5KOVVPbnRDUm11WTRjQ0c4Nkl0RFVUS0ZKX2t5ZUc5NWlWTTJKbS1ma1E1VXF1RGFJNUVrd3lrbGlwM2QwOWp0UEtpOVpSbnpVY256TG1rM1VlS0xnbXZGZkh1VFBneG1xVDRIXzJLTGdld2NOeF9XeWMwbXd0eHZYcHItaG5rVXZRUVBvQ1VhMU5rVEt2LUtQR2ZCU2c5T0lvTWRaNFJNRUN6UHhBdFd0Ym04dlYteWNTcjNuYlh2TlRzQ1RTWFpKVUNiMDZ3anVLYkNHLXZEVk5nbzN5UzRxTXJUb1oxZWdIaVhLR1hHNjY0WC1GVy02NzVFY0IyN2psdkFpM1lfMjhSY3FVTTZVUUxFUmpzaVpJLWdvZFJ6RzlqOWZhVHppaXpjTUUxRm9COUdIWUU3RXpIT0pDZXRadzhTV1VzZ0g5WWgyWTBhZjNxQVk2UldwN1pUVS1LRU5xWVppSFVHNl9qbUd4aXRlcXB4VnI2YVc2WWNFUmg1X1MxZEJYS3NMUGg3YVZudmRhaDlKQ3dvRmJuZENyWWtZNld0XzJHMkVWZ1lBa1J5cVhrT0FLSUFuSlJUanh5Mm9fc25abHdPZzFzMHJnQllSRkZCb1BleEtQN3d6N3lXdnBSQVdRdTBjU015RjF0NmFnWDJ1UndnQngwYmtMcGFpdTVLZTBLQdIBsARBVV95cUxPMzU3VzktU1ptcHRKZlBFZlpETFRCSDBwaFNxX0FiSGRueDdocTNIYWFOZmJkbHFDNWI0aEd6UDdKSG0zdUYwSjcxSjRPd2xhaDRVUzNlbjUyVGxjM00xM3A4cGxfODQ2SWJ3a19lc2x2QlR3Mi1DeFpwN0oyUnF2VUM1T19pLVVrX01vSkZfQUJIaE12LVU0YkhIWDZFQ2RPbmtWVngxNmVXV0M5OTdtMG10b1pVX2dKS2Z0V3cwazhfd0ZnQk93WVNZV0NHT1lXZkV4dUV1dkhlTEk4Y0NRQWJacS00TTBHcFZjWHpGdXFVT2hNVVJFcGlzbldvQU1CTkxBNzZhbHVIRGU1LVZmX0U0NjF1S19OX2N0T25kZDF6amc2YnBvRU5RZHRVaEt5ZWJ6d1gzNVJjNnNWeUtSUTVYOEhJZHlRMXliWm10RXM4NmhxOF92Y0xSTElPejYtWmlhWnN6Ym50WTl0Znpha3J6eC1WZmRrTnhvOEQyTEs4ZEU5TTBRT0QtajNveVdlU0JrM3dHMk5vN3Q3cDZxbWEwalFLQUctU1Z1YzhQRkJVNDR1aGt4VVFfR2NiczUyRUxvd3JpRXNiV1VIeS1fSUxfbDJKS2Z1Q1JVaG1aektqNWtpNmxydjNZZVJTQkFCa2E3S295WTI5SjlDbVVjVE8wU1pDY3RHcVJFZktqMDZ5cFA0TmF5MDlBR0luRjVtVEs1Q0w4TTgxWGZRVG1JbQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgRBVV95cUxOMnNZSzNOcmp2NnJvRzk3dnItTlZtd2gtRjZXRkNFZ0t4LXhXM2E0ZXdLNWwyZm5KOVVPbnRDUm11WTRjQ0c4Nkl0RFVUS0ZKX2t5ZUc5NWlWTTJKbS1ma1E1VXF1RGFJNUVrd3lrbGlwM2QwOWp0UEtpOVpSbnpVY256TG1rM1VlS0xnbXZGZkh1VFBneG1xVDRIXzJLTGdld2NOeF9XeWMwbXd0eHZYcHItaG5rVXZRUVBvQ1VhMU5rVEt2LUtQR2ZCU2c5T0lvTWRaNFJNRUN6UHhBdFd0Ym04dlYteWNTcjNuYlh2TlRzQ1RTWFpKVUNiMDZ3anVLYkNHLXZEVk5nbzN5UzRxTXJUb1oxZWdIaVhLR1hHNjY0WC1GVy02NzVFY0IyN2psdkFpM1lfMjhSY3FVTTZVUUxFUmpzaVpJLWdvZFJ6RzlqOWZhVHppaXpjTUUxRm9COUdIWUU3RXpIT0pDZXRadzhTV1VzZ0g5WWgyWTBhZjNxQVk2UldwN1pUVS1LRU5xWVppSFVHNl9qbUd4aXRlcXB4VnI2YVc2WWNFUmg1X1MxZEJYS3NMUGg3YVZudmRhaDlKQ3dvRmJuZENyWWtZNld0XzJHMkVWZ1lBa1J5cVhrT0FLSUFuSlJUanh5Mm9fc25abHdPZzFzMHJnQllSRkZCb1BleEtQN3d6N3lXdnBSQVdRdTBjU015RjF0NmFnWDJ1UndnQngwYmtMcGFpdTVLZTBLQdIBsARBVV95cUxPMzU3VzktU1ptcHRKZlBFZlpETFRCSDBwaFNxX0FiSGRueDdocTNIYWFOZmJkbHFDNWI0aEd6UDdKSG0zdUYwSjcxSjRPd2xhaDRVUzNlbjUyVGxjM00xM3A4cGxfODQ2SWJ3a19lc2x2QlR3Mi1DeFpwN0oyUnF2VUM1T19pLVVrX01vSkZfQUJIaE12LVU0YkhIWDZFQ2RPbmtWVngxNmVXV0M5OTdtMG10b1pVX2dKS2Z0V3cwazhfd0ZnQk93WVNZV0NHT1lXZkV4dUV1dkhlTEk4Y0NRQWJacS00TTBHcFZjWHpGdXFVT2hNVVJFcGlzbldvQU1CTkxBNzZhbHVIRGU1LVZmX0U0NjF1S19OX2N0T25kZDF6amc2YnBvRU5RZHRVaEt5ZWJ6d1gzNVJjNnNWeUtSUTVYOEhJZHlRMXliWm10RXM4NmhxOF92Y0xSTElPejYtWmlhWnN6Ym50WTl0Znpha3J6eC1WZmRrTnhvOEQyTEs4ZEU5TTBRT0QtajNveVdlU0JrM3dHMk5vN3Q3cDZxbWEwalFLQUctU1Z1YzhQRkJVNDR1aGt4VVFfR2NiczUyRUxvd3JpRXNiV1VIeS1fSUxfbDJKS2Z1Q1JVaG1aektqNWtpNmxydjNZZVJTQkFCa2E3S295WTI5SjlDbVVjVE8wU1pDY3RHcVJFZktqMDZ5cFA0TmF5MDlBR0luRjVtVEs1Q0w4TTgxWGZRVG1JbQ?oc=5\" target=\"_blank\">نتائج مباريات الدور التمهيدى الثالث لكأس مصر.. خروج الحرس والإسماعيلى</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
+      "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxOMnNZSzNOcmp2NnJvRzk3dnItTlZtd2gtRjZXRkNFZ0t4LXhXM2E0ZXdLNWwyZm5KOVVPbnRDUm11WTRjQ0c4Nkl0RFVUS0ZKX2t5ZUc5NWlWTTJKbS1ma1E1VXF1RGFJNUVrd3lrbGlwM2QwOWp0UEtpOVpSbnpVY256TG1rM1VlS0xnbXZGZkh1VFBneG1xVDRIXzJLTGdld2NOeF9XeWMwbXd0eHZYcHItaG5rVXZRUVBvQ1VhMU5rVEt2LUtQR2ZCU2c5T0lvTWRaNFJNRUN6UHhBdFd0Ym04dlYteWNTcjNuYlh2TlRzQ1RTWFpKVUNiMDZ3anVLYkNHLXZEVk5nbzN5UzRxTXJUb1oxZWdIaVhLR1hHNjY0WC1GVy02NzVFY0IyN2psdkFpM1lfMjhSY3FVTTZVUUxFUmpzaVpJLWdvZFJ6RzlqOWZhVHppaXpjTUUxRm9COUdIWUU3RXpIT0pDZXRadzhTV1VzZ0g5WWgyWTBhZjNxQVk2UldwN1pUVS1LRU5xWVppSFVHNl9qbUd4aXRlcXB4VnI2YVc2WWNFUmg1X1MxZEJYS3NMUGg3YVZudmRhaDlKQ3dvRmJuZENyWWtZNld0XzJHMkVWZ1lBa1J5cVhrT0FLSUFuSlJUanh5Mm9fc25abHdPZzFzMHJnQllSRkZCb1BleEtQN3d6N3lXdnBSQVdRdTBjU015RjF0NmFnWDJ1UndnQngwYmtMcGFpdTVLZTBLQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgRBVV95cUxOMnNZSzNOcmp2NnJvRzk3dnItTlZtd2gtRjZXRkNFZ0t4LXhXM2E0ZXdLNWwyZm5KOVVPbnRDUm11WTRjQ0c4Nkl0RFVUS0ZKX2t5ZUc5NWlWTTJKbS1ma1E1VXF1RGFJNUVrd3lrbGlwM2QwOWp0UEtpOVpSbnpVY256TG1rM1VlS0xnbXZGZkh1VFBneG1xVDRIXzJLTGdld2NOeF9XeWMwbXd0eHZYcHItaG5rVXZRUVBvQ1VhMU5rVEt2LUtQR2ZCU2c5T0lvTWRaNFJNRUN6UHhBdFd0Ym04dlYteWNTcjNuYlh2TlRzQ1RTWFpKVUNiMDZ3anVLYkNHLXZEVk5nbzN5UzRxTXJUb1oxZWdIaVhLR1hHNjY0WC1GVy02NzVFY0IyN2psdkFpM1lfMjhSY3FVTTZVUUxFUmpzaVpJLWdvZFJ6RzlqOWZhVHppaXpjTUUxRm9COUdIWUU3RXpIT0pDZXRadzhTV1VzZ0g5WWgyWTBhZjNxQVk2UldwN1pUVS1LRU5xWVppSFVHNl9qbUd4aXRlcXB4VnI2YVc2WWNFUmg1X1MxZEJYS3NMUGg3YVZudmRhaDlKQ3dvRmJuZENyWWtZNld0XzJHMkVWZ1lBa1J5cVhrT0FLSUFuSlJUanh5Mm9fc25abHdPZzFzMHJnQllSRkZCb1BleEtQN3d6N3lXdnBSQVdRdTBjU015RjF0NmFnWDJ1UndnQngwYmtMcGFpdTVLZTBLQQ?oc=5\" target=\"_blank\">نتائج مباريات الدور التمهيدى الثالث لكأس مصر.. خروج الحرس والإسماعيلى</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
       "date": "Tue, 22 Sep 2026 15:37:00 GMT",
-      "source": "Google News رياضة",
+      "source": "Google News مصر",
       "sourceScore": 6,
       "sourceType": "aggregator",
-      "cat": "رياضة",
+      "cat": "مصر",
       "image": "",
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": [
+        "Google News مصر",
         "Google News رياضة"
       ]
     },
@@ -378,21 +484,6 @@
       ]
     },
     {
-      "title": "Father admits causing death of his son in Cyprus hotel fall",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
-      "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
-      "date": "Tue, 22 Sep 2026 14:31:34 GMT",
-      "source": "BBC World",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/f8142c20-b670-11f1-b711-df5e4d50c2fd.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
       "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
       "description": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
@@ -453,36 +544,6 @@
       ]
     },
     {
-      "title": "مؤسسات إعلامية أمريكية كبرى تقاطع التغطية المشتركة لترامب",
-      "link": "https://www.bbc.com/arabic/articles/cmqlw1dzz96xo?at_medium=RSS&at_campaign=rss",
-      "description": "علّقت شبكات تلفزيونية أميركية كبرى، يوم الاثنين، تغطيتها المشتركة لأنشطة الرئيس دونالد ترامب، رداً على منع شبكة سي إن إن وموقعي بوليتيكو و\"إم إس ناو\" من دخول البيت الأبيض.",
-      "date": "Tue, 22 Sep 2026 14:15:02 GMT",
-      "source": "BBC العربية",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c447/live/d12c9fe0-b669-11f1-b785-7d19738c6de2.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "BBC العربية"
-      ]
-    },
-    {
-      "title": "أنطونيو غوتيريس يفتتح أعمال الجمعية العامة للأمم المتحدة للمرة الأخيرة بخطاب جريء",
-      "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20260922-%D8%A3%D9%86%D8%B7%D9%88%D9%86%D9%8A%D9%88-%D8%BA%D9%88%D8%AA%D9%8A%D8%B1%D9%8A%D8%B3-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-%D8%A8%D8%AE%D8%B7%D8%A7%D8%A8-%D8%AC%D8%B1%D9%8A%D8%A1",
-      "description": "افتُتحت أعمال الجمعية العامة للأمم المتحدة بكلمة ألقاها الأمين العام أنطونيو غوتيريس، حيث دعا إلى \"إصلاح مجلس الأمن التابع للأمم المتحدة\". وهذه هي المشاركة الأخيرة لغوتيريس بعد عشر سنوات على رأس الجمعية العامة.",
-      "date": "Tue, 22 Sep 2026 14:13:44 GMT",
-      "source": "France 24 العربية",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://s.france24.com/media/display/b6bed678-b68c-11f1-a82b-e554abee39f5/w:1024/p:16x9/AR-20260922-150456-153706-CS.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "France 24 العربية"
-      ]
-    },
-    {
       "title": "منتخب أنجولا يتدرب في المغرب استعدادا لمواجهة مصر في تصفيات أمم إفريقيا - FilGoal",
       "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQNlVMVW9Zd3lrSy1qUGRsYkVsVE5waEZ4VDR6Y1liWk9yRE53NzFRUFBFQzd4NG93SFFxYk93dHRmN0t4YS1CQ1ZMMzVPWlB5MXY4X2M0OXRYaW83UTVlMG1nRGp2SkxVNGlHa0xRTGdRSmNTYVZ1SE1rSkZFaWwxTTROVVJMWHZZOFF4c1VfNmRFSnQxV2xQSjd0b0dRc2hHQUxveTNabDZWQXhja3FMa056VnZwc2JodHJ0SDdnOXFNckVKc1JuN3pwTExoQWQ5aElXSFhuQjRkb28yZGk4VTlMNXVRS3NlYzZ3Y0ZsVFg0M0dKaEs4WnUyampMc0FjRG5Rd3pKMkhwNVVYSk1EU2xkT2VSNlg4TUN5YldNSXZsYlZ3NmZma09idmw5Z3ZYcS1iQjhxMUgyMUh1bXkzdUZ2cV9kby04TlpFeWVXcHVyZU1uSjBiRVc2T3lSNlNLYW1XYVh0ZFZub2FxVFJnY1NuSkRqekxmMnZDaHhxSFdIOHEyQy1CeTk3aTh2WmNUSjZEc1FRQUtjRGdiS0xuSFpBVFhMd1RGS2s2d3NKNUxDNTUzcWNUZ0hxRUR4UV9YWjc1MEY2d1ctQzJpRG44QXNudDRKbVNEdDlTVTVBSXRrVVEtcndPWFd3UkpKeFhIR3RWQjRtTmxLeDNFYm1nQjd1eFZhMjh3LWUwbFpnTjY5aFl4amJYWHRoN283TUFqVFZSYmpfb180VjNQV1Bvczd2RDN5V1JvT2xyWnhUVFHSAcYEQVVfeXFMUGlwSVozNGlRZnFZOTRSQTZTcDY2bjREcURSZDRleEtHRHIxeTI5cE05OS1fSWRwbDhIdjQ4Vkx2czJzNFNUczQ1VVJaWFM5aFJmdWVrTGcwdS1CQXBkb0JfdUFhZDZ4VjFZRFZRTEg1TXk2RlhvUlloZWx3akpQTGZHYTNTWWNSTXRoamlXREZ4dzFLZ0ZodEY4Nm9ZdmM4M3JkcDB5M21lUk5OcGs3amVlYy10RWdkSVRHWjZoUUhBeTdybGVUR1Iwdm9od0I4WVV3UVpkeXA5bzlsa1JiN1hiX2MyTjZCN2VwaWppMEZhRWF4NjNmenBUcXZrZUhiYi1PdC0wTUNURmZFTElNVDJoTHFGcnN6aXFSQXYzdnpuTDYza1JmMGw4aVRnNTFGOG43cUxwNlFDRFRQZzFaVHcxc0RoLW04ZWZLTjdxOExiWGJCWGhXdUFSand6OXdUbnNjSFFhMGhhTUd4SDU1OEdiM3VjSXlEUm9tM1o1RkNxcVBHUkhPY2Rsb3Y5T2hyNkE2UFV6ZmRud0FNaHl6OTRnLUNDcXNUR28xWjEyQkVxYWJjeERDZ0RxdGdFQWpnNUdUSklKdWpxaHFqY2tFOEtsX1dIMnc1QWlJc2RlM3N1eVVLZ09RTEE3VE5rekpHS2JZdmg2S2xCZkJEUXpYS2c3UDRqVWxPWEtsUldvR2NFZzZKUmZxaVZnUWRodXhyRVJmSXRxSlkxX3Q5SWNDOGQtb1VDUVg1SVJWODQtUzBvWnoxb1lB?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiwARBVV95cUxQNlVMVW9Zd3lrSy1qUGRsYkVsVE5waEZ4VDR6Y1liWk9yRE53NzFRUFBFQzd4NG93SFFxYk93dHRmN0t4YS1CQ1ZMMzVPWlB5MXY4X2M0OXRYaW83UTVlMG1nRGp2SkxVNGlHa0xRTGdRSmNTYVZ1SE1rSkZFaWwxTTROVVJMWHZZOFF4c1VfNmRFSnQxV2xQSjd0b0dRc2hHQUxveTNabDZWQXhja3FMa056VnZwc2JodHJ0SDdnOXFNckVKc1JuN3pwTExoQWQ5aElXSFhuQjRkb28yZGk4VTlMNXVRS3NlYzZ3Y0ZsVFg0M0dKaEs4WnUyampMc0FjRG5Rd3pKMkhwNVVYSk1EU2xkT2VSNlg4TUN5YldNSXZsYlZ3NmZma09idmw5Z3ZYcS1iQjhxMUgyMUh1bXkzdUZ2cV9kby04TlpFeWVXcHVyZU1uSjBiRVc2T3lSNlNLYW1XYVh0ZFZub2FxVFJnY1NuSkRqekxmMnZDaHhxSFdIOHEyQy1CeTk3aTh2WmNUSjZEc1FRQUtjRGdiS0xuSFpBVFhMd1RGS2s2d3NKNUxDNTUzcWNUZ0hxRUR4UV9YWjc1MEY2d1ctQzJpRG44QXNudDRKbVNEdDlTVTVBSXRrVVEtcndPWFd3UkpKeFhIR3RWQjRtTmxLeDNFYm1nQjd1eFZhMjh3LWUwbFpnTjY5aFl4amJYWHRoN283TUFqVFZSYmpfb180VjNQV1Bvczd2RDN5V1JvT2xyWnhUVFHSAcYEQVVfeXFMUGlwSVozNGlRZnFZOTRSQTZTcDY2bjREcURSZDRleEtHRHIxeTI5cE05OS1fSWRwbDhIdjQ4Vkx2czJzNFNUczQ1VVJaWFM5aFJmdWVrTGcwdS1CQXBkb0JfdUFhZDZ4VjFZRFZRTEg1TXk2RlhvUlloZWx3akpQTGZHYTNTWWNSTXRoamlXREZ4dzFLZ0ZodEY4Nm9ZdmM4M3JkcDB5M21lUk5OcGs3amVlYy10RWdkSVRHWjZoUUhBeTdybGVUR1Iwdm9od0I4WVV3UVpkeXA5bzlsa1JiN1hiX2MyTjZCN2VwaWppMEZhRWF4NjNmenBUcXZrZUhiYi1PdC0wTUNURmZFTElNVDJoTHFGcnN6aXFSQXYzdnpuTDYza1JmMGw4aVRnNTFGOG43cUxwNlFDRFRQZzFaVHcxc0RoLW04ZWZLTjdxOExiWGJCWGhXdUFSand6OXdUbnNjSFFhMGhhTUd4SDU1OEdiM3VjSXlEUm9tM1o1RkNxcVBHUkhPY2Rsb3Y5T2hyNkE2UFV6ZmRud0FNaHl6OTRnLUNDcXNUR28xWjEyQkVxYWJjeERDZ0RxdGdFQWpnNUdUSklKdWpxaHFqY2tFOEtsX1dIMnc1QWlJc2RlM3N1eVVLZ09RTEE3VE5rekpHS2JZdmg2S2xCZkJEUXpYS2c3UDRqVWxPWEtsUldvR2NFZzZKUmZxaVZnUWRodXhyRVJmSXRxSlkxX3Q5SWNDOGQtb1VDUVg1SVJWODQtUzBvWnoxb1lB?oc=5\" target=\"_blank\">منتخب أنجولا يتدرب في المغرب استعدادا لمواجهة مصر في تصفيات أمم إفريقيا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FilGoal</font>",
@@ -510,6 +571,21 @@
       "sourceCount": 1,
       "sources": [
         "Google News تكنولوجيا"
+      ]
+    },
+    {
+      "title": "مواعيد مباريات الفرق المصرية في دور الـ 32 بدوري الأبطال والكونفدرالية - اليوم السابع",
+      "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQcHhGSVFYMDdrUGlLc09UOGRENFIzVXZac3Z6SHpiZkdoVnRzeXV5UktSNXhMT3JxZXJvYldEMW1XXzkwWGJ5SzR2Q21QelBKaTJtbERxblY1UjNFLWc1anF6RHJtNUFBZ0hadTJXS05LQXVrRXRlYm9YS1ZULW80T2d2OWhZN1BXY0RPNnFEZUtHRENPZVQ2em9ETkF1bWV2UDRFWWtRRlVoZzBib1lVUmRYSWRYZzMwU25OYllqQWhxNThIOWE1UlFfR29PQ1o2NktFNVd4UlBqWlJUMGl3Sk9FYmh3dWp4QmREVHhkTWl0MWw1UTRIUEJXUmY1SkVLR0hKamc0eW55WXRodXY5TFlFTkFNcTRZazlubkxKeDJibENNQ3hoOG9Bb0toa2lsZXpYbThXV3U1Q1pRN2x1SHJ1Zk00Z092akhhbXhLRlJIUTEyVkZwVVhfVXJVNUdpZTJYVHliU2JHa3lJcXFpUjl0dGdwZ25xV1pwRm1GTzY5T1g0UjlmaXJwQVFOQU00dnpFdVdKQlUtYy16OUo1cDBkTlB2T0hHamRYeFVRSEZmb1RKblRtQ1RUbUtCMHlSdkhWWjh5bHRhZ1FISHRtV9IBywNBVV95cUxNZHREU0hWNFVTTGJqR19sWmhEaXdmTXNBZFlfdkEtVHdfT3g4dlpRTWF6X21CcV95bmhUeHIwS0Y4cFp5Q3ZLeTQ0VTlUTF9BNndaeHB6aElnQTBFdVd2Q0VvYUJYUU9JLUJ3R2VGdGUyNVVKbVRrXzNWNmVmZDlKcUotSGp0d3d0dUI5amxNclJ1Wl9jemQwNjJBRUgzYkxBQnREODY5Z05COTNBWlRkNW1zaHJubzlmNnhnLUtHcjUxd1U1cEdGSm5Bc19iZGt0ZjJsbE1NcV8wLVpTODVXenY2WUtaM0xNQ2JKTDNWRTJ1T3hBdFB3Y3JzbG9tNkZMQ09ibWhld3U5N08wZFJ6MjNlRmxWTUxMMWxycEUtRGpCU2kybGZ2d0hQbDBQblRJM0hFQVJUNDFwMVpTUk1xTXFRLUJTQXZJTXY5QnRSQzRfT1A0aTdWMzdXREtFUURCSjJQTjJXeEV1N0IwX0hFTzNtdkZUOXFHQ3gwem1IeC1MMEhjR2gweklMbURHSUsyZHpSM0JIM3dqdERkV0FDUzFBMmpTRGhYdmI3WHV2NGdoc3JZdWNiRllVb3VQT2hXT2hUUUw2MFJJLVE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0ANBVV95cUxQcHhGSVFYMDdrUGlLc09UOGRENFIzVXZac3Z6SHpiZkdoVnRzeXV5UktSNXhMT3JxZXJvYldEMW1XXzkwWGJ5SzR2Q21QelBKaTJtbERxblY1UjNFLWc1anF6RHJtNUFBZ0hadTJXS05LQXVrRXRlYm9YS1ZULW80T2d2OWhZN1BXY0RPNnFEZUtHRENPZVQ2em9ETkF1bWV2UDRFWWtRRlVoZzBib1lVUmRYSWRYZzMwU25OYllqQWhxNThIOWE1UlFfR29PQ1o2NktFNVd4UlBqWlJUMGl3Sk9FYmh3dWp4QmREVHhkTWl0MWw1UTRIUEJXUmY1SkVLR0hKamc0eW55WXRodXY5TFlFTkFNcTRZazlubkxKeDJibENNQ3hoOG9Bb0toa2lsZXpYbThXV3U1Q1pRN2x1SHJ1Zk00Z092akhhbXhLRlJIUTEyVkZwVVhfVXJVNUdpZTJYVHliU2JHa3lJcXFpUjl0dGdwZ25xV1pwRm1GTzY5T1g0UjlmaXJwQVFOQU00dnpFdVdKQlUtYy16OUo1cDBkTlB2T0hHamRYeFVRSEZmb1RKblRtQ1RUbUtCMHlSdkhWWjh5bHRhZ1FISHRtV9IBywNBVV95cUxNZHREU0hWNFVTTGJqR19sWmhEaXdmTXNBZFlfdkEtVHdfT3g4dlpRTWF6X21CcV95bmhUeHIwS0Y4cFp5Q3ZLeTQ0VTlUTF9BNndaeHB6aElnQTBFdVd2Q0VvYUJYUU9JLUJ3R2VGdGUyNVVKbVRrXzNWNmVmZDlKcUotSGp0d3d0dUI5amxNclJ1Wl9jemQwNjJBRUgzYkxBQnREODY5Z05COTNBWlRkNW1zaHJubzlmNnhnLUtHcjUxd1U1cEdGSm5Bc19iZGt0ZjJsbE1NcV8wLVpTODVXenY2WUtaM0xNQ2JKTDNWRTJ1T3hBdFB3Y3JzbG9tNkZMQ09ibWhld3U5N08wZFJ6MjNlRmxWTUxMMWxycEUtRGpCU2kybGZ2d0hQbDBQblRJM0hFQVJUNDFwMVpTUk1xTXFRLUJTQXZJTXY5QnRSQzRfT1A0aTdWMzdXREtFUURCSjJQTjJXeEV1N0IwX0hFTzNtdkZUOXFHQ3gwem1IeC1MMEhjR2gweklMbURHSUsyZHpSM0JIM3dqdERkV0FDUzFBMmpTRGhYdmI3WHV2NGdoc3JZdWNiRllVb3VQT2hXT2hUUUw2MFJJLVE?oc=5\" target=\"_blank\">مواعيد مباريات الفرق المصرية في دور الـ 32 بدوري الأبطال والكونفدرالية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
+      "date": "Tue, 22 Sep 2026 14:00:00 GMT",
+      "source": "Google News رياضة",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "رياضة",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News رياضة"
       ]
     },
     {
@@ -558,9 +634,9 @@
       ]
     },
     {
-      "title": "رسميًا.. إعداد استراتيجية حكومية لمراكز البيانات قبل نهاية 2026 ودعم 250 شركة ذكاء اصطناعي - المصري اليوم",
+      "title": "رسميًا.. إعداد استراتيجية حكومية لمراكز البيانات قبل نهاية 2026 ودعم 250 شركة ذكاء اصطناعي - almasryalyoum.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3c18tQndzRkhUcm1HUWN1S1c5ZWZRREdfbWFlRWUydEhPMjVMRGpNTzFaVHBlR1h2R3hGeWRiSVJKRHctaEVMTmxrTXFjSkdxUldPVGNvRmhwTTYwMmdr?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3c18tQndzRkhUcm1HUWN1S1c5ZWZRREdfbWFlRWUydEhPMjVMRGpNTzFaVHBlR1h2R3hGeWRiSVJKRHctaEVMTmxrTXFjSkdxUldPVGNvRmhwTTYwMmdr?oc=5\" target=\"_blank\">رسميًا.. إعداد استراتيجية حكومية لمراكز البيانات قبل نهاية 2026 ودعم 250 شركة ذكاء اصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المصري اليوم</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3c18tQndzRkhUcm1HUWN1S1c5ZWZRREdfbWFlRWUydEhPMjVMRGpNTzFaVHBlR1h2R3hGeWRiSVJKRHctaEVMTmxrTXFjSkdxUldPVGNvRmhwTTYwMmdr?oc=5\" target=\"_blank\">رسميًا.. إعداد استراتيجية حكومية لمراكز البيانات قبل نهاية 2026 ودعم 250 شركة ذكاء اصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">almasryalyoum.com</font>",
       "date": "Tue, 22 Sep 2026 13:15:00 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -570,37 +646,6 @@
       "sourceCount": 1,
       "sources": [
         "Google News تكنولوجيا"
-      ]
-    },
-    {
-      "title": "الشعب الجمهوري: مصر تدير الأزمات الإقليمية برؤية تحمي مصالحها - بوابة أخبار اليوم الإلكترونية",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPUDI3c0k5bklmNjNPUFUzQUluTHVuSUpvMVRDWUhyTXpualJWaUZ2bzBTTGxBMnllYjhvQ2ZkWjlDTUUyZU5kVzlUZHNPdlUyaVBabjFrOExuZVhjWk5MYzA2X3oyM0J2b2JZMk1DaDJXaDlkTXV1Z2FMalJQRS1xTjIzTngzQUp1ZlJGVGV5clB2cXZCNVpQMnhSVUhFQ3ZldkFoR0dieGpLTkVNTXBwSlNSOXBNOFVqMnB3U21GWmo0T2JWUHJBS3NtbFBWMVZyWjc5dTN6WXV6VmZvTENUOElkYXpHQlhOWEY1QWJKc2JYMjc4YmNOdFB4dnAzazNEOXhSaUdldGxYS1pYaHhCWjdETW1yNlBVM25xX3dUc0dtWk1oVmtJSFJXS2NsZEdfc2pZSGdWVHFkeG5nN2dMZlp1eXA3dEw3dzJpSURpV1pUcVlaaGlod0tRT0sxMWNHeDB1ZnN5dmlJMXlXelVoTDVsdEYwX2tFc0NLbzV3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxPUDI3c0k5bklmNjNPUFUzQUluTHVuSUpvMVRDWUhyTXpualJWaUZ2bzBTTGxBMnllYjhvQ2ZkWjlDTUUyZU5kVzlUZHNPdlUyaVBabjFrOExuZVhjWk5MYzA2X3oyM0J2b2JZMk1DaDJXaDlkTXV1Z2FMalJQRS1xTjIzTngzQUp1ZlJGVGV5clB2cXZCNVpQMnhSVUhFQ3ZldkFoR0dieGpLTkVNTXBwSlNSOXBNOFVqMnB3U21GWmo0T2JWUHJBS3NtbFBWMVZyWjc5dTN6WXV6VmZvTENUOElkYXpHQlhOWEY1QWJKc2JYMjc4YmNOdFB4dnAzazNEOXhSaUdldGxYS1pYaHhCWjdETW1yNlBVM25xX3dUc0dtWk1oVmtJSFJXS2NsZEdfc2pZSGdWVHFkeG5nN2dMZlp1eXA3dEw3dzJpSURpV1pUcVlaaGlod0tRT0sxMWNHeDB1ZnN5dmlJMXlXelVoTDVsdEYwX2tFc0NLbzV3?oc=5\" target=\"_blank\">الشعب الجمهوري: مصر تدير الأزمات الإقليمية برؤية تحمي مصالحها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة أخبار اليوم الإلكترونية</font>",
-      "date": "Tue, 22 Sep 2026 13:08:43 GMT",
-      "source": "Google News مصر",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "مصر",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News مصر"
-      ]
-    },
-    {
-      "title": "7 أخبار رياضية لا تفوتك اليوم - اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOaXRneTJ0N1RVWjRKd2lXbW9MZDVrTER5cXc3Y0FOSmlGWWtMWkJyXzlRR0dCUHBPclpLblpPdkNNY1JwWXI3Y3IxSXBSdml5SU5YQk5scmFPTldOSVhiRzdhRmVpczB1bGJCSHE3cEpBUkhoOWJTd202T2tmeVA3Sk1sdUprc0xxSnNHb2ZsTFU1ZllhdVZVTldGeTJGMFIxRXJaSmdjbkxqdi1NWW5iNGpyR1Z4WWFNajdaVDNsbE1fcnh4XzZoTWo0OGU2dVdWQmhVSTNOU01nRDBzcUVYZ0ZjS01EQ3pEMkFPYWUxSlhrdHQ4eC1pZjlSeHVjTWxsS1ZOQVdmOHRpV1AtWTNUVWhqdzZlNVlZeUHSAZQCQVVfeXFMT2dsaURmcGJMVTdoZzYtU0duV2QwMTMxXzlEOVRfVlFaR2lZU0ZjY2hmc0VxRXRfQk91Zk9IaGU4dENCMGVrRWdSSGttU2lRckhBS0hkaXZjVVpNazBlV2ItZHdrZ1YzQzRzWFpYSzdJWUs1c1Z1QmtxVUJ6WEZyeFFja3FHci0zVk1iUDFxZ0NaOHdqSXpocW9XZURyeC1OdUUxSmZDUUJXRkZiNDlzSUgyLTl1TkJ2SlVIc3RFcmNzZlpUY1ptYVlHZUZkbVJCY0QxaFJxSkRudXRhZ0xNSDNLUzJwUF9xclljbnBsMjlHbHdUTlFVMkZDaDZQTWItQkczYlQyTHlTSGRvRkhHUzFCWU0t?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxOaXRneTJ0N1RVWjRKd2lXbW9MZDVrTER5cXc3Y0FOSmlGWWtMWkJyXzlRR0dCUHBPclpLblpPdkNNY1JwWXI3Y3IxSXBSdml5SU5YQk5scmFPTldOSVhiRzdhRmVpczB1bGJCSHE3cEpBUkhoOWJTd202T2tmeVA3Sk1sdUprc0xxSnNHb2ZsTFU1ZllhdVZVTldGeTJGMFIxRXJaSmdjbkxqdi1NWW5iNGpyR1Z4WWFNajdaVDNsbE1fcnh4XzZoTWo0OGU2dVdWQmhVSTNOU01nRDBzcUVYZ0ZjS01EQ3pEMkFPYWUxSlhrdHQ4eC1pZjlSeHVjTWxsS1ZOQVdmOHRpV1AtWTNUVWhqdzZlNVlZeUHSAZQCQVVfeXFMT2dsaURmcGJMVTdoZzYtU0duV2QwMTMxXzlEOVRfVlFaR2lZU0ZjY2hmc0VxRXRfQk91Zk9IaGU4dENCMGVrRWdSSGttU2lRckhBS0hkaXZjVVpNazBlV2ItZHdrZ1YzQzRzWFpYSzdJWUs1c1Z1QmtxVUJ6WEZyeFFja3FHci0zVk1iUDFxZ0NaOHdqSXpocW9XZURyeC1OdUUxSmZDUUJXRkZiNDlzSUgyLTl1TkJ2SlVIc3RFcmNzZlpUY1ptYVlHZUZkbVJCY0QxaFJxSkRudXRhZ0xNSDNLUzJwUF9xclljbnBsMjlHbHdUTlFVMkZDaDZQTWItQkczYlQyTHlTSGRvRkhHUzFCWU0t?oc=5\" target=\"_blank\">7 أخبار رياضية لا تفوتك اليوم</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
-      "date": "Tue, 22 Sep 2026 13:05:00 GMT",
-      "source": "Google News مصر",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "مصر",
-      "image": "",
-      "sourceCount": 2,
-      "sources": [
-        "Google News مصر",
-        "Google News رياضة"
       ]
     },
     {
@@ -616,21 +661,6 @@
       "sourceCount": 1,
       "sources": [
         "Google News تكنولوجيا"
-      ]
-    },
-    {
-      "title": "رسميا.. البنك الأهلي يحصل على موافقة مبدئية للاستحواذ على بنك مصر الإمارات - Masrawy",
-      "link": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxPa01UTmM3b0ktTVpoSzRTSXJlZmxWT2Q4WkxVbTVKVFVmdDl1Ry1iMVNjZUUyZmNHamNXUS11WEMtOWZFQWhJbjQzSWk3ZVQ1WnR1WG5NV1o3dC0zZXhHS2wzX2dOYW5UOWJkUFJNMUV4eEYtQjVraTJ4Nk1yQm5yMVpkLTNPbnVFTXRYWnFvWE1TdlM3ZHVlb2hlcVBxTnM2Zm1oQ3dkaGt3VUhhWmFIaDhiQndBcnl4SE1QWENOblFUOTFzS1FMQzhPYlZfZkVfc1ZqUllLWTN4cllrcVctNVNlUzZ3R2tSNFROTUNPaEhyTS1RQWt4RHdyWkNNZU1NNFZTQl9peC1BWGVxRm1XM01CeDNVT3B6WFhSeGc0QkJmSlFXUUpJN3dtdmRNTFM3VEhVb0w0Nm9SWDBqYkVRN3JIZlNieEVsUkJVQkwtRFR4SHVNUzk1bTdZdXlfOFBjQldBNEpCZS1XcG5aZHVZNFZ1amlzdnNocUh5bEszVUFPVU9VVzVxd2N2anZiLThLeTlTSVJJRzJyRDV4MkpaejNIajZZUlJadkhfekpJZFBYRTVIMmctY1k5eEVRcHprcG5OVDRXNWtGcld2WXJZZi16NWFOUnhwcHVnbVpIS0N3MG5fN3NFNVVSb0FPQmZBaXFzYnZON3c4S1c4TU40TnBCOEQ2TEFqT1lmb1VEZ05oaG56TXk3d29yZS01Q2tlbWZ4SHVnMzRLaHZsSnQ5X1RjMFdZdVRsNTdkeGhPbGZCSUE1SjBXczZ6YUVoeHFwVHEzNnpmeXk3NWdiTzZEMVpuWEFMZHhZYmVDaVNB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gRBVV95cUxPa01UTmM3b0ktTVpoSzRTSXJlZmxWT2Q4WkxVbTVKVFVmdDl1Ry1iMVNjZUUyZmNHamNXUS11WEMtOWZFQWhJbjQzSWk3ZVQ1WnR1WG5NV1o3dC0zZXhHS2wzX2dOYW5UOWJkUFJNMUV4eEYtQjVraTJ4Nk1yQm5yMVpkLTNPbnVFTXRYWnFvWE1TdlM3ZHVlb2hlcVBxTnM2Zm1oQ3dkaGt3VUhhWmFIaDhiQndBcnl4SE1QWENOblFUOTFzS1FMQzhPYlZfZkVfc1ZqUllLWTN4cllrcVctNVNlUzZ3R2tSNFROTUNPaEhyTS1RQWt4RHdyWkNNZU1NNFZTQl9peC1BWGVxRm1XM01CeDNVT3B6WFhSeGc0QkJmSlFXUUpJN3dtdmRNTFM3VEhVb0w0Nm9SWDBqYkVRN3JIZlNieEVsUkJVQkwtRFR4SHVNUzk1bTdZdXlfOFBjQldBNEpCZS1XcG5aZHVZNFZ1amlzdnNocUh5bEszVUFPVU9VVzVxd2N2anZiLThLeTlTSVJJRzJyRDV4MkpaejNIajZZUlJadkhfekpJZFBYRTVIMmctY1k5eEVRcHprcG5OVDRXNWtGcld2WXJZZi16NWFOUnhwcHVnbVpIS0N3MG5fN3NFNVVSb0FPQmZBaXFzYnZON3c4S1c4TU40TnBCOEQ2TEFqT1lmb1VEZ05oaG56TXk3d29yZS01Q2tlbWZ4SHVnMzRLaHZsSnQ5X1RjMFdZdVRsNTdkeGhPbGZCSUE1SjBXczZ6YUVoeHFwVHEzNnpmeXk3NWdiTzZEMVpuWEFMZHhZYmVDaVNB?oc=5\" target=\"_blank\">رسميا.. البنك الأهلي يحصل على موافقة مبدئية للاستحواذ على بنك مصر الإمارات</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
-      "date": "Tue, 22 Sep 2026 12:56:00 GMT",
-      "source": "Google News مصر",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "مصر",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News مصر"
       ]
     },
     {
@@ -679,9 +709,9 @@
       ]
     },
     {
-      "title": "شبح الذكاء الاصطناعي الخارج عن السيطرة يخيّم على اجتماعات الأمم المتحدة - asharq.com",
+      "title": "شبح الذكاء الاصطناعي الخارج عن السيطرة يخيّم على اجتماعات الأمم المتحدة - الشرق للأخبار",
       "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQbHdFRV9heEVuQmE0UlV6NkRRVFRmc0E5M29uNDd4a3ZyVXpsRVpMVllsN2R5WHh6aUxmUGNyLW1hTEpYLVRiWEFrX3ZVbWVXbDNGbHlldEVCa0UzOGdIRDZGMzF1TnlCQ3dxUExxQ3V6azdvalVONU1RcEpFTm81enI5M0RMeUlvWTNtb2U2ckZaTlhIemJaSU14MHRkbmZNc0VvZlVWNkszMG50UE9SaFZEUlVveHBhdzg2WVRrQ2lNX0czRk5uT3M1N3FUNGE4bDVZY0t5MHNVRVcxRlBZOU56X3RXR25CeHNmSWJMSEp0cENvVGhNa1IxZGpvLU1EemRRTDZUNkNTNm1INTRCZ1R4enpfZWF2Nkh1Z1JxaDVwWi1MSGhxRFNzdlhta0R5Z05fOUk4R0hnM3k3SldhaHJLYmFBY3ZfaEhFZXZiU0IzVnRPTHdLS3lhWUpVXzB0MnJjSS1aaEpCbGNHeFQxMjg2bEtPLTFIeHhseXBiLXZ3bkFxR0ZGWkRRLXZxU1VKUHh4SEN2ZlNEbVhEVGpMVjZRdkZpUVpPRmpiWjZxZ3RsN25QRFdQVlJnM1NkUVkyNTNacVhmNlgwdHpVLTRwRi1aeGZ1RXluR0VlNnBRYw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wNBVV95cUxQbHdFRV9heEVuQmE0UlV6NkRRVFRmc0E5M29uNDd4a3ZyVXpsRVpMVllsN2R5WHh6aUxmUGNyLW1hTEpYLVRiWEFrX3ZVbWVXbDNGbHlldEVCa0UzOGdIRDZGMzF1TnlCQ3dxUExxQ3V6azdvalVONU1RcEpFTm81enI5M0RMeUlvWTNtb2U2ckZaTlhIemJaSU14MHRkbmZNc0VvZlVWNkszMG50UE9SaFZEUlVveHBhdzg2WVRrQ2lNX0czRk5uT3M1N3FUNGE4bDVZY0t5MHNVRVcxRlBZOU56X3RXR25CeHNmSWJMSEp0cENvVGhNa1IxZGpvLU1EemRRTDZUNkNTNm1INTRCZ1R4enpfZWF2Nkh1Z1JxaDVwWi1MSGhxRFNzdlhta0R5Z05fOUk4R0hnM3k3SldhaHJLYmFBY3ZfaEhFZXZiU0IzVnRPTHdLS3lhWUpVXzB0MnJjSS1aaEpCbGNHeFQxMjg2bEtPLTFIeHhseXBiLXZ3bkFxR0ZGWkRRLXZxU1VKUHh4SEN2ZlNEbVhEVGpMVjZRdkZpUVpPRmpiWjZxZ3RsN25QRFdQVlJnM1NkUVkyNTNacVhmNlgwdHpVLTRwRi1aeGZ1RXluR0VlNnBRYw?oc=5\" target=\"_blank\">شبح الذكاء الاصطناعي الخارج عن السيطرة يخيّم على اجتماعات الأمم المتحدة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">asharq.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wNBVV95cUxQbHdFRV9heEVuQmE0UlV6NkRRVFRmc0E5M29uNDd4a3ZyVXpsRVpMVllsN2R5WHh6aUxmUGNyLW1hTEpYLVRiWEFrX3ZVbWVXbDNGbHlldEVCa0UzOGdIRDZGMzF1TnlCQ3dxUExxQ3V6azdvalVONU1RcEpFTm81enI5M0RMeUlvWTNtb2U2ckZaTlhIemJaSU14MHRkbmZNc0VvZlVWNkszMG50UE9SaFZEUlVveHBhdzg2WVRrQ2lNX0czRk5uT3M1N3FUNGE4bDVZY0t5MHNVRVcxRlBZOU56X3RXR25CeHNmSWJMSEp0cENvVGhNa1IxZGpvLU1EemRRTDZUNkNTNm1INTRCZ1R4enpfZWF2Nkh1Z1JxaDVwWi1MSGhxRFNzdlhta0R5Z05fOUk4R0hnM3k3SldhaHJLYmFBY3ZfaEhFZXZiU0IzVnRPTHdLS3lhWUpVXzB0MnJjSS1aaEpCbGNHeFQxMjg2bEtPLTFIeHhseXBiLXZ3bkFxR0ZGWkRRLXZxU1VKUHh4SEN2ZlNEbVhEVGpMVjZRdkZpUVpPRmpiWjZxZ3RsN25QRFdQVlJnM1NkUVkyNTNacVhmNlgwdHpVLTRwRi1aeGZ1RXluR0VlNnBRYw?oc=5\" target=\"_blank\">شبح الذكاء الاصطناعي الخارج عن السيطرة يخيّم على اجتماعات الأمم المتحدة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق للأخبار</font>",
       "date": "Tue, 22 Sep 2026 12:36:57 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -694,9 +724,9 @@
       ]
     },
     {
-      "title": "الأمم المتحدة تحذر من مخاطر خروج الذكاء الاصطناعي عن السيطرة - سكاي نيوز عربية",
+      "title": "الأمم المتحدة تحذر من مخاطر خروج الذكاء الاصطناعي عن السيطرة - skynewsarabia.com",
       "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOUGhZTUJnbTQ3WDRDZVN0Y2pwTXQ0RlRseFN5SlRVQ3F2RGFzd2dlb0poOVVJdE1DeTFMZnE5Y1lxbTRyc3VTWkY4Vkw2d29sWF9IeVFjSnItVm11RWl3eF9rU0xtT1EwTjZLa1laVnhfSkJqeV83VnRMemlfaXN5UE4yX0Ezb2xmVklHR3MyQkgyQW1jR2dwUkxfdi16WUVlOGxZQzV2OTFmdzhDTVR1STRJdDkzb0FRRHpRMnNSQkVBMk0zX2pySHQ1ckRiT3dmNTgwQUNXQjBQVG5oWmdUcmNHWnZ6RjhKcklWTXF4d0dSMlFZMWtBMUFCQW9LMjhtRUpBa2ZwRFZkanBBSjJBZEZENjQ5V1V1RkZzSkpaQmgyVVUyUWRPbTE0U1pmT1NmUnhPRXRaQkU1VE1RTEkzVkpzRFotUHNuX2picUxlV1FoMjh3bXV2Z1NESEwzR2FLWDI1Wnk2Y1o1Q0JTQVJ0R3VfQTBodnNjOVZIQzZnSGRRVnQ1UElEUzFrYzNJbFBYdzRJclBsNElocG9uNUFnbF9vS0I0WkZDS0FfV2JseTRGaDBheUtlNkMwTjhyMWNaZlRTaktpRnpwZjVVUTFqam5qM3pvNUQ40gHeA0FVX3lxTE5rOUNONUZFTVo3eXdZSFBtSWhRdDBPVlA0ZDRoNU9sc1k1bUp1UlhKZmpiQkIzT3N4TDVQbVdyMy0wSktrWnBIRGZHOEpSZkJBaXBPY2R0dUUzNFJXcGxkNjNmR29VVTFSTXFIODJhT3NKT1hlS3c2LVRZYW5oTHpoOG9xNlVnRWRJRG9RQXlKSHpPYVlTemJLWlRPT3VTblUxWlBxeTZsNjlsWW9RNFBreUNGdG5FbDVxM0JWazBFNFVpR0dOdWFGbUlQTTlEMnhUaEx4MFpuVUpfWnJ5VVZnU0xwWnNfaEtKTzJLYUFiQU9yYUhscDRzTXg5dkRSS1hhVjNlMmktcDVnQ21lUTY4NmxYRGo2eXZqVXlDd3dnMWdIUFVIaXFRcUtyQ2s5WEl1YmlSNWtaRmxuZmtDZG0zM2Q2dEZ6RzdkUEQwd3VaSDE3ZTM1WXNDN25WTk4wc1A1S0xPZjludTlLUEo4RHl5UmJYb1RWTVFMd3lHVUxLb2VwMEc3UlEwVUhJYUxGX1o1eU5wSUVFQl9FZzNuVTdVX1F0OHVJVHZGTm5NeXJ4d3dKOVJaTzZvSG9rN0xmMUxoVmVIX2lJQmExX2xJZ3FpbERDYXhJWkxxd0FOclE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2ANBVV95cUxOUGhZTUJnbTQ3WDRDZVN0Y2pwTXQ0RlRseFN5SlRVQ3F2RGFzd2dlb0poOVVJdE1DeTFMZnE5Y1lxbTRyc3VTWkY4Vkw2d29sWF9IeVFjSnItVm11RWl3eF9rU0xtT1EwTjZLa1laVnhfSkJqeV83VnRMemlfaXN5UE4yX0Ezb2xmVklHR3MyQkgyQW1jR2dwUkxfdi16WUVlOGxZQzV2OTFmdzhDTVR1STRJdDkzb0FRRHpRMnNSQkVBMk0zX2pySHQ1ckRiT3dmNTgwQUNXQjBQVG5oWmdUcmNHWnZ6RjhKcklWTXF4d0dSMlFZMWtBMUFCQW9LMjhtRUpBa2ZwRFZkanBBSjJBZEZENjQ5V1V1RkZzSkpaQmgyVVUyUWRPbTE0U1pmT1NmUnhPRXRaQkU1VE1RTEkzVkpzRFotUHNuX2picUxlV1FoMjh3bXV2Z1NESEwzR2FLWDI1Wnk2Y1o1Q0JTQVJ0R3VfQTBodnNjOVZIQzZnSGRRVnQ1UElEUzFrYzNJbFBYdzRJclBsNElocG9uNUFnbF9vS0I0WkZDS0FfV2JseTRGaDBheUtlNkMwTjhyMWNaZlRTaktpRnpwZjVVUTFqam5qM3pvNUQ40gHeA0FVX3lxTE5rOUNONUZFTVo3eXdZSFBtSWhRdDBPVlA0ZDRoNU9sc1k1bUp1UlhKZmpiQkIzT3N4TDVQbVdyMy0wSktrWnBIRGZHOEpSZkJBaXBPY2R0dUUzNFJXcGxkNjNmR29VVTFSTXFIODJhT3NKT1hlS3c2LVRZYW5oTHpoOG9xNlVnRWRJRG9RQXlKSHpPYVlTemJLWlRPT3VTblUxWlBxeTZsNjlsWW9RNFBreUNGdG5FbDVxM0JWazBFNFVpR0dOdWFGbUlQTTlEMnhUaEx4MFpuVUpfWnJ5VVZnU0xwWnNfaEtKTzJLYUFiQU9yYUhscDRzTXg5dkRSS1hhVjNlMmktcDVnQ21lUTY4NmxYRGo2eXZqVXlDd3dnMWdIUFVIaXFRcUtyQ2s5WEl1YmlSNWtaRmxuZmtDZG0zM2Q2dEZ6RzdkUEQwd3VaSDE3ZTM1WXNDN25WTk4wc1A1S0xPZjludTlLUEo4RHl5UmJYb1RWTVFMd3lHVUxLb2VwMEc3UlEwVUhJYUxGX1o1eU5wSUVFQl9FZzNuVTdVX1F0OHVJVHZGTm5NeXJ4d3dKOVJaTzZvSG9rN0xmMUxoVmVIX2lJQmExX2xJZ3FpbERDYXhJWkxxd0FOclE?oc=5\" target=\"_blank\">الأمم المتحدة تحذر من مخاطر خروج الذكاء الاصطناعي عن السيطرة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سكاي نيوز عربية</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2ANBVV95cUxOUGhZTUJnbTQ3WDRDZVN0Y2pwTXQ0RlRseFN5SlRVQ3F2RGFzd2dlb0poOVVJdE1DeTFMZnE5Y1lxbTRyc3VTWkY4Vkw2d29sWF9IeVFjSnItVm11RWl3eF9rU0xtT1EwTjZLa1laVnhfSkJqeV83VnRMemlfaXN5UE4yX0Ezb2xmVklHR3MyQkgyQW1jR2dwUkxfdi16WUVlOGxZQzV2OTFmdzhDTVR1STRJdDkzb0FRRHpRMnNSQkVBMk0zX2pySHQ1ckRiT3dmNTgwQUNXQjBQVG5oWmdUcmNHWnZ6RjhKcklWTXF4d0dSMlFZMWtBMUFCQW9LMjhtRUpBa2ZwRFZkanBBSjJBZEZENjQ5V1V1RkZzSkpaQmgyVVUyUWRPbTE0U1pmT1NmUnhPRXRaQkU1VE1RTEkzVkpzRFotUHNuX2picUxlV1FoMjh3bXV2Z1NESEwzR2FLWDI1Wnk2Y1o1Q0JTQVJ0R3VfQTBodnNjOVZIQzZnSGRRVnQ1UElEUzFrYzNJbFBYdzRJclBsNElocG9uNUFnbF9vS0I0WkZDS0FfV2JseTRGaDBheUtlNkMwTjhyMWNaZlRTaktpRnpwZjVVUTFqam5qM3pvNUQ40gHeA0FVX3lxTE5rOUNONUZFTVo3eXdZSFBtSWhRdDBPVlA0ZDRoNU9sc1k1bUp1UlhKZmpiQkIzT3N4TDVQbVdyMy0wSktrWnBIRGZHOEpSZkJBaXBPY2R0dUUzNFJXcGxkNjNmR29VVTFSTXFIODJhT3NKT1hlS3c2LVRZYW5oTHpoOG9xNlVnRWRJRG9RQXlKSHpPYVlTemJLWlRPT3VTblUxWlBxeTZsNjlsWW9RNFBreUNGdG5FbDVxM0JWazBFNFVpR0dOdWFGbUlQTTlEMnhUaEx4MFpuVUpfWnJ5VVZnU0xwWnNfaEtKTzJLYUFiQU9yYUhscDRzTXg5dkRSS1hhVjNlMmktcDVnQ21lUTY4NmxYRGo2eXZqVXlDd3dnMWdIUFVIaXFRcUtyQ2s5WEl1YmlSNWtaRmxuZmtDZG0zM2Q2dEZ6RzdkUEQwd3VaSDE3ZTM1WXNDN25WTk4wc1A1S0xPZjludTlLUEo4RHl5UmJYb1RWTVFMd3lHVUxLb2VwMEc3UlEwVUhJYUxGX1o1eU5wSUVFQl9FZzNuVTdVX1F0OHVJVHZGTm5NeXJ4d3dKOVJaTzZvSG9rN0xmMUxoVmVIX2lJQmExX2xJZ3FpbERDYXhJWkxxd0FOclE?oc=5\" target=\"_blank\">الأمم المتحدة تحذر من مخاطر خروج الذكاء الاصطناعي عن السيطرة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">skynewsarabia.com</font>",
       "date": "Tue, 22 Sep 2026 12:35:34 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -713,21 +743,6 @@
       "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxOclo2N0RHYzZtNFA2VEFoSzZpb2YxcU0xWlZialRfdFNuLTcwTnE2Qm9lUTJHV3pTZjFnblpiRld4b01aM3IybzJobGRyMUs2QU9pQzROM3U3bzE4MWRTNjV3VjJISjFzd0FJODc4ZjJfZTllazBHRTd3X0EtZGRnNkNhemtjQ2hMN1l3U3g4dElNemZWUHo3TmE2VW9NVWlMUGNKaUZmalUzcXVQM3pQM0xrdWhRbTVxWXVwd3FFbWNfc0ZHZWwzdUtISmtWcmliS2JQc2RmcXdYcnpBWjRxQ21iRGdwZ2RoY2FEbU1mVzdadWkta0NDRVJ2eWxPaUxWQVp3elFiQi1ad3BtcDZsZ3FHQmhjQlVPc28yTFR6UExPMnltaUFTS2FtQVRPMjBOc1NFN2FrUXJUNHJFNVVRc3ZBb2pNTXZhdnppNi1HMk9mb1QtVzV4RS0wUkZQZUhFZERVUHRLejExUFFmUFFvVUIyN0JSVkZsa1Q2cGxxczFxR09LSHItZ3ozeGNjajlpM3NCT0FzTjJrWTNpeXBnYWtfd0MzSXBmQ1NZV040TE5hY3h2V0NFN3ZXS0FHVFdEVE1ubk1IQzJYbC1zcV8yV2haRW1QRzRUaW0ySVpLWjc0NVdiMHVQaFFidE9mMHdoX3pFOVJvVE5QOTVuRVNJdklfVFhrcno4SlVGMUN3UW81N2tFT25Wb0x2WU45T3A2dFlIdjNCWHp3a1BGMElVdDI3TGZqVXlhMTVDY2J3WjlYTllj?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMixARBVV95cUxOclo2N0RHYzZtNFA2VEFoSzZpb2YxcU0xWlZialRfdFNuLTcwTnE2Qm9lUTJHV3pTZjFnblpiRld4b01aM3IybzJobGRyMUs2QU9pQzROM3U3bzE4MWRTNjV3VjJISjFzd0FJODc4ZjJfZTllazBHRTd3X0EtZGRnNkNhemtjQ2hMN1l3U3g4dElNemZWUHo3TmE2VW9NVWlMUGNKaUZmalUzcXVQM3pQM0xrdWhRbTVxWXVwd3FFbWNfc0ZHZWwzdUtISmtWcmliS2JQc2RmcXdYcnpBWjRxQ21iRGdwZ2RoY2FEbU1mVzdadWkta0NDRVJ2eWxPaUxWQVp3elFiQi1ad3BtcDZsZ3FHQmhjQlVPc28yTFR6UExPMnltaUFTS2FtQVRPMjBOc1NFN2FrUXJUNHJFNVVRc3ZBb2pNTXZhdnppNi1HMk9mb1QtVzV4RS0wUkZQZUhFZERVUHRLejExUFFmUFFvVUIyN0JSVkZsa1Q2cGxxczFxR09LSHItZ3ozeGNjajlpM3NCT0FzTjJrWTNpeXBnYWtfd0MzSXBmQ1NZV040TE5hY3h2V0NFN3ZXS0FHVFdEVE1ubk1IQzJYbC1zcV8yV2haRW1QRzRUaW0ySVpLWjc0NVdiMHVQaFFidE9mMHdoX3pFOVJvVE5QOTVuRVNJdklfVFhrcno4SlVGMUN3UW81N2tFT25Wb0x2WU45T3A2dFlIdjNCWHp3a1BGMElVdDI3TGZqVXlhMTVDY2J3WjlYTllj?oc=5\" target=\"_blank\">وزير الاتصالات: نستهدف دعم أكثر من 250 شركة ناشئة في الذكاء الاصطناعي بحلول 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">مبتدا</font>",
       "date": "Tue, 22 Sep 2026 12:28:25 GMT",
-      "source": "Google News تكنولوجيا",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "تكنولوجيا",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News تكنولوجيا"
-      ]
-    },
-    {
-      "title": "مسؤول في \"إنفيديا\": مصر تمتلك الكفاءات لتصبح قوة مؤثرة في ابتكار الذكاء الاصطناعي - العربية",
-      "link": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxOZlNfaWRQOExRbllQZ0wzblA2cWJpdWhFb0VwNjRWMjh1UFMxcTZJdFAxUDVGbDFpWktTMmMtaGxGUjdrc3YyNzFKR3M1dFZRVzdkX252bTFYblZCcWI2QmFiSG11S1ZXMlBlSTlaWllSUjhXYzlxREdKcGtVOG11TWRaNXltVWE0Ni1kT3JBbE9xeHUyMWk1UDQtYnJwYl9VZ191SF9GQ3phR1RlNGM1MEpHZVhIM09hZ1JUUk5hSUo1dG1yT01ySVJTSDZ3aVBmUUNDNnFsUUUwLU1Nb1VhTFc3N3ZEOFB0TEJTdGduUV84OGJaQlF6dC1sZjBCdThqeEtQUVpsMkVobmdvcGNpSEREcXgxcDlfNlRkZW1fZHZESng5YnlwWV9PdXRxQW5DNFhZX0I0eUhkU0ExaVpiaWgzTEZibEJVVFRJTHF5MWJRVDUyZlpkTklDZENKNDY1dndpWXhBbWpmbklsbzhDZDhfV2FaRlBNTnBHLUxMclVweUhqZExwYjB0dDN0RnhrR19SUFdPSFF1SFV0TlRJNDkwUDQxUWFNY1JGdkJzVm1xY0ZDakcxUHRXdWlTRXhGLUpYYUtJSUh0NXVlMnlzd3ZrbXBfQU0zZEYxdVNCRDRwUFNvVEM0Rng5SzltVEc5X0haaVM3dUY3TFpCbk5ZNnVPN2RKMVF6c2lxYUZEVmhMVU1tYUFCcEUwREltd0Mwc2hMLWdhSTkwZ1o4UlN2QWJrZmhCbDJPMFN1RzBScHdqUW9qZm1GZ0tVRk5kZlhSS1d3aGpDYVNzQm1GNGI2UE1NdzJ2NW10YlhlVzd1b2hqTjgwWHFBdy1BMEE3X2RHUW9nWGRjVkrSAY4FQVVfeXFMTTUzV2VzMDVDaFp6UWpuLVBPU0k3RmY0Tm1uamItQ2lxcmNMTnM4enBHamcyOVgtajI1THEzLS1VcU15T1kzcnRfNFdOT2hEQ0xSMDR1a1NuWUZuTldzdjJsMC1kaXpScVpNb28zZm5MSlB4NHkzZFBiUEdRVUltcFRCcVI0emR2UzZzY0ZoOC1uLUgtYXBaQjBnejVvWU1abWhOVVZqR3YyRkxVcTJPZ1VRSk9ubU9COVBMSHRnbFJYMHJ4R2ZBX05tbkxoNUlEbk5EZE5NZzAzWUh0cUdMc04wUU43NE5nNUpjNVFBRU5tVGpKdi1iOVZWNnpyUGFzWWl2WnBBdEs4OXBlMFJGQWc0OW1QZzlYRXJyLWVZbTZUejZLcWxLVFVxdHdWdFp6SHVjZVY0VFFZb2ZjaUE4R3lkdmFFVV81d1llSWRSai1DNFNIRlAxclktc21YY3hyUE56Y21LcDFzQUlfMXRJV3FTdTV4b2MtY3M5UjdPRi1pcHY1Y3FqUldUZVRhWnFTWkhfejVMcDI0TlNGU3Q2WDJhdGpKeC1RZWpoQ05wYlJER2duQ1RPZlljUlcwU3M4SHgxSnNXdUg2cXN1eFA4bFQ3aWx2UjFhV0M3bVlPNVJVWTFUamI0NEpIRkJORkdtQnB1TGZzRWM0N2Q3Yi04d1JBVThWUE9qaVN2dk1WNDRLQU5qQWZMTXBjb25KX2lZdEN5ZW1GZGp0MEJDdmR3dU12SzY5RmRzLXhVYWN1UEEyTDQ3VHdwbTBtbktBRXZLYkMyM0hzOGpHMmg2NkVWV09kQTVnU0lVOHRUb0llRGpXOV9ORHhKNzVvWVFzellUNThEaXRibkhKVzE2OUNR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAVBVV95cUxOZlNfaWRQOExRbllQZ0wzblA2cWJpdWhFb0VwNjRWMjh1UFMxcTZJdFAxUDVGbDFpWktTMmMtaGxGUjdrc3YyNzFKR3M1dFZRVzdkX252bTFYblZCcWI2QmFiSG11S1ZXMlBlSTlaWllSUjhXYzlxREdKcGtVOG11TWRaNXltVWE0Ni1kT3JBbE9xeHUyMWk1UDQtYnJwYl9VZ191SF9GQ3phR1RlNGM1MEpHZVhIM09hZ1JUUk5hSUo1dG1yT01ySVJTSDZ3aVBmUUNDNnFsUUUwLU1Nb1VhTFc3N3ZEOFB0TEJTdGduUV84OGJaQlF6dC1sZjBCdThqeEtQUVpsMkVobmdvcGNpSEREcXgxcDlfNlRkZW1fZHZESng5YnlwWV9PdXRxQW5DNFhZX0I0eUhkU0ExaVpiaWgzTEZibEJVVFRJTHF5MWJRVDUyZlpkTklDZENKNDY1dndpWXhBbWpmbklsbzhDZDhfV2FaRlBNTnBHLUxMclVweUhqZExwYjB0dDN0RnhrR19SUFdPSFF1SFV0TlRJNDkwUDQxUWFNY1JGdkJzVm1xY0ZDakcxUHRXdWlTRXhGLUpYYUtJSUh0NXVlMnlzd3ZrbXBfQU0zZEYxdVNCRDRwUFNvVEM0Rng5SzltVEc5X0haaVM3dUY3TFpCbk5ZNnVPN2RKMVF6c2lxYUZEVmhMVU1tYUFCcEUwREltd0Mwc2hMLWdhSTkwZ1o4UlN2QWJrZmhCbDJPMFN1RzBScHdqUW9qZm1GZ0tVRk5kZlhSS1d3aGpDYVNzQm1GNGI2UE1NdzJ2NW10YlhlVzd1b2hqTjgwWHFBdy1BMEE3X2RHUW9nWGRjVkrSAY4FQVVfeXFMTTUzV2VzMDVDaFp6UWpuLVBPU0k3RmY0Tm1uamItQ2lxcmNMTnM4enBHamcyOVgtajI1THEzLS1VcU15T1kzcnRfNFdOT2hEQ0xSMDR1a1NuWUZuTldzdjJsMC1kaXpScVpNb28zZm5MSlB4NHkzZFBiUEdRVUltcFRCcVI0emR2UzZzY0ZoOC1uLUgtYXBaQjBnejVvWU1abWhOVVZqR3YyRkxVcTJPZ1VRSk9ubU9COVBMSHRnbFJYMHJ4R2ZBX05tbkxoNUlEbk5EZE5NZzAzWUh0cUdMc04wUU43NE5nNUpjNVFBRU5tVGpKdi1iOVZWNnpyUGFzWWl2WnBBdEs4OXBlMFJGQWc0OW1QZzlYRXJyLWVZbTZUejZLcWxLVFVxdHdWdFp6SHVjZVY0VFFZb2ZjaUE4R3lkdmFFVV81d1llSWRSai1DNFNIRlAxclktc21YY3hyUE56Y21LcDFzQUlfMXRJV3FTdTV4b2MtY3M5UjdPRi1pcHY1Y3FqUldUZVRhWnFTWkhfejVMcDI0TlNGU3Q2WDJhdGpKeC1RZWpoQ05wYlJER2duQ1RPZlljUlcwU3M4SHgxSnNXdUg2cXN1eFA4bFQ3aWx2UjFhV0M3bVlPNVJVWTFUamI0NEpIRkJORkdtQnB1TGZzRWM0N2Q3Yi04d1JBVThWUE9qaVN2dk1WNDRLQU5qQWZMTXBjb25KX2lZdEN5ZW1GZGp0MEJDdmR3dU12SzY5RmRzLXhVYWN1UEEyTDQ3VHdwbTBtbktBRXZLYkMyM0hzOGpHMmg2NkVWV09kQTVnU0lVOHRUb0llRGpXOV9ORHhKNzVvWVFzellUNThEaXRibkhKVzE2OUNR?oc=5\" target=\"_blank\">مسؤول في \"إنفيديا\": مصر تمتلك الكفاءات لتصبح قوة مؤثرة في ابتكار الذكاء الاصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربية</font>",
-      "date": "Tue, 22 Sep 2026 12:24:00 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
       "sourceType": "aggregator",
@@ -1039,21 +1054,6 @@
       ]
     },
     {
-      "title": "بعد اكتساح المغرب.. موعد مباراة مصر وتونس في نهائي أمم أفريقيا لكرة اليد - Masrawy",
-      "link": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxNZ2FVMXBSbWNzZzdhQk91LW9RSVItS0JXZEdObHNraU1UVmxzWWVzcEw1Tm02VUdtSnVCWXU3eUdkS0V6SmtkaDZONXJHLU5CQ0ZLX3NNd1JwMXNzbzB3NVFic29mSnJreEJqajJ6QVNMNXhYS0Zma1JPa0RTaWRhMlYzWnA0enF5ekZRWEh3a3V4ZDFmVGhiMFlOTnlkRDc2ZFAyYk5kQV9iaG84Y1JrZWNIb0VpU2pZTFB5UlRVRHN2OHhvQ21UR2txazZuUlY4UmtVV090VWNOcUZpc3d6ZVFDTElULUhyZ2oxdnprRTQzclNndHBZSnhBMG9lcjd3QU5UWGFaQ1NiVGx3WDRMRWlrTEJXRkNfYTVPOTdTQ1FzZW5iU2ltVWtPeU5sWHhqbUtwbUVfOGY0UEhvTm4tTlhlNWFiNXY4LU9YUjd1WnY4cjZ3SFUtOEVyVTI1REpoekN6eFNUaWtDOHo5T3QzdVlRdXJhZ2VyNHVXaHh2U0tSM3l1d2RPTW91aktIYTMtMEFMXzVGOU92blhEWEhPU29BMjlSTHhjZTQyZ2tiYlFfQy1xNEFDVldGTTNxMlJjQWxOeHF2LTR3VkQ2bGZFeGg5bVFGZHIyMVU5TzhZUFRSb2Y5YzdKTGNEbkNnWmxhUGR4QWYwZW90b3RRYURFa2ppeDBlNWpYeWFxWU5UX1AzQnhSWUVySVFHUVlUdGEwZEFnTFVuM21xdVA1Y1g2cDVaam1KZzZBYVZwRFBSRzl0M1kwU3ZidGdMeWlvNjY0eTY0bHRoLUhqdzZEZWl5TkZ2amVFRG1SdzdZ0gHwBEFVX3lxTE14bTVJSGtNWVViSHVZSk9VN0kyX1d1cWlnTnJmRy1fbjFxMTEwTVVEaGo5anQ0SjdxcDg3elRzX2N5d0tzQXpYVmwxMXdrcnJqWjBiUXAxOEh5Ukc3RjlWd0VmWnZyREgydXIxODhPT3VwZVJiaXNvdHBZSzgwSWVKckVzMUhVQVNlZ2Y4b0FaWG5INDdHN2tVMkdQU0MwWDBFcXNWeEJqZkVvd1Y4TnlwOVpOYlFoNGd1T2M5OXk2QXdaZkpodUhZQllBZWhZRXpiRzZPQ09paGRDNE9vVFJkWHQ1aVFEZHRBMzRzMDA2ZDh1Uk9GNFBSVlpfemZ1SGY2TDcySFZlcW1lblBiZmgzQjBHcFY0WVNTT2M3WU5YRHkxaDJFVUJqQTJYLUVqbTc3LWpLZGNTdUxrTFZzYXlzVjdxcDdVSmg5cjhaX2p5cmR4ZnNrT0JYYnRGdV9JMkJrLVVSbFBhY2tRRWpWQ2VpYW1mMEdqaDRkcWtwQXp1LVE0YlNGdkdMNGY1dkhZTHpkOFVhMW52dW9zMEc0dUFrTnlMV2hPY3JXVkJ3TmM0OGRGUG9RRTVDWXNjMWd4dU9LZWR4d3VVWWl1RE9XLXIzaVVxWWdJNVpsdmtMWlpQT19DRF9Dbk9Lcy15WE1yVV80N0ZhR3BSYXRXLTVlUkI5bEpPTXlyMDhvWkYtcHhzNEVuajBmWEVFaGlkR2Q3VWlrekcySnd1QVVvNFdQeDk5UHZsR0ZUeERudjMyand1LWVZb2JOQTI4NVJqRFZVbkxkdFRzUDZNeHBCc0RiTTJRZnVEVDBHS0owYUpMb2Z5WQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wRBVV95cUxNZ2FVMXBSbWNzZzdhQk91LW9RSVItS0JXZEdObHNraU1UVmxzWWVzcEw1Tm02VUdtSnVCWXU3eUdkS0V6SmtkaDZONXJHLU5CQ0ZLX3NNd1JwMXNzbzB3NVFic29mSnJreEJqajJ6QVNMNXhYS0Zma1JPa0RTaWRhMlYzWnA0enF5ekZRWEh3a3V4ZDFmVGhiMFlOTnlkRDc2ZFAyYk5kQV9iaG84Y1JrZWNIb0VpU2pZTFB5UlRVRHN2OHhvQ21UR2txazZuUlY4UmtVV090VWNOcUZpc3d6ZVFDTElULUhyZ2oxdnprRTQzclNndHBZSnhBMG9lcjd3QU5UWGFaQ1NiVGx3WDRMRWlrTEJXRkNfYTVPOTdTQ1FzZW5iU2ltVWtPeU5sWHhqbUtwbUVfOGY0UEhvTm4tTlhlNWFiNXY4LU9YUjd1WnY4cjZ3SFUtOEVyVTI1REpoekN6eFNUaWtDOHo5T3QzdVlRdXJhZ2VyNHVXaHh2U0tSM3l1d2RPTW91aktIYTMtMEFMXzVGOU92blhEWEhPU29BMjlSTHhjZTQyZ2tiYlFfQy1xNEFDVldGTTNxMlJjQWxOeHF2LTR3VkQ2bGZFeGg5bVFGZHIyMVU5TzhZUFRSb2Y5YzdKTGNEbkNnWmxhUGR4QWYwZW90b3RRYURFa2ppeDBlNWpYeWFxWU5UX1AzQnhSWUVySVFHUVlUdGEwZEFnTFVuM21xdVA1Y1g2cDVaam1KZzZBYVZwRFBSRzl0M1kwU3ZidGdMeWlvNjY0eTY0bHRoLUhqdzZEZWl5TkZ2amVFRG1SdzdZ0gHwBEFVX3lxTE14bTVJSGtNWVViSHVZSk9VN0kyX1d1cWlnTnJmRy1fbjFxMTEwTVVEaGo5anQ0SjdxcDg3elRzX2N5d0tzQXpYVmwxMXdrcnJqWjBiUXAxOEh5Ukc3RjlWd0VmWnZyREgydXIxODhPT3VwZVJiaXNvdHBZSzgwSWVKckVzMUhVQVNlZ2Y4b0FaWG5INDdHN2tVMkdQU0MwWDBFcXNWeEJqZkVvd1Y4TnlwOVpOYlFoNGd1T2M5OXk2QXdaZkpodUhZQllBZWhZRXpiRzZPQ09paGRDNE9vVFJkWHQ1aVFEZHRBMzRzMDA2ZDh1Uk9GNFBSVlpfemZ1SGY2TDcySFZlcW1lblBiZmgzQjBHcFY0WVNTT2M3WU5YRHkxaDJFVUJqQTJYLUVqbTc3LWpLZGNTdUxrTFZzYXlzVjdxcDdVSmg5cjhaX2p5cmR4ZnNrT0JYYnRGdV9JMkJrLVVSbFBhY2tRRWpWQ2VpYW1mMEdqaDRkcWtwQXp1LVE0YlNGdkdMNGY1dkhZTHpkOFVhMW52dW9zMEc0dUFrTnlMV2hPY3JXVkJ3TmM0OGRGUG9RRTVDWXNjMWd4dU9LZWR4d3VVWWl1RE9XLXIzaVVxWWdJNVpsdmtMWlpQT19DRF9Dbk9Lcy15WE1yVV80N0ZhR3BSYXRXLTVlUkI5bEpPTXlyMDhvWkYtcHhzNEVuajBmWEVFaGlkR2Q3VWlrekcySnd1QVVvNFdQeDk5UHZsR0ZUeERudjMyand1LWVZb2JOQTI4NVJqRFZVbkxkdFRzUDZNeHBCc0RiTTJRZnVEVDBHS0owYUpMb2Z5WQ?oc=5\" target=\"_blank\">بعد اكتساح المغرب.. موعد مباراة مصر وتونس في نهائي أمم أفريقيا لكرة اليد</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
-      "date": "Mon, 21 Sep 2026 19:35:21 GMT",
-      "source": "Google News رياضة",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "رياضة",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News رياضة"
-      ]
-    },
-    {
       "title": "Repeated air traffic control failures leave us in worrying territory",
       "link": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
       "description": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
@@ -1114,9 +1114,9 @@
       ]
     },
     {
-      "title": "(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين - arabic.news.cn",
+      "title": "(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين - 新华网",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xemk4NzVBNFQ2WTZHTnQweGs1alRsNXZsUFZZU3J5ZmxtR3p6QzI0UHJkWUpEZXlmOWNCNXVDVnBfVzZNejB2TFZCQWxqQ0xnaU0taWJzZmtEUHM1amtyenFLZzk0aVFTOG14SXlERUxRM1lfRzd2QUVPRQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xemk4NzVBNFQ2WTZHTnQweGs1alRsNXZsUFZZU3J5ZmxtR3p6QzI0UHJkWUpEZXlmOWNCNXVDVnBfVzZNejB2TFZCQWxqQ0xnaU0taWJzZmtEUHM1amtyenFLZzk0aVFTOG14SXlERUxRM1lfRzd2QUVPRQ?oc=5\" target=\"_blank\">(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">arabic.news.cn</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xemk4NzVBNFQ2WTZHTnQweGs1alRsNXZsUFZZU3J5ZmxtR3p6QzI0UHJkWUpEZXlmOWNCNXVDVnBfVzZNejB2TFZCQWxqQ0xnaU0taWJzZmtEUHM1amtyenFLZzk0aVFTOG14SXlERUxRM1lfRzd2QUVPRQ?oc=5\" target=\"_blank\">(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
       "date": "Mon, 21 Sep 2026 06:30:15 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
@@ -1158,6 +1158,21 @@
         "موجز نيوز"
       ],
       "telegramUpdateId": 241993278
+    },
+    {
+      "title": "حنان السويدي.. مسيرة إماراتية من طب الأسرة إلى الفضاء - البيان",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1bjFNaUUtT1BxOEtDRm51YklaYWFvNURsaU9aaW9FY3ROUTZkbXRGYVQzd0ozUjBWMXdzMGgxUlpERkEwaWNDaHVLUkkyU05DSjVtZmI3NktDZGvSAWBBVV95cUxQNE1mWHhrbE80ak11UmptQlVNZVlaMkhXOERSMlhBOEJsZG44TVZQbUc1REtjbFRFYnVKQ3U3dmRXNE05RExkbXREMWRlcVY0LVdzckxpUnpoXzEtaWJDM3o?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1bjFNaUUtT1BxOEtDRm51YklaYWFvNURsaU9aaW9FY3ROUTZkbXRGYVQzd0ozUjBWMXdzMGgxUlpERkEwaWNDaHVLUkkyU05DSjVtZmI3NktDZGvSAWBBVV95cUxQNE1mWHhrbE80ak11UmptQlVNZVlaMkhXOERSMlhBOEJsZG44TVZQbUc1REtjbFRFYnVKQ3U3dmRXNE05RExkbXREMWRlcVY0LVdzckxpUnpoXzEtaWJDM3o?oc=5\" target=\"_blank\">حنان السويدي.. مسيرة إماراتية من طب الأسرة إلى الفضاء</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">البيان</font>",
+      "date": "Sat, 29 Aug 2026 07:00:00 GMT",
+      "source": "Google News علوم",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "علوم",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News علوم"
+      ]
     },
     {
       "title": "المرحلة الثانية 2026.. تنسيق كليات ومعاهد علوم ورياضة نظام قديم - Masrawy",
@@ -1343,21 +1358,6 @@
       "title": "جامعة بنى سويف الأهلية تقبل طلاب الثانوية العامة فى 13 كلية و20 برنامجا - اليوم السابع",
       "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPOEVNWW1jNDVpbENSSG9fRDllbW4zMzcyNGYwak5HYmlKY1NHSFRMUUx6SjE5cVZsb25XME82Nk5oY1pRakxBTEhWNk56d19tOWRzWUhNV0pfQWVzNmoyWU92dHk1bTAxSkh2UlNjbVBsc1c4N1FnVkMtQ1BRcXBDOE9iWEYyaGZ3Vk9oUmdTZ2tEOFMwWVU0QmtCRU9RV0xjcVA1UEhlSXEyZUY0Z0FHVW9Eek1wUkE1YmtheFRYMEk3ZWRpX3d6b1R4RGNPS2Vtclh4dXpXR2FlSm53bV9ibUlrazJsemE4aFRuQUN4U3JhbzZhRU5GY1dqTGEzVWNVVzljRmhGM2hWcWRPektWNy1xYWRvSTBCT1I5WFl1c0pxQ2ZWaUxFQXpiNnExMzd5ZV9EQ2RuQXdlYkJiR1RQdU05Z0lGdTc5cVZWYnIwbkpPSVNlbTlOUGItRW1LNjVsSFN5bzJkRkNteHRnOEFOTXpGYlh0WXFzeXNQQUxySTFMZFk5UW9VZjhMQkxlZllIVDdGcjcyTlpOWGxPQ2lpczdfY2dZcHc0UXMwNk5TYTY1MHBnVGt1cUUzRm00NW9q0gG7A0FVX3lxTE1iQ3lDLVVzcXg3TnNOSTl4NVVOdTlwNlZha3NpWnlyeVljRE80NkI1akp6dWZiVVFjRmVOYzAwenZVVmZlUnJGMEt6NHBRbnhuN3d0Y2Y4TTRYenRUX3g3YlJuTjNGelNkQlVKdFJvbndCbmF5cEVpc2h1MkFKN1k0TGdRWUZDbi1uTi1OZFhzRnJBZmFNdk5VRi0tU0hvZDZRVHp6dnczemVaRjJ2M2h1azgxRUdFRXpVMU5WMmxoc0M2WG1hSW5DUkVHX3hsNzIyREJfaEJiSkxoY1RidGJYbTZoQUpuaEgtVW43YlRnX2pNeWVyLW0wMUxURDJ1WGR3SkZUcXlBS2ZFcWc3SHhMNEVMV0JyQmZVVkphV2ZGMFJmbWg2TERLV3ZEb3FxNGEyS05wUnhCVFJXZkdBWUVIN2pYQVZKZzdXa2wzLVVVdTVTY3Z4S2NDMWdYMFg1STZySEJISkg3TEI4Q25tZW1kU0l1WUI3TFZSYVUxaVZieW84MzczTkgtUXBXSzhjclhiOUtYcXFTaUptQmUydjM1LW9KNllJcnBZUHpLWUpoREpfUzJpcFdYMENN?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiwANBVV95cUxPOEVNWW1jNDVpbENSSG9fRDllbW4zMzcyNGYwak5HYmlKY1NHSFRMUUx6SjE5cVZsb25XME82Nk5oY1pRakxBTEhWNk56d19tOWRzWUhNV0pfQWVzNmoyWU92dHk1bTAxSkh2UlNjbVBsc1c4N1FnVkMtQ1BRcXBDOE9iWEYyaGZ3Vk9oUmdTZ2tEOFMwWVU0QmtCRU9RV0xjcVA1UEhlSXEyZUY0Z0FHVW9Eek1wUkE1YmtheFRYMEk3ZWRpX3d6b1R4RGNPS2Vtclh4dXpXR2FlSm53bV9ibUlrazJsemE4aFRuQUN4U3JhbzZhRU5GY1dqTGEzVWNVVzljRmhGM2hWcWRPektWNy1xYWRvSTBCT1I5WFl1c0pxQ2ZWaUxFQXpiNnExMzd5ZV9EQ2RuQXdlYkJiR1RQdU05Z0lGdTc5cVZWYnIwbkpPSVNlbTlOUGItRW1LNjVsSFN5bzJkRkNteHRnOEFOTXpGYlh0WXFzeXNQQUxySTFMZFk5UW9VZjhMQkxlZllIVDdGcjcyTlpOWGxPQ2lpczdfY2dZcHc0UXMwNk5TYTY1MHBnVGt1cUUzRm00NW9q0gG7A0FVX3lxTE1iQ3lDLVVzcXg3TnNOSTl4NVVOdTlwNlZha3NpWnlyeVljRE80NkI1akp6dWZiVVFjRmVOYzAwenZVVmZlUnJGMEt6NHBRbnhuN3d0Y2Y4TTRYenRUX3g3YlJuTjNGelNkQlVKdFJvbndCbmF5cEVpc2h1MkFKN1k0TGdRWUZDbi1uTi1OZFhzRnJBZmFNdk5VRi0tU0hvZDZRVHp6dnczemVaRjJ2M2h1azgxRUdFRXpVMU5WMmxoc0M2WG1hSW5DUkVHX3hsNzIyREJfaEJiSkxoY1RidGJYbTZoQUpuaEgtVW43YlRnX2pNeWVyLW0wMUxURDJ1WGR3SkZUcXlBS2ZFcWc3SHhMNEVMV0JyQmZVVkphV2ZGMFJmbWg2TERLV3ZEb3FxNGEyS05wUnhCVFJXZkdBWUVIN2pYQVZKZzdXa2wzLVVVdTVTY3Z4S2NDMWdYMFg1STZySEJISkg3TEI4Q25tZW1kU0l1WUI3TFZSYVUxaVZieW84MzczTkgtUXBXSzhjclhiOUtYcXFTaUptQmUydjM1LW9KNllJcnBZUHpLWUpoREpfUzJpcFdYMENN?oc=5\" target=\"_blank\">جامعة بنى سويف الأهلية تقبل طلاب الثانوية العامة فى 13 كلية و20 برنامجا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
-      "date": "Tue, 12 Aug 2025 07:00:00 GMT",
-      "source": "Google News علوم",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "علوم",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News علوم"
-      ]
-    },
-    {
-      "title": "نتيجة تنسيق المرحلة الثانية نظام قديم لطلاب الشعبة العلمية - اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxObjh6TURTSElqSTN1T3l6TlZndWF3cjczcS1iQm9UeHoxbnYxQjBSc29wLTNFRkpjaXpWd2hjU0x1ZEZCaS01YVVpMC1jZFJQUjB2QlpaZUx5VnhQUXpKemZWU19ORkJCRlhTbUp1aEVpRzkxXzNPa3RNd0ppOWY3ZFNLV3hBWGtueHI4TldPRTRtTjdYQVpQNVdDMTRNVnVGbU54bmN4SVo4NGJwTzNPcUxZb1h2eU5ubUhPV3dGTGlTZHM3cG8wbGVHWF9TMDZkdUlsM0c5dlloa0d2b1V6NmpraW5Ba0lEMDdFcDgzaF9JdXhIdVJkN1luaUpjQ1FIYUVUYUd1ZERSNERLZ1hwbGFheXRkSWp2UEpOMFNrLUJPbHQ2a1FhczJMSXNsOE1hM1NoNTVKdFVfbkJWV3o5LWJnLVpfWndLcXZrUjVsMFpoZ1JPM05keWJhUk1NZ1VHZlFsaTBObU93V1Q1R01GTG5ENnFFRE93UWUzZXRBaFlvNEJSRWM4b2RTVFlfWWNzU1FuRU02Yzg0UmMwVDlsYXNicGpudE9FbERyWXY5TWcyRmFXSGxOVTBDZTYzMVBTZGVMeHZxVXFUd1lZRUNjWWF4NFpFMzhzNk9ReTlzTThabkJQZVdBQTlhYjBpcF9hOWdXNNIB7wNBVV95cUxQWEtfTmQ0X2g0R0t1R3FoZm1BeUxyR2JMVGQ2WWVWbzdNSUhTVldCVGhpc3hDQkoybmhzWlBHY0JNaW1XNndQcjFUaGc3SnZDVTVxVEtvcFBsNTkxQUlkM1JfUmFFUlZDNVBqT0JsZkpoX2w1UUxHQWE3MmRvQVd5SzE1d0tuRzNJV1RxMU9wcDJwbWR1SUw0OFAzQTgySlR1R3RlR21QOWltc2dOd3hVNHM2VzVFWTF2a2pnNkZRX3JWMUVXZzNNUnJCYnpXMWZvQkRnMHF3YkRQLWlkeldrZ0RDZmtlekZsTXY4Zk1Lb0hmUjlYSGRhNHNnRHRGc0k1LU9nVUF6NHpuUWZsV0UwQ1l2TVhWSndFNlRwQVpJUnJoWENnYkFTLTFvdTNnRlJ6NzZCQzd5MURkejFzeUR4V29KTWM3TjZPeEhGbkRCTzJnVzNUaFlwVEUzZXNKOE1fU1dYRGhsbWUtQno0Mk1MUW4xeG85dFJmNVJTWWZHRl9tb3Awc01HMTBKa3FHQU53bjhaVU5QT3h4OXVBYnNvT0pwWExHemJYT2tCLUZoRXFRYWtwS3p1QXBQbWVJbWxubnJHZHlQcV94NUxHYWRKYVBKVzlrbk5JaTNBMHM3ZGxKVGlORC02MXVkNmhxUW8?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9ANBVV95cUxObjh6TURTSElqSTN1T3l6TlZndWF3cjczcS1iQm9UeHoxbnYxQjBSc29wLTNFRkpjaXpWd2hjU0x1ZEZCaS01YVVpMC1jZFJQUjB2QlpaZUx5VnhQUXpKemZWU19ORkJCRlhTbUp1aEVpRzkxXzNPa3RNd0ppOWY3ZFNLV3hBWGtueHI4TldPRTRtTjdYQVpQNVdDMTRNVnVGbU54bmN4SVo4NGJwTzNPcUxZb1h2eU5ubUhPV3dGTGlTZHM3cG8wbGVHWF9TMDZkdUlsM0c5dlloa0d2b1V6NmpraW5Ba0lEMDdFcDgzaF9JdXhIdVJkN1luaUpjQ1FIYUVUYUd1ZERSNERLZ1hwbGFheXRkSWp2UEpOMFNrLUJPbHQ2a1FhczJMSXNsOE1hM1NoNTVKdFVfbkJWV3o5LWJnLVpfWndLcXZrUjVsMFpoZ1JPM05keWJhUk1NZ1VHZlFsaTBObU93V1Q1R01GTG5ENnFFRE93UWUzZXRBaFlvNEJSRWM4b2RTVFlfWWNzU1FuRU02Yzg0UmMwVDlsYXNicGpudE9FbERyWXY5TWcyRmFXSGxOVTBDZTYzMVBTZGVMeHZxVXFUd1lZRUNjWWF4NFpFMzhzNk9ReTlzTThabkJQZVdBQTlhYjBpcF9hOWdXNNIB7wNBVV95cUxQWEtfTmQ0X2g0R0t1R3FoZm1BeUxyR2JMVGQ2WWVWbzdNSUhTVldCVGhpc3hDQkoybmhzWlBHY0JNaW1XNndQcjFUaGc3SnZDVTVxVEtvcFBsNTkxQUlkM1JfUmFFUlZDNVBqT0JsZkpoX2w1UUxHQWE3MmRvQVd5SzE1d0tuRzNJV1RxMU9wcDJwbWR1SUw0OFAzQTgySlR1R3RlR21QOWltc2dOd3hVNHM2VzVFWTF2a2pnNkZRX3JWMUVXZzNNUnJCYnpXMWZvQkRnMHF3YkRQLWlkeldrZ0RDZmtlekZsTXY4Zk1Lb0hmUjlYSGRhNHNnRHRGc0k1LU9nVUF6NHpuUWZsV0UwQ1l2TVhWSndFNlRwQVpJUnJoWENnYkFTLTFvdTNnRlJ6NzZCQzd5MURkejFzeUR4V29KTWM3TjZPeEhGbkRCTzJnVzNUaFlwVEUzZXNKOE1fU1dYRGhsbWUtQno0Mk1MUW4xeG85dFJmNVJTWWZHRl9tb3Awc01HMTBKa3FHQU53bjhaVU5QT3h4OXVBYnNvT0pwWExHemJYT2tCLUZoRXFRYWtwS3p1QXBQbWVJbWxubnJHZHlQcV94NUxHYWRKYVBKVzlrbk5JaTNBMHM3ZGxKVGlORC02MXVkNmhxUW8?oc=5\" target=\"_blank\">نتيجة تنسيق المرحلة الثانية نظام قديم لطلاب الشعبة العلمية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
       "date": "Tue, 12 Aug 2025 07:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
