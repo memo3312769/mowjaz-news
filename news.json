@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T22:50:08.263Z",
+  "updatedAt": "2026-09-23T23:05:39.625Z",
   "items": [
     {
       "title": "الشرع يؤكد أن الجولان سيبقى أرضاً سورية، وبيزشكيان يتعهد بعدم الخضوع ويتهم واشنطن بـ\"الإرهاب\"",
       "link": "https://www.bbc.co.uk/arabic/live/cq3d7yy42r5gt?at_medium=RSS&at_campaign=rss",
       "description": "لقاءات وخطابات قادة العالم تتواصل على هامش اجتماعات الجمعية العامة للأمم المتحدة في نيويورك، التي انطلقت الثلاثاء وتستمر حتى 28 سبتمبر/أيلول",
-      "date": "2026-09-23T22:50:07.309Z",
+      "date": "2026-09-23T23:05:38.807Z",
       "source": "BBC العربية",
       "sourceScore": 10,
       "sourceType": "official-rss",
@@ -82,13 +82,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
       "date": "Wed, 23 Sep 2026 22:23:28 GMT",
-      "source": "BBC Business",
+      "source": "BBC World",
       "sourceScore": 10,
       "sourceType": "official-rss",
-      "cat": "اقتصاد",
+      "cat": "العالم",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
-      "sourceCount": 2,
+      "sourceCount": 3,
       "sources": [
+        "BBC World",
         "BBC Business",
         "BBC Technology"
       ]
@@ -139,21 +140,6 @@
       "sourceCount": 1,
       "sources": [
         "Sky News عربية"
-      ]
-    },
-    {
-      "title": "Federal judge delays ruling on White House media ban",
-      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "description": "During a roughly 45-minute hearing, a lawyer for CNN, Politico and MS NOW disputed Trump administration arguments that the ban was over national security concerns.",
-      "date": "Wed, 23 Sep 2026 21:53:38 GMT",
-      "source": "BBC World",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5038/live/fc68f0f0-b718-11f1-8d21-19ad84e0e822.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "BBC World"
       ]
     },
     {
@@ -217,9 +203,9 @@
       ]
     },
     {
-      "title": "مدبولي: وجهنا رسالة واضحة لواشنطن بضرورة إنهاء الحرب على إيران - masrawy.com",
+      "title": "مدبولي: وجهنا رسالة واضحة لواشنطن بضرورة إنهاء الحرب على إيران - Masrawy",
       "link": "https://news.google.com/rss/articles/CBMioARBVV95cUxQVmNoWlNqVDE5bHJiSDBpOVlETTZqRENYOHo3M0F0d1g4Z2t6Q3I0d0ozRGdYN3JscTExa2FIYnl1WEhrbDRMQnFZalpFTUdKTUdndnQ2Nmh1Wi01RHdUbkgxNU5UUjNudjJzU3FvdVBrVzZaREYtQlRUSFdPUU5lXzVab28tZVhuc3QxVXltRGxmR0l0QVpqekFWM3ZZMUZ1SG1kZEczU1phNVJMdC14cksyZS1BZ0t3Q3gtT01PaF9EbjRDbmxPd3JBLWRXdEkzN0FhVjhneVB3YWJXTi1RWjQzSVRKMzdlZXNGb3VzWlJrRGpLenNabzNRbzRwWGE2Z3pEamxtdXkxV0p1SGViNG5kZTRGd0tTOGY2LWdpaHBhUDhRQkNHSkFEZldFX0hyZktrOTJRRm1ranQ5RE1DMW52dGdkSGNWNC1XS0VZYnRjbUMtZE5iOHZZQThXZW85T2EtM1BpMHFaNk03eE5hb2RvblJGVURMRkQwb0VmRmp1MEtkaFNyZjdlVEdlSHVicTdtSjdkQk5oOWdxUGxZRmQ1ZkRoR0NBUTVVTlczdkVVQlg1TEhkakV1OUtUemZHSGpiZjc1bzJSSURZUkY1Mjl6eG4yRDhpUlFfVlVWY3ktaVduMmo2dHNNUFFJRnBYMjFMRDZPd2FvLWpTQlZ3R1lqZzZ1Q3pMU3liM3BYdXBHc2s1VjdESEdIdUY5OWZy0gGmBEFVX3lxTE5XLTRWb1ppWU9HN25RaVM1UFVXOHUzNjJ2YzhWYjhHeTNVYWxVQVVpQWUwSUVWUVY1RlZoZFFxMDd5S3BlV0tEODU5QVhHRmZ3N1dUWjV1Vy1zLU5YUVlZQ3VUVU9MeldqNHlCbFZkcTUtZjFMNzFJV1BIRE1XNy1RU29fMnBkRGhTZGhsZzROWmpRRXZoa1pqdFNrcnZ2eDdfLVVsSDlTcFloSzV5WGV6RWhrSWdsNlRrWGF6dzI2ODJyV2diRWliY1VzQmFpMU9ReGJfZWZvbXFSTGdZdlZOdFFTTDBSczA1V1NuZUE2RVdiMjBpNjZnb040cFV3YmZSV2RYRmJ4S1VxcXg0NGtIMWE1OXFfYkJ4ck9IRFdxZjNTNHZpdFJPcG9WOXhQVkEwVndsNzhFMmpqcWpVc0ZxN3RONWhiUU12emcwTVhLYjB5SldEb3I3MTc1d3I1OXpLNUtPRWJueTJVVmduRjBueHY2X29Cbm9qdVZXWjk0Z05Db1lsTFVVLUhOcWlFci1Ya2xEa0pxTjZ0c3VFTzZhU3pXR1NZY053RjdFNTdFTi1wb3NTVWpZb0Y5bXIzVFZnRVZieEZfazljb1QzdDZGTEpWN1V6b0w0NTVaZjhMZWR6M3kwUXloTjFUYlRCRGZhNF9rRXcxSXhDUGstTjhoVWhwaUN5c0lMek5jQXJEOHBKS2VJWnZqc3FJUUt5OGE3c0tQaGc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMioARBVV95cUxQVmNoWlNqVDE5bHJiSDBpOVlETTZqRENYOHo3M0F0d1g4Z2t6Q3I0d0ozRGdYN3JscTExa2FIYnl1WEhrbDRMQnFZalpFTUdKTUdndnQ2Nmh1Wi01RHdUbkgxNU5UUjNudjJzU3FvdVBrVzZaREYtQlRUSFdPUU5lXzVab28tZVhuc3QxVXltRGxmR0l0QVpqekFWM3ZZMUZ1SG1kZEczU1phNVJMdC14cksyZS1BZ0t3Q3gtT01PaF9EbjRDbmxPd3JBLWRXdEkzN0FhVjhneVB3YWJXTi1RWjQzSVRKMzdlZXNGb3VzWlJrRGpLenNabzNRbzRwWGE2Z3pEamxtdXkxV0p1SGViNG5kZTRGd0tTOGY2LWdpaHBhUDhRQkNHSkFEZldFX0hyZktrOTJRRm1ranQ5RE1DMW52dGdkSGNWNC1XS0VZYnRjbUMtZE5iOHZZQThXZW85T2EtM1BpMHFaNk03eE5hb2RvblJGVURMRkQwb0VmRmp1MEtkaFNyZjdlVEdlSHVicTdtSjdkQk5oOWdxUGxZRmQ1ZkRoR0NBUTVVTlczdkVVQlg1TEhkakV1OUtUemZHSGpiZjc1bzJSSURZUkY1Mjl6eG4yRDhpUlFfVlVWY3ktaVduMmo2dHNNUFFJRnBYMjFMRDZPd2FvLWpTQlZ3R1lqZzZ1Q3pMU3liM3BYdXBHc2s1VjdESEdIdUY5OWZy0gGmBEFVX3lxTE5XLTRWb1ppWU9HN25RaVM1UFVXOHUzNjJ2YzhWYjhHeTNVYWxVQVVpQWUwSUVWUVY1RlZoZFFxMDd5S3BlV0tEODU5QVhHRmZ3N1dUWjV1Vy1zLU5YUVlZQ3VUVU9MeldqNHlCbFZkcTUtZjFMNzFJV1BIRE1XNy1RU29fMnBkRGhTZGhsZzROWmpRRXZoa1pqdFNrcnZ2eDdfLVVsSDlTcFloSzV5WGV6RWhrSWdsNlRrWGF6dzI2ODJyV2diRWliY1VzQmFpMU9ReGJfZWZvbXFSTGdZdlZOdFFTTDBSczA1V1NuZUE2RVdiMjBpNjZnb040cFV3YmZSV2RYRmJ4S1VxcXg0NGtIMWE1OXFfYkJ4ck9IRFdxZjNTNHZpdFJPcG9WOXhQVkEwVndsNzhFMmpqcWpVc0ZxN3RONWhiUU12emcwTVhLYjB5SldEb3I3MTc1d3I1OXpLNUtPRWJueTJVVmduRjBueHY2X29Cbm9qdVZXWjk0Z05Db1lsTFVVLUhOcWlFci1Ya2xEa0pxTjZ0c3VFTzZhU3pXR1NZY053RjdFNTdFTi1wb3NTVWpZb0Y5bXIzVFZnRVZieEZfazljb1QzdDZGTEpWN1V6b0w0NTVaZjhMZWR6M3kwUXloTjFUYlRCRGZhNF9rRXcxSXhDUGstTjhoVWhwaUN5c0lMek5jQXJEOHBKS2VJWnZqc3FJUUt5OGE3c0tQaGc?oc=5\" target=\"_blank\">مدبولي: وجهنا رسالة واضحة لواشنطن بضرورة إنهاء الحرب على إيران</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">masrawy.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioARBVV95cUxQVmNoWlNqVDE5bHJiSDBpOVlETTZqRENYOHo3M0F0d1g4Z2t6Q3I0d0ozRGdYN3JscTExa2FIYnl1WEhrbDRMQnFZalpFTUdKTUdndnQ2Nmh1Wi01RHdUbkgxNU5UUjNudjJzU3FvdVBrVzZaREYtQlRUSFdPUU5lXzVab28tZVhuc3QxVXltRGxmR0l0QVpqekFWM3ZZMUZ1SG1kZEczU1phNVJMdC14cksyZS1BZ0t3Q3gtT01PaF9EbjRDbmxPd3JBLWRXdEkzN0FhVjhneVB3YWJXTi1RWjQzSVRKMzdlZXNGb3VzWlJrRGpLenNabzNRbzRwWGE2Z3pEamxtdXkxV0p1SGViNG5kZTRGd0tTOGY2LWdpaHBhUDhRQkNHSkFEZldFX0hyZktrOTJRRm1ranQ5RE1DMW52dGdkSGNWNC1XS0VZYnRjbUMtZE5iOHZZQThXZW85T2EtM1BpMHFaNk03eE5hb2RvblJGVURMRkQwb0VmRmp1MEtkaFNyZjdlVEdlSHVicTdtSjdkQk5oOWdxUGxZRmQ1ZkRoR0NBUTVVTlczdkVVQlg1TEhkakV1OUtUemZHSGpiZjc1bzJSSURZUkY1Mjl6eG4yRDhpUlFfVlVWY3ktaVduMmo2dHNNUFFJRnBYMjFMRDZPd2FvLWpTQlZ3R1lqZzZ1Q3pMU3liM3BYdXBHc2s1VjdESEdIdUY5OWZy0gGmBEFVX3lxTE5XLTRWb1ppWU9HN25RaVM1UFVXOHUzNjJ2YzhWYjhHeTNVYWxVQVVpQWUwSUVWUVY1RlZoZFFxMDd5S3BlV0tEODU5QVhHRmZ3N1dUWjV1Vy1zLU5YUVlZQ3VUVU9MeldqNHlCbFZkcTUtZjFMNzFJV1BIRE1XNy1RU29fMnBkRGhTZGhsZzROWmpRRXZoa1pqdFNrcnZ2eDdfLVVsSDlTcFloSzV5WGV6RWhrSWdsNlRrWGF6dzI2ODJyV2diRWliY1VzQmFpMU9ReGJfZWZvbXFSTGdZdlZOdFFTTDBSczA1V1NuZUE2RVdiMjBpNjZnb040cFV3YmZSV2RYRmJ4S1VxcXg0NGtIMWE1OXFfYkJ4ck9IRFdxZjNTNHZpdFJPcG9WOXhQVkEwVndsNzhFMmpqcWpVc0ZxN3RONWhiUU12emcwTVhLYjB5SldEb3I3MTc1d3I1OXpLNUtPRWJueTJVVmduRjBueHY2X29Cbm9qdVZXWjk0Z05Db1lsTFVVLUhOcWlFci1Ya2xEa0pxTjZ0c3VFTzZhU3pXR1NZY053RjdFNTdFTi1wb3NTVWpZb0Y5bXIzVFZnRVZieEZfazljb1QzdDZGTEpWN1V6b0w0NTVaZjhMZWR6M3kwUXloTjFUYlRCRGZhNF9rRXcxSXhDUGstTjhoVWhwaUN5c0lMek5jQXJEOHBKS2VJWnZqc3FJUUt5OGE3c0tQaGc?oc=5\" target=\"_blank\">مدبولي: وجهنا رسالة واضحة لواشنطن بضرورة إنهاء الحرب على إيران</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
       "date": "Wed, 23 Sep 2026 21:31:41 GMT",
       "source": "Google News مصر",
       "sourceScore": 6,
@@ -248,8 +234,8 @@
     },
     {
       "title": "في حضور وزير الرياضة.. منتخب مصر يخوض تدريبه الأخير بمركز المنتخبات (صور) - اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNSHVKTExfZWZFTmVKdUJ6U0ZBdkNJTk9MYy1TSW9hRFFKQ0dFM245NGxUay1DYlp5b2MwbFpmeF9hb1JuQUcxRVJkbzVqb3Z2TXk2cFZfdTFPd0tqNzF2ajQ2STAzNDlzNnM0dng2UU5yRjVGblZXY1l2ZzVzLXBhT0J6aEpPSmRDNWp1anIzZDFIMko4VHR3eHFKU1dVbHpGTWw4VllGaGxDZE5yUGwyeEhXNUtLNkFFanAxUDhQZkpNdG1vcGpTb21WWEoxcklOUXZMZjI0VDlpUFVnVVVpZms1STUxbHFuLXZZeWVvZEtzUGVSOEgzcDU2ank1dU9pd2dTdGJ2UW1BYmVvbFZuelJTVTNXaWZOcjl2RGZEa0VOaVVxQnhqdHFDbDRaMjdTdHl0RzBwZ181Ny1uVHNxVDZoMVhlcGUydVRaTUFPVUdMbTY5bF9uX2pIWUNtV2l5bV9KaFlERHE1TWxkdEFCLS01MTdiLU1XcG9jUHc1MVFPMmlyZHZOS016amFmeEUtZWtiem9ZblFIVk10VVdyYUJhbFFuZW0wUVJxbExXMEJiSjAtNVp6eGtwQVdyQkVXak9GVlIwcUVuQ3d3ZjNYSFd5NHZJUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gNBVV95cUxNSHVKTExfZWZFTmVKdUJ6U0ZBdkNJTk9MYy1TSW9hRFFKQ0dFM245NGxUay1DYlp5b2MwbFpmeF9hb1JuQUcxRVJkbzVqb3Z2TXk2cFZfdTFPd0tqNzF2ajQ2STAzNDlzNnM0dng2UU5yRjVGblZXY1l2ZzVzLXBhT0J6aEpPSmRDNWp1anIzZDFIMko4VHR3eHFKU1dVbHpGTWw4VllGaGxDZE5yUGwyeEhXNUtLNkFFanAxUDhQZkpNdG1vcGpTb21WWEoxcklOUXZMZjI0VDlpUFVnVVVpZms1STUxbHFuLXZZeWVvZEtzUGVSOEgzcDU2ank1dU9pd2dTdGJ2UW1BYmVvbFZuelJTVTNXaWZOcjl2RGZEa0VOaVVxQnhqdHFDbDRaMjdTdHl0RzBwZ181Ny1uVHNxVDZoMVhlcGUydVRaTUFPVUdMbTY5bF9uX2pIWUNtV2l5bV9KaFlERHE1TWxkdEFCLS01MTdiLU1XcG9jUHc1MVFPMmlyZHZOS016amFmeEUtZWtiem9ZblFIVk10VVdyYUJhbFFuZW0wUVJxbExXMEJiSjAtNVp6eGtwQVdyQkVXak9GVlIwcUVuQ3d3ZjNYSFd5NHZJUQ?oc=5\" target=\"_blank\">في حضور وزير الرياضة.. منتخب مصر يخوض تدريبه الأخير بمركز المنتخبات (صور)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
+      "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNSHVKTExfZWZFTmVKdUJ6U0ZBdkNJTk9MYy1TSW9hRFFKQ0dFM245NGxUay1DYlp5b2MwbFpmeF9hb1JuQUcxRVJkbzVqb3Z2TXk2cFZfdTFPd0tqNzF2ajQ2STAzNDlzNnM0dng2UU5yRjVGblZXY1l2ZzVzLXBhT0J6aEpPSmRDNWp1anIzZDFIMko4VHR3eHFKU1dVbHpGTWw4VllGaGxDZE5yUGwyeEhXNUtLNkFFanAxUDhQZkpNdG1vcGpTb21WWEoxcklOUXZMZjI0VDlpUFVnVVVpZms1STUxbHFuLXZZeWVvZEtzUGVSOEgzcDU2ank1dU9pd2dTdGJ2UW1BYmVvbFZuelJTVTNXaWZOcjl2RGZEa0VOaVVxQnhqdHFDbDRaMjdTdHl0RzBwZ181Ny1uVHNxVDZoMVhlcGUydVRaTUFPVUdMbTY5bF9uX2pIWUNtV2l5bV9KaFlERHE1TWxkdEFCLS01MTdiLU1XcG9jUHc1MVFPMmlyZHZOS016amFmeEUtZWtiem9ZblFIVk10VVdyYUJhbFFuZW0wUVJxbExXMEJiSjAtNVp6eGtwQVdyQkVXak9GVlIwcUVuQ3d3ZjNYSFd5NHZJUdIB0ANBVV95cUxNSXQxaUtxT3JiSWJFY0FEUHFOb3QxbFZ0UGpiQm1CQ3Frd1FmVDFZampOS3FDRFBjUHVTTk5HLUtfdDE3NVZqZTdiTXI4U3dGSlBVQ0RZMWFEOExaWl9UT1VJd1U2S0V0ckdlbTM5N2dRd0h1YjdYRkZJaF8zdTU3OEtPTV9hbVhneHFvTnlDSWdxd3RQcU02M005Q3BOUExPV3VFQy1TTGdwaXNZQnpoWGVTZmFqcTJpYWV1eVZiMVZOX0tNcTU0c2lpM0dNd1VjY01FUzBwMmZoZUZpUU14UE9QY3VZVzZzVXR0eHo3cmFQVWR0YU5FeC1LYTVKNHlxdTBCQWhtaXhkQzZEWVFRc2IzZThEZHhqTFZRMGRKb1dka0lRUDhLendpNVZTUHJudWx2eEdIQjBYUU5EaTF3WlN3X04weVJtS1dCcUl4QXF0X29DVnNjMTZWQnUwZmxQekN4WUFETE9QeHN3cFFfb29LQ0IxSERsVUhGazROWndpaEQ3Z1RfaEVOamV4UVczYlQ2U1p3ZHVZZTFMQjBZV3pWbG9uLVNacE15TUhNb09LUy1zQkViV0tOOHhXTG9WaWQxRm00blQ0LVhWRUNuQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gNBVV95cUxNSHVKTExfZWZFTmVKdUJ6U0ZBdkNJTk9MYy1TSW9hRFFKQ0dFM245NGxUay1DYlp5b2MwbFpmeF9hb1JuQUcxRVJkbzVqb3Z2TXk2cFZfdTFPd0tqNzF2ajQ2STAzNDlzNnM0dng2UU5yRjVGblZXY1l2ZzVzLXBhT0J6aEpPSmRDNWp1anIzZDFIMko4VHR3eHFKU1dVbHpGTWw4VllGaGxDZE5yUGwyeEhXNUtLNkFFanAxUDhQZkpNdG1vcGpTb21WWEoxcklOUXZMZjI0VDlpUFVnVVVpZms1STUxbHFuLXZZeWVvZEtzUGVSOEgzcDU2ank1dU9pd2dTdGJ2UW1BYmVvbFZuelJTVTNXaWZOcjl2RGZEa0VOaVVxQnhqdHFDbDRaMjdTdHl0RzBwZ181Ny1uVHNxVDZoMVhlcGUydVRaTUFPVUdMbTY5bF9uX2pIWUNtV2l5bV9KaFlERHE1TWxkdEFCLS01MTdiLU1XcG9jUHc1MVFPMmlyZHZOS016amFmeEUtZWtiem9ZblFIVk10VVdyYUJhbFFuZW0wUVJxbExXMEJiSjAtNVp6eGtwQVdyQkVXak9GVlIwcUVuQ3d3ZjNYSFd5NHZJUdIB0ANBVV95cUxNSXQxaUtxT3JiSWJFY0FEUHFOb3QxbFZ0UGpiQm1CQ3Frd1FmVDFZampOS3FDRFBjUHVTTk5HLUtfdDE3NVZqZTdiTXI4U3dGSlBVQ0RZMWFEOExaWl9UT1VJd1U2S0V0ckdlbTM5N2dRd0h1YjdYRkZJaF8zdTU3OEtPTV9hbVhneHFvTnlDSWdxd3RQcU02M005Q3BOUExPV3VFQy1TTGdwaXNZQnpoWGVTZmFqcTJpYWV1eVZiMVZOX0tNcTU0c2lpM0dNd1VjY01FUzBwMmZoZUZpUU14UE9QY3VZVzZzVXR0eHo3cmFQVWR0YU5FeC1LYTVKNHlxdTBCQWhtaXhkQzZEWVFRc2IzZThEZHhqTFZRMGRKb1dka0lRUDhLendpNVZTUHJudWx2eEdIQjBYUU5EaTF3WlN3X04weVJtS1dCcUl4QXF0X29DVnNjMTZWQnUwZmxQekN4WUFETE9QeHN3cFFfb29LQ0IxSERsVUhGazROWndpaEQ3Z1RfaEVOamV4UVczYlQ2U1p3ZHVZZTFMQjBZV3pWbG9uLVNacE15TUhNb09LUy1zQkViV0tOOHhXTG9WaWQxRm00blQ0LVhWRUNuQQ?oc=5\" target=\"_blank\">في حضور وزير الرياضة.. منتخب مصر يخوض تدريبه الأخير بمركز المنتخبات (صور)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
       "date": "Wed, 23 Sep 2026 21:29:00 GMT",
       "source": "Google News رياضة",
       "sourceScore": 6,
@@ -322,9 +308,9 @@
       ]
     },
     {
-      "title": "هل تشهد مصر فقاعة عقارية قريبًا؟.. هاني جنينة يوضح - masrawy.com",
+      "title": "هل تشهد مصر فقاعة عقارية قريبًا؟.. هاني جنينة يوضح - Masrawy",
       "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNWWRQakpFZmFiRURjS2ZuWTZ1Uzc3eFBlZEVROXBuYnVWUGVqZVU5NjlrTVZiRlc3QzkyVW1jLUdSa2xTbXptUDJZUUNON1ZTaHNNeThrTFhkYlJLeUFBb0owdHNhTnJ0LUZkQ1FQM1BWSnRiSHhXWVZXMy1HdktlU0VOSGJLLVlVT18tRkxkUURMVmZFREJXUUlST0hWZXhJRFJHMk5kbVUyemdhZkMxNmMtRUlxd08zTXlBN05CT252NWtFcFhta21pcjI3SFdSUkNmTk1rT0JtU1I1MGthZUpvY3o5aXNwTExRS3lBaU5BQUxkTnJCdUtvdnNXVzZHaGV3Mlc1bnpObXJ4ek1JZHAtZEN0VHo5Y2duVUxsSG5ocGd0bkE3NEFXOHhXTW92VFFqendjdkdGSWNKV3ZkNzZPZGFQYm1iX2JIWmNsRHlpNTZPZUNTZU8tbUswckVsWHB0SWZ0RDM3RkVBU28wdjh1NGhXbVRUZHlXdEszN2xpclJIU2FjaVV0N2JhNUw3QVA0TlktTDZZVFVNMWVvUFhCLUVsRFZSeC1idDBlSzPSAbYDQVVfeXFMTWtGazVrZVJoT3RzNzVhdWhRX0lwWm1EekUtbHpjZXFFNGQ1NlV4UDA3UlhUaE41bDcxVkVlektfd21DcVNzREN3UjJYSmt3TEdlRUZ3M2hOUTBNblM2cmVWWnRWWFBGNWJ5aWlTSnJKRzhiYVhvOTQyVmFvU0dkSlVjN3pVQXNTQTk2ZGctMjlERWcxXzNJdUg0OE1HY3E2TXBKUk52Q0xaaWJSU2JjaGtFcmhsQVJ4bWZDNEdzaU80NE4zYlVqUi1DM2NTSWRzd0VVY2Q4S0otZm5hOHoxQm5SNk91VFA5ejMxdW8ycEh2YnVwN2dyem9tOWlTTk5hVl9jcUdBZTZYWTZSeVBmZkMyalJuTGh1Zm9CYUpsRmxkRmJGQi1uZ2FyS09WTW56bGFzS0lIRHdPNDUzTVpYMkU2QlRaMFJkZDE2akl1OVNwbHdXWGJoUWtGNGJMTDlLNlhRRzdyMUZXd1otenBRUDRLVjI1aWo2VFNVRkE1cDFZWjFmczR0eEVHRkNrQlAxOTQ3X3B0YWNwVXpOSUdtaXpZLXI0WURVRl80WGpjaTdkVUpSTG5B?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisANBVV95cUxNWWRQakpFZmFiRURjS2ZuWTZ1Uzc3eFBlZEVROXBuYnVWUGVqZVU5NjlrTVZiRlc3QzkyVW1jLUdSa2xTbXptUDJZUUNON1ZTaHNNeThrTFhkYlJLeUFBb0owdHNhTnJ0LUZkQ1FQM1BWSnRiSHhXWVZXMy1HdktlU0VOSGJLLVlVT18tRkxkUURMVmZFREJXUUlST0hWZXhJRFJHMk5kbVUyemdhZkMxNmMtRUlxd08zTXlBN05CT252NWtFcFhta21pcjI3SFdSUkNmTk1rT0JtU1I1MGthZUpvY3o5aXNwTExRS3lBaU5BQUxkTnJCdUtvdnNXVzZHaGV3Mlc1bnpObXJ4ek1JZHAtZEN0VHo5Y2duVUxsSG5ocGd0bkE3NEFXOHhXTW92VFFqendjdkdGSWNKV3ZkNzZPZGFQYm1iX2JIWmNsRHlpNTZPZUNTZU8tbUswckVsWHB0SWZ0RDM3RkVBU28wdjh1NGhXbVRUZHlXdEszN2xpclJIU2FjaVV0N2JhNUw3QVA0TlktTDZZVFVNMWVvUFhCLUVsRFZSeC1idDBlSzPSAbYDQVVfeXFMTWtGazVrZVJoT3RzNzVhdWhRX0lwWm1EekUtbHpjZXFFNGQ1NlV4UDA3UlhUaE41bDcxVkVlektfd21DcVNzREN3UjJYSmt3TEdlRUZ3M2hOUTBNblM2cmVWWnRWWFBGNWJ5aWlTSnJKRzhiYVhvOTQyVmFvU0dkSlVjN3pVQXNTQTk2ZGctMjlERWcxXzNJdUg0OE1HY3E2TXBKUk52Q0xaaWJSU2JjaGtFcmhsQVJ4bWZDNEdzaU80NE4zYlVqUi1DM2NTSWRzd0VVY2Q4S0otZm5hOHoxQm5SNk91VFA5ejMxdW8ycEh2YnVwN2dyem9tOWlTTk5hVl9jcUdBZTZYWTZSeVBmZkMyalJuTGh1Zm9CYUpsRmxkRmJGQi1uZ2FyS09WTW56bGFzS0lIRHdPNDUzTVpYMkU2QlRaMFJkZDE2akl1OVNwbHdXWGJoUWtGNGJMTDlLNlhRRzdyMUZXd1otenBRUDRLVjI1aWo2VFNVRkE1cDFZWjFmczR0eEVHRkNrQlAxOTQ3X3B0YWNwVXpOSUdtaXpZLXI0WURVRl80WGpjaTdkVUpSTG5B?oc=5\" target=\"_blank\">هل تشهد مصر فقاعة عقارية قريبًا؟.. هاني جنينة يوضح</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">masrawy.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisANBVV95cUxNWWRQakpFZmFiRURjS2ZuWTZ1Uzc3eFBlZEVROXBuYnVWUGVqZVU5NjlrTVZiRlc3QzkyVW1jLUdSa2xTbXptUDJZUUNON1ZTaHNNeThrTFhkYlJLeUFBb0owdHNhTnJ0LUZkQ1FQM1BWSnRiSHhXWVZXMy1HdktlU0VOSGJLLVlVT18tRkxkUURMVmZFREJXUUlST0hWZXhJRFJHMk5kbVUyemdhZkMxNmMtRUlxd08zTXlBN05CT252NWtFcFhta21pcjI3SFdSUkNmTk1rT0JtU1I1MGthZUpvY3o5aXNwTExRS3lBaU5BQUxkTnJCdUtvdnNXVzZHaGV3Mlc1bnpObXJ4ek1JZHAtZEN0VHo5Y2duVUxsSG5ocGd0bkE3NEFXOHhXTW92VFFqendjdkdGSWNKV3ZkNzZPZGFQYm1iX2JIWmNsRHlpNTZPZUNTZU8tbUswckVsWHB0SWZ0RDM3RkVBU28wdjh1NGhXbVRUZHlXdEszN2xpclJIU2FjaVV0N2JhNUw3QVA0TlktTDZZVFVNMWVvUFhCLUVsRFZSeC1idDBlSzPSAbYDQVVfeXFMTWtGazVrZVJoT3RzNzVhdWhRX0lwWm1EekUtbHpjZXFFNGQ1NlV4UDA3UlhUaE41bDcxVkVlektfd21DcVNzREN3UjJYSmt3TEdlRUZ3M2hOUTBNblM2cmVWWnRWWFBGNWJ5aWlTSnJKRzhiYVhvOTQyVmFvU0dkSlVjN3pVQXNTQTk2ZGctMjlERWcxXzNJdUg0OE1HY3E2TXBKUk52Q0xaaWJSU2JjaGtFcmhsQVJ4bWZDNEdzaU80NE4zYlVqUi1DM2NTSWRzd0VVY2Q4S0otZm5hOHoxQm5SNk91VFA5ejMxdW8ycEh2YnVwN2dyem9tOWlTTk5hVl9jcUdBZTZYWTZSeVBmZkMyalJuTGh1Zm9CYUpsRmxkRmJGQi1uZ2FyS09WTW56bGFzS0lIRHdPNDUzTVpYMkU2QlRaMFJkZDE2akl1OVNwbHdXWGJoUWtGNGJMTDlLNlhRRzdyMUZXd1otenBRUDRLVjI1aWo2VFNVRkE1cDFZWjFmczR0eEVHRkNrQlAxOTQ3X3B0YWNwVXpOSUdtaXpZLXI0WURVRl80WGpjaTdkVUpSTG5B?oc=5\" target=\"_blank\">هل تشهد مصر فقاعة عقارية قريبًا؟.. هاني جنينة يوضح</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
       "date": "Wed, 23 Sep 2026 21:10:02 GMT",
       "source": "Google News مصر",
       "sourceScore": 6,
@@ -488,21 +474,6 @@
       ]
     },
     {
-      "title": "بلاغك.. يفرق» | وقفة للسلامة بشركة مصر للصيانة (صان مصر)‏ساعة واحدة مضت أخبار مصر - جريدة باور نيوز الاخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9oTnJYR01RTU5SbkRDMXNyNXBqRzVlV1hsV3RDVE5GS2RXNnZZNlNoODdQZGlCYktfR3lNOXcxeTJOX011?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE9oTnJYR01RTU5SbkRDMXNyNXBqRzVlV1hsV3RDVE5GS2RXNnZZNlNoODdQZGlCYktfR3lNOXcxeTJOX011?oc=5\" target=\"_blank\">بلاغك.. يفرق» | وقفة للسلامة بشركة مصر للصيانة (صان مصر)‏ساعة واحدة مضت أخبار مصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة باور نيوز الاخبارية</font>",
-      "date": "Wed, 23 Sep 2026 20:20:50 GMT",
-      "source": "Google News مصر",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "مصر",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News مصر"
-      ]
-    },
-    {
       "title": "مقصود كروز: التقنيات الحديثة أداة فعالة لتفكيك الفكر المتطرف",
       "link": "https://www.skynewsarabia.com/middle-east/1894032-%D9%85%D9%82%D8%B5%D9%88%D8%AF-%D9%83%D8%B1%D9%88%D8%B2-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%D8%A9-%D8%A3%D8%AF%D8%A7%D8%A9-%D9%81%D8%B9%D8%A7%D9%84%D8%A9-%D9%84%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%A7%D9%84%D9%81%D9%83%D8%B1-%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D8%B1%D9%81",
       "description": "شدد مبعوث وزير خارجية دولة الإمارات لمكافحة التطرف والإرهاب، مقصود كروز، على أن التنظيمات الإرهابية والمتطرفة تسعى بشكل دائم لاستغلال التكنولوجيا المتقدمة والأنظمة الناشئة، وفي مقدمتها الذكاء الاصطناعي، لتمرير مخططاتها واستغلالها في عمليات التجنيد المنظم واستقطاب الشباب وتوجيه قناعاتهم، فضلاً عن ترويج خطاباتها الدعائية.",
@@ -578,9 +549,9 @@
       ]
     },
     {
-      "title": "أمطار متفاوتة الشدة على هذه المنطقة.. الأرصاد تكشف التفاصيل - masrawy.com",
+      "title": "أمطار متفاوتة الشدة على هذه المنطقة.. الأرصاد تكشف التفاصيل - Masrawy",
       "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxOSS10RDd0OUo4SGNSTGJGMzViU1dzeGJlTTBpZzJJNVJZa2lSWUFTRUZNN3NTT1JaMGNUMW0tMHRPMDVMOURmTGgxTFgtWTBHRUNwY05VS0VUbjl1WEFYZE84UjI0eEJIdzNmeGpzb2dGQkVvcUF1cVpZTm9XeC1RUWh1cnlQMmZ5VzNKcEFJYnhvQlZaQzBJb1MyMTFLQ3RERmhKQ05mZXZvOS1BSjJhNUlwSHRYdTJvcS1HTFQxblFoUEhJaFl0VDdwUDZ0angzY1BaeGJUWmJOdENlYmNtZk5SbUlDOUYxT1pLa25sNGptZ1h3cktyVXpvbnRGOERBVTBNT2hlR2JCN1ZudVhnVk9VMDdBa3p0S3VrLXZmSDd6bHdmQm9qcFNIU1NPS3VmakpNNUJBRWFjcnJ2bFdrU3NpOS1lQVE1NHQtc3VUWGx5Uml2X0t3U3FMdGdsSVpxVDZEMzMwakQ3NlhHemlBbnMwbktkaDdnWFZuajIyTTh4ZFpuZFlSMTRtRUlybDBIVmItTXJLamtJTDhuMzVVWFpOekhEaFYweXZsX0NqejFORzd0UG12WmlmRU1GeGx1QkZpdmZVVHcxMlpmSWNFUG5IYXRjYW9mOVBNR2NXd3BwN0t5QjdlWjNGR3JGNzEzODVmWWpuWU4ycVJCaHo4QUlPLTRKclnSAYwEQVVfeXFMUFd4c0x2X2NKSG9jV2hwTlhfN3FSd0RsY29wOEFleklBc3VIQWFwZEpXUGVLVnBEcmpzMkVBejdfUEpxTEdDampkZEQzdGRZMHdtbXFGMHNJWkpvXzNlNS16TXlXMTd4OHoyTHZHQjhQV1pVTGNQa3ZDeEFoSGJnYnhCYUktb3E5Z3E5ckF1c1M2b2E4SG5JSElGU2dUelpkNkhGaXN4bmlZeUo4NWwxZnRUZXhTZ1RFQ0c5M3BrMlRUekpKOGMxaUVJQ29kT2dHMkJ2X2RWUGN6bGo5bWZuYXhmNDBMcWhOSEdVUEtSVFR1eDVWd25WVjd6V3FjTGtFc09qYk1WSXRkTXlKdjJKZkllSERtMVdiWUJwRzFYWkNYQ052Tk5nak9jaWl4ZFNoUm82dlQwdzl0NHBPekxTQzdiY203enVmN2tjN0puQjBqVXMzT21OS3JUempNdGw1SndfUG8zanNIdmN1Q3UtOHR0cUNLdW9LMHRxNU1TRjk0akN3T0lmbld2SjlBY3NXTjhCYkk3MWtUVUJYeEotclpxQ3ZySW15WGVncGRGMVh4akNRRjNLNmZsSWlFRWFaXy1wV3NVMm5yUmwtamRETVdYekJEX1I0Q0NJdnFFampvTTRMZUVfOW0yQXFRUnpkeWlJUGl2MXZFSXJLb1Bjc1Y5VjBUbFROQ0RNTWQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwRBVV95cUxOSS10RDd0OUo4SGNSTGJGMzViU1dzeGJlTTBpZzJJNVJZa2lSWUFTRUZNN3NTT1JaMGNUMW0tMHRPMDVMOURmTGgxTFgtWTBHRUNwY05VS0VUbjl1WEFYZE84UjI0eEJIdzNmeGpzb2dGQkVvcUF1cVpZTm9XeC1RUWh1cnlQMmZ5VzNKcEFJYnhvQlZaQzBJb1MyMTFLQ3RERmhKQ05mZXZvOS1BSjJhNUlwSHRYdTJvcS1HTFQxblFoUEhJaFl0VDdwUDZ0angzY1BaeGJUWmJOdENlYmNtZk5SbUlDOUYxT1pLa25sNGptZ1h3cktyVXpvbnRGOERBVTBNT2hlR2JCN1ZudVhnVk9VMDdBa3p0S3VrLXZmSDd6bHdmQm9qcFNIU1NPS3VmakpNNUJBRWFjcnJ2bFdrU3NpOS1lQVE1NHQtc3VUWGx5Uml2X0t3U3FMdGdsSVpxVDZEMzMwakQ3NlhHemlBbnMwbktkaDdnWFZuajIyTTh4ZFpuZFlSMTRtRUlybDBIVmItTXJLamtJTDhuMzVVWFpOekhEaFYweXZsX0NqejFORzd0UG12WmlmRU1GeGx1QkZpdmZVVHcxMlpmSWNFUG5IYXRjYW9mOVBNR2NXd3BwN0t5QjdlWjNGR3JGNzEzODVmWWpuWU4ycVJCaHo4QUlPLTRKclnSAYwEQVVfeXFMUFd4c0x2X2NKSG9jV2hwTlhfN3FSd0RsY29wOEFleklBc3VIQWFwZEpXUGVLVnBEcmpzMkVBejdfUEpxTEdDampkZEQzdGRZMHdtbXFGMHNJWkpvXzNlNS16TXlXMTd4OHoyTHZHQjhQV1pVTGNQa3ZDeEFoSGJnYnhCYUktb3E5Z3E5ckF1c1M2b2E4SG5JSElGU2dUelpkNkhGaXN4bmlZeUo4NWwxZnRUZXhTZ1RFQ0c5M3BrMlRUekpKOGMxaUVJQ29kT2dHMkJ2X2RWUGN6bGo5bWZuYXhmNDBMcWhOSEdVUEtSVFR1eDVWd25WVjd6V3FjTGtFc09qYk1WSXRkTXlKdjJKZkllSERtMVdiWUJwRzFYWkNYQ052Tk5nak9jaWl4ZFNoUm82dlQwdzl0NHBPekxTQzdiY203enVmN2tjN0puQjBqVXMzT21OS3JUempNdGw1SndfUG8zanNIdmN1Q3UtOHR0cUNLdW9LMHRxNU1TRjk0akN3T0lmbld2SjlBY3NXTjhCYkk3MWtUVUJYeEotclpxQ3ZySW15WGVncGRGMVh4akNRRjNLNmZsSWlFRWFaXy1wV3NVMm5yUmwtamRETVdYekJEX1I0Q0NJdnFFampvTTRMZUVfOW0yQXFRUnpkeWlJUGl2MXZFSXJLb1Bjc1Y5VjBUbFROQ0RNTWQ?oc=5\" target=\"_blank\">أمطار متفاوتة الشدة على هذه المنطقة.. الأرصاد تكشف التفاصيل</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">masrawy.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwRBVV95cUxOSS10RDd0OUo4SGNSTGJGMzViU1dzeGJlTTBpZzJJNVJZa2lSWUFTRUZNN3NTT1JaMGNUMW0tMHRPMDVMOURmTGgxTFgtWTBHRUNwY05VS0VUbjl1WEFYZE84UjI0eEJIdzNmeGpzb2dGQkVvcUF1cVpZTm9XeC1RUWh1cnlQMmZ5VzNKcEFJYnhvQlZaQzBJb1MyMTFLQ3RERmhKQ05mZXZvOS1BSjJhNUlwSHRYdTJvcS1HTFQxblFoUEhJaFl0VDdwUDZ0angzY1BaeGJUWmJOdENlYmNtZk5SbUlDOUYxT1pLa25sNGptZ1h3cktyVXpvbnRGOERBVTBNT2hlR2JCN1ZudVhnVk9VMDdBa3p0S3VrLXZmSDd6bHdmQm9qcFNIU1NPS3VmakpNNUJBRWFjcnJ2bFdrU3NpOS1lQVE1NHQtc3VUWGx5Uml2X0t3U3FMdGdsSVpxVDZEMzMwakQ3NlhHemlBbnMwbktkaDdnWFZuajIyTTh4ZFpuZFlSMTRtRUlybDBIVmItTXJLamtJTDhuMzVVWFpOekhEaFYweXZsX0NqejFORzd0UG12WmlmRU1GeGx1QkZpdmZVVHcxMlpmSWNFUG5IYXRjYW9mOVBNR2NXd3BwN0t5QjdlWjNGR3JGNzEzODVmWWpuWU4ycVJCaHo4QUlPLTRKclnSAYwEQVVfeXFMUFd4c0x2X2NKSG9jV2hwTlhfN3FSd0RsY29wOEFleklBc3VIQWFwZEpXUGVLVnBEcmpzMkVBejdfUEpxTEdDampkZEQzdGRZMHdtbXFGMHNJWkpvXzNlNS16TXlXMTd4OHoyTHZHQjhQV1pVTGNQa3ZDeEFoSGJnYnhCYUktb3E5Z3E5ckF1c1M2b2E4SG5JSElGU2dUelpkNkhGaXN4bmlZeUo4NWwxZnRUZXhTZ1RFQ0c5M3BrMlRUekpKOGMxaUVJQ29kT2dHMkJ2X2RWUGN6bGo5bWZuYXhmNDBMcWhOSEdVUEtSVFR1eDVWd25WVjd6V3FjTGtFc09qYk1WSXRkTXlKdjJKZkllSERtMVdiWUJwRzFYWkNYQ052Tk5nak9jaWl4ZFNoUm82dlQwdzl0NHBPekxTQzdiY203enVmN2tjN0puQjBqVXMzT21OS3JUempNdGw1SndfUG8zanNIdmN1Q3UtOHR0cUNLdW9LMHRxNU1TRjk0akN3T0lmbld2SjlBY3NXTjhCYkk3MWtUVUJYeEotclpxQ3ZySW15WGVncGRGMVh4akNRRjNLNmZsSWlFRWFaXy1wV3NVMm5yUmwtamRETVdYekJEX1I0Q0NJdnFFampvTTRMZUVfOW0yQXFRUnpkeWlJUGl2MXZFSXJLb1Bjc1Y5VjBUbFROQ0RNTWQ?oc=5\" target=\"_blank\">أمطار متفاوتة الشدة على هذه المنطقة.. الأرصاد تكشف التفاصيل</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
       "date": "Wed, 23 Sep 2026 19:48:16 GMT",
       "source": "Google News مصر",
       "sourceScore": 6,
@@ -608,6 +579,21 @@
       ]
     },
     {
+      "title": "محمد صلاح يعد بمزيد من الإنجازات مع منتخب مصر أمام وزير الرياضة - صدى البلد",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5rVzR5cXRFVEpmbWs1eWJRR0FGOHNGLXdyVGZJYlZyMGZzYmY5aElrSGc1RlplU205ZlFWVlhCRjl6aktiRjY0?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5rVzR5cXRFVEpmbWs1eWJRR0FGOHNGLXdyVGZJYlZyMGZzYmY5aElrSGc1RlplU205ZlFWVlhCRjl6aktiRjY0?oc=5\" target=\"_blank\">محمد صلاح يعد بمزيد من الإنجازات مع منتخب مصر أمام وزير الرياضة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">صدى البلد</font>",
+      "date": "Wed, 23 Sep 2026 19:19:00 GMT",
+      "source": "Google News رياضة",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "رياضة",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News رياضة"
+      ]
+    },
+    {
       "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
       "link": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
       "description": "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
@@ -623,9 +609,9 @@
       ]
     },
     {
-      "title": "جوهر نبيل يتحدث عن.. رسالة الخطيب.. لم الشمل في المنتخب.. وتدشين الشركات - yallakora.com",
+      "title": "جوهر نبيل يتحدث عن.. رسالة الخطيب.. لم الشمل في المنتخب.. وتدشين الشركات - يلاكورة",
       "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxONENtSjd6M0F4UTktUEZtV0dKWWcyVHZWRFpHdUcwdnNjdURwUG5WSnFiS09UbXZ3TTBUYi1Da2JEWFB0WkZhQVBMU2I2Q2hLbUlpUXhZMEJWMXBNY3pPUWVOTGZia0QxbjUxSGRFMzRsa0tsSEZRWGExcjM1Skd1el9Rc2cwRkJqMDlONnIzUHVpYTRuUGx3RnJSaEprQk0wZDJJZXRERmdlcjB6SG1weE94ZzJ0MDJUUGZhSFpyWVRnX0tkaXhEcEMwU0ZJR2RVdHF3T2FybWZIRzhjUjNJM2lMZ2JCcVc5TXZuRFNyZEtxOGlKZ2JqZjlxQlNkNFBEYjBiN1FVVE5xeTZiRGtRUUMteWJfRHFNTko3VUNITS04SGlSMlJxV0Vwbm03UldvX0RMakNIZkoydHVoc0lzRDJrRlpVYTFCZ3AybHRFd1dfeFp2ZmZRX05nT0M3T19HQ244d04ycHlLbl81WVJGdDYwbGlEWEpBNkNQWlhNSnJrd1hFUkdoZkVyV3RxUDlydGtNVDI2OEJ4SVJRT2ZHVjNWRzhtMDEtVi12TXlaRkNyN3pmdXJ6dC1qWlEyeS16OGRtdV9GTDVBRmlhQTVLdHU4WU5OMWM3TWN6bjhjQnRueTl0OEg5THpWWkFzS1QxMnQzemt1Z1ZZZDRDUjYwSTdhU1kxNHlkbUk2WFFBc210aVRleWdCNTBXTnBnNzZXS0J6TlQwYnR0dU9nNVA0VEl30gG3BEFVX3lxTE50UzJ0WEszM0VDbjhjVWRyLUhCaEZkUXBLaUt1Q3l1bERDeklsM29CbzJ5LXgzb01faDhoSjF2bkpSMXhGRTMtOWlXVmNMN0VCOHhXTmtiM0dUMnNQNGdxLWd2Z0w3MnlwQTBHLVpKbW1GTU8yMWpzcjc0aDlpd3RmNDlhUmlHQkRXUVVwSm45VENhLWt5aTFuODUwd0kxbkNyY3lmdndTTDdPWTFaVGZhTmU1Z1VPU0pra2kxSl9GOXRaak01VEZ4WmJXaE1jRkhlRWR2QzV1Q2VNbTRLQk9sdHFHemlZM20tUVUxU0szclRoN1d1MkRidWs1VGdoX1NySTNWX1VLdnQtelA2dFBSRkJoOHJiWHRPc0pyNU1KYzVMTDhZdjMyRlFsekczcllTSDkwdUFzb0VEV0xjWWtIZnV0X25JU2ZsQktzQ21hY1dJUmJZQ2dpVzZUSk82d0plb2JuSlUxcG8wVnlQSjZ6aHNJb0dZQi1YcXlEWV9hdUpDakFweXBpRHYxc2l6aVhxVllmNTJwY0NKZUZTWk45RUl4eGxTLW1tNGsxd2pvdFdOU3F1c1oxZExlN1FrQVM3a00yS2FyVDl0aGR4c2wtb1BVd19KUS01TWprZnlNR0h6M1E0NFpSTDdzVGkxUzFGMEF5d2hrQXRzMXhfRDZTcEhyd2d4UklGVTAtWUs5NENJWE0tdGRhMmdnVksxbEVHQVRPakNOX01BaGN0R0RzMlJQU3JRaw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgRBVV95cUxONENtSjd6M0F4UTktUEZtV0dKWWcyVHZWRFpHdUcwdnNjdURwUG5WSnFiS09UbXZ3TTBUYi1Da2JEWFB0WkZhQVBMU2I2Q2hLbUlpUXhZMEJWMXBNY3pPUWVOTGZia0QxbjUxSGRFMzRsa0tsSEZRWGExcjM1Skd1el9Rc2cwRkJqMDlONnIzUHVpYTRuUGx3RnJSaEprQk0wZDJJZXRERmdlcjB6SG1weE94ZzJ0MDJUUGZhSFpyWVRnX0tkaXhEcEMwU0ZJR2RVdHF3T2FybWZIRzhjUjNJM2lMZ2JCcVc5TXZuRFNyZEtxOGlKZ2JqZjlxQlNkNFBEYjBiN1FVVE5xeTZiRGtRUUMteWJfRHFNTko3VUNITS04SGlSMlJxV0Vwbm03UldvX0RMakNIZkoydHVoc0lzRDJrRlpVYTFCZ3AybHRFd1dfeFp2ZmZRX05nT0M3T19HQ244d04ycHlLbl81WVJGdDYwbGlEWEpBNkNQWlhNSnJrd1hFUkdoZkVyV3RxUDlydGtNVDI2OEJ4SVJRT2ZHVjNWRzhtMDEtVi12TXlaRkNyN3pmdXJ6dC1qWlEyeS16OGRtdV9GTDVBRmlhQTVLdHU4WU5OMWM3TWN6bjhjQnRueTl0OEg5THpWWkFzS1QxMnQzemt1Z1ZZZDRDUjYwSTdhU1kxNHlkbUk2WFFBc210aVRleWdCNTBXTnBnNzZXS0J6TlQwYnR0dU9nNVA0VEl30gG3BEFVX3lxTE50UzJ0WEszM0VDbjhjVWRyLUhCaEZkUXBLaUt1Q3l1bERDeklsM29CbzJ5LXgzb01faDhoSjF2bkpSMXhGRTMtOWlXVmNMN0VCOHhXTmtiM0dUMnNQNGdxLWd2Z0w3MnlwQTBHLVpKbW1GTU8yMWpzcjc0aDlpd3RmNDlhUmlHQkRXUVVwSm45VENhLWt5aTFuODUwd0kxbkNyY3lmdndTTDdPWTFaVGZhTmU1Z1VPU0pra2kxSl9GOXRaak01VEZ4WmJXaE1jRkhlRWR2QzV1Q2VNbTRLQk9sdHFHemlZM20tUVUxU0szclRoN1d1MkRidWs1VGdoX1NySTNWX1VLdnQtelA2dFBSRkJoOHJiWHRPc0pyNU1KYzVMTDhZdjMyRlFsekczcllTSDkwdUFzb0VEV0xjWWtIZnV0X25JU2ZsQktzQ21hY1dJUmJZQ2dpVzZUSk82d0plb2JuSlUxcG8wVnlQSjZ6aHNJb0dZQi1YcXlEWV9hdUpDakFweXBpRHYxc2l6aVhxVllmNTJwY0NKZUZTWk45RUl4eGxTLW1tNGsxd2pvdFdOU3F1c1oxZExlN1FrQVM3a00yS2FyVDl0aGR4c2wtb1BVd19KUS01TWprZnlNR0h6M1E0NFpSTDdzVGkxUzFGMEF5d2hrQXRzMXhfRDZTcEhyd2d4UklGVTAtWUs5NENJWE0tdGRhMmdnVksxbEVHQVRPakNOX01BaGN0R0RzMlJQU3JRaw?oc=5\" target=\"_blank\">جوهر نبيل يتحدث عن.. رسالة الخطيب.. لم الشمل في المنتخب.. وتدشين الشركات</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yallakora.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgRBVV95cUxONENtSjd6M0F4UTktUEZtV0dKWWcyVHZWRFpHdUcwdnNjdURwUG5WSnFiS09UbXZ3TTBUYi1Da2JEWFB0WkZhQVBMU2I2Q2hLbUlpUXhZMEJWMXBNY3pPUWVOTGZia0QxbjUxSGRFMzRsa0tsSEZRWGExcjM1Skd1el9Rc2cwRkJqMDlONnIzUHVpYTRuUGx3RnJSaEprQk0wZDJJZXRERmdlcjB6SG1weE94ZzJ0MDJUUGZhSFpyWVRnX0tkaXhEcEMwU0ZJR2RVdHF3T2FybWZIRzhjUjNJM2lMZ2JCcVc5TXZuRFNyZEtxOGlKZ2JqZjlxQlNkNFBEYjBiN1FVVE5xeTZiRGtRUUMteWJfRHFNTko3VUNITS04SGlSMlJxV0Vwbm03UldvX0RMakNIZkoydHVoc0lzRDJrRlpVYTFCZ3AybHRFd1dfeFp2ZmZRX05nT0M3T19HQ244d04ycHlLbl81WVJGdDYwbGlEWEpBNkNQWlhNSnJrd1hFUkdoZkVyV3RxUDlydGtNVDI2OEJ4SVJRT2ZHVjNWRzhtMDEtVi12TXlaRkNyN3pmdXJ6dC1qWlEyeS16OGRtdV9GTDVBRmlhQTVLdHU4WU5OMWM3TWN6bjhjQnRueTl0OEg5THpWWkFzS1QxMnQzemt1Z1ZZZDRDUjYwSTdhU1kxNHlkbUk2WFFBc210aVRleWdCNTBXTnBnNzZXS0J6TlQwYnR0dU9nNVA0VEl30gG3BEFVX3lxTE50UzJ0WEszM0VDbjhjVWRyLUhCaEZkUXBLaUt1Q3l1bERDeklsM29CbzJ5LXgzb01faDhoSjF2bkpSMXhGRTMtOWlXVmNMN0VCOHhXTmtiM0dUMnNQNGdxLWd2Z0w3MnlwQTBHLVpKbW1GTU8yMWpzcjc0aDlpd3RmNDlhUmlHQkRXUVVwSm45VENhLWt5aTFuODUwd0kxbkNyY3lmdndTTDdPWTFaVGZhTmU1Z1VPU0pra2kxSl9GOXRaak01VEZ4WmJXaE1jRkhlRWR2QzV1Q2VNbTRLQk9sdHFHemlZM20tUVUxU0szclRoN1d1MkRidWs1VGdoX1NySTNWX1VLdnQtelA2dFBSRkJoOHJiWHRPc0pyNU1KYzVMTDhZdjMyRlFsekczcllTSDkwdUFzb0VEV0xjWWtIZnV0X25JU2ZsQktzQ21hY1dJUmJZQ2dpVzZUSk82d0plb2JuSlUxcG8wVnlQSjZ6aHNJb0dZQi1YcXlEWV9hdUpDakFweXBpRHYxc2l6aVhxVllmNTJwY0NKZUZTWk45RUl4eGxTLW1tNGsxd2pvdFdOU3F1c1oxZExlN1FrQVM3a00yS2FyVDl0aGR4c2wtb1BVd19KUS01TWprZnlNR0h6M1E0NFpSTDdzVGkxUzFGMEF5d2hrQXRzMXhfRDZTcEhyd2d4UklGVTAtWUs5NENJWE0tdGRhMmdnVksxbEVHQVRPakNOX01BaGN0R0RzMlJQU3JRaw?oc=5\" target=\"_blank\">جوهر نبيل يتحدث عن.. رسالة الخطيب.. لم الشمل في المنتخب.. وتدشين الشركات</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">يلاكورة</font>",
       "date": "Wed, 23 Sep 2026 19:07:00 GMT",
       "source": "Google News رياضة",
       "sourceScore": 6,
@@ -744,19 +730,18 @@
       ]
     },
     {
-      "title": "هل ترتفع أسعار الخبز في مصر؟ - BBC",
+      "title": "هل ترتفع أسعار الخبز في مصر؟ - bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mZW8yNmk4anJDTWpxZXkzOW1CdmZjTG9QVThfaWMxaXJFQ2N3dkE1dWwzTDRoLTRzUFlLZHFTQ1JNd0RzdlRSSnNZMmlZUkVzZlFJSnVERHByWWVwWVHSAWNBVV95cUxPUFl5ek5faHRNUjBBMkM2RTBBSE9EcmgweEI2UGtnMi1oWlZvbDF2NWRjM19YS0pGYUwzbnk5RUZXWU9oTEFlMDdtT2lnd3BHUDNtY3NPYUw0VF9XZjRvdXJpZW8?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mZW8yNmk4anJDTWpxZXkzOW1CdmZjTG9QVThfaWMxaXJFQ2N3dkE1dWwzTDRoLTRzUFlLZHFTQ1JNd0RzdlRSSnNZMmlZUkVzZlFJSnVERHByWWVwWVHSAWNBVV95cUxPUFl5ek5faHRNUjBBMkM2RTBBSE9EcmgweEI2UGtnMi1oWlZvbDF2NWRjM19YS0pGYUwzbnk5RUZXWU9oTEFlMDdtT2lnd3BHUDNtY3NPYUw0VF9XZjRvdXJpZW8?oc=5\" target=\"_blank\">هل ترتفع أسعار الخبز في مصر؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mZW8yNmk4anJDTWpxZXkzOW1CdmZjTG9QVThfaWMxaXJFQ2N3dkE1dWwzTDRoLTRzUFlLZHFTQ1JNd0RzdlRSSnNZMmlZUkVzZlFJSnVERHByWWVwWVHSAWNBVV95cUxPUFl5ek5faHRNUjBBMkM2RTBBSE9EcmgweEI2UGtnMi1oWlZvbDF2NWRjM19YS0pGYUwzbnk5RUZXWU9oTEFlMDdtT2lnd3BHUDNtY3NPYUw0VF9XZjRvdXJpZW8?oc=5\" target=\"_blank\">هل ترتفع أسعار الخبز في مصر؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>",
       "date": "Wed, 23 Sep 2026 17:45:52 GMT",
-      "source": "BBC العربية",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
+      "source": "Google News مصر",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
       "cat": "مصر",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/05f0/live/81cddfa0-b76c-11f1-bc1f-3f186ca4140c.jpg",
-      "sourceCount": 2,
+      "image": "",
+      "sourceCount": 1,
       "sources": [
-        "Google News مصر",
-        "BBC العربية"
+        "Google News مصر"
       ]
     },
     {
@@ -776,9 +761,9 @@
       ]
     },
     {
-      "title": "حسام حسن ومحمد هاني يتحدثان في مؤتمر صحفي قبل مباراة مصر وأنجولا - masrawy.com",
+      "title": "حسام حسن ومحمد هاني يتحدثان في مؤتمر صحفي قبل مباراة مصر وأنجولا - Masrawy",
       "link": "https://news.google.com/rss/articles/CBMirwRBVV95cUxPdkJNM25OZjdfQ0JGUXlucWhWeGdHOEYyMml4QmJ4NHRZZGR4cGxKZlB1MXM1M21OWWlMTEJDRFE3Y3pGWTFxc1dla2g2TjA1dmU3OFRDcmFIRElfX09YZXBmV0NCN0YxY0tTTE5NVUJrenV2WTYzeEJ4NzdOSTV6LU0ydGFUMWhjdkJTRlJUMXNPREU5M0drLVdYaXV2OHdobmJZV0NGQWVCRUtVTXkzU3JXNXlSUEtmcFRVanpCSnl2ZnhFZXJXbFJubV90aF9yYUlHeXdwMVVSNWd5S1dxWVhjNlhjRExiemtwOS1FNEZYYTRyeVBEdVVWNnFGMWZDanlrSmRaSjN6bUVrVkNTNm9WclRHaUE1a29YUXVHNW1pbnJUbTQ2X0FCaVM3dEg3NVNLMTFmRG1iY1hCaVBhaVJ0eHBEWVhqUG5IVnRXNGM3NWlsWkY4ZFRvcGFlNE5oYUdKQzRkRWZGU1c0cE45eldpMllsR28xSENnWFFmcllicTc4TlJudTZQNEp2aHM5TzlpdTVDeklUNk90bHR4OHgxT0R5V2lSNGxXQ3pmX0lRVUxNdkZUbzJnSTJ5WkJ3UEJUVXlzaWZUV2RteW9ZLVNtYWo4b194aDZscjhwZ3k3MWhIRVJ4dXBTUldXTGFwODdaVmw0elpsZnN1T1QxbzFaRUpLMi1ZbXhYSHJZeDFCUnNNMEs3Q2RvRFZlOHFxTzVhM1NSWGpkT0NZdEUw0gG0BEFVX3lxTE82Q1UzSGltZGFJS2NXOS1ZNjcxczZZNWYwTlhwTGc3RTFVTGMwX1RwTU5nMVdLN190ZDhkMVhRenVFTW1IajVoaHFheTJfaTdWSDRyQ0h0aVYxekdMdmE4TUZFWHVEN3pXb0R2MUgtWkZUOTZ1cFhLWGRKeF9wOGpyUTAyTmlKMll5WkhrWGYxUGtXY1dDUllVeVFMcm1PWnpOR0ZJUGtXV05fUm9xNnFrVHp6T0pyaWxiTzBlY2JiVzd1N1BfLUN0Q1lxZG1sdWNQdXJqZzc5S3BFMHhVX1dHN0k3ZVJoZWwyOFV5cTA2RExoSklSZTFDdzhmTDNvd29zVVhrZEJndHR1TXBGVEhaQUFxT21Tb0VXUWJJbGZPM21laFVZUC1MNkpuVWFSVFRkNGFLOVlOWDB6dy02cmJuZXRMVV9KbTRVczVXeHFXY1BCUkIxYlpyeUtUUGJJWkRyQ2tLcDdNTExvaXVFYXVzTE9PVjJtb1hTRnUyTnpuR1lBNWlsME03aEthUnc3TURDbEVNWm1GU0IxSHlVRVFrUW1pY3Q4dHFQX3hqY19hR1RpTHNBbDFadWNVdXZIQWZQQmZjSDRQZTFZUXBud1BrRDczUV9jYjUtWF81amoyWFlvb3pMS2Q4Yllib3ZaNHk1aXpnZkxkaF81WVNuajRxc1dmY3kxRXhvQk40UkJKMzBQc0RZNGZvZlVNeVVMZnYyQ1BXOE56QUtGT3B4UEZOdnQzWA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwRBVV95cUxPdkJNM25OZjdfQ0JGUXlucWhWeGdHOEYyMml4QmJ4NHRZZGR4cGxKZlB1MXM1M21OWWlMTEJDRFE3Y3pGWTFxc1dla2g2TjA1dmU3OFRDcmFIRElfX09YZXBmV0NCN0YxY0tTTE5NVUJrenV2WTYzeEJ4NzdOSTV6LU0ydGFUMWhjdkJTRlJUMXNPREU5M0drLVdYaXV2OHdobmJZV0NGQWVCRUtVTXkzU3JXNXlSUEtmcFRVanpCSnl2ZnhFZXJXbFJubV90aF9yYUlHeXdwMVVSNWd5S1dxWVhjNlhjRExiemtwOS1FNEZYYTRyeVBEdVVWNnFGMWZDanlrSmRaSjN6bUVrVkNTNm9WclRHaUE1a29YUXVHNW1pbnJUbTQ2X0FCaVM3dEg3NVNLMTFmRG1iY1hCaVBhaVJ0eHBEWVhqUG5IVnRXNGM3NWlsWkY4ZFRvcGFlNE5oYUdKQzRkRWZGU1c0cE45eldpMllsR28xSENnWFFmcllicTc4TlJudTZQNEp2aHM5TzlpdTVDeklUNk90bHR4OHgxT0R5V2lSNGxXQ3pmX0lRVUxNdkZUbzJnSTJ5WkJ3UEJUVXlzaWZUV2RteW9ZLVNtYWo4b194aDZscjhwZ3k3MWhIRVJ4dXBTUldXTGFwODdaVmw0elpsZnN1T1QxbzFaRUpLMi1ZbXhYSHJZeDFCUnNNMEs3Q2RvRFZlOHFxTzVhM1NSWGpkT0NZdEUw0gG0BEFVX3lxTE82Q1UzSGltZGFJS2NXOS1ZNjcxczZZNWYwTlhwTGc3RTFVTGMwX1RwTU5nMVdLN190ZDhkMVhRenVFTW1IajVoaHFheTJfaTdWSDRyQ0h0aVYxekdMdmE4TUZFWHVEN3pXb0R2MUgtWkZUOTZ1cFhLWGRKeF9wOGpyUTAyTmlKMll5WkhrWGYxUGtXY1dDUllVeVFMcm1PWnpOR0ZJUGtXV05fUm9xNnFrVHp6T0pyaWxiTzBlY2JiVzd1N1BfLUN0Q1lxZG1sdWNQdXJqZzc5S3BFMHhVX1dHN0k3ZVJoZWwyOFV5cTA2RExoSklSZTFDdzhmTDNvd29zVVhrZEJndHR1TXBGVEhaQUFxT21Tb0VXUWJJbGZPM21laFVZUC1MNkpuVWFSVFRkNGFLOVlOWDB6dy02cmJuZXRMVV9KbTRVczVXeHFXY1BCUkIxYlpyeUtUUGJJWkRyQ2tLcDdNTExvaXVFYXVzTE9PVjJtb1hTRnUyTnpuR1lBNWlsME03aEthUnc3TURDbEVNWm1GU0IxSHlVRVFrUW1pY3Q4dHFQX3hqY19hR1RpTHNBbDFadWNVdXZIQWZQQmZjSDRQZTFZUXBud1BrRDczUV9jYjUtWF81amoyWFlvb3pMS2Q4Yllib3ZaNHk1aXpnZkxkaF81WVNuajRxc1dmY3kxRXhvQk40UkJKMzBQc0RZNGZvZlVNeVVMZnYyQ1BXOE56QUtGT3B4UEZOdnQzWA?oc=5\" target=\"_blank\">حسام حسن ومحمد هاني يتحدثان في مؤتمر صحفي قبل مباراة مصر وأنجولا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">masrawy.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwRBVV95cUxPdkJNM25OZjdfQ0JGUXlucWhWeGdHOEYyMml4QmJ4NHRZZGR4cGxKZlB1MXM1M21OWWlMTEJDRFE3Y3pGWTFxc1dla2g2TjA1dmU3OFRDcmFIRElfX09YZXBmV0NCN0YxY0tTTE5NVUJrenV2WTYzeEJ4NzdOSTV6LU0ydGFUMWhjdkJTRlJUMXNPREU5M0drLVdYaXV2OHdobmJZV0NGQWVCRUtVTXkzU3JXNXlSUEtmcFRVanpCSnl2ZnhFZXJXbFJubV90aF9yYUlHeXdwMVVSNWd5S1dxWVhjNlhjRExiemtwOS1FNEZYYTRyeVBEdVVWNnFGMWZDanlrSmRaSjN6bUVrVkNTNm9WclRHaUE1a29YUXVHNW1pbnJUbTQ2X0FCaVM3dEg3NVNLMTFmRG1iY1hCaVBhaVJ0eHBEWVhqUG5IVnRXNGM3NWlsWkY4ZFRvcGFlNE5oYUdKQzRkRWZGU1c0cE45eldpMllsR28xSENnWFFmcllicTc4TlJudTZQNEp2aHM5TzlpdTVDeklUNk90bHR4OHgxT0R5V2lSNGxXQ3pmX0lRVUxNdkZUbzJnSTJ5WkJ3UEJUVXlzaWZUV2RteW9ZLVNtYWo4b194aDZscjhwZ3k3MWhIRVJ4dXBTUldXTGFwODdaVmw0elpsZnN1T1QxbzFaRUpLMi1ZbXhYSHJZeDFCUnNNMEs3Q2RvRFZlOHFxTzVhM1NSWGpkT0NZdEUw0gG0BEFVX3lxTE82Q1UzSGltZGFJS2NXOS1ZNjcxczZZNWYwTlhwTGc3RTFVTGMwX1RwTU5nMVdLN190ZDhkMVhRenVFTW1IajVoaHFheTJfaTdWSDRyQ0h0aVYxekdMdmE4TUZFWHVEN3pXb0R2MUgtWkZUOTZ1cFhLWGRKeF9wOGpyUTAyTmlKMll5WkhrWGYxUGtXY1dDUllVeVFMcm1PWnpOR0ZJUGtXV05fUm9xNnFrVHp6T0pyaWxiTzBlY2JiVzd1N1BfLUN0Q1lxZG1sdWNQdXJqZzc5S3BFMHhVX1dHN0k3ZVJoZWwyOFV5cTA2RExoSklSZTFDdzhmTDNvd29zVVhrZEJndHR1TXBGVEhaQUFxT21Tb0VXUWJJbGZPM21laFVZUC1MNkpuVWFSVFRkNGFLOVlOWDB6dy02cmJuZXRMVV9KbTRVczVXeHFXY1BCUkIxYlpyeUtUUGJJWkRyQ2tLcDdNTExvaXVFYXVzTE9PVjJtb1hTRnUyTnpuR1lBNWlsME03aEthUnc3TURDbEVNWm1GU0IxSHlVRVFrUW1pY3Q4dHFQX3hqY19hR1RpTHNBbDFadWNVdXZIQWZQQmZjSDRQZTFZUXBud1BrRDczUV9jYjUtWF81amoyWFlvb3pMS2Q4Yllib3ZaNHk1aXpnZkxkaF81WVNuajRxc1dmY3kxRXhvQk40UkJKMzBQc0RZNGZvZlVNeVVMZnYyQ1BXOE56QUtGT3B4UEZOdnQzWA?oc=5\" target=\"_blank\">حسام حسن ومحمد هاني يتحدثان في مؤتمر صحفي قبل مباراة مصر وأنجولا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
       "date": "Wed, 23 Sep 2026 17:37:26 GMT",
       "source": "Google News رياضة",
       "sourceScore": 6,
@@ -788,6 +773,21 @@
       "sourceCount": 1,
       "sources": [
         "Google News رياضة"
+      ]
+    },
+    {
+      "title": "واشنطن تعزز قدرات مصر بمروحيات شينوك.. رسالة حول دور القاهرة الإقليمي - i24news.tv",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbm92R0JXMDJndzBMSnd4RExScU95QzZlUWlSSTZrSEFvN2VvMWx3RFQwc3g2bndHUXNTRzlaVnQxb2lBb2NkQkhqQU9tcFphYVBpampvMzJDTDdaN3VLZEpqLS1pNkYtal9XTXFRbGE2bVZrOWUwdkxYMkFMeC1CRlNPVE9hcVU0bkE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQbm92R0JXMDJndzBMSnd4RExScU95QzZlUWlSSTZrSEFvN2VvMWx3RFQwc3g2bndHUXNTRzlaVnQxb2lBb2NkQkhqQU9tcFphYVBpampvMzJDTDdaN3VLZEpqLS1pNkYtal9XTXFRbGE2bVZrOWUwdkxYMkFMeC1CRlNPVE9hcVU0bkE?oc=5\" target=\"_blank\">واشنطن تعزز قدرات مصر بمروحيات شينوك.. رسالة حول دور القاهرة الإقليمي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">i24news.tv</font>",
+      "date": "Wed, 23 Sep 2026 17:34:00 GMT",
+      "source": "Google News مصر",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "مصر",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News مصر"
       ]
     },
     {
@@ -806,9 +806,9 @@
       ]
     },
     {
-      "title": "تجاهل مصري لأنباء احتجاز 3 إسرائيليين في سيناء - aawsat.com",
+      "title": "تجاهل مصري لأنباء احتجاز 3 إسرائيليين في سيناء - الشرق الأوسط",
       "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQaExFb1YyVTJvVEk4WkpFNGljVjlCRzNxd2pQZWJHd2Z4dFpzM2I0VUF2dFpSRW9YcWhtUUU0dHZjZ0s4emRJVDJ4bFBhSWZhakRWMjhXdVo0dWV6S3NUQ0ZJbUZJNFVfdVV6SFdIZGw1RlQtS2M3bHRJaXNHTlNnb3owZnFqU284eGNkUC01NnV3YS1tbUlkUkxwOHRaTjFDZ0N2M0w0cTJwM2lGYnFfMEEyOFV0UVRHOUZ2LUYwVmFLQmlzZl9rX0h1dGZsOWpiYUM2RWkwbjFvRU03ZUVKTUR3ekdxRy1TbDdRb3dOc1BJODk0U3FDUEJnQmwtUDY0WllFdnFGVFV0WGhoREJSV1FFaDdYYS1mZ3FEU0JHMk9JYi1xMnJWQVVKSFgzZ29hVWdtWGFHZFM3WE5CVUhubEtZU2VZcFpsaDQ3Q19JS3VRazRCcHJsSHVuRkRGeWJTTkZqT0t2b0M0OFN3UmdHVGllZ1RZRUFHRjlVUkNRTU93MU5PakwySjU4a1lGbnM3YWJlRjJKX3Z1WGlSQ2hLMllVZ29vOUhveFBkMW4wYl9nalhyMFhhVWlMYXllamRDWk45QU9Cd2tILXVQZm1WdVpQalExOUUyc3hOd3pR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gNBVV95cUxQaExFb1YyVTJvVEk4WkpFNGljVjlCRzNxd2pQZWJHd2Z4dFpzM2I0VUF2dFpSRW9YcWhtUUU0dHZjZ0s4emRJVDJ4bFBhSWZhakRWMjhXdVo0dWV6S3NUQ0ZJbUZJNFVfdVV6SFdIZGw1RlQtS2M3bHRJaXNHTlNnb3owZnFqU284eGNkUC01NnV3YS1tbUlkUkxwOHRaTjFDZ0N2M0w0cTJwM2lGYnFfMEEyOFV0UVRHOUZ2LUYwVmFLQmlzZl9rX0h1dGZsOWpiYUM2RWkwbjFvRU03ZUVKTUR3ekdxRy1TbDdRb3dOc1BJODk0U3FDUEJnQmwtUDY0WllFdnFGVFV0WGhoREJSV1FFaDdYYS1mZ3FEU0JHMk9JYi1xMnJWQVVKSFgzZ29hVWdtWGFHZFM3WE5CVUhubEtZU2VZcFpsaDQ3Q19JS3VRazRCcHJsSHVuRkRGeWJTTkZqT0t2b0M0OFN3UmdHVGllZ1RZRUFHRjlVUkNRTU93MU5PakwySjU4a1lGbnM3YWJlRjJKX3Z1WGlSQ2hLMllVZ29vOUhveFBkMW4wYl9nalhyMFhhVWlMYXllamRDWk45QU9Cd2tILXVQZm1WdVpQalExOUUyc3hOd3pR?oc=5\" target=\"_blank\">تجاهل مصري لأنباء احتجاز 3 إسرائيليين في سيناء</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aawsat.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gNBVV95cUxQaExFb1YyVTJvVEk4WkpFNGljVjlCRzNxd2pQZWJHd2Z4dFpzM2I0VUF2dFpSRW9YcWhtUUU0dHZjZ0s4emRJVDJ4bFBhSWZhakRWMjhXdVo0dWV6S3NUQ0ZJbUZJNFVfdVV6SFdIZGw1RlQtS2M3bHRJaXNHTlNnb3owZnFqU284eGNkUC01NnV3YS1tbUlkUkxwOHRaTjFDZ0N2M0w0cTJwM2lGYnFfMEEyOFV0UVRHOUZ2LUYwVmFLQmlzZl9rX0h1dGZsOWpiYUM2RWkwbjFvRU03ZUVKTUR3ekdxRy1TbDdRb3dOc1BJODk0U3FDUEJnQmwtUDY0WllFdnFGVFV0WGhoREJSV1FFaDdYYS1mZ3FEU0JHMk9JYi1xMnJWQVVKSFgzZ29hVWdtWGFHZFM3WE5CVUhubEtZU2VZcFpsaDQ3Q19JS3VRazRCcHJsSHVuRkRGeWJTTkZqT0t2b0M0OFN3UmdHVGllZ1RZRUFHRjlVUkNRTU93MU5PakwySjU4a1lGbnM3YWJlRjJKX3Z1WGlSQ2hLMllVZ29vOUhveFBkMW4wYl9nalhyMFhhVWlMYXllamRDWk45QU9Cd2tILXVQZm1WdVpQalExOUUyc3hOd3pR?oc=5\" target=\"_blank\">تجاهل مصري لأنباء احتجاز 3 إسرائيليين في سيناء</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق الأوسط</font>",
       "date": "Wed, 23 Sep 2026 17:16:13 GMT",
       "source": "Google News مصر",
       "sourceScore": 6,
@@ -1001,21 +1001,6 @@
       ]
     },
     {
-      "title": "سحر استاد القاهرة ينتظر مباراة مصر وأنجولا.. هل يتكرر سيناريو سبتمبر 2021؟ - masrawy.com",
-      "link": "https://news.google.com/rss/articles/CBMizgRBVV95cUxQUk1kQjRFNGJQcGtMenYySkRBdzI0NFBveUZTbG9IanlFTlJkSHB6QmhtMUZzLWVLbUxUeVpCSDhrc1h5Sm5OWDQ0SFJkYkFrUHl5MC16NGZDbjBxalIyTkJRREFpRGFoS1RmSU1sSlVUbE5sbHF0dktvMHlqaEdLblJnY2tvaGQzU3g2M3o4TU84TEZPQ0MwZ01aeUE2SkNzX0s5M053bC1HN05rVU5jU0dyU2VtVFdTajlBaUFmbk1zR1hFdXdaTkpqeGZEM0NlTmpVaDBNZThtaUNiancyUWlBZkdmZ050SGhnSEdPNzRsa2wwMFVWSXotRllTQ0hiVU04eG5BYzloWFg5SGZDQXltWDlOSG5wa29scjBnSF8zTTB5TkRWU01BQTd5M1pzY0tqXzBhTXhYUUctNDNqY2RMM0xUaG1xZzkxNTBZbXJxSGpubzc5VUMtMk50MkIwYmpYZ0V1Wmw2aXBhNkJ5TW9vRHhoYmZwUzk0YndtS2VLSkZCSTlwQW80TWQ4WDVsRllKOGN5dWJfaXhSN1R2MUhUOFU5enJsNEdBUEE4U0VfTUJ3T2xQZllNWUYtNDVxUHRVMTV0eEZnVFR1MElPQ2oxTEZNMlNRMVFwQmo2Tkszdkt2NkNsNFJIOFpwYnVRcTNONmk2M3QtbTQzQTNYc0VybV92SFZhd25JMVlqYU1lMWdkclc3NDFuMjVRUUtxcVY0RVFnVDN2R1pYUlc4R2ZDS3FuVUNrN3ZDbHRKZEJEUW90WG5yQlBSTmhnd9IB0wRBVV95cUxQRklFY2RtWjhjOUxSdk01TVJKZFU5bDA2eWlmM0VJdHRQSkw3V1FxNk5LaDhHV1dmZXdaZzJrcTlxaHBGUGxDY3k1bXk2cVBldWNLZXR5Q05CVTJTU0NqWmdhVkVrWVNYTTlkN0Zza1NDR194TWRaNlpwd0tyOFhyOHNwSW81ZV8xNFdBUjc5bnR5ZmZ2X0Z3ZDd3OHZ1Y3N3THJ4Y1JDLURQZjQ0N3N3UWQ1eDVDX3VQZGZoaFJQZWY5WHllQ05rcmZDWXRqUDhVUFN2M21rQUUtQzVrV0JJS3diM0pIVjJqQlF6djUwQ3hFUktxV0cxWnVkRkxqc29QOGRsLXFDa1BOQzBoU2tLQk00U0hmY24zSGFmQXFMV19rTHJjY0JGNXZvcVA1d2N0OEZudnJLT3FBX2p4Sk12eUJBOWJuaEhzeThIVTVMUjV2cmlUUzJ0NjFCT2RFSDhsTjNVaS1heDZNcWpzdHVWcFNHNnQwT1loeUVuYllTbkFsXzRrV1RfWVdtNE1wV1I3M055T2FlUHF6ejRhNTVnaFA5R2hYY19xeHBDRS1hc1QtRV9sUnJBdUVpcUZQZzBieUFEN1FoQkgtdENDM1haSkFMM0dkNl9MeEpqNDhYWmtfV3NPVU4tUXBMUjBQVVdtNHB3TkJVNmpmbTh6dU0yY0xEb3BDM0VCb1VvT21IUlAzWENkYUd2NUFtSmZvUzNDV3ZVN1RhRHhTbTRxd2tKcjZpNFN4THhOcmVmT3lfQVJYTmdYOEdZZUlaVE94ZHRIeFBv?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgRBVV95cUxQUk1kQjRFNGJQcGtMenYySkRBdzI0NFBveUZTbG9IanlFTlJkSHB6QmhtMUZzLWVLbUxUeVpCSDhrc1h5Sm5OWDQ0SFJkYkFrUHl5MC16NGZDbjBxalIyTkJRREFpRGFoS1RmSU1sSlVUbE5sbHF0dktvMHlqaEdLblJnY2tvaGQzU3g2M3o4TU84TEZPQ0MwZ01aeUE2SkNzX0s5M053bC1HN05rVU5jU0dyU2VtVFdTajlBaUFmbk1zR1hFdXdaTkpqeGZEM0NlTmpVaDBNZThtaUNiancyUWlBZkdmZ050SGhnSEdPNzRsa2wwMFVWSXotRllTQ0hiVU04eG5BYzloWFg5SGZDQXltWDlOSG5wa29scjBnSF8zTTB5TkRWU01BQTd5M1pzY0tqXzBhTXhYUUctNDNqY2RMM0xUaG1xZzkxNTBZbXJxSGpubzc5VUMtMk50MkIwYmpYZ0V1Wmw2aXBhNkJ5TW9vRHhoYmZwUzk0YndtS2VLSkZCSTlwQW80TWQ4WDVsRllKOGN5dWJfaXhSN1R2MUhUOFU5enJsNEdBUEE4U0VfTUJ3T2xQZllNWUYtNDVxUHRVMTV0eEZnVFR1MElPQ2oxTEZNMlNRMVFwQmo2Tkszdkt2NkNsNFJIOFpwYnVRcTNONmk2M3QtbTQzQTNYc0VybV92SFZhd25JMVlqYU1lMWdkclc3NDFuMjVRUUtxcVY0RVFnVDN2R1pYUlc4R2ZDS3FuVUNrN3ZDbHRKZEJEUW90WG5yQlBSTmhnd9IB0wRBVV95cUxQRklFY2RtWjhjOUxSdk01TVJKZFU5bDA2eWlmM0VJdHRQSkw3V1FxNk5LaDhHV1dmZXdaZzJrcTlxaHBGUGxDY3k1bXk2cVBldWNLZXR5Q05CVTJTU0NqWmdhVkVrWVNYTTlkN0Zza1NDR194TWRaNlpwd0tyOFhyOHNwSW81ZV8xNFdBUjc5bnR5ZmZ2X0Z3ZDd3OHZ1Y3N3THJ4Y1JDLURQZjQ0N3N3UWQ1eDVDX3VQZGZoaFJQZWY5WHllQ05rcmZDWXRqUDhVUFN2M21rQUUtQzVrV0JJS3diM0pIVjJqQlF6djUwQ3hFUktxV0cxWnVkRkxqc29QOGRsLXFDa1BOQzBoU2tLQk00U0hmY24zSGFmQXFMV19rTHJjY0JGNXZvcVA1d2N0OEZudnJLT3FBX2p4Sk12eUJBOWJuaEhzeThIVTVMUjV2cmlUUzJ0NjFCT2RFSDhsTjNVaS1heDZNcWpzdHVWcFNHNnQwT1loeUVuYllTbkFsXzRrV1RfWVdtNE1wV1I3M055T2FlUHF6ejRhNTVnaFA5R2hYY19xeHBDRS1hc1QtRV9sUnJBdUVpcUZQZzBieUFEN1FoQkgtdENDM1haSkFMM0dkNl9MeEpqNDhYWmtfV3NPVU4tUXBMUjBQVVdtNHB3TkJVNmpmbTh6dU0yY0xEb3BDM0VCb1VvT21IUlAzWENkYUd2NUFtSmZvUzNDV3ZVN1RhRHhTbTRxd2tKcjZpNFN4THhOcmVmT3lfQVJYTmdYOEdZZUlaVE94ZHRIeFBv?oc=5\" target=\"_blank\">سحر استاد القاهرة ينتظر مباراة مصر وأنجولا.. هل يتكرر سيناريو سبتمبر 2021؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">masrawy.com</font>",
-      "date": "Wed, 23 Sep 2026 14:19:10 GMT",
-      "source": "Google News رياضة",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "رياضة",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News رياضة"
-      ]
-    },
-    {
       "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
       "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
       "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
@@ -1137,6 +1122,21 @@
       ]
     },
     {
+      "title": "New EU industry rules would damage UK, warns Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+      "description": "The prime minister met the European Commission President during his visit to the United Nations General Assembly.",
+      "date": "Tue, 22 Sep 2026 21:18:40 GMT",
+      "source": "BBC Business",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "اقتصاد",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9f0/live/e15023e0-b684-11f1-97fb-8d66d3951490.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "BBC Business"
+      ]
+    },
+    {
       "title": "(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين - 新华网",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xemk4NzVBNFQ2WTZHTnQweGs1alRsNXZsUFZZU3J5ZmxtR3p6QzI0UHJkWUpEZXlmOWNCNXVDVnBfVzZNejB2TFZCQWxqQ0xnaU0taWJzZmtEUHM1amtyenFLZzk0aVFTOG14SXlERUxRM1lfRzd2QUVPRQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xemk4NzVBNFQ2WTZHTnQweGs1alRsNXZsUFZZU3J5ZmxtR3p6QzI0UHJkWUpEZXlmOWNCNXVDVnBfVzZNejB2TFZCQWxqQ0xnaU0taWJzZmtEUHM1amtyenFLZzk0aVFTOG14SXlERUxRM1lfRzd2QUVPRQ?oc=5\" target=\"_blank\">(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
@@ -1168,9 +1168,9 @@
       "telegramUpdateId": 241993278
     },
     {
-      "title": "المرحلة الثانية 2026.. تنسيق كليات ومعاهد علوم ورياضة نظام قديم - masrawy.com",
+      "title": "المرحلة الثانية 2026.. تنسيق كليات ومعاهد علوم ورياضة نظام قديم - Masrawy",
       "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxQb0lLZTFmRDNid1RXX2xyWnJEbkxjMlZmMFJPa2JzU2gzajF0NFlETTNSak03d0RTQWFEcFV0am45ZE9UOEZJMmNQcW1jQmJVTkxnT2syMlBQMHhtMHkwQ3NZQkktYW8xVEtZc2hlT2dWaDNxZEtWZGlEQXQyLVlRTFpNVUtUVERNVVVZNlM3WDBOSS1SWnNleHFmVE9PMGtmSWpqNVVacE5SYXowR3Nzc0xPeElMTmFSZDB1Yk9CZnBteGduTEtiUm1JRlJpU1RuRGR1cTI5VkFFR25IdWVxQWxPd3FjUHExZXlGM2t5Z2QzSG1OMjZtTXUxbW9LbXRoOG9mb1VfcnZ1US14VHdITVNQUlloUUk2T253cjRTdXZhNHBENGxDQXlhbEFrbk5JR0FPYTFYNzhwQlpuYmdBdmtmNHkwdHRwdWR0cV8zLWVZTnYzT2ZvZFVDd1E1dnhnOWd5bExhc25laURNNThkMEVidmxWZ21FWVlVUk5aaC00RU54dUpUNThTNGlSc2ZNUTJXXzhPUGRaT1ZWNmxrLXRHZXRaUmpVTXBNMWhOeEUtbmFySExzWGhrOC03aGVqc2F6cjlwOFZWLU1HWnkwTjZZYUpJcF9BYmUzUGZFTjFqZ0JuM3M2TDZsTXdCZkhGYUtVN205SWF1UW1DQVFRd1laa3hITVM4Y0JmYXdmekN2X2dhdmpyeEhrZVJWODTSAaQEQVVfeXFMT250YW5ub1BHTVVEOW5pdDVuWWRYWU42Y2pjZzFza2JLWHVKX1lkc2tTMG1EZUY2S1NEOTJBX1BkSkFtR2Zzd2VjVjd1SVR5T1ZpQ090MzlaLU1sMDhOeW1vSFpfcmJhMHktdktfUEJKTnk0dEVtX0hSeFgtbHZDVExyVEp0WW43dkxYbHNCaGRKYjVNd21EcGp1eE9zSFlIWlBGZmN4TDdBS0JfTHQ4ck5KeThuVFJiaXl1bjJxTUg5dC1QLVl1Uy0xSUx4dXZSVlpaNl9vTEdPbVVBLVBGM2M3R3dUdElaVmVLWS10c0EyRlYtdjBXN2FWOUhnMnVjcHV6NXp1Zy10VFhueDhrY3FxUjk1bjVZa0szYlg0VmFNd0tuY01hV1FPX1p6Y3ZNT0NvYTVEQVRkN3R6RTloLUxwN3hLSnplbVI4aG5iNk5ORHJmZ0pLNkdpaC1aVGJlV2laYXdTVXljc2hLYV9CQ2VENE1ER3NKLTIxZFNHRm1mZmpWQTQ0bmhzd2Z5cmVwQlZILWI1X3JNaG1Id2hhVzY3UVZHUy1RN3ZCek9Pbld2ZnB4QURQcnJOeVhwX2NkbVpaN0c0cVB4MktfTjBzYXFSdzZGMjFuRVJSam9iaXBfME1fNXBqdmhJc2FlMWoyY0tTWTFaSkxVbUpOaW94SjNtOGl2RnU3cnd0S29tU3NVTkNqZVE1Y3ZnOE43YnpZdGdQN3E?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwRBVV95cUxQb0lLZTFmRDNid1RXX2xyWnJEbkxjMlZmMFJPa2JzU2gzajF0NFlETTNSak03d0RTQWFEcFV0am45ZE9UOEZJMmNQcW1jQmJVTkxnT2syMlBQMHhtMHkwQ3NZQkktYW8xVEtZc2hlT2dWaDNxZEtWZGlEQXQyLVlRTFpNVUtUVERNVVVZNlM3WDBOSS1SWnNleHFmVE9PMGtmSWpqNVVacE5SYXowR3Nzc0xPeElMTmFSZDB1Yk9CZnBteGduTEtiUm1JRlJpU1RuRGR1cTI5VkFFR25IdWVxQWxPd3FjUHExZXlGM2t5Z2QzSG1OMjZtTXUxbW9LbXRoOG9mb1VfcnZ1US14VHdITVNQUlloUUk2T253cjRTdXZhNHBENGxDQXlhbEFrbk5JR0FPYTFYNzhwQlpuYmdBdmtmNHkwdHRwdWR0cV8zLWVZTnYzT2ZvZFVDd1E1dnhnOWd5bExhc25laURNNThkMEVidmxWZ21FWVlVUk5aaC00RU54dUpUNThTNGlSc2ZNUTJXXzhPUGRaT1ZWNmxrLXRHZXRaUmpVTXBNMWhOeEUtbmFySExzWGhrOC03aGVqc2F6cjlwOFZWLU1HWnkwTjZZYUpJcF9BYmUzUGZFTjFqZ0JuM3M2TDZsTXdCZkhGYUtVN205SWF1UW1DQVFRd1laa3hITVM4Y0JmYXdmekN2X2dhdmpyeEhrZVJWODTSAaQEQVVfeXFMT250YW5ub1BHTVVEOW5pdDVuWWRYWU42Y2pjZzFza2JLWHVKX1lkc2tTMG1EZUY2S1NEOTJBX1BkSkFtR2Zzd2VjVjd1SVR5T1ZpQ090MzlaLU1sMDhOeW1vSFpfcmJhMHktdktfUEJKTnk0dEVtX0hSeFgtbHZDVExyVEp0WW43dkxYbHNCaGRKYjVNd21EcGp1eE9zSFlIWlBGZmN4TDdBS0JfTHQ4ck5KeThuVFJiaXl1bjJxTUg5dC1QLVl1Uy0xSUx4dXZSVlpaNl9vTEdPbVVBLVBGM2M3R3dUdElaVmVLWS10c0EyRlYtdjBXN2FWOUhnMnVjcHV6NXp1Zy10VFhueDhrY3FxUjk1bjVZa0szYlg0VmFNd0tuY01hV1FPX1p6Y3ZNT0NvYTVEQVRkN3R6RTloLUxwN3hLSnplbVI4aG5iNk5ORHJmZ0pLNkdpaC1aVGJlV2laYXdTVXljc2hLYV9CQ2VENE1ER3NKLTIxZFNHRm1mZmpWQTQ0bmhzd2Z5cmVwQlZILWI1X3JNaG1Id2hhVzY3UVZHUy1RN3ZCek9Pbld2ZnB4QURQcnJOeVhwX2NkbVpaN0c0cVB4MktfTjBzYXFSdzZGMjFuRVJSam9iaXBfME1fNXBqdmhJc2FlMWoyY0tTWTFaSkxVbUpOaW94SjNtOGl2RnU3cnd0S29tU3NVTkNqZVE1Y3ZnOE43YnpZdGdQN3E?oc=5\" target=\"_blank\">المرحلة الثانية 2026.. تنسيق كليات ومعاهد علوم ورياضة نظام قديم</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">masrawy.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwRBVV95cUxQb0lLZTFmRDNid1RXX2xyWnJEbkxjMlZmMFJPa2JzU2gzajF0NFlETTNSak03d0RTQWFEcFV0am45ZE9UOEZJMmNQcW1jQmJVTkxnT2syMlBQMHhtMHkwQ3NZQkktYW8xVEtZc2hlT2dWaDNxZEtWZGlEQXQyLVlRTFpNVUtUVERNVVVZNlM3WDBOSS1SWnNleHFmVE9PMGtmSWpqNVVacE5SYXowR3Nzc0xPeElMTmFSZDB1Yk9CZnBteGduTEtiUm1JRlJpU1RuRGR1cTI5VkFFR25IdWVxQWxPd3FjUHExZXlGM2t5Z2QzSG1OMjZtTXUxbW9LbXRoOG9mb1VfcnZ1US14VHdITVNQUlloUUk2T253cjRTdXZhNHBENGxDQXlhbEFrbk5JR0FPYTFYNzhwQlpuYmdBdmtmNHkwdHRwdWR0cV8zLWVZTnYzT2ZvZFVDd1E1dnhnOWd5bExhc25laURNNThkMEVidmxWZ21FWVlVUk5aaC00RU54dUpUNThTNGlSc2ZNUTJXXzhPUGRaT1ZWNmxrLXRHZXRaUmpVTXBNMWhOeEUtbmFySExzWGhrOC03aGVqc2F6cjlwOFZWLU1HWnkwTjZZYUpJcF9BYmUzUGZFTjFqZ0JuM3M2TDZsTXdCZkhGYUtVN205SWF1UW1DQVFRd1laa3hITVM4Y0JmYXdmekN2X2dhdmpyeEhrZVJWODTSAaQEQVVfeXFMT250YW5ub1BHTVVEOW5pdDVuWWRYWU42Y2pjZzFza2JLWHVKX1lkc2tTMG1EZUY2S1NEOTJBX1BkSkFtR2Zzd2VjVjd1SVR5T1ZpQ090MzlaLU1sMDhOeW1vSFpfcmJhMHktdktfUEJKTnk0dEVtX0hSeFgtbHZDVExyVEp0WW43dkxYbHNCaGRKYjVNd21EcGp1eE9zSFlIWlBGZmN4TDdBS0JfTHQ4ck5KeThuVFJiaXl1bjJxTUg5dC1QLVl1Uy0xSUx4dXZSVlpaNl9vTEdPbVVBLVBGM2M3R3dUdElaVmVLWS10c0EyRlYtdjBXN2FWOUhnMnVjcHV6NXp1Zy10VFhueDhrY3FxUjk1bjVZa0szYlg0VmFNd0tuY01hV1FPX1p6Y3ZNT0NvYTVEQVRkN3R6RTloLUxwN3hLSnplbVI4aG5iNk5ORHJmZ0pLNkdpaC1aVGJlV2laYXdTVXljc2hLYV9CQ2VENE1ER3NKLTIxZFNHRm1mZmpWQTQ0bmhzd2Z5cmVwQlZILWI1X3JNaG1Id2hhVzY3UVZHUy1RN3ZCek9Pbld2ZnB4QURQcnJOeVhwX2NkbVpaN0c0cVB4MktfTjBzYXFSdzZGMjFuRVJSam9iaXBfME1fNXBqdmhJc2FlMWoyY0tTWTFaSkxVbUpOaW94SjNtOGl2RnU3cnd0S29tU3NVTkNqZVE1Y3ZnOE43YnpZdGdQN3E?oc=5\" target=\"_blank\">المرحلة الثانية 2026.. تنسيق كليات ومعاهد علوم ورياضة نظام قديم</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
       "date": "Wed, 19 Aug 2026 07:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
@@ -1288,9 +1288,9 @@
       ]
     },
     {
-      "title": "دراسة للتخصصي في طب الفضاء تصنّف ضمن أعلى 5% عالميًّا - أخبار 24",
+      "title": "دراسة للتخصصي في طب الفضاء تصنّف ضمن أعلى 5% عالميًّا - akhbaar24.com",
       "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNTzZKMTJXRTRwdVFXZVY4MVlkQlhaYktyYjRxNEVKWmJ3eVFoN20xWm91TDY3SW5WbzlKX3M0OWRrYkFlaDM3czBpOUY3S1NwZm5UNHJRZzlJVEtnN0JTcmRPMUdaaGNpSEF1a0NJa21xb21JbWN2QWNOZll1Y3h3VGZkeEszNHV1V1IxVFhMQVd4ZUhRRVlDZ2U1bmdKblo2QVZiWTB0dXFTMnVudzMxaVNMelJfZG5vanVaSUhEaFg4OHVvdHFSUTJ4YzNKaEZaU0tVdWlnY2FKeERLNWkwVmUyTlU0RnhWLUVMNTdfcHlwUXlfaVhhNWU5WExic3RYMldoem9RNXZEVVJZNE5reTc2Vml4dW12UHp5bzVtWDF5QkltcnpJaUJzc3RFLXlNS0h6WlFxa3M0bEZ5QmNrazYzRnhseTNnWmZEZUx6VFFYTEVMdmIta3JJX3BsTm5wMDZtVGI0OFRpQlNhX2M0d01Hbm1CaFg5UTJINzdVN2RUZHdDZHN3VTE5ZEdyQjRma3d6Yi12SWRsSlc0SmtDQkFKYTBwV0YwMF9RSEpLX3ZERWVPUmdj?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxNTzZKMTJXRTRwdVFXZVY4MVlkQlhaYktyYjRxNEVKWmJ3eVFoN20xWm91TDY3SW5WbzlKX3M0OWRrYkFlaDM3czBpOUY3S1NwZm5UNHJRZzlJVEtnN0JTcmRPMUdaaGNpSEF1a0NJa21xb21JbWN2QWNOZll1Y3h3VGZkeEszNHV1V1IxVFhMQVd4ZUhRRVlDZ2U1bmdKblo2QVZiWTB0dXFTMnVudzMxaVNMelJfZG5vanVaSUhEaFg4OHVvdHFSUTJ4YzNKaEZaU0tVdWlnY2FKeERLNWkwVmUyTlU0RnhWLUVMNTdfcHlwUXlfaVhhNWU5WExic3RYMldoem9RNXZEVVJZNE5reTc2Vml4dW12UHp5bzVtWDF5QkltcnpJaUJzc3RFLXlNS0h6WlFxa3M0bEZ5QmNrazYzRnhseTNnWmZEZUx6VFFYTEVMdmIta3JJX3BsTm5wMDZtVGI0OFRpQlNhX2M0d01Hbm1CaFg5UTJINzdVN2RUZHdDZHN3VTE5ZEdyQjRma3d6Yi12SWRsSlc0SmtDQkFKYTBwV0YwMF9RSEpLX3ZERWVPUmdj?oc=5\" target=\"_blank\">دراسة للتخصصي في طب الفضاء تصنّف ضمن أعلى 5% عالميًّا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">أخبار 24</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxNTzZKMTJXRTRwdVFXZVY4MVlkQlhaYktyYjRxNEVKWmJ3eVFoN20xWm91TDY3SW5WbzlKX3M0OWRrYkFlaDM3czBpOUY3S1NwZm5UNHJRZzlJVEtnN0JTcmRPMUdaaGNpSEF1a0NJa21xb21JbWN2QWNOZll1Y3h3VGZkeEszNHV1V1IxVFhMQVd4ZUhRRVlDZ2U1bmdKblo2QVZiWTB0dXFTMnVudzMxaVNMelJfZG5vanVaSUhEaFg4OHVvdHFSUTJ4YzNKaEZaU0tVdWlnY2FKeERLNWkwVmUyTlU0RnhWLUVMNTdfcHlwUXlfaVhhNWU5WExic3RYMldoem9RNXZEVVJZNE5reTc2Vml4dW12UHp5bzVtWDF5QkltcnpJaUJzc3RFLXlNS0h6WlFxa3M0bEZ5QmNrazYzRnhseTNnWmZEZUx6VFFYTEVMdmIta3JJX3BsTm5wMDZtVGI0OFRpQlNhX2M0d01Hbm1CaFg5UTJINzdVN2RUZHdDZHN3VTE5ZEdyQjRma3d6Yi12SWRsSlc0SmtDQkFKYTBwV0YwMF9RSEpLX3ZERWVPUmdj?oc=5\" target=\"_blank\">دراسة للتخصصي في طب الفضاء تصنّف ضمن أعلى 5% عالميًّا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">akhbaar24.com</font>",
       "date": "Sun, 14 Jun 2026 07:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
@@ -1303,9 +1303,9 @@
       ]
     },
     {
-      "title": "طفرة علمية روسية تقود العالم بابتكارات نوعية في الفضاء والطب - jo24.net",
+      "title": "طفرة علمية روسية تقود العالم بابتكارات نوعية في الفضاء والطب - Jo24.net",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1BUTE5OU9QVEYxelRtM2poQUZSREE4eC10eXFuLTg0QTctcmZqR09mRUdYRGprd3l6WnV4WHhfUl9JX3J2VVE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1BUTE5OU9QVEYxelRtM2poQUZSREE4eC10eXFuLTg0QTctcmZqR09mRUdYRGprd3l6WnV4WHhfUl9JX3J2VVE?oc=5\" target=\"_blank\">طفرة علمية روسية تقود العالم بابتكارات نوعية في الفضاء والطب</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jo24.net</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1BUTE5OU9QVEYxelRtM2poQUZSREE4eC10eXFuLTg0QTctcmZqR09mRUdYRGprd3l6WnV4WHhfUl9JX3J2VVE?oc=5\" target=\"_blank\">طفرة علمية روسية تقود العالم بابتكارات نوعية في الفضاء والطب</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jo24.net</font>",
       "date": "Sat, 13 Jun 2026 07:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
