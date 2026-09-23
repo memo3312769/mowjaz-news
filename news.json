@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T03:06:39.991Z",
+  "updatedAt": "2026-09-23T03:25:08.377Z",
   "items": [
     {
       "title": "ترامب: اجتماع مثمر للغاية بين قادة أمريكيين وإيرانيين استمر ثلاث ساعات",
       "link": "https://www.bbc.co.uk/arabic/live/ck3reyw8ne2zt?at_medium=RSS&at_campaign=rss",
       "description": "يشارك نحو 130 رئيس دولة وحكومة في الاجتماعات في وقت يواجه فيه النظام الدولي الذي تشكل بعد الحرب العالمية الثانية ضغوطا متزايدة بينما تكافح ‌الأمم المتحدة للحفاظ على دورها وتأثيرها في ظل انتقادات ترامب",
-      "date": "2026-09-23T03:06:38.276Z",
+      "date": "2026-09-23T03:25:07.507Z",
       "source": "BBC العربية",
       "sourceScore": 10,
       "sourceType": "official-rss",
@@ -14,6 +14,52 @@
       "sourceCount": 1,
       "sources": [
         "BBC العربية"
+      ]
+    },
+    {
+      "title": "Will Trump's AI rebrand to 'super intelligence' catch on?",
+      "link": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
+      "description": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
+      "date": "Wed, 23 Sep 2026 03:20:30 GMT",
+      "source": "BBC Business",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "اقتصاد",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891c/live/a452a4e0-b6ed-11f1-af5e-b359cc50acc4.jpg",
+      "sourceCount": 2,
+      "sources": [
+        "BBC Business",
+        "BBC Technology"
+      ]
+    },
+    {
+      "title": "الرئيس الإيراني يصل إلى نيويورك",
+      "link": "https://www.skynewsarabia.com/middle-east/1893805-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B5%D9%84-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
+      "description": "وصل الرئيس الإيراني مسعود بيزشكيان إلى نيويورك، حيث من المقرر أن يلقي كلمة أمام الجمعية العامة للأمم المتحدة، وفق ما أفادت وسائل إعلام رسمية إيرانية، الأربعاء.",
+      "date": "Wed, 23 Sep 2026 03:17:49 GMT",
+      "source": "Sky News عربية",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://images.skynewsarabia.com/images/v1/2026/09/21/1893418/95/53/1-1893418.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "Sky News عربية"
+      ]
+    },
+    {
+      "title": "الاجتماع التشاورى الرباعى يدين الاعتداءات على السعودية وزراء خارجية مصر ودول عربية وإسلامية يرفضون تهجير الفلسطينيين - gate.ahram.org.eg",
+      "link": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxPZzA1VldTTjJvSzl6bTZvTGdXN2wxVVlVWk8zRlhOajNPY0lRcUFULTNvdFVhMURqblhJNUVBS19ySW44WEtvS2h1SWVHNHlMa0UtMHRBbVpyVEZoWjlZNkdSSUJUTXZveXI5MGpHNlRrS0UyRHJHTGwwLTBsWTdCOU1XTWhxRHcyR2VGU3MtbTNsVkg3UU5PU0cyZUNwYjRrVkd3S1h6V3RHR1pCZHp2ZUZxM1ozaEt5MUNNcXFVMlBaSkFNdjViSjR0THA3MDFfWG9SQTZVSVBIMmxmQXo2Qm1uS29LR0lQekNSWi14X19FY1hnVHY1cVZnSnprSnJDVVk2dktVWlJybjFqYXJxVUo4b0E2WXF0NVl6SUNvTnVINFBsbExNYnBvN2M4TzYxNm5yeXFGUXBkdlNzU2JLQlpQb2pwNVZwYVJxREE2UTM4djBsUVI3SnY2TnJ4Rlc1N0ZtLUxlY1d1TGM1eGxtTkJ2YUFBa2RTa2YwMUpIN1FWRmRBS0N3S2NvZkFvRExCSHctT2pkZlFnQ1ZmVjgtUGUyRWItZ3l0TzNUY2VDWW1mSUZwR2p6VklTdnF1bjdSRVdLX01vTDdCWFdoMk00MHRtazVreVZ5N05mMEkzY3pfazk3dVRXUlROdy1SSkdjS2ZtSGJhQW5sSWNxNEwtdFlvUnUyVmJVTlZUZ2h1UU5HUVhyT2I4OGt3RXdLY1NsUEtXalFjeGFpY1lsWHNuQkF6MjZPYkJpWU5tWmNaTWhNNll6WGcxeThuYm9GYVBzVlFxWFNhUEZQSjI5bkppcDd3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gRBVV95cUxPZzA1VldTTjJvSzl6bTZvTGdXN2wxVVlVWk8zRlhOajNPY0lRcUFULTNvdFVhMURqblhJNUVBS19ySW44WEtvS2h1SWVHNHlMa0UtMHRBbVpyVEZoWjlZNkdSSUJUTXZveXI5MGpHNlRrS0UyRHJHTGwwLTBsWTdCOU1XTWhxRHcyR2VGU3MtbTNsVkg3UU5PU0cyZUNwYjRrVkd3S1h6V3RHR1pCZHp2ZUZxM1ozaEt5MUNNcXFVMlBaSkFNdjViSjR0THA3MDFfWG9SQTZVSVBIMmxmQXo2Qm1uS29LR0lQekNSWi14X19FY1hnVHY1cVZnSnprSnJDVVk2dktVWlJybjFqYXJxVUo4b0E2WXF0NVl6SUNvTnVINFBsbExNYnBvN2M4TzYxNm5yeXFGUXBkdlNzU2JLQlpQb2pwNVZwYVJxREE2UTM4djBsUVI3SnY2TnJ4Rlc1N0ZtLUxlY1d1TGM1eGxtTkJ2YUFBa2RTa2YwMUpIN1FWRmRBS0N3S2NvZkFvRExCSHctT2pkZlFnQ1ZmVjgtUGUyRWItZ3l0TzNUY2VDWW1mSUZwR2p6VklTdnF1bjdSRVdLX01vTDdCWFdoMk00MHRtazVreVZ5N05mMEkzY3pfazk3dVRXUlROdy1SSkdjS2ZtSGJhQW5sSWNxNEwtdFlvUnUyVmJVTlZUZ2h1UU5HUVhyT2I4OGt3RXdLY1NsUEtXalFjeGFpY1lsWHNuQkF6MjZPYkJpWU5tWmNaTWhNNll6WGcxeThuYm9GYVBzVlFxWFNhUEZQSjI5bkppcDd3?oc=5\" target=\"_blank\">الاجتماع التشاورى الرباعى يدين الاعتداءات على السعودية وزراء خارجية مصر ودول عربية وإسلامية يرفضون تهجير الفلسطينيين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gate.ahram.org.eg</font>",
+      "date": "Wed, 23 Sep 2026 03:11:15 GMT",
+      "source": "Google News مصر",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "مصر",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News مصر"
       ]
     },
     {
@@ -33,6 +79,21 @@
       ]
     },
     {
+      "title": "سباق الهيمنة التكنولوجية يدخل البيت الأبيض غداً - البيان",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sNllabUF1QXhBaVV5TFlXVjR3Sk5sX2hTeFA0dkRoYXA1ZGcxVXpKeXpvRHRaVU5hUEFKT1JMRmVQRVk2TDZMdkdKSVJBbE8zUFRpdDZ3VkwzQWU0R3F4YkhyUnpteHliZVlpNjFR0gFzQVVfeXFMT0J5WGEzN25jcjhZalVwMy00U2Q3MnBBaFNSZ3ZvdlZ3bmVkUG9yb01fOXMtTDJHZW5ZTTdPaThud2RRZTZxVHY0WE9KYmlSOGtKUEsyT2dFNEpwNDN4LUVpX1QtV3k3QUFUWTJtWl9Qdkl5Yw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9sNllabUF1QXhBaVV5TFlXVjR3Sk5sX2hTeFA0dkRoYXA1ZGcxVXpKeXpvRHRaVU5hUEFKT1JMRmVQRVk2TDZMdkdKSVJBbE8zUFRpdDZ3VkwzQWU0R3F4YkhyUnpteHliZVlpNjFR0gFzQVVfeXFMT0J5WGEzN25jcjhZalVwMy00U2Q3MnBBaFNSZ3ZvdlZ3bmVkUG9yb01fOXMtTDJHZW5ZTTdPaThud2RRZTZxVHY0WE9KYmlSOGtKUEsyT2dFNEpwNDN4LUVpX1QtV3k3QUFUWTJtWl9Qdkl5Yw?oc=5\" target=\"_blank\">سباق الهيمنة التكنولوجية يدخل البيت الأبيض غداً</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">البيان</font>",
+      "date": "Wed, 23 Sep 2026 03:00:00 GMT",
+      "source": "Google News تكنولوجيا",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "تكنولوجيا",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News تكنولوجيا"
+      ]
+    },
+    {
       "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
       "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
       "description": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
@@ -45,22 +106,6 @@
       "sourceCount": 1,
       "sources": [
         "BBC World"
-      ]
-    },
-    {
-      "title": "Will Trump's AI rebrand as 'super intelligence' catch on?",
-      "link": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
-      "description": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
-      "date": "Wed, 23 Sep 2026 02:56:57 GMT",
-      "source": "BBC Business",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "اقتصاد",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891c/live/a452a4e0-b6ed-11f1-af5e-b359cc50acc4.jpg",
-      "sourceCount": 2,
-      "sources": [
-        "BBC Business",
-        "BBC Technology"
       ]
     },
     {
@@ -154,9 +199,9 @@
       ]
     },
     {
-      "title": "شراكة كوريا الجنوبية مع العرب في الذكاء الاصطناعي - العربي الجديد",
+      "title": "شراكة كوريا الجنوبية مع العرب في الذكاء الاصطناعي - alaraby.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNcWFqZkFBZTJiUE84WEdzT2luTDBSTXE4Sy1xdlVxdm50bEcxc09lUUw4RFBjbTgxd0w4LVF5ZmZCdFlDbVJyVFNVWWVXeVA0Qjh4eS04MUp0cDlQRE5fSXZjeGdPM05KaUxsSnlaelctTXA4SngzSWljekZKcDItdjNhZF94NkZ1MWlFanFKRFEyVHNrLWR2Qnc5M2hvbnQwTmpRWFZnUVFQN0pETm5jR05LWFJwZkwwWnF1S0hLMTllZ0lwT1ZYbW9lS3hra0JpakNPWFNCTmlxN29CbTRia2NOR25SN1otU0ctUzZlbVhTcWJtM3A1eGNFWGNFbzVnbU9uMmtxMG02WEd5TkpTWUFwejZJTVF2UktNeGlTOFRZSi1pc3pudGRuUGVnVjVLQVZtaUFHMEJ1Nk5rN2dabTV0NWlUcUlrX3d6X2JILVQwWlFWcGZKY29WbEJGMGtOSWd2eVhKQUlLSHJoTmdLMXNOclFHcVNicE5OSWRvOUdCb05wbHIxMHRFaEdxZklSMERqeGI2ZlA1aHJqQXB0VXFLNNIBqANBVV95cUxQSndLR2p6Y2VwS2loaFdPaUF6RXoyTkVMYWhMZGlCYTRZZXc1T1VDVVNLeW8yWEVKLVk3aDl1Rmk5cy0yN2FZb1ZOOEJXQlItd0JfQ1BPWlZVRVNnYkxpTVNOV0cwNHZiVFRIT3BLQ2N3RHc4TjFJMG4yUmxfd0c0NkltNEVCNkp4T0s2SG15elVzam54MXRWZnh3NUktOEh3ZkwybEFvczNOUG5HRjFVYnBIb0pUUVJpTDh3WjItakQtZ29tQWdvNFM5ZkJueUV2dWluT2Y3eDRXbENaU1NOcU9FVm9DUGxJVzNDdzJtNVExRzRsTmJkTkg2a1dsTGczeDFseHJ4aUdxbmptWVFEODlXWndPMDcwQTlmb2paYVhiS1JacXdCX29FNkNNYUZkY3p0SXNmUXN4Q1JKdGpRdjZKc3NzV2ZNQkkxSkQwbWZyMVVBSzMtOE92R1g2OU5NUy1kVTBzdXdWUGJpNVdES2t0Tm5LX0RWa04wajc4SUxBanBNX1lEN0pESml1bG5vY3pmWEx6OUxHYTMxOTIzejFHRzFzRTA5?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowNBVV95cUxNcWFqZkFBZTJiUE84WEdzT2luTDBSTXE4Sy1xdlVxdm50bEcxc09lUUw4RFBjbTgxd0w4LVF5ZmZCdFlDbVJyVFNVWWVXeVA0Qjh4eS04MUp0cDlQRE5fSXZjeGdPM05KaUxsSnlaelctTXA4SngzSWljekZKcDItdjNhZF94NkZ1MWlFanFKRFEyVHNrLWR2Qnc5M2hvbnQwTmpRWFZnUVFQN0pETm5jR05LWFJwZkwwWnF1S0hLMTllZ0lwT1ZYbW9lS3hra0JpakNPWFNCTmlxN29CbTRia2NOR25SN1otU0ctUzZlbVhTcWJtM3A1eGNFWGNFbzVnbU9uMmtxMG02WEd5TkpTWUFwejZJTVF2UktNeGlTOFRZSi1pc3pudGRuUGVnVjVLQVZtaUFHMEJ1Nk5rN2dabTV0NWlUcUlrX3d6X2JILVQwWlFWcGZKY29WbEJGMGtOSWd2eVhKQUlLSHJoTmdLMXNOclFHcVNicE5OSWRvOUdCb05wbHIxMHRFaEdxZklSMERqeGI2ZlA1aHJqQXB0VXFLNNIBqANBVV95cUxQSndLR2p6Y2VwS2loaFdPaUF6RXoyTkVMYWhMZGlCYTRZZXc1T1VDVVNLeW8yWEVKLVk3aDl1Rmk5cy0yN2FZb1ZOOEJXQlItd0JfQ1BPWlZVRVNnYkxpTVNOV0cwNHZiVFRIT3BLQ2N3RHc4TjFJMG4yUmxfd0c0NkltNEVCNkp4T0s2SG15elVzam54MXRWZnh3NUktOEh3ZkwybEFvczNOUG5HRjFVYnBIb0pUUVJpTDh3WjItakQtZ29tQWdvNFM5ZkJueUV2dWluT2Y3eDRXbENaU1NOcU9FVm9DUGxJVzNDdzJtNVExRzRsTmJkTkg2a1dsTGczeDFseHJ4aUdxbmptWVFEODlXWndPMDcwQTlmb2paYVhiS1JacXdCX29FNkNNYUZkY3p0SXNmUXN4Q1JKdGpRdjZKc3NzV2ZNQkkxSkQwbWZyMVVBSzMtOE92R1g2OU5NUy1kVTBzdXdWUGJpNVdES2t0Tm5LX0RWa04wajc4SUxBanBNX1lEN0pESml1bG5vY3pmWEx6OUxHYTMxOTIzejFHRzFzRTA5?oc=5\" target=\"_blank\">شراكة كوريا الجنوبية مع العرب في الذكاء الاصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowNBVV95cUxNcWFqZkFBZTJiUE84WEdzT2luTDBSTXE4Sy1xdlVxdm50bEcxc09lUUw4RFBjbTgxd0w4LVF5ZmZCdFlDbVJyVFNVWWVXeVA0Qjh4eS04MUp0cDlQRE5fSXZjeGdPM05KaUxsSnlaelctTXA4SngzSWljekZKcDItdjNhZF94NkZ1MWlFanFKRFEyVHNrLWR2Qnc5M2hvbnQwTmpRWFZnUVFQN0pETm5jR05LWFJwZkwwWnF1S0hLMTllZ0lwT1ZYbW9lS3hra0JpakNPWFNCTmlxN29CbTRia2NOR25SN1otU0ctUzZlbVhTcWJtM3A1eGNFWGNFbzVnbU9uMmtxMG02WEd5TkpTWUFwejZJTVF2UktNeGlTOFRZSi1pc3pudGRuUGVnVjVLQVZtaUFHMEJ1Nk5rN2dabTV0NWlUcUlrX3d6X2JILVQwWlFWcGZKY29WbEJGMGtOSWd2eVhKQUlLSHJoTmdLMXNOclFHcVNicE5OSWRvOUdCb05wbHIxMHRFaEdxZklSMERqeGI2ZlA1aHJqQXB0VXFLNNIBqANBVV95cUxQSndLR2p6Y2VwS2loaFdPaUF6RXoyTkVMYWhMZGlCYTRZZXc1T1VDVVNLeW8yWEVKLVk3aDl1Rmk5cy0yN2FZb1ZOOEJXQlItd0JfQ1BPWlZVRVNnYkxpTVNOV0cwNHZiVFRIT3BLQ2N3RHc4TjFJMG4yUmxfd0c0NkltNEVCNkp4T0s2SG15elVzam54MXRWZnh3NUktOEh3ZkwybEFvczNOUG5HRjFVYnBIb0pUUVJpTDh3WjItakQtZ29tQWdvNFM5ZkJueUV2dWluT2Y3eDRXbENaU1NOcU9FVm9DUGxJVzNDdzJtNVExRzRsTmJkTkg2a1dsTGczeDFseHJ4aUdxbmptWVFEODlXWndPMDcwQTlmb2paYVhiS1JacXdCX29FNkNNYUZkY3p0SXNmUXN4Q1JKdGpRdjZKc3NzV2ZNQkkxSkQwbWZyMVVBSzMtOE92R1g2OU5NUy1kVTBzdXdWUGJpNVdES2t0Tm5LX0RWa04wajc4SUxBanBNX1lEN0pESml1bG5vY3pmWEx6OUxHYTMxOTIzejFHRzFzRTA5?oc=5\" target=\"_blank\">شراكة كوريا الجنوبية مع العرب في الذكاء الاصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alaraby.co.uk</font>",
       "date": "Wed, 23 Sep 2026 00:21:16 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -500,21 +545,6 @@
       ]
     },
     {
-      "title": "لماذا يسعى السودانيون لاستخراج الذهب برغم المخاطر العالية؟",
-      "link": "https://www.bbc.com/arabic/articles/cvwyzdegr5y5o?at_medium=RSS&at_campaign=rss",
-      "description": "في ظل الأزمة الاقتصادية وتراجع مصادر الدخل، يتجه كثير من السودانيين إلى استخراج الذهب باعتباره فرصة سريعة لكسب المال وتأمين لقمة العيش، رغم المخاطر.",
-      "date": "Tue, 22 Sep 2026 21:03:06 GMT",
-      "source": "BBC العربية",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/79c4/live/af352650-b6c3-11f1-8a9f-c7141bd7738d.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "BBC العربية"
-      ]
-    },
-    {
       "title": "مصر جاهزة لاستضافة الألعاب الإفريقية 2027 - gate.ahram.org.eg",
       "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQMnZKc0VGbXBWUkVYYnR0LVFweWI4V1owZy0yQnJaSzlhbFNVT1VDNDhGbG53VWEwM21BekE3UU5DLUhwV1Z0MG9CcjQwcV9KbXBoaXZ2WWhibDlHRTJFc0sxNjVYdTVNVGs1U0hqbmU5NjczZV94bzNLenNpREpCdUdVWHhHUzFDQUppZ3VkUTAxU2hPTFhOd1RHY29SSTdFOFRIbEpwX1dSUGowU2JueDVDX202WGtOMDk0SmtpUk5GOUF6OUJQTVUxRXVjUllwX2VRc0lOXzEzWGQ1UV9tSG9hSFVrSFRRVmxxSy0xNWFfVDNlVEg4WVRSWkNaUTlNWHNLeURjYXNnNUp6N3cydWg3d2JMejN1MkpuTXFrSXRoRUh4X0JMUl9WS0VZSVRLekFwcnBFMnZLMFNYclFFZk1mX3puQ3k1dXczV2FocEZCYVRuc2NZZk9qckxiemRKYjZ6Vk12UE13dWw0M0F6SElUQTQzaWRvazd1cU1pU1FRMWh5eFRMMWllWUhEazVNS2YwMnNqckJ4R1k?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimwNBVV95cUxQMnZKc0VGbXBWUkVYYnR0LVFweWI4V1owZy0yQnJaSzlhbFNVT1VDNDhGbG53VWEwM21BekE3UU5DLUhwV1Z0MG9CcjQwcV9KbXBoaXZ2WWhibDlHRTJFc0sxNjVYdTVNVGs1U0hqbmU5NjczZV94bzNLenNpREpCdUdVWHhHUzFDQUppZ3VkUTAxU2hPTFhOd1RHY29SSTdFOFRIbEpwX1dSUGowU2JueDVDX202WGtOMDk0SmtpUk5GOUF6OUJQTVUxRXVjUllwX2VRc0lOXzEzWGQ1UV9tSG9hSFVrSFRRVmxxSy0xNWFfVDNlVEg4WVRSWkNaUTlNWHNLeURjYXNnNUp6N3cydWg3d2JMejN1MkpuTXFrSXRoRUh4X0JMUl9WS0VZSVRLekFwcnBFMnZLMFNYclFFZk1mX3puQ3k1dXczV2FocEZCYVRuc2NZZk9qckxiemRKYjZ6Vk12UE13dWw0M0F6SElUQTQzaWRvazd1cU1pU1FRMWh5eFRMMWllWUhEazVNS2YwMnNqckJ4R1k?oc=5\" target=\"_blank\">مصر جاهزة لاستضافة الألعاب الإفريقية 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gate.ahram.org.eg</font>",
@@ -787,6 +817,21 @@
       ]
     },
     {
+      "title": "مصر و\"شيفرون\" تبحثان تسريع اتفاقيات الربط مع حقل \"أفروديت\" القبرصي - معلومات مباشر",
+      "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQRklTdEo5Uy15bE12OUdZT3RBYkZVcEpFSG50Rk1IQjRJeTdlNjAzak9RVllzY05SeU9FUEhRWnpiYnktRUhsNjJZTjB5OElFam13YU1sdVdReTJ1aG84ZWxqbTRQTDVRR3hPRWhTWTE1VlNGYWplVkI1T3RFZ0tSQnJPa3h6b3l2UlBkd1VGeTYtdm1GRWFFeVRmVHlnNWQzblg5OWtKOXQ1RWd3Sjg5X0ZPWkJEVmhOUHpZUmFoYmk5VkdpTjZTY19OZFNpNXlILXEwWkJhVU1MUk5QYUR6ZmFCY2JWVk9GUlk5WXdqQkhhYzdJaUMxSjFNZm13MmZ6R0RBVEo1T291N1A2bHBhVmxzWDl3RVFFSG1CNWhjT2w5MG04Mk53TG5jRnlhVlplYmZEaDM4c0NaNkpfVmZyamtfWWlZeXhlcFZsdndlYnZhQi05bWlzbUUzaXBwLUx1OTViZExqQXk2UE1xeDNKcHpZYmZTX1VrRUo1cVRJM1RjejFFaWlacjZ0eGhzQWhrLTlqNDRfdm5mYUVyQk9Hc1o4RGdqODMtWnJsUFhaMkRnbEpqM0xkZDFPVjJvdUhqNGd3SVZPWVJOcE5TeTlqVjFLXzdScS1wUzNUc2pLcE11NS1mMG5rcFVMd1NnMzAzenBlNzJVYWU4cUY3NmFDNzJSc3hvUzA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwRBVV95cUxQRklTdEo5Uy15bE12OUdZT3RBYkZVcEpFSG50Rk1IQjRJeTdlNjAzak9RVllzY05SeU9FUEhRWnpiYnktRUhsNjJZTjB5OElFam13YU1sdVdReTJ1aG84ZWxqbTRQTDVRR3hPRWhTWTE1VlNGYWplVkI1T3RFZ0tSQnJPa3h6b3l2UlBkd1VGeTYtdm1GRWFFeVRmVHlnNWQzblg5OWtKOXQ1RWd3Sjg5X0ZPWkJEVmhOUHpZUmFoYmk5VkdpTjZTY19OZFNpNXlILXEwWkJhVU1MUk5QYUR6ZmFCY2JWVk9GUlk5WXdqQkhhYzdJaUMxSjFNZm13MmZ6R0RBVEo1T291N1A2bHBhVmxzWDl3RVFFSG1CNWhjT2w5MG04Mk53TG5jRnlhVlplYmZEaDM4c0NaNkpfVmZyamtfWWlZeXhlcFZsdndlYnZhQi05bWlzbUUzaXBwLUx1OTViZExqQXk2UE1xeDNKcHpZYmZTX1VrRUo1cVRJM1RjejFFaWlacjZ0eGhzQWhrLTlqNDRfdm5mYUVyQk9Hc1o4RGdqODMtWnJsUFhaMkRnbEpqM0xkZDFPVjJvdUhqNGd3SVZPWVJOcE5TeTlqVjFLXzdScS1wUzNUc2pLcE11NS1mMG5rcFVMd1NnMzAzenBlNzJVYWU4cUY3NmFDNzJSc3hvUzA?oc=5\" target=\"_blank\">مصر و\"شيفرون\" تبحثان تسريع اتفاقيات الربط مع حقل \"أفروديت\" القبرصي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">معلومات مباشر</font>",
+      "date": "Tue, 22 Sep 2026 19:08:08 GMT",
+      "source": "Google News مصر",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "مصر",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News مصر"
+      ]
+    },
+    {
       "title": "تفاصيل جلسة «الذكاء الاصطناعي ووسائل التواصل الاجتماعي» بمؤتمر الهوية الوطنية.. وزير الاتصالات الأسبق يطالب بإنتاج نماذج وطنية للذكاء الاصطناعي.. اللواء هشام الحلبي: حماية الهوية الوطنية لا تأتي بالمنع.. صور - اليوم السابع",
       "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxOT25uX2FEOGJoc19yWmNhbHE3WG5xQkdyM25nWGx2WGVxcHhpcnVIbHpMbkU2RUNCWEl4M0JjWTc3ZTJJVUxGWDg3YWRkWXhPZ2dhZHN3QWhwNzRKSHBuVG1UeGxRbllfcVd1cTNvamlYS09NMmQ1a0wyazlYWlFncU1mOVhhcEVjb1JiaG1ON0N0VFE2NmVVdTJodno3TlJfbl9hYS1iaVhNc0dsUkx5WDUzNnY3VjU5ZkhrLUl3Mm5GREtxaFpzUTJtOXB1N2xaSHBYb1dieDhvMkdabTZvQzQ5T2FKaHpabWJuS1l1R2xjUEh3YUVzeWlETVIzTi1xa2ZBWWVYY0o1emVLRFpUX0w1Y2p6NHhTVlo4YjNNOHJHVFhfcmxqWm5QWUhXUnhtQWRDTmpnUV9YZ3FQaWxjS1FZdFpRRVJUdG1KeVprQlV5dWp0MEhJSGd2b1ZEWE9NQk8waHVIU2VzUlhsMG1yR3dXYzBueEdkZXc3MDVpSjR6UXdEOHJKOVJWaUtKVDk4eHFIUkpBcWkzSWRjcjRyVU42WV9ueDZPd0FfbkwzVFVxSTVrd1llMFM0YTRIdXZvVHNnM0ZZYjRCT2ZwS0NQVDhKZTVUNXNfamthUE5jd084cElFcjBlRVJFRUo4Uk9JLUJXQ29yQnV4dU5OZkJZZkZyczFVY29MMzNtRVd6eGRJRHZtcXdSSElHWElEOGJjNUVqSVk1dFYteXBVZDlGaXFxR0hUSWtscEUwNzY3enRpUGJOZFh1S2hiZDJHQXFNMkpBd2VWeXBMSFlwWlJmSEFONm5HRGxMcWo5MzJoWjhGcVllWmZpWVNXR3lCaGlTeFlQSFN3?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihgVBVV95cUxOT25uX2FEOGJoc19yWmNhbHE3WG5xQkdyM25nWGx2WGVxcHhpcnVIbHpMbkU2RUNCWEl4M0JjWTc3ZTJJVUxGWDg3YWRkWXhPZ2dhZHN3QWhwNzRKSHBuVG1UeGxRbllfcVd1cTNvamlYS09NMmQ1a0wyazlYWlFncU1mOVhhcEVjb1JiaG1ON0N0VFE2NmVVdTJodno3TlJfbl9hYS1iaVhNc0dsUkx5WDUzNnY3VjU5ZkhrLUl3Mm5GREtxaFpzUTJtOXB1N2xaSHBYb1dieDhvMkdabTZvQzQ5T2FKaHpabWJuS1l1R2xjUEh3YUVzeWlETVIzTi1xa2ZBWWVYY0o1emVLRFpUX0w1Y2p6NHhTVlo4YjNNOHJHVFhfcmxqWm5QWUhXUnhtQWRDTmpnUV9YZ3FQaWxjS1FZdFpRRVJUdG1KeVprQlV5dWp0MEhJSGd2b1ZEWE9NQk8waHVIU2VzUlhsMG1yR3dXYzBueEdkZXc3MDVpSjR6UXdEOHJKOVJWaUtKVDk4eHFIUkpBcWkzSWRjcjRyVU42WV9ueDZPd0FfbkwzVFVxSTVrd1llMFM0YTRIdXZvVHNnM0ZZYjRCT2ZwS0NQVDhKZTVUNXNfamthUE5jd084cElFcjBlRVJFRUo4Uk9JLUJXQ29yQnV4dU5OZkJZZkZyczFVY29MMzNtRVd6eGRJRHZtcXdSSElHWElEOGJjNUVqSVk1dFYteXBVZDlGaXFxR0hUSWtscEUwNzY3enRpUGJOZFh1S2hiZDJHQXFNMkpBd2VWeXBMSFlwWlJmSEFONm5HRGxMcWo5MzJoWjhGcVllWmZpWVNXR3lCaGlTeFlQSFN3?oc=5\" target=\"_blank\">تفاصيل جلسة «الذكاء الاصطناعي ووسائل التواصل الاجتماعي» بمؤتمر الهوية الوطنية.. وزير الاتصالات الأسبق يطالب بإنتاج نماذج وطنية للذكاء الاصطناعي.. اللواء هشام الحلبي: حماية الهوية الوطنية لا تأتي بالمنع.. صور</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
@@ -836,52 +881,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOU1MxNF96WkdJUVRzM2ZYdGFSeFdYZjNHV25IV0NPNjVCSlFPT1c1V2g3eEtTdmYtakEzS3FRbVktUWRFcTJuTFF4dHMzVVVqbXlKOFFrNHMzVVRWeUs3c0duSEtyQ2s5aHc3MXJvUUNFUkoxYWZnLWJ5Y3VYeEg3Z3FQcnZGeXNZSFRMcmpLeXlJMFp2WHFVTDhYWVJobElxZlU1N1hPVWRfNHdJZERxTGg5eDFVeDZITy1rVDFDVDRBbnYzM25pRnNHVUthbmk4UmF4NjRSdG5LTVhDR3JDTE82UU1NSDctMGs1YUFuSUlZb2JzLUNicm5oR0tzUVpjb2RPMHZVcXUwczF6NUhVYUN1QUlLcG5UMEJGWmdVYW5ablhGaUlIbV96QjFPZ2gxeTR5RHR0ZkpXTTFQZ2dsbW43ZmZZMlhyQ2tFMUdpUnZId0N3YnJKdG5Sd04yQ1hEc2hLdXB0ZjF2bmtOSUgxa1NwaHI5SnJx?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AJBVV95cUxOU1MxNF96WkdJUVRzM2ZYdGFSeFdYZjNHV25IV0NPNjVCSlFPT1c1V2g3eEtTdmYtakEzS3FRbVktUWRFcTJuTFF4dHMzVVVqbXlKOFFrNHMzVVRWeUs3c0duSEtyQ2s5aHc3MXJvUUNFUkoxYWZnLWJ5Y3VYeEg3Z3FQcnZGeXNZSFRMcmpLeXlJMFp2WHFVTDhYWVJobElxZlU1N1hPVWRfNHdJZERxTGg5eDFVeDZITy1rVDFDVDRBbnYzM25pRnNHVUthbmk4UmF4NjRSdG5LTVhDR3JDTE82UU1NSDctMGs1YUFuSUlZb2JzLUNicm5oR0tzUVpjb2RPMHZVcXUwczF6NUhVYUN1QUlLcG5UMEJGWmdVYW5ablhGaUlIbV96QjFPZ2gxeTR5RHR0ZkpXTTFQZ2dsbW43ZmZZMlhyQ2tFMUdpUnZId0N3YnJKdG5Sd04yQ1hEc2hLdXB0ZjF2bmtOSUgxa1NwaHI5SnJx?oc=5\" target=\"_blank\">استطلاع رويترز: 73% من الأمريكيين يطالبون بذكاء اصطناعي أكثر أمانًا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة المال</font>",
       "date": "Tue, 22 Sep 2026 18:33:28 GMT",
-      "source": "Google News تكنولوجيا",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "تكنولوجيا",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News تكنولوجيا"
-      ]
-    },
-    {
-      "title": "منتخب مصر يهزم تونس ويتوج بلقب أفريقيا للناشئين لكرة اليد - اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQb2tQMEY1STdwOVB0NHdNMy1XcFdSYjFlWnRWVDdiOTBnV3VGX01GbnJfN3N3RW10SFlHSXZUalkxZnFOa1Z1Y0NFQ2o1am1HVm01ZlN3LXJxWUs2aTJTaEUyZXZYNWNxbG1aWWMtc2k4aHRnYS1OUzl4V3lmT1FTVWk0RWhXZFhfUm53a1Y3aEljN2xxZFp0bFhmTTJiemR2Vkk2QXJpOUQyYXltNUgycVB4cWlENG9OSW1ZN1NUM2RjZC1ySm1mQ3ljM2xXdG9zS2ltbGlnSTlHV3ZISGhaY0dlalFwaUZDMFUxZTJLbFhvOHJvZnI0c20tSjlyemdRZ1dZTEhMNXZUUmRjWU1SbzRMS2VZaW9PamNUUXBWR1UxMEszRkdaU1lMSXRZU3BRTi13VVVXWHFUYS1zOHNuREtoS216d09ybTBBYTdaY2xITGlwR3VlT2ZVRzFBNWZTOWRtM3BPMUlTdUxreG91OTNPWHBTNHlpZnYzUFJFclBZZGxMQUp0SUQ5ZUVYdi1oaFpnUlpReGRvRE1OOURXcGd2QURMNXpZOHR2a09CU0tLMFdibGJZNFlQX29TQjY0TDBhaGdqeUhURU0yaEg4WS1RdkxPX2g4ang4dWR2QXZINUV5M3fSAeADQVVfeXFMT280YTd0azNrUFkxaWdaLURwdXFHcjVnMkhCdE5YSG9WWFYtbHlwNHk5ZjdMdm0tekd3cUxjU3dZdElzMkxNOU5LY2ZNQlRuWGZ3dmZEaE40bkdFb1N0YnFEX1dGSjBBVUlwMTRBWF9WbVp4S21GRXZHSk1RTUE2OU5paHZCMG9Fc2R5azR4QUpQTEd4bm1ITnFqamRZNldfbl9YV2xjTTMySFc4cl9OMUdhWXlrdmNnYm9VZlhpTlJxdllNbHZ3WmZ5Qm1UN1RsQnBnN2pnR3psdFZoMmNpd2RqOTJoOExCdHEyNlNsQ0lIYkhMNUF5dVVnaEpoa0lGS3JQanp4c0ZoZVJETkd3R29ZTlZmbno3ZDZDZWxSd3dhcElMU0NQRmNha2Q0ZFdOTWJTQ0JoUXNLNHZCUTA1Sm9jeEZqS3dmUzcyNElVLWtHZUUwRTRxdWx6UGp2akhCYU1Md3pESkN5Q25CQmc5MERjR0Q2azVuNGRfa3NCd1BUQkxJVmJqdTRLV2c5eGlpWWk5Q0lFX2VYMGlqWlZpVWw0QUgyVmdLRElUZ2VKNzU5R0tiR191MmZwYmNfVWU3dGEtb09jTU9pUjVkeXh5a2JuVTV2aXdqVnpnQ2RzUXdV?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gNBVV95cUxQb2tQMEY1STdwOVB0NHdNMy1XcFdSYjFlWnRWVDdiOTBnV3VGX01GbnJfN3N3RW10SFlHSXZUalkxZnFOa1Z1Y0NFQ2o1am1HVm01ZlN3LXJxWUs2aTJTaEUyZXZYNWNxbG1aWWMtc2k4aHRnYS1OUzl4V3lmT1FTVWk0RWhXZFhfUm53a1Y3aEljN2xxZFp0bFhmTTJiemR2Vkk2QXJpOUQyYXltNUgycVB4cWlENG9OSW1ZN1NUM2RjZC1ySm1mQ3ljM2xXdG9zS2ltbGlnSTlHV3ZISGhaY0dlalFwaUZDMFUxZTJLbFhvOHJvZnI0c20tSjlyemdRZ1dZTEhMNXZUUmRjWU1SbzRMS2VZaW9PamNUUXBWR1UxMEszRkdaU1lMSXRZU3BRTi13VVVXWHFUYS1zOHNuREtoS216d09ybTBBYTdaY2xITGlwR3VlT2ZVRzFBNWZTOWRtM3BPMUlTdUxreG91OTNPWHBTNHlpZnYzUFJFclBZZGxMQUp0SUQ5ZUVYdi1oaFpnUlpReGRvRE1OOURXcGd2QURMNXpZOHR2a09CU0tLMFdibGJZNFlQX29TQjY0TDBhaGdqeUhURU0yaEg4WS1RdkxPX2g4ang4dWR2QXZINUV5M3fSAeADQVVfeXFMT280YTd0azNrUFkxaWdaLURwdXFHcjVnMkhCdE5YSG9WWFYtbHlwNHk5ZjdMdm0tekd3cUxjU3dZdElzMkxNOU5LY2ZNQlRuWGZ3dmZEaE40bkdFb1N0YnFEX1dGSjBBVUlwMTRBWF9WbVp4S21GRXZHSk1RTUE2OU5paHZCMG9Fc2R5azR4QUpQTEd4bm1ITnFqamRZNldfbl9YV2xjTTMySFc4cl9OMUdhWXlrdmNnYm9VZlhpTlJxdllNbHZ3WmZ5Qm1UN1RsQnBnN2pnR3psdFZoMmNpd2RqOTJoOExCdHEyNlNsQ0lIYkhMNUF5dVVnaEpoa0lGS3JQanp4c0ZoZVJETkd3R29ZTlZmbno3ZDZDZWxSd3dhcElMU0NQRmNha2Q0ZFdOTWJTQ0JoUXNLNHZCUTA1Sm9jeEZqS3dmUzcyNElVLWtHZUUwRTRxdWx6UGp2akhCYU1Md3pESkN5Q25CQmc5MERjR0Q2azVuNGRfa3NCd1BUQkxJVmJqdTRLV2c5eGlpWWk5Q0lFX2VYMGlqWlZpVWw0QUgyVmdLRElUZ2VKNzU5R0tiR191MmZwYmNfVWU3dGEtb09jTU9pUjVkeXh5a2JuVTV2aXdqVnpnQ2RzUXdV?oc=5\" target=\"_blank\">منتخب مصر يهزم تونس ويتوج بلقب أفريقيا للناشئين لكرة اليد</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
-      "date": "Tue, 22 Sep 2026 18:10:00 GMT",
-      "source": "Google News مصر",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "مصر",
-      "image": "",
-      "sourceCount": 2,
-      "sources": [
-        "Google News مصر",
-        "Google News رياضة"
-      ]
-    },
-    {
-      "title": "قنصل مصر يستقبل بعثة منتخب الناشئين في مطار جنيف - بوابة أخبار اليوم الإلكترونية",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOSkszWW9VY0lZTlV3REFORFlVMUt4YW9Ga2lOOGU4ZHdENUF2WDY0NVNDV2w3ekRHaC1yX1YxVjk4TWViTUQxaGdKajJRZTJrMGtad3JoOFFlNjE5eDN2U090aVMybEVPejQwem8zd3k4TGxlODdNeTB3aUluOVY1U1pPRWtuMjhEQy1LWEhsQmFmR2R3Unl4RElPTlJPeUNUY3hMNlJra1FDal9sb291aGJCbXdabk1TMS12MFAxXzE3dzQ3VUcyUlNzMEY0STZHV055WTB5R2hCT1lEanFPMHNIYVQ0MFBzTFNacjVzYlRSV0p2MVExMnhGdC1JcWQ5aWpNd0FzRWVPeWJKUTE1Q0M4YmdOZnNMUXFGWEprT19UZWF2VWlpcmhabkl1U00wakl0c2FwbzBVSXpkMFhrRWNZS2VhTWZNR2hZWUp4dEY2SFJaQkJnbFpJMXhHYUw2VXRfc2x5S2NUMGd3bVMtcw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AJBVV95cUxOSkszWW9VY0lZTlV3REFORFlVMUt4YW9Ga2lOOGU4ZHdENUF2WDY0NVNDV2w3ekRHaC1yX1YxVjk4TWViTUQxaGdKajJRZTJrMGtad3JoOFFlNjE5eDN2U090aVMybEVPejQwem8zd3k4TGxlODdNeTB3aUluOVY1U1pPRWtuMjhEQy1LWEhsQmFmR2R3Unl4RElPTlJPeUNUY3hMNlJra1FDal9sb291aGJCbXdabk1TMS12MFAxXzE3dzQ3VUcyUlNzMEY0STZHV055WTB5R2hCT1lEanFPMHNIYVQ0MFBzTFNacjVzYlRSV0p2MVExMnhGdC1JcWQ5aWpNd0FzRWVPeWJKUTE1Q0M4YmdOZnNMUXFGWEprT19UZWF2VWlpcmhabkl1U00wakl0c2FwbzBVSXpkMFhrRWNZS2VhTWZNR2hZWUp4dEY2SFJaQkJnbFpJMXhHYUw2VXRfc2x5S2NUMGd3bVMtcw?oc=5\" target=\"_blank\">قنصل مصر يستقبل بعثة منتخب الناشئين في مطار جنيف</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة أخبار اليوم الإلكترونية</font>",
-      "date": "Tue, 22 Sep 2026 18:05:54 GMT",
-      "source": "Google News مصر",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "مصر",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News مصر"
-      ]
-    },
-    {
-      "title": "5 مشكلات تثير استياء مستخدمي سيري الجديد من آبل - الجزيرة نت",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQZ2RJT3Bud1NreV8yekg1WHlxbjRaWVpmdFByRnF3cC1leHFBQ1NpYUNWeXM4Vk1IbGtyenFmQ1RiY2xzbjFuQWZSYXlxRzE1SnRTR0pWWlhfTW1vdVIySUd5bzhhdGZzT1hUY1ZseTdOek1xN00yVmhLZlBfSzZSN2xBdlVzempHREhZMFFMSGFvdXJjRTZ4aFRhRERsMFhJSFFxaXI3cVJMb0hGWmY5b1JJOU9RS2FTWGdnaFhTb2ZtRFlvS3hCV3A5Y1JVME4xRGszOS00RUEweXJkZXB2V00tSVg0Y1RvaDFDMFRwSnRCNWE0cTctUlZJdU5TR2NKVEhEV3ZLVjM5MzV4MlhCNGNGRjZpZ1FOM25Ib2Vtbk83aWktd0t0SE5BQWxFcWltcUcw0gG4AkFVX3lxTE9XWXVMaTFEdEdDRS1yUDlUZ2tEbnllamdYRkkwZW9kMmdTZVVCcVp4MUxJS1pHOGRGZWF0Uy1pWUJMRDF2a096ZzVVeEtPajVFZG13Z2hiZC14R1JYQ1hjdXYwa05OZGNqdlc0TUxoWTlXdktMZkhveUppb1NJZGhrZkdzbVZTcnBEc0pOTE4wemoxb0E4WWlvTHRBdW15dUNRSlNsRkV0eXRJN3lBU0NWcFNJRUlsaXg4RTl0Z1VUNHpmLW1fWEQyeVd5cm1mMGJ1M1hqQ3YyVFFHQTROYzEwYjJ6bURQOUx4NnZPQnQ2SUhOZ2ttZlgyd09XUnJJVXdmaGZkcGg3cldOMm1pRndmMDBOaEJqOFlQd2xWZVJnM1lKR3VwWmp2UURRbk12Uk5uMVo0bE40Qw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxQZ2RJT3Bud1NreV8yekg1WHlxbjRaWVpmdFByRnF3cC1leHFBQ1NpYUNWeXM4Vk1IbGtyenFmQ1RiY2xzbjFuQWZSYXlxRzE1SnRTR0pWWlhfTW1vdVIySUd5bzhhdGZzT1hUY1ZseTdOek1xN00yVmhLZlBfSzZSN2xBdlVzempHREhZMFFMSGFvdXJjRTZ4aFRhRERsMFhJSFFxaXI3cVJMb0hGWmY5b1JJOU9RS2FTWGdnaFhTb2ZtRFlvS3hCV3A5Y1JVME4xRGszOS00RUEweXJkZXB2V00tSVg0Y1RvaDFDMFRwSnRCNWE0cTctUlZJdU5TR2NKVEhEV3ZLVjM5MzV4MlhCNGNGRjZpZ1FOM25Ib2Vtbk83aWktd0t0SE5BQWxFcWltcUcw0gG4AkFVX3lxTE9XWXVMaTFEdEdDRS1yUDlUZ2tEbnllamdYRkkwZW9kMmdTZVVCcVp4MUxJS1pHOGRGZWF0Uy1pWUJMRDF2a096ZzVVeEtPajVFZG13Z2hiZC14R1JYQ1hjdXYwa05OZGNqdlc0TUxoWTlXdktMZkhveUppb1NJZGhrZkdzbVZTcnBEc0pOTE4wemoxb0E4WWlvTHRBdW15dUNRSlNsRkV0eXRJN3lBU0NWcFNJRUlsaXg4RTl0Z1VUNHpmLW1fWEQyeVd5cm1mMGJ1M1hqQ3YyVFFHQTROYzEwYjJ6bURQOUx4NnZPQnQ2SUhOZ2ttZlgyd09XUnJJVXdmaGZkcGg3cldOMm1pRndmMDBOaEJqOFlQd2xWZVJnM1lKR3VwWmp2UURRbk12Uk5uMVo0bE40Qw?oc=5\" target=\"_blank\">5 مشكلات تثير استياء مستخدمي سيري الجديد من آبل</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
-      "date": "Tue, 22 Sep 2026 17:48:01 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
       "sourceType": "aggregator",
