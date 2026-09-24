@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-24T02:38:45.170Z",
+  "updatedAt": "2026-09-24T02:51:40.919Z",
   "items": [
     {
-      "title": "الشرع يؤكد أن الجولان سيبقى أرضاً سورية، وبيزشكيان يتعهد بعدم الخضوع ويتهم واشنطن بـ\"الإرهاب\"",
-      "link": "https://www.bbc.co.uk/arabic/live/cq3d7yy42r5gt?at_medium=RSS&at_campaign=rss",
-      "description": "لقاءات وخطابات قادة العالم تتواصل على هامش اجتماعات الجمعية العامة للأمم المتحدة في نيويورك، التي انطلقت الثلاثاء وتستمر حتى 28 سبتمبر/أيلول",
-      "date": "2026-09-24T02:38:44.294Z",
+      "title": "بيزشكيان يتعهد بعدم الخضوع ويتهم واشنطن بـ\"الإرهاب\"، وتراشق إسرائيلي سوري بشأن الجولان",
+      "link": "https://www.bbc.com/arabic/articles/c9p80exd62kgo?at_medium=RSS&at_campaign=rss",
+      "description": "أعمال الدورة 81 للجمعية العامة للأمم المتحدة تتواصل في مدينة نيويورك الأمريكية، وتشهد الكثير من الأحداث والمناقشات من أبرزها تلك المتعلقة بالأحداث في الشرق الأوسط",
+      "date": "Thu, 24 Sep 2026 02:43:49 GMT",
       "source": "BBC العربية",
       "sourceScore": 10,
       "sourceType": "official-rss",
       "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb83/live/2a4c27e0-b740-11f1-bc1f-3f186ca4140c.png",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b8e6/live/305aee00-b7c2-11f1-b20d-91a809c6d0f2.jpg",
       "sourceCount": 1,
       "sources": [
         "BBC العربية"
@@ -395,6 +395,21 @@
       "sources": [
         "Google News مصر",
         "Google News رياضة"
+      ]
+    },
+    {
+      "title": "قادة شركات الذكاء الاصطناعي يدعون أمام مجلس الأمن الى الحذر في تطويره - الشرق الأوسط",
+      "link": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxPc1JWT1hzTkE1cVF1YnB1X2hlS2NGeFFybzk5OFV4YkNyNlFYdk1rLUVYMGN3ZVY2cjdTeUlYcGJpSXhOajYtYV81X3F3d01GM3pkbXJJd2hPRmIxUk9CcnF1R29leVRaM3F6Z3RDZUtvUGVISl9CbndEN2ZlV25aUXJZSVZlRmtJQ2tCTDBtZURnSDR6YUlHUkd3WHIxc0ZTYUFtbG5jeVpQdWdTcjl3UlFuTDR5QVRYMmVoWEhjdFdocmFqdE9ySlRSZkJ2aTdkc2tGbTNuRmpaSU8zYmZGcV9reXB1N3F5Y3FGNURJb3h4SVdJYjJDQnJleXdMMno4RHZOaXAyNlRucnhxd2dyclJGVVNVdVpCYk9kR215OXBIcWFCMDg2N2wtbm9PRjk1bmdFY2R4S082RW1TLWNHUVJwRDRYVHJTUFUzXzBOcnMzSlBVdnFfOU5iWDVtUUdseUo4UUJROVhoTVFCZHlHalJtU2ZScVQzcU43bWl6RV9mcGVZeG9wdWlQNTVoX180OXVoRTZKRGhZckp5cjV5aDlhVEpmUHkxZ2ZYaHJQbkszM1BKUE9NbEZSajFYRW1oSEo4bzdqQzVxM3VsMDh0WTZrbkpvX1hPZ28xbExnSWhmbXE1bjN6aEZya1lrWS1HNlNBc1ZUN0tJR3ZZSXp3ZXFlUERNRlBQU01YZmJkM1FFWmlicC1EbGtEV29xYzRWa3djY2N0NFVmVWd0allzUV9HRUpUWF9KVmxLQUs3QXhxNlNhUUNWTWFIaW9lbjd6a1RSSW5OQWFlSHRiNFhlekY0UHM1eEJM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6ARBVV95cUxPc1JWT1hzTkE1cVF1YnB1X2hlS2NGeFFybzk5OFV4YkNyNlFYdk1rLUVYMGN3ZVY2cjdTeUlYcGJpSXhOajYtYV81X3F3d01GM3pkbXJJd2hPRmIxUk9CcnF1R29leVRaM3F6Z3RDZUtvUGVISl9CbndEN2ZlV25aUXJZSVZlRmtJQ2tCTDBtZURnSDR6YUlHUkd3WHIxc0ZTYUFtbG5jeVpQdWdTcjl3UlFuTDR5QVRYMmVoWEhjdFdocmFqdE9ySlRSZkJ2aTdkc2tGbTNuRmpaSU8zYmZGcV9reXB1N3F5Y3FGNURJb3h4SVdJYjJDQnJleXdMMno4RHZOaXAyNlRucnhxd2dyclJGVVNVdVpCYk9kR215OXBIcWFCMDg2N2wtbm9PRjk1bmdFY2R4S082RW1TLWNHUVJwRDRYVHJTUFUzXzBOcnMzSlBVdnFfOU5iWDVtUUdseUo4UUJROVhoTVFCZHlHalJtU2ZScVQzcU43bWl6RV9mcGVZeG9wdWlQNTVoX180OXVoRTZKRGhZckp5cjV5aDlhVEpmUHkxZ2ZYaHJQbkszM1BKUE9NbEZSajFYRW1oSEo4bzdqQzVxM3VsMDh0WTZrbkpvX1hPZ28xbExnSWhmbXE1bjN6aEZya1lrWS1HNlNBc1ZUN0tJR3ZZSXp3ZXFlUERNRlBQU01YZmJkM1FFWmlicC1EbGtEV29xYzRWa3djY2N0NFVmVWd0allzUV9HRUpUWF9KVmxLQUs3QXhxNlNhUUNWTWFIaW9lbjd6a1RSSW5OQWFlSHRiNFhlekY0UHM1eEJM?oc=5\" target=\"_blank\">قادة شركات الذكاء الاصطناعي يدعون أمام مجلس الأمن الى الحذر في تطويره</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق الأوسط</font>",
+      "date": "Wed, 23 Sep 2026 22:10:09 GMT",
+      "source": "Google News تكنولوجيا",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "تكنولوجيا",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News تكنولوجيا"
       ]
     },
     {
@@ -1003,21 +1018,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNZ19vcWpIdUp2VzgxdTFPZ2hjWENFWEZkbC0wVWc3U0prT0lVUm1nYjQ4OUR1MWthaV9oUmg4QUI1T0RTNWROcVJzeExRZW91amUyV1poeUREMDAyTmVhY3d5MWdEQVBGSEhqWGZHRnlVZDI1X1VwQWZVcHo3NXF4TDJYWG93dlNGVldWT2VvMTVnck0xQVQzem1nOVd1eUJfMnVHYkNRTXNHd01tckpzV3hxRWZ1OXJlZTBzVEZKYW5zb2FxNHo1LXN2bmI2c1ZHZ3pmdTFvaDBieEk2S3dUMm5VZDgwS0djR3g2Q3liUnNzemhZUlBXZklvY2ZlNkh0RFZ2d0YxLWx6azRYWl84XzJVWXNXWXdCa1p2MmZjVFFtRzN5Q3VpZ1FUUmNKZnZV0gG2AkFVX3lxTFBoUXpQUnV6dFdtOTY2UThqR2s1WU9qVkFWMVhTbTZoeXlNakV3YjFlYjlPYWNJZnFkTmFvd2pvcUNXUlQyOW9Na0l4NC1ZdGpzRnhaeDFtRDdjbVZucmhscTB4V2RzZTNzUmdDLUdRZVNvX002QVR2d3pzWFJNRkpOS3A1ZGxQRU93MlZTRndSSU9yUFlUYTVZNklUVFFleGdXSWNXZXkzbjk0ODZETjQwamw5TVhObGVHTF9YX1RCU2FyNTB2eExLdGFrSTR6RWVwMHZWY252VGw5bFdxUWZjOWNnXzdGb05wV3Jka0xKSllxTXlqNVczanVtZXl2M2Jpb1dIaTZ3TmtCNXlLbXJYeXF1c2xwSjYxUkJEVWcweXNRSExManRUWFQ2MmdCV3JlWHQ2THc?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxNZ19vcWpIdUp2VzgxdTFPZ2hjWENFWEZkbC0wVWc3U0prT0lVUm1nYjQ4OUR1MWthaV9oUmg4QUI1T0RTNWROcVJzeExRZW91amUyV1poeUREMDAyTmVhY3d5MWdEQVBGSEhqWGZHRnlVZDI1X1VwQWZVcHo3NXF4TDJYWG93dlNGVldWT2VvMTVnck0xQVQzem1nOVd1eUJfMnVHYkNRTXNHd01tckpzV3hxRWZ1OXJlZTBzVEZKYW5zb2FxNHo1LXN2bmI2c1ZHZ3pmdTFvaDBieEk2S3dUMm5VZDgwS0djR3g2Q3liUnNzemhZUlBXZklvY2ZlNkh0RFZ2d0YxLWx6azRYWl84XzJVWXNXWXdCa1p2MmZjVFFtRzN5Q3VpZ1FUUmNKZnZV0gG2AkFVX3lxTFBoUXpQUnV6dFdtOTY2UThqR2s1WU9qVkFWMVhTbTZoeXlNakV3YjFlYjlPYWNJZnFkTmFvd2pvcUNXUlQyOW9Na0l4NC1ZdGpzRnhaeDFtRDdjbVZucmhscTB4V2RzZTNzUmdDLUdRZVNvX002QVR2d3pzWFJNRkpOS3A1ZGxQRU93MlZTRndSSU9yUFlUYTVZNklUVFFleGdXSWNXZXkzbjk0ODZETjQwamw5TVhObGVHTF9YX1RCU2FyNTB2eExLdGFrSTR6RWVwMHZWY252VGw5bFdxUWZjOWNnXzdGb05wV3Jka0xKSllxTXlqNVczanVtZXl2M2Jpb1dIaTZ3TmtCNXlLbXJYeXF1c2xwSjYxUkJEVWcweXNRSExManRUWFQ2MmdCV3JlWHQ2THc?oc=5\" target=\"_blank\">الذكاء الاصطناعي يشعل النقاش باجتماع الأمم المتحدة فماذا قال قادة العالم؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
       "date": "Wed, 23 Sep 2026 14:19:48 GMT",
-      "source": "Google News تكنولوجيا",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "تكنولوجيا",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News تكنولوجيا"
-      ]
-    },
-    {
-      "title": "قادة الذكاء الاصطناعي يحذرون من مخاطر التكنولوجيا على الأمن العالمي - العربية",
-      "link": "https://news.google.com/rss/articles/CBMivARBVV95cUxPX183X1Y4bnNaajZleDYzdkNCNUFFZXljbG9RQkNEa2pUcXQ3VlVVQnJDQ0dzdzlRQ05xTHlSclYwNDV2T1lhdnJ5V01hdEQ3OHVqb3g1Qkh2SmxUQzB4Nl93MG80YlU5M1pMVTV4ZUc4aGIzWWtHUW1Ed2tFdFRGUkdjdWFCbnBTZGVOSXRmSm5mdnI1bXpSZnp5UTg4MDBiLVd4c2lSY282T2cyQklreGo1U1ZhQmxFRFEzTjBJRExBVEhPZi1zcDFxcjE1eGpycDlMUTlKeDg2S0VoTUdkVGRPOUFSeUQwTVcyLUUzTGc1YUJaUkcwc0RuMDBKRWxpX3BaZEpqZ2h4VS1EeVRfN0ZSTHhNUE1aMkFJRWw0aktRT1NWY0xjUGZnTjA1WXNQYzRXV3BnUWNBUENzM0RZbENlR1kyTnFHR1FHZGlXeEhCZmwta0tDOTNuUzJjR1FaWF8zYjU2MHZzY1BQZlB0czYtUzdGdVgyQUlRSjkxRnpzQlY2MnhZcm11cjlkQVpXZWQtZ1ROTTgzOHFIeVVoWFpKdW9fWE5Db3hMWUM4STY3UEZFY2szeUE1MGsyX0pSblR1YjZZaldnZ1FKVXA4c3l5ck9YdXNZVlZIWUJnV1laeUlITFlNZzk2Vm10a2FTbktwcFRwemdpVzZ4YTlXeGlWNHZSMWxjT2h3UWc5NXBsVFJfUzNPZUZMMDdmY09TU1ZxaHJfM3pxSXNic0pLaXRkQkJ2RnBoNjNMTNIBwgRBVV95cUxPYXQ1aEstZGJ2WW5lcWdqVUphdzYzTnRnenpCTHhtV09CdkVvSEdBa0JwRzE2UkhBZGg5QmRwYVBqN0VpdnFXRGRYSWVyRmRNZWMtYXlYY3ZybU5nbk9DOV9uaEZWQmtwNjh2cnlIUkxXdVJWNVhvQVNndEszejBJZWNPUkwtUEZuaTZrbmRRQUNQNGdaVGY1MnBBRjRpTmhGSUZsLUMwbml4RE5VaVk1bnFnQ0ZmNHE4czNCOGNzcjZoY21lbFREWVJGUTVCdFNDRzczTDJxUWhfSzlhd3Rha0p2YXIxSW5wUGdnYmhDM3ZFUmNhZ1UxbGwzRlNyU0VLWDkteml0MzJRM0dZRDBILWFzdUVPUHFqMHZBVndXUmJzYUxuVHRLVHM2Um9pdlBlblBSUU5uSkphN2ZNLXplYWZvNERsTWpleUF4LTVucDBHTUFaOEYtMG1PclZ3eEwwcHZTQ0dHbXN6R055dmpGV2FrekZJVW41QWRuMVQ1SDhmZDBMU2FCbGZNaUJVZkVONUhGXzZYZDBuU3RDaURQNGk2SGVlVzlIQ3RLUmpUVW9tanpXU19Bc3pkNV9pMEpaN3J4djE1OUdXQzVyWnppU3V1RUNmdnI3Zk0wRkxnbHBDY09uRTdMUkFRZ0VSNVdhdFNfcVlNMnNJV3dJbFhmNkpnLU9CX3JnUDJwbmtfNnFyRmFRMDI3RDFOWEJpTl93SXRhUno1ZF92cnlwYm03VmpESERXWF82VWtEQTBuV0o2dw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivARBVV95cUxPX183X1Y4bnNaajZleDYzdkNCNUFFZXljbG9RQkNEa2pUcXQ3VlVVQnJDQ0dzdzlRQ05xTHlSclYwNDV2T1lhdnJ5V01hdEQ3OHVqb3g1Qkh2SmxUQzB4Nl93MG80YlU5M1pMVTV4ZUc4aGIzWWtHUW1Ed2tFdFRGUkdjdWFCbnBTZGVOSXRmSm5mdnI1bXpSZnp5UTg4MDBiLVd4c2lSY282T2cyQklreGo1U1ZhQmxFRFEzTjBJRExBVEhPZi1zcDFxcjE1eGpycDlMUTlKeDg2S0VoTUdkVGRPOUFSeUQwTVcyLUUzTGc1YUJaUkcwc0RuMDBKRWxpX3BaZEpqZ2h4VS1EeVRfN0ZSTHhNUE1aMkFJRWw0aktRT1NWY0xjUGZnTjA1WXNQYzRXV3BnUWNBUENzM0RZbENlR1kyTnFHR1FHZGlXeEhCZmwta0tDOTNuUzJjR1FaWF8zYjU2MHZzY1BQZlB0czYtUzdGdVgyQUlRSjkxRnpzQlY2MnhZcm11cjlkQVpXZWQtZ1ROTTgzOHFIeVVoWFpKdW9fWE5Db3hMWUM4STY3UEZFY2szeUE1MGsyX0pSblR1YjZZaldnZ1FKVXA4c3l5ck9YdXNZVlZIWUJnV1laeUlITFlNZzk2Vm10a2FTbktwcFRwemdpVzZ4YTlXeGlWNHZSMWxjT2h3UWc5NXBsVFJfUzNPZUZMMDdmY09TU1ZxaHJfM3pxSXNic0pLaXRkQkJ2RnBoNjNMTNIBwgRBVV95cUxPYXQ1aEstZGJ2WW5lcWdqVUphdzYzTnRnenpCTHhtV09CdkVvSEdBa0JwRzE2UkhBZGg5QmRwYVBqN0VpdnFXRGRYSWVyRmRNZWMtYXlYY3ZybU5nbk9DOV9uaEZWQmtwNjh2cnlIUkxXdVJWNVhvQVNndEszejBJZWNPUkwtUEZuaTZrbmRRQUNQNGdaVGY1MnBBRjRpTmhGSUZsLUMwbml4RE5VaVk1bnFnQ0ZmNHE4czNCOGNzcjZoY21lbFREWVJGUTVCdFNDRzczTDJxUWhfSzlhd3Rha0p2YXIxSW5wUGdnYmhDM3ZFUmNhZ1UxbGwzRlNyU0VLWDkteml0MzJRM0dZRDBILWFzdUVPUHFqMHZBVndXUmJzYUxuVHRLVHM2Um9pdlBlblBSUU5uSkphN2ZNLXplYWZvNERsTWpleUF4LTVucDBHTUFaOEYtMG1PclZ3eEwwcHZTQ0dHbXN6R055dmpGV2FrekZJVW41QWRuMVQ1SDhmZDBMU2FCbGZNaUJVZkVONUhGXzZYZDBuU3RDaURQNGk2SGVlVzlIQ3RLUmpUVW9tanpXU19Bc3pkNV9pMEpaN3J4djE1OUdXQzVyWnppU3V1RUNmdnI3Zk0wRkxnbHBDY09uRTdMUkFRZ0VSNVdhdFNfcVlNMnNJV3dJbFhmNkpnLU9CX3JnUDJwbmtfNnFyRmFRMDI3RDFOWEJpTl93SXRhUno1ZF92cnlwYm03VmpESERXWF82VWtEQTBuV0o2dw?oc=5\" target=\"_blank\">قادة الذكاء الاصطناعي يحذرون من مخاطر التكنولوجيا على الأمن العالمي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربية</font>",
-      "date": "Wed, 23 Sep 2026 14:05:00 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
       "sourceType": "aggregator",
