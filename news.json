@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-24T03:06:34.359Z",
+  "updatedAt": "2026-09-24T03:25:06.318Z",
   "items": [
+    {
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "date": "Thu, 24 Sep 2026 03:22:54 GMT",
+      "source": "BBC World",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
+      "sourceCount": 3,
+      "sources": [
+        "BBC World",
+        "BBC Business",
+        "BBC Technology"
+      ]
+    },
     {
       "title": "بزشكيان يتعهد بعدم الخضوع ويتهم واشنطن بـ\"الإرهاب\"، وتراشق إسرائيلي سوري بشأن الجولان",
       "link": "https://www.bbc.com/arabic/articles/c9p80exd62kgo?at_medium=RSS&at_campaign=rss",
@@ -14,23 +31,6 @@
       "sourceCount": 1,
       "sources": [
         "BBC العربية"
-      ]
-    },
-    {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
-      "date": "Thu, 24 Sep 2026 02:23:54 GMT",
-      "source": "BBC World",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
-      "sourceCount": 3,
-      "sources": [
-        "BBC World",
-        "BBC Business",
-        "BBC Technology"
       ]
     },
     {
@@ -380,6 +380,21 @@
       "sources": [
         "BBC Business",
         "BBC Technology"
+      ]
+    },
+    {
+      "title": "هل يمكن للذكاء الاصطناعي أن يقضي على البشرية؟ - الشرق الأوسط",
+      "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQWFFkSEIySmYzeGxURkJ1RC1XM24zTVYxdkstQ0JxT1F0cFdWYnpZNmxVZHl1UTdYRkhXbFF4NXVJOUtCX2VES3JxWVpyMzRheHZaMDh1bEFJSVd1dkowREFneElvLUxGeDRuLUxTUEVxYU9vN1lmdVFYREpqVlJvcjM1dUtKYWY4NV9VTWhLQS0tcVR3TTJOWGsxWkVBQXdzcGR3ejFpUWJwR3FVelUxSWJfdlZxMmVmMVdsX0RrclppUG9peDF6ZjRGMmRlMndIVURwVXRPcTgzXzdsTWRHSUxfN05ZYkw3WW5Qb2JhUnM1VnFUeXBoSThocHhMZkY4SV9qc2VDZkRTbHJtam1MWlg3LVZRQy1ZOGRSOXZZbWgzSER2RkFwd2RSbzh4SzlGVWtHaEI3Y2VRdDBJUmNHbUYwLUM1VWoxdXN5cHdKZVpWQW1wUy02R2ZFZWxXUHV5TnR2ZHNNYmJqMWZRY2d4ZnFuVGVzM19Ec0NaMUV2V1ViM29RaFlMczBqTVVreUhqNkhrWkZ6SVBtT1lwTXBYNjljMXI0ZmtDWmhUbjBaZGZkT3otNUMyWXV1b1o5Mkt0WnVV?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwNBVV95cUxQWFFkSEIySmYzeGxURkJ1RC1XM24zTVYxdkstQ0JxT1F0cFdWYnpZNmxVZHl1UTdYRkhXbFF4NXVJOUtCX2VES3JxWVpyMzRheHZaMDh1bEFJSVd1dkowREFneElvLUxGeDRuLUxTUEVxYU9vN1lmdVFYREpqVlJvcjM1dUtKYWY4NV9VTWhLQS0tcVR3TTJOWGsxWkVBQXdzcGR3ejFpUWJwR3FVelUxSWJfdlZxMmVmMVdsX0RrclppUG9peDF6ZjRGMmRlMndIVURwVXRPcTgzXzdsTWRHSUxfN05ZYkw3WW5Qb2JhUnM1VnFUeXBoSThocHhMZkY4SV9qc2VDZkRTbHJtam1MWlg3LVZRQy1ZOGRSOXZZbWgzSER2RkFwd2RSbzh4SzlGVWtHaEI3Y2VRdDBJUmNHbUYwLUM1VWoxdXN5cHdKZVpWQW1wUy02R2ZFZWxXUHV5TnR2ZHNNYmJqMWZRY2d4ZnFuVGVzM19Ec0NaMUV2V1ViM29RaFlMczBqTVVreUhqNkhrWkZ6SVBtT1lwTXBYNjljMXI0ZmtDWmhUbjBaZGZkT3otNUMyWXV1b1o5Mkt0WnVV?oc=5\" target=\"_blank\">هل يمكن للذكاء الاصطناعي أن يقضي على البشرية؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق الأوسط</font>",
+      "date": "Wed, 23 Sep 2026 22:27:53 GMT",
+      "source": "Google News تكنولوجيا",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "تكنولوجيا",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News تكنولوجيا"
       ]
     },
     {
@@ -911,6 +926,21 @@
       ]
     },
     {
+      "title": "خبيرة ذكاء اصطناعي بمركز المعلومات: الذكاء الاصطناعي سلاح في حروب الشائعات والتزييف - اليوم السابع",
+      "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxOa2VqeGhWakJUSFNFbWhmRTlwX0k5SFNMVV85NFkwUG9mYkpER3ZEM2RVbGk4SzBDX1d3eUlObVpOUUtYclFkUjZjTDlNTjNZQnExbkJrZHhHcUZLSlNhVjhxaVRmcnYwUEZYbkpsRnVYMXhfZjZnSllseHgwRXZpUXVZRWJieG5YdGFMeDgwUlJqYllsSVd3Tm1JcVJYSXc0dnlRQ3ZiWlZucTZtbUE5bDVUa2duMFV5MTR1N2Z6R0ZGME1XVGw3cXRTVnp6M05vWkN0ZHVmWDVLa1pfWF9KZ1FIWTdqaHdIcXVrZnl6TTRaXzZ3dXJieU9ubnB1VUl5RU54N05ZUXhMMnp2YWMtX3hWYmJhbkVfclZvVFFQTjZac2RmOUhsMTlTZTRtRXBUTkpQdGxQdlVVdU41aGRqZWVzUkl0RzdIcllwMlUzbHpnZkk3YXBDU3lPaFdibnZTT2k0eTh0RGJWMi01VXdFNmkwS0lfSUF2a0lyQVhxQ2w1bFlTNW9zcjU4UE5iV25HdHlOUVBZRUFoeVBhRHpHRWpyMDB4cFQzd1hFX1dXSzZWMFh5bnBtMjl0UHVtRnhlWTF6aVRZem82V2d3dUx2M0dpazVHTHdaT2NaeWNpdmVxRjc5cHo2UDNIMVZ2SWpBLW1IU09LZ2d5b0NwSnhFMl9FMWFfMlc2YzZWd2RMZXVhVjZOdEEwNnlvNkhjZ9IBmARBVV95cUxOd0ZMb1FYdm9tYW90M2FkeU8wQnY3TWVDOE5uREtraV9sSzRDLUlwUlJIc1BKRURZUTd0QWdXblRNRGVJZE8wX0Y4NGlfQ0IwUW9faU9UbTdDWFpic2dOOUx5YWxiM0pmZlpqcWR5dmVuRzdPNUhhaW5lSEpsRkhDVGdhUDlrV0JySVE1TndaamMwNWhlTy0zdmVfNDdSVFhkU19YWmpNeVFCLWF0M2h5aERKZWdJa3FDLUVnenRwSF9rNmtFdUxMNkFFSXZDSFIzTWl0QjBwOVdOeGpOYmdfOUZkeHFXQlJLeTEyN1l2MXA1YmlWVUl4Sy1YNEFuZnlWT2tWaXJFdEpLT0lzcW9IbGpJeC1lcGpTSGdtNGpmWkx2MllWTWNKdnYyYV8tZnV4dHdWcWludW4xUlFaZmNOMDdVV3B0OHo5MUZiVHAyRERHdVZrbmNRb1otOC1LektPaldVeEkwZ21Nd2dxdk5CdXNFbTFWaW5TUDdxanFjUzZwVXdkZnp6bHNicTFhM01ySlh5VG51VDNyOHR4UVhUaFZveG9ENG5TVV83OUNjQUpvQUo2OEM4c2s4VVQ3QWxqbk8wTlFiS2FLUXY4d0lhVWFMTVUxbWdQU1Y1TkVZREhmcHRyeUk3bFlWVVJHM2h1UHRwM2tMdjVvSUdQMHZBUHdKQzA5R1BmMUp4SmJsdllTLXVDTjVqbQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingRBVV95cUxOa2VqeGhWakJUSFNFbWhmRTlwX0k5SFNMVV85NFkwUG9mYkpER3ZEM2RVbGk4SzBDX1d3eUlObVpOUUtYclFkUjZjTDlNTjNZQnExbkJrZHhHcUZLSlNhVjhxaVRmcnYwUEZYbkpsRnVYMXhfZjZnSllseHgwRXZpUXVZRWJieG5YdGFMeDgwUlJqYllsSVd3Tm1JcVJYSXc0dnlRQ3ZiWlZucTZtbUE5bDVUa2duMFV5MTR1N2Z6R0ZGME1XVGw3cXRTVnp6M05vWkN0ZHVmWDVLa1pfWF9KZ1FIWTdqaHdIcXVrZnl6TTRaXzZ3dXJieU9ubnB1VUl5RU54N05ZUXhMMnp2YWMtX3hWYmJhbkVfclZvVFFQTjZac2RmOUhsMTlTZTRtRXBUTkpQdGxQdlVVdU41aGRqZWVzUkl0RzdIcllwMlUzbHpnZkk3YXBDU3lPaFdibnZTT2k0eTh0RGJWMi01VXdFNmkwS0lfSUF2a0lyQVhxQ2w1bFlTNW9zcjU4UE5iV25HdHlOUVBZRUFoeVBhRHpHRWpyMDB4cFQzd1hFX1dXSzZWMFh5bnBtMjl0UHVtRnhlWTF6aVRZem82V2d3dUx2M0dpazVHTHdaT2NaeWNpdmVxRjc5cHo2UDNIMVZ2SWpBLW1IU09LZ2d5b0NwSnhFMl9FMWFfMlc2YzZWd2RMZXVhVjZOdEEwNnlvNkhjZ9IBmARBVV95cUxOd0ZMb1FYdm9tYW90M2FkeU8wQnY3TWVDOE5uREtraV9sSzRDLUlwUlJIc1BKRURZUTd0QWdXblRNRGVJZE8wX0Y4NGlfQ0IwUW9faU9UbTdDWFpic2dOOUx5YWxiM0pmZlpqcWR5dmVuRzdPNUhhaW5lSEpsRkhDVGdhUDlrV0JySVE1TndaamMwNWhlTy0zdmVfNDdSVFhkU19YWmpNeVFCLWF0M2h5aERKZWdJa3FDLUVnenRwSF9rNmtFdUxMNkFFSXZDSFIzTWl0QjBwOVdOeGpOYmdfOUZkeHFXQlJLeTEyN1l2MXA1YmlWVUl4Sy1YNEFuZnlWT2tWaXJFdEpLT0lzcW9IbGpJeC1lcGpTSGdtNGpmWkx2MllWTWNKdnYyYV8tZnV4dHdWcWludW4xUlFaZmNOMDdVV3B0OHo5MUZiVHAyRERHdVZrbmNRb1otOC1LektPaldVeEkwZ21Nd2dxdk5CdXNFbTFWaW5TUDdxanFjUzZwVXdkZnp6bHNicTFhM01ySlh5VG51VDNyOHR4UVhUaFZveG9ENG5TVV83OUNjQUpvQUo2OEM4c2s4VVQ3QWxqbk8wTlFiS2FLUXY4d0lhVWFMTVUxbWdQU1Y1TkVZREhmcHRyeUk3bFlWVVJHM2h1UHRwM2tMdjVvSUdQMHZBUHdKQzA5R1BmMUp4SmJsdllTLXVDTjVqbQ?oc=5\" target=\"_blank\">خبيرة ذكاء اصطناعي بمركز المعلومات: الذكاء الاصطناعي سلاح في حروب الشائعات والتزييف</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
+      "date": "Wed, 23 Sep 2026 18:01:00 GMT",
+      "source": "Google News تكنولوجيا",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "تكنولوجيا",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News تكنولوجيا"
+      ]
+    },
+    {
       "title": "محمد صلاح يتربع على عرش هدافى تصفيات أفريقيا قبل لقاء مصر وأنجولا - اليوم السابع",
       "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPdkI2QWlkRzh1VUhPMmRlbzY1VXpSTmsxbERPVTFOcWpRWnF4UGRWVlpMeXRDNHc1amY5azN2aHd4RGhac05NLVVrSlFkX2N1d19UZFV1VVRfMG4zLTdUVm41ZVluUV8tV0paUWZnWGRfSzVMS3JKenlFS0JObDlwZ0RYbGtYRlVEYWstWm9LWUN1N0E2NFN5UF94aDhUaUoxQU5jdkI5YjhPY0l3U0xaNTR4bkZOMlAtd0tBU0RLdDJJdkktUnEyV3p0OGpMb0t0aFFJb3d2bWN5clZYMVlISGw3SjFrUE1vcURMWFdhMUNKY3NaLVhNRUc2RGg2d1JNczRtdW0xMmQtbkRGaXVLWUQ1WGpkeFhWU2dOM2JVcTgzQ1ZpUUhDa1JNODFiUkUwSzIyWS0xMFVNQ2x1YmxtZWVXc2ZZOXEycnNkdUlBRWMzZW9PLXNZcGRMVkoyNmZaZ2dYYVB5VWh0S2lQakFweFNUQlplQnRzY2k4aGp6MDlwNS1pcFhVLXFRYXIya1NxUm50aWlIalhLQnB3U3ZZcl9DMnpaa1B6WER5N05LckFsYzlmVUdRVFFNd1FScU10SzhnQmtR0gHAA0FVX3lxTFBMUnUyM25JNVlLU2xJU3VkOGF6ajhkRUpmUU9TdTE1cEtJMmxvc0dKZU5IOWtmM0NsejRJa0lxSTlYT3Z4VHhQaWI5V2pNaGMzdjdMQlpHd1hIQXpWX1FFX3BQejBCNEF2b3BHcEl0cld1RkxJOG1EZjJOQzlTU25tUnV1eWc0Qm4wY2thaVJzTUNUbERzakVLMDZYZjFOeDZ5dzVxY2V3cUZjbUVxSkNFSWhfVElXX2VaSldsNlNlTGQwa09LY2U2VzRnYXdrTVdUOTNmV1FNQjZidWtXU0Mwd0FPODJUNDhETFZkdVVfM1RrZXNDcVZlSmZJM3NvMHdMUHdtc1ZTSmJvZkxzakdHZVk2Q0MxcmY4ZmZUaTRaM0Z3QjdNRndqRWlMMjFSY2ViTTFiOFA2dTgtOEZfLU16X08zX184NTVsVUlxVGp4UjU0YUxtd3J5QkczVHN6ZThwa2MwcXpaOXh0Wk1YM1NEcVJNRXRkTWMzMzZsck1kaXBpS1FkVlViVGdrWTZkd3FERy1DUEZoZzUzbkJlSTR4c1ppQWg1SVNWMllVUWtaa2tTWHZYc0x5dElqUFE1U08?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMixgNBVV95cUxPdkI2QWlkRzh1VUhPMmRlbzY1VXpSTmsxbERPVTFOcWpRWnF4UGRWVlpMeXRDNHc1amY5azN2aHd4RGhac05NLVVrSlFkX2N1d19UZFV1VVRfMG4zLTdUVm41ZVluUV8tV0paUWZnWGRfSzVMS3JKenlFS0JObDlwZ0RYbGtYRlVEYWstWm9LWUN1N0E2NFN5UF94aDhUaUoxQU5jdkI5YjhPY0l3U0xaNTR4bkZOMlAtd0tBU0RLdDJJdkktUnEyV3p0OGpMb0t0aFFJb3d2bWN5clZYMVlISGw3SjFrUE1vcURMWFdhMUNKY3NaLVhNRUc2RGg2d1JNczRtdW0xMmQtbkRGaXVLWUQ1WGpkeFhWU2dOM2JVcTgzQ1ZpUUhDa1JNODFiUkUwSzIyWS0xMFVNQ2x1YmxtZWVXc2ZZOXEycnNkdUlBRWMzZW9PLXNZcGRMVkoyNmZaZ2dYYVB5VWh0S2lQakFweFNUQlplQnRzY2k4aGp6MDlwNS1pcFhVLXFRYXIya1NxUm50aWlIalhLQnB3U3ZZcl9DMnpaa1B6WER5N05LckFsYzlmVUdRVFFNd1FScU10SzhnQmtR0gHAA0FVX3lxTFBMUnUyM25JNVlLU2xJU3VkOGF6ajhkRUpmUU9TdTE1cEtJMmxvc0dKZU5IOWtmM0NsejRJa0lxSTlYT3Z4VHhQaWI5V2pNaGMzdjdMQlpHd1hIQXpWX1FFX3BQejBCNEF2b3BHcEl0cld1RkxJOG1EZjJOQzlTU25tUnV1eWc0Qm4wY2thaVJzTUNUbERzakVLMDZYZjFOeDZ5dzVxY2V3cUZjbUVxSkNFSWhfVElXX2VaSldsNlNlTGQwa09LY2U2VzRnYXdrTVdUOTNmV1FNQjZidWtXU0Mwd0FPODJUNDhETFZkdVVfM1RrZXNDcVZlSmZJM3NvMHdMUHdtc1ZTSmJvZkxzakdHZVk2Q0MxcmY4ZmZUaTRaM0Z3QjdNRndqRWlMMjFSY2ViTTFiOFA2dTgtOEZfLU16X08zX184NTVsVUlxVGp4UjU0YUxtd3J5QkczVHN6ZThwa2MwcXpaOXh0Wk1YM1NEcVJNRXRkTWMzMzZsck1kaXBpS1FkVlViVGdrWTZkd3FERy1DUEZoZzUzbkJlSTR4c1ppQWg1SVNWMllVUWtaa2tTWHZYc0x5dElqUFE1U08?oc=5\" target=\"_blank\">محمد صلاح يتربع على عرش هدافى تصفيات أفريقيا قبل لقاء مصر وأنجولا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
@@ -990,36 +1020,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQRHRhc0x4enN3U2ZIdlBucnpVV3dvTTQtb3ZXUWJ2bGFvWWg5czB0R2lSR1hvWk1Va05FeGdkeUhQTmZOM0NzblNucE9GX0dQTDFTVGo3a2RkVzFyUWJ6REdLaHFXSkFzUEhiY2FlbVRBMVVUZXpvdUhGZTNsTlJfRmZWaWhSOHBJbDhIZ001QmZWT0NTc3JUWDhtQ3o3UlNidlRJZTg5aXZpTVQyd1JBaVFJR05OdmpHN3EtQlRfLXZwb1VfZU41b283Z3ZKTFpRQTRSMVl1UzNscU1Sd3FMMkFzNUpmcjYyQ1BJVHhsRW04QTJOTU5leWozZGdSQWpUWnJuTUtmaEt1bG52eFk5LXFRc1JvRzl0bXFUdmVITlFKbDJSOEtOckZBUnAyd3pzSGVLNlNTQzUydE9lVFFmOEh6eE1HTUNEcWJIVjFjNjNPWUxQ0gHaAkFVX3lxTE9SRi05S1lpWExhQUZsQUZZRUFCRndqZ2pSM2doWnZsZWdLSmVsZFhUOHQyVHRZazh2bjlqRVhkTVhJTVk1cnVEM1VTUDI5RzJEd2hva3lZenFUenZDM3I2dER2RE1tSTQtZl9vYXdiVm1ONGNFMktfY2lLd1ZmRTRfQnp0SUVWTFlqT0wtdkxLVWl0YWllUVlvSkk1NktubTJjaEloemoxbUJac0lGTzhDVXZfRTlfNmU2M0tUMklWRFdPUmROT3dSb3Byc0k4WDFNWG1MeUJMbW55bXVrWVEyUjZLQjRvdXNYb3NJTjhJbjd5bG00cG5FU21pdEZDMkZzNXhiNEVyU3hXYTg4Y0FyQnJ1bHp4Q1lfOWZsbE5MYW9ILXVrOHltUURDV1JWRG0tanFkS3dMSmtCYjNQOGFVMmtYY2NkM1JZUkJSZG03dHJyRW5iSUtndnc?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxQRHRhc0x4enN3U2ZIdlBucnpVV3dvTTQtb3ZXUWJ2bGFvWWg5czB0R2lSR1hvWk1Va05FeGdkeUhQTmZOM0NzblNucE9GX0dQTDFTVGo3a2RkVzFyUWJ6REdLaHFXSkFzUEhiY2FlbVRBMVVUZXpvdUhGZTNsTlJfRmZWaWhSOHBJbDhIZ001QmZWT0NTc3JUWDhtQ3o3UlNidlRJZTg5aXZpTVQyd1JBaVFJR05OdmpHN3EtQlRfLXZwb1VfZU41b283Z3ZKTFpRQTRSMVl1UzNscU1Sd3FMMkFzNUpmcjYyQ1BJVHhsRW04QTJOTU5leWozZGdSQWpUWnJuTUtmaEt1bG52eFk5LXFRc1JvRzl0bXFUdmVITlFKbDJSOEtOckZBUnAyd3pzSGVLNlNTQzUydE9lVFFmOEh6eE1HTUNEcWJIVjFjNjNPWUxQ0gHaAkFVX3lxTE9SRi05S1lpWExhQUZsQUZZRUFCRndqZ2pSM2doWnZsZWdLSmVsZFhUOHQyVHRZazh2bjlqRVhkTVhJTVk1cnVEM1VTUDI5RzJEd2hva3lZenFUenZDM3I2dER2RE1tSTQtZl9vYXdiVm1ONGNFMktfY2lLd1ZmRTRfQnp0SUVWTFlqT0wtdkxLVWl0YWllUVlvSkk1NktubTJjaEloemoxbUJac0lGTzhDVXZfRTlfNmU2M0tUMklWRFdPUmROT3dSb3Byc0k4WDFNWG1MeUJMbW55bXVrWVEyUjZLQjRvdXNYb3NJTjhJbjd5bG00cG5FU21pdEZDMkZzNXhiNEVyU3hXYTg4Y0FyQnJ1bHp4Q1lfOWZsbE5MYW9ILXVrOHltUURDV1JWRG0tanFkS3dMSmtCYjNQOGFVMmtYY2NkM1JZUkJSZG03dHJyRW5iSUtndnc?oc=5\" target=\"_blank\">أسرع بـ25 مرة وأرخص بـ100 مرة.. نموذج جديد من أحد مبتكري \"شات جي بي تي\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
       "date": "Wed, 23 Sep 2026 15:29:11 GMT",
-      "source": "Google News تكنولوجيا",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "تكنولوجيا",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News تكنولوجيا"
-      ]
-    },
-    {
-      "title": "سباق الذكاء الاصطناعي يثير القلق داخل مختبراته - العربية",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPZEh0ajZmUlVORTBUYW9sY0VQeDJNMnRaQ2k5RHRTS0pZbnhoTHVfOWU3Mm1LM3kwM0FUeFJGN2hRandXNTNsMDlENV9wdWdxOHJLSXBiRXFtTVZzeFNyRl9VNkI0dUUyUm9VbTRiZ2w5RGdJWDQxU2w3NU54amxpUl9MUzNLb0pCdDFVbmJKU2FUcVVPVEFvcjR3cTJwdkdxeWdNYXB5eTM1MjhVS0lhcFlMaW5ISGRKR2UyX0stZEloU0E2dEctenlHTXd4MVRha2RaYnRXUVNyYUM1eXl0emJqUGQwckZoR2ZVelU1bTFJODduQlRyYUNMRTE1dEJETG1PTGRnaVA1Vkh3MnFCNGtrQTVKa0pCamxNdDEtc0FfZFdoTGdQMlNRUHpPWmZ6Wl9NSFc5NGNrQkw2YnMtTmUxeDBVN1ktbktHWHRZWGZUMzFGdzlfWDNvaVgybGpJR3l3SlNfOTN2SUZIazUtTV9WV0FZNE9YaUtfeUR0RmVwSU5MRG03bkZiUnNVeWxqNE1pRGdvUm5KVzZCN2hTZTNaaFhzOG540gGuA0FVX3lxTE1sYkRiblFiOUZZLWhHekMySzBFTC1BY3YxTUFzVFJmNGZWMzJxQXZUWjhPM0dvN3kzYV80dHdJVzlqcUpraFBPcjE1R2d6YkFIWHY2Ml8yNElJNUVXZ0FZTmRrbmxmWXY0cjVYbVlwMGdHQUJUdE9oUTJ5RlBJZk1UYnAtU3M2TDZtV21hLVI5NVNDblBPR3ZZZ2JTWXhQam9lNU13OUxSOFZHMFhmTFZkQmNWSjQ0cEwxanUyRVR5dlQxRG9VckE2dmpmakxqWjR4dnUxVnpfZGk3NFhCX2oxTHZScXBzVjRiVC1DZkZuaGs5cmxsZFBGdjRsOGp2WEIyQ3d2b2RYblVJVUFzQU56d2lGbnlvYkkwcExtVEs0Y09LZUNXbTcxX2hDWm53TXNvWkZhaE1wdWd0aFhHOTN5T0RNVmhZem9YaGd0YVVpVmgxVlRsTk9ZSWhiOVFfLWhOODdIa0lUVDAzbFVROERrY0Z1RGJscVM3dXAtMnJUWk1UazR3XzZWck9tcTRRVXNRcEQ4NEVDMU5Nc1VfX2JTb1NPYjNyamdyRzA0MEE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqANBVV95cUxPZEh0ajZmUlVORTBUYW9sY0VQeDJNMnRaQ2k5RHRTS0pZbnhoTHVfOWU3Mm1LM3kwM0FUeFJGN2hRandXNTNsMDlENV9wdWdxOHJLSXBiRXFtTVZzeFNyRl9VNkI0dUUyUm9VbTRiZ2w5RGdJWDQxU2w3NU54amxpUl9MUzNLb0pCdDFVbmJKU2FUcVVPVEFvcjR3cTJwdkdxeWdNYXB5eTM1MjhVS0lhcFlMaW5ISGRKR2UyX0stZEloU0E2dEctenlHTXd4MVRha2RaYnRXUVNyYUM1eXl0emJqUGQwckZoR2ZVelU1bTFJODduQlRyYUNMRTE1dEJETG1PTGRnaVA1Vkh3MnFCNGtrQTVKa0pCamxNdDEtc0FfZFdoTGdQMlNRUHpPWmZ6Wl9NSFc5NGNrQkw2YnMtTmUxeDBVN1ktbktHWHRZWGZUMzFGdzlfWDNvaVgybGpJR3l3SlNfOTN2SUZIazUtTV9WV0FZNE9YaUtfeUR0RmVwSU5MRG03bkZiUnNVeWxqNE1pRGdvUm5KVzZCN2hTZTNaaFhzOG540gGuA0FVX3lxTE1sYkRiblFiOUZZLWhHekMySzBFTC1BY3YxTUFzVFJmNGZWMzJxQXZUWjhPM0dvN3kzYV80dHdJVzlqcUpraFBPcjE1R2d6YkFIWHY2Ml8yNElJNUVXZ0FZTmRrbmxmWXY0cjVYbVlwMGdHQUJUdE9oUTJ5RlBJZk1UYnAtU3M2TDZtV21hLVI5NVNDblBPR3ZZZ2JTWXhQam9lNU13OUxSOFZHMFhmTFZkQmNWSjQ0cEwxanUyRVR5dlQxRG9VckE2dmpmakxqWjR4dnUxVnpfZGk3NFhCX2oxTHZScXBzVjRiVC1DZkZuaGs5cmxsZFBGdjRsOGp2WEIyQ3d2b2RYblVJVUFzQU56d2lGbnlvYkkwcExtVEs0Y09LZUNXbTcxX2hDWm53TXNvWkZhaE1wdWd0aFhHOTN5T0RNVmhZem9YaGd0YVVpVmgxVlRsTk9ZSWhiOVFfLWhOODdIa0lUVDAzbFVROERrY0Z1RGJscVM3dXAtMnJUWk1UazR3XzZWck9tcTRRVXNRcEQ4NEVDMU5Nc1VfX2JTb1NPYjNyamdyRzA0MEE?oc=5\" target=\"_blank\">سباق الذكاء الاصطناعي يثير القلق داخل مختبراته</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربية</font>",
-      "date": "Wed, 23 Sep 2026 14:46:00 GMT",
-      "source": "Google News تكنولوجيا",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "تكنولوجيا",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News تكنولوجيا"
-      ]
-    },
-    {
-      "title": "الذكاء الاصطناعي يشعل النقاش باجتماع الأمم المتحدة فماذا قال قادة العالم؟ - الجزيرة نت",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNZ19vcWpIdUp2VzgxdTFPZ2hjWENFWEZkbC0wVWc3U0prT0lVUm1nYjQ4OUR1MWthaV9oUmg4QUI1T0RTNWROcVJzeExRZW91amUyV1poeUREMDAyTmVhY3d5MWdEQVBGSEhqWGZHRnlVZDI1X1VwQWZVcHo3NXF4TDJYWG93dlNGVldWT2VvMTVnck0xQVQzem1nOVd1eUJfMnVHYkNRTXNHd01tckpzV3hxRWZ1OXJlZTBzVEZKYW5zb2FxNHo1LXN2bmI2c1ZHZ3pmdTFvaDBieEk2S3dUMm5VZDgwS0djR3g2Q3liUnNzemhZUlBXZklvY2ZlNkh0RFZ2d0YxLWx6azRYWl84XzJVWXNXWXdCa1p2MmZjVFFtRzN5Q3VpZ1FUUmNKZnZV0gG2AkFVX3lxTFBoUXpQUnV6dFdtOTY2UThqR2s1WU9qVkFWMVhTbTZoeXlNakV3YjFlYjlPYWNJZnFkTmFvd2pvcUNXUlQyOW9Na0l4NC1ZdGpzRnhaeDFtRDdjbVZucmhscTB4V2RzZTNzUmdDLUdRZVNvX002QVR2d3pzWFJNRkpOS3A1ZGxQRU93MlZTRndSSU9yUFlUYTVZNklUVFFleGdXSWNXZXkzbjk0ODZETjQwamw5TVhObGVHTF9YX1RCU2FyNTB2eExLdGFrSTR6RWVwMHZWY252VGw5bFdxUWZjOWNnXzdGb05wV3Jka0xKSllxTXlqNVczanVtZXl2M2Jpb1dIaTZ3TmtCNXlLbXJYeXF1c2xwSjYxUkJEVWcweXNRSExManRUWFQ2MmdCV3JlWHQ2THc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxNZ19vcWpIdUp2VzgxdTFPZ2hjWENFWEZkbC0wVWc3U0prT0lVUm1nYjQ4OUR1MWthaV9oUmg4QUI1T0RTNWROcVJzeExRZW91amUyV1poeUREMDAyTmVhY3d5MWdEQVBGSEhqWGZHRnlVZDI1X1VwQWZVcHo3NXF4TDJYWG93dlNGVldWT2VvMTVnck0xQVQzem1nOVd1eUJfMnVHYkNRTXNHd01tckpzV3hxRWZ1OXJlZTBzVEZKYW5zb2FxNHo1LXN2bmI2c1ZHZ3pmdTFvaDBieEk2S3dUMm5VZDgwS0djR3g2Q3liUnNzemhZUlBXZklvY2ZlNkh0RFZ2d0YxLWx6azRYWl84XzJVWXNXWXdCa1p2MmZjVFFtRzN5Q3VpZ1FUUmNKZnZV0gG2AkFVX3lxTFBoUXpQUnV6dFdtOTY2UThqR2s1WU9qVkFWMVhTbTZoeXlNakV3YjFlYjlPYWNJZnFkTmFvd2pvcUNXUlQyOW9Na0l4NC1ZdGpzRnhaeDFtRDdjbVZucmhscTB4V2RzZTNzUmdDLUdRZVNvX002QVR2d3pzWFJNRkpOS3A1ZGxQRU93MlZTRndSSU9yUFlUYTVZNklUVFFleGdXSWNXZXkzbjk0ODZETjQwamw5TVhObGVHTF9YX1RCU2FyNTB2eExLdGFrSTR6RWVwMHZWY252VGw5bFdxUWZjOWNnXzdGb05wV3Jka0xKSllxTXlqNVczanVtZXl2M2Jpb1dIaTZ3TmtCNXlLbXJYeXF1c2xwSjYxUkJEVWcweXNRSExManRUWFQ2MmdCV3JlWHQ2THc?oc=5\" target=\"_blank\">الذكاء الاصطناعي يشعل النقاش باجتماع الأمم المتحدة فماذا قال قادة العالم؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
-      "date": "Wed, 23 Sep 2026 14:19:48 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
       "sourceType": "aggregator",
@@ -1136,9 +1136,9 @@
       ]
     },
     {
-      "title": "(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين - 新华网",
+      "title": "(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين - arabic.news.cn",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xemk4NzVBNFQ2WTZHTnQweGs1alRsNXZsUFZZU3J5ZmxtR3p6QzI0UHJkWUpEZXlmOWNCNXVDVnBfVzZNejB2TFZCQWxqQ0xnaU0taWJzZmtEUHM1amtyenFLZzk0aVFTOG14SXlERUxRM1lfRzd2QUVPRQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xemk4NzVBNFQ2WTZHTnQweGs1alRsNXZsUFZZU3J5ZmxtR3p6QzI0UHJkWUpEZXlmOWNCNXVDVnBfVzZNejB2TFZCQWxqQ0xnaU0taWJzZmtEUHM1amtyenFLZzk0aVFTOG14SXlERUxRM1lfRzd2QUVPRQ?oc=5\" target=\"_blank\">(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xemk4NzVBNFQ2WTZHTnQweGs1alRsNXZsUFZZU3J5ZmxtR3p6QzI0UHJkWUpEZXlmOWNCNXVDVnBfVzZNejB2TFZCQWxqQ0xnaU0taWJzZmtEUHM1amtyenFLZzk0aVFTOG14SXlERUxRM1lfRzd2QUVPRQ?oc=5\" target=\"_blank\">(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">arabic.news.cn</font>",
       "date": "Mon, 21 Sep 2026 06:30:15 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
