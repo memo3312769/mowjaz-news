@@ -15,3 +15,22 @@ if (!response.ok) {
 const data = await response.json();
 
 console.log(JSON.stringify(data, null, 2));
+const chatId = "-1003903387964";
+
+const sendUrl =
+  `https://api.telegram.org/bot${token}/sendMessage`;
+
+const sendResponse = await fetch(sendUrl, {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json"
+  },
+  body: JSON.stringify({
+    chat_id: chatId,
+    text: "🟢 اختبار ناجح — موجز نيوز يعمل مع البوت."
+  })
+});
+
+const sendData = await sendResponse.json();
+
+console.log(JSON.stringify(sendData, null, 2));
