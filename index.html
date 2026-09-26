@@ -875,9 +875,21 @@ ${isUrgent(hero) ? '<div style="color:#dc2626;font-weight:900;margin-bottom:10px
   ? `<span class="source-count">📰 ${x.sourceCount === 2 ? "مصدران" : x.sourceCount + " مصادر"}</span>`
   : ""}ر
 ${isUrgent(x) ? '<div style="color:#dc2626;font-weight:900;margin-bottom:8px">🔴 عاجل</div>' : ""}
-          <h3>
-            ${esc(x.title)}
-          </h3>
+          <div style="display:flex;align-items:center;justify-content:space-between;gap:10px">
+
+  <h3 style="margin:0">
+    ${esc(x.title)}
+  </h3>
+
+  <button
+    class="favorite-btn"
+    onclick="toggleFavorite('${esc(x.link)}')"
+    title="إضافة إلى المفضلة"
+  >
+    ${favorites.includes(x.link) ? "⭐" : "☆"}
+  </button>
+
+</div>
 
           <p class="description">
             ${esc(cleanText(x.description))}
