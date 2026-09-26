@@ -1,67 +1,89 @@
 const token = process.env.TELEGRAM_BOT_TOKEN;
 
 if (!token) {
-  throw new Error("TELEGRAM_BOT_TOKEN غير موجود");
+  throw new Error("TELEGRAM_BOT_TOKEN مفقود");
 }
 
 // قناة موجز نيوز
 const chatId = "-1003903387964";
 
-// مصدر RT Arabic
+// RSS الخاص بـ RT Arabic
 const feedUrl = "https://arabic.rt.com/rss/";
 
 // جلب RSS
-const response = await fetch(feedUrl);
+const response = await fetch(feedUrl, {
+  headers: {
+    "User-Agent": "MowjazNews/4.0"
+  }
+});
 
 if (!response.ok) {
-  throw new Error(`RT RSS error: ${response.status}`);
+  throw new Error(`RT Arabic RSS error: ${response.status}`);
 }
 
 const xml = await response.text();
 
-// استخراج أول 5 أخبار
+// استخراج عناصر RSS
 const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)]
-  .slice(0, 5)
+  .slice(0, 10)
   .map(match => {
     const item = match[1];
 
     const get = (tag) => {
-      const m = item.match(
-        new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "i")
+      const regex = new RegExp(
+        `<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`,
+        "i"
       );
-      return m ? m[1].replace(/<!\[CDATA\[|\]\]>/g, "").trim() : "";
+
+      const found = item.match(regex);
+
+      if (!found) return "";
+
+      return found[1]
+        .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/gi, "$1")
+        .replace(/<[^>]+>/g, "")
+        .trim();
     };
 
     return {
       title: get("title"),
       link: get("link"),
-      description: get("description")
+      description: get("description"),
+      pubDate: get("pubDate")
     };
   })
-  .filter(x => x.title && x.link);
+  .filter(item => item.title && item.link);
 
-// إذا لم نجد أخبارًا
+// التأكد من وجود أخبار
 if (!items.length) {
   throw new Error("لم يتم العثور على أخبار من RT Arabic");
 }
 
+console.log(`تم العثور على ${items.length} أخبار من RT Arabic`);
+
 // إرسال الأخبار إلى موجز نيوز
 for (const item of items) {
+
   const text =
 `📰 RT Arabic
 
 ${item.title}
 
-🔗 ${item.link}`;
+🔗 ${item.link}
+
+<!--MOWJAZ_SOURCE:RT_ARABIC-->
+<!--MOWJAZ_LINK:${item.link}-->`;
 
   const sendUrl =
     `https://api.telegram.org/bot${token}/sendMessage`;
 
   const sendResponse = await fetch(sendUrl, {
     method: "POST",
+
     headers: {
       "Content-Type": "application/json"
     },
+
     body: JSON.stringify({
       chat_id: chatId,
       text
@@ -76,5 +98,7 @@ ${item.title}
     );
   }
 
-  console.log("تم نشر:", item.title);
+  console.log(`تم إرسال خبر RT: ${item.title}`);
 }
+
+console.log("انتهى نشر أخبار RT Arabic بنجاح");
