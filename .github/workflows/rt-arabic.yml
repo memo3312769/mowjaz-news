@@ -1,0 +1,25 @@
+name: نشر RT Arabic
+
+on:
+  workflow_dispatch:
+  
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  rt-arabic:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: تحميل المستودع
+        uses: actions/checkout@v4
+
+      - name: إعداد Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: تشغيل RT Arabic
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: node rt_arabic.mjs
