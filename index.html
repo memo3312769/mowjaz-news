@@ -1055,6 +1055,26 @@ setInterval(
   loadNews,
   15 * 60 * 1000
 );
+  function toggleFavorite(link){
+
+  if(favorites.includes(link)){
+
+    favorites = favorites.filter(x => x !== link);
+
+  }else{
+
+    favorites.push(link);
+
+  }
+
+  localStorage.setItem(
+    "mowjazFavorites",
+    JSON.stringify(favorites)
+  );
+
+  render();
+
+}
 
 </script>
 
