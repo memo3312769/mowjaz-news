@@ -1122,6 +1122,13 @@ setInterval(
   news = originalNews;
 
 }
+  function showAllNews(){
+
+  render();
+
+  document.getElementById("allNewsBtn").style.display = "none";
+
+}
   setInterval(() => {
   loadNews();
 }, 5 * 60 * 1000);
