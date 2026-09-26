@@ -1093,6 +1093,21 @@ setInterval(
   render();
 
 }
+  function showFavorites(){
+
+  const favoriteNews = news.filter(x =>
+    favorites.includes(x.link)
+  );
+
+  const originalNews = news;
+
+  news = favoriteNews;
+
+  render();
+
+  news = originalNews;
+
+}
 
 </script>
 
