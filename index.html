@@ -1022,6 +1022,9 @@ async function loadNews(){
 
     render();
     updateSourceFilter();
+    document.getElementById("lastUpdate").textContent =
+  "🕐 آخر تحديث: " +
+  new Date().toLocaleTimeString("ar-EG");
 
     document.getElementById("status").innerHTML =
       '<span class="dot"></span> تم التحديث — ' +
