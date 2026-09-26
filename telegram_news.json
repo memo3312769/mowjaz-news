@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-09-26T23:06:12.376Z",
+  "updatedAt": "2026-09-26T23:22:49.918Z",
   "items": [
+    {
+      "title": "اا",
+      "link": "https://t.me/mowjaz_news_test/21",
+      "description": "اا",
+      "date": "2026-09-26T23:13:49.000Z",
+      "source": "موجز نيوز",
+      "sourceScore": 8,
+      "sourceType": "telegram",
+      "cat": "العالم",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "موجز نيوز"
+      ],
+      "telegramUpdateId": 241993282
+    },
     {
       "title": "🇷🇺 مفتي موسكو يدلي بصوته في انتخابات مجلس الدوما",
       "link": "https://t.me/rtarabictelegram/519371",
