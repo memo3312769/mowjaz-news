@@ -9,7 +9,7 @@ if (!token) {
 const telegramFile = "telegram_news.json";
 const offsetFile = "telegram_offset.json";
 
-// قراءة أخبار Telegram السابقة فقط
+// قراءة أخبار Telegram السابقة
 let telegramNews = [];
 
 if (fs.existsSync(telegramFile)) {
@@ -27,7 +27,7 @@ if (fs.existsSync(telegramFile)) {
   }
 }
 
-// قراءة آخر تحديث تمت معالجته
+// قراءة آخر تحديث
 let offset = 0;
 
 if (fs.existsSync(offsetFile)) {
@@ -61,6 +61,7 @@ let newOffset = offset;
 let added = 0;
 
 for (const update of data.result) {
+
   newOffset = Math.max(
     newOffset,
     update.update_id + 1
@@ -74,7 +75,7 @@ for (const update of data.result) {
     continue;
   }
 
-  // يدعم النصوص والتعليقات المصاحبة للصور
+  // النص أو وصف الصورة
   const postText =
     post.text ||
     post.caption ||
@@ -84,122 +85,266 @@ for (const update of data.result) {
     continue;
   }
 
-  // القناة التي استقبلت المنشور
-  const receivingChannel =
-    post.chat?.title || "Telegram";
+  // ==========================================
+  // استخراج مصدر الخبر الحقيقي
+  // ==========================================
 
-  const receivingUsername =
-    post.chat?.username || "";
+  const sourceMatch =
+    postText.match(
+      /<!--MOWJAZ_SOURCE:(.*?)-->/
+    );
 
-  const messageId = post.message_id;
+  const linkMatch =
+    postText.match(
+      /<!--MOWJAZ_LINK:(.*?)-->/
+    );
 
-  const receivingLink = receivingUsername
-    ? `https://t.me/${receivingUsername}/${messageId}`
-    : "";
+  let source =
+    sourceMatch?.[1]?.trim() ||
+    post.chat?.title ||
+    "Telegram";
 
-  // معرفة المصدر الأصلي إذا كان المنشور معاد التوجيه
-  const origin = post.forward_origin;
+  let originalLink =
+    linkMatch?.[1]?.trim() ||
+    "";
 
-  let originalSource = receivingChannel;
-  let originalUsername = "";
-  let originalMessageId = "";
+  // ==========================================
+  // تحديد عنوان الخبر
+  // ==========================================
 
-  if (
-    origin &&
-    origin.type === "channel" &&
-    origin.chat
-  ) {
-    originalSource =
-      origin.chat.title || receivingChannel;
+  let title = "";
 
-    originalUsername =
-      origin.chat.username || "";
+  if (source === "RT_ARABIC") {
 
-    originalMessageId =
-      origin.message_id || "";
+    const lines = postText
+      .split("\n")
+      .map(line => line.trim())
+      .filter(Boolean)
+      .filter(line =>
+        !line.startsWith("<!--")
+      );
+
+    // الشكل:
+    // 📰 RT Arabic
+    // عنوان الخبر
+    // 🔗 الرابط
+
+    title =
+      lines.find(line =>
+        !line.startsWith("📰") &&
+        !line.startsWith("🔗") &&
+        !line.startsWith("http")
+      ) || "";
+
+  } else {
+
+    const lines = postText
+      .split("\n")
+      .map(line => line.trim())
+      .filter(Boolean);
+
+    title =
+      lines[0] ||
+      "خبر من Telegram";
   }
 
-  const originalLink =
-    originalUsername && originalMessageId
-      ? `https://t.me/${originalUsername}/${originalMessageId}`
-      : receivingLink;
+  title = title.slice(0, 200);
 
-  const lines = postText
-    .split("\n")
-    .map(line => line.trim())
-    .filter(Boolean);
+  if (!title) {
+    title = "خبر من Telegram";
+  }
 
-  const title =
-    lines[0]?.slice(0, 200) ||
-    "خبر من Telegram";
+  // ==========================================
+  // الوصف
+  // ==========================================
+
+  const cleanText = postText
+    .replace(/<!--[\s\S]*?-->/g, "")
+    .trim();
 
   const description =
-    postText.slice(0, 240);
+    cleanText.slice(0, 500);
 
-  // منع تكرار الخبر
-  const exists = telegramNews.some(item =>
-    (
+  // ==========================================
+  // التاريخ
+  // ==========================================
+
+  const date =
+    new Date(
+      post.date * 1000
+    ).toISOString();
+
+  // ==========================================
+  // منع التكرار
+  // ==========================================
+
+  const exists = telegramNews.some(item => {
+
+    // نفس رابط المصدر الأصلي
+    if (
       originalLink &&
       item.link === originalLink
-    ) ||
-    (
-      item.telegramUpdateId === update.update_id
-    ) ||
-    (
+    ) {
+      return true;
+    }
+
+    // نفس Telegram update
+    if (
+      item.telegramUpdateId ===
+      update.update_id
+    ) {
+      return true;
+    }
+
+    // نفس العنوان والتاريخ
+    if (
       item.title === title &&
-      item.date === new Date(
-        post.date * 1000
-      ).toISOString()
-    )
-  );
+      item.date === date
+    ) {
+      return true;
+    }
+
+    return false;
+  });
 
   if (exists) {
+    console.log(
+      `خبر مكرر تم تجاهله: ${title}`
+    );
+
     continue;
   }
 
+  // ==========================================
+  // تحديد التصنيف
+  // ==========================================
+
+  let category = "العالم";
+
+  const textForCategory =
+    `${title} ${description}`.toLowerCase();
+
+  if (
+    /مصر|القاهرة|الحكومة المصرية|الرئيس المصري/
+      .test(textForCategory)
+  ) {
+    category = "مصر";
+
+  } else if (
+    /اقتصاد|اقتصادية|أسواق|نفط|دولار|ذهب|بنك/
+      .test(textForCategory)
+  ) {
+    category = "اقتصاد";
+
+  } else if (
+    /رياضة|كرة|مباراة|دوري|منتخب/
+      .test(textForCategory)
+  ) {
+    category = "رياضة";
+
+  } else if (
+    /تكنولوجيا|تقنية|ذكاء اصطناعي|هاتف|آيفون/
+      .test(textForCategory)
+  ) {
+    category = "تكنولوجيا";
+
+  } else if (
+    /علوم|فضاء|علماء|ناسا/
+      .test(textForCategory)
+  ) {
+    category = "علوم";
+  }
+
+  // ==========================================
+  // إنشاء الخبر
+  // ==========================================
+
   const item = {
     title,
-    link: originalLink,
+
+    link:
+      originalLink ||
+      "",
+
     description,
-    date: new Date(
-      post.date * 1000
-    ).toISOString(),
-    source: originalSource,
-    sourceScore: 8,
-    sourceType: "telegram",
-    cat: "العالم",
-    image: "",
-    sourceCount: 1,
-    sources: [originalSource],
-    telegramUpdateId: update.update_id
+
+    date,
+
+    source,
+
+    sourceScore:
+      source === "RT_ARABIC" ? 10 : 8,
+
+    sourceType:
+      "telegram",
+
+    cat:
+      category,
+
+    image:
+      "",
+
+    sourceCount:
+      1,
+
+    sources:
+      [source],
+
+    telegramUpdateId:
+      update.update_id
   };
 
   telegramNews.unshift(item);
+
   added++;
 
   console.log(
-    `تمت إضافة خبر Telegram من: ${originalSource}`
+    `تمت إضافة خبر: ${title}`
   );
 }
 
-// حفظ أخبار Telegram في ملف مستقل
+// ==========================================
+// الاحتفاظ بعدد معقول من الأخبار
+// ==========================================
+
+telegramNews =
+  telegramNews.slice(0, 300);
+
+// ==========================================
+// حفظ الأخبار
+// ==========================================
+
 const output = {
-  updatedAt: new Date().toISOString(),
-  items: telegramNews
+  updatedAt:
+    new Date().toISOString(),
+
+  items:
+    telegramNews
 };
 
 fs.writeFileSync(
   telegramFile,
-  JSON.stringify(output, null, 2),
+  JSON.stringify(
+    output,
+    null,
+    2
+  ),
   "utf8"
 );
 
-// حفظ موضع آخر تحديث
+// ==========================================
+// حفظ Offset
+// ==========================================
+
 fs.writeFileSync(
   offsetFile,
   String(newOffset),
   "utf8"
 );
+
+// ==========================================
+// سجل التشغيل
+// ==========================================
 
 console.log(
   `Telegram updates: ${data.result.length}`
