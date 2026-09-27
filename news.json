@@ -1,19 +1,64 @@
 {
-  "updatedAt": "2026-09-27T10:37:28.772Z",
+  "updatedAt": "2026-09-27T10:50:32.282Z",
   "items": [
+    {
+      "title": "جنوب إفريقيا.. إطلاق نار على الزبائن يخلف عشرات الضحايا",
+      "link": "https://www.skynewsarabia.com/world/1894644-%D8%AC%D9%86%D9%88%D8%A8-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%A7%D9%84%D8%B2%D8%A8%D8%A7%D8%A6%D9%86-%D9%8A%D8%AE%D9%84%D9%81-%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7",
+      "description": "قتل 27 شخصا على الأقل وأصيب 26 آخرون في عمليتي إطلاق نار استهدفتا حانة غرب جوهانسبرغ وموقعا ترفيهيا قرب كيب تاون، وفق ما أعلنت الشرطة في جنوب إفريقيا، الأحد.",
+      "date": "Sun, 27 Sep 2026 10:49:04 GMT",
+      "source": "Sky News عربية",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://images.skynewsarabia.com/images/v1/2026/09/27/1894642/95/53/1-1894642.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "Sky News عربية"
+      ]
+    },
     {
       "title": "احتجاز أشخاص وإجلاء سكان بعد إعلان حالة طوارئ قرب قاعدة بريطانية - أمريكية",
       "link": "https://www.bbc.com/arabic/articles/cmwyz9xkqeg1o?at_medium=RSS&at_campaign=rss",
       "description": "أُعلنت حالة طوارئ وأُجلي سكان من منازلهم في قرية وِلفورد قرب قاعدة سلاح الجو الملكي البريطاني فيرفورد.",
-      "date": "Sun, 27 Sep 2026 10:34:46 GMT",
+      "date": "Sun, 27 Sep 2026 10:48:32 GMT",
       "source": "BBC العربية",
       "sourceScore": 10,
       "sourceType": "official-rss",
       "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6802/live/90db3810-ba4d-11f1-a5c2-5319e0e9b9a7.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a30/live/d0c5b280-ba60-11f1-ab5a-210fdaa1dd09.jpg",
       "sourceCount": 1,
       "sources": [
         "BBC العربية"
+      ]
+    },
+    {
+      "title": "لقاء مرتقب بجنوب فرنسا بين البابا ليون الرابع عشر وضحايا اعتداءات جنسية ارتكبها رجال دين",
+      "link": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20260927-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%D8%A7-%D9%84%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9-%D8%B9%D8%B4%D8%B1-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%AC%D9%86%D8%B3-%D8%A7%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8-%D8%B1%D9%87%D8%A8%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9",
+      "description": "من المزمع أن يلتقي البابا ليون الرابع عشر، الأحد، في مدينة لورد بجنوب فرنسا التي وصلها مساء السبت، عددا من ضحايا الاعتداءات الجنسية التي ارتكبها رجال دين فرنسيون. وسبق أن دعا بابا الفاتيكان القادة الكاثوليك إلى عدم التستر على مثل هذه الانتهاكات. من جانبهم، ينتظر الضحايا والجمعيات إجراءات فعلية وإدانة. وكان تقرير صادم نشر قبل سنوات، كشف عن تعرض أكثر من 300 ألف طفل لاعتداءات على أيدي رجال دين كاثوليك في فرنسا، على مدى سبعة عقود.",
+      "date": "Sun, 27 Sep 2026 10:38:50 GMT",
+      "source": "France 24 العربية",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://s.france24.com/media/display/68e09c20-ba51-11f1-b02c-8f3418d01115/w:1024/p:16x9/Pope-4.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "France 24 العربية"
+      ]
+    },
+    {
+      "title": "بعثة منتخب مصر تطير إلى جوبا لمواجهة جنوب السودان فى تصفيات أفريقيا.. صور - اليوم السابع",
+      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPVXVyV1UyaDRVRVJ2TnY2T1NHcTd6aGZjNXZSU1NNNUZ4ZjJteGR6ejcyX0pDS0JVemQ4S3lfT1dFMHZSYlZ0NmotN0lKYzFoVTI4bmZNQ19SWUNrdkR2UlZoS09EQXpadHFLUHIwUXFDVlQzSUNmQUNLVlQ1RnJENU5OdWFnSWhWbElIVjVQTkUxODFvOVVUcUotQzBtSHpZUEY0N2FmU2Etei1nTkhaZktQRGxiNnI0RTN5c01kZ3g2eHRTSldvX1N4ZkpneWJZcXZockp0WG94dkNBazNXdGZuVGptRDdxOHBrdVdITUpmVlJvWmR1SjNoTzlFVWotM0lZaHVBZ2xRb3BCT1FkVVd4dXAySF96ekxSUG91SWNVQ19TX2wxSUc4VlVXb3I0UDNqV2w3ZFFsNWlDc0xNQW9PRno4V2Y5UmhOMnptVXR6Z2J5Qm9mR0tZZWFZU1RVM05QX1ZxRElVZW1GMlZZdFlwMmtJMFFCNE53aW5CbTVnTnR1TV9ERDdZU3k2SjdhaDhQWnF1RWlfWHFKZ2lTZkJOSVJrb1U2alJMZll0ZlZxR2dZRFR1bnk3YUNyZ9IBuANBVV95cUxNbFQ1R282ZzNreHRvNkN4RVJ6azhwOGpmZ0lyOTFhc3RNaE1tSk5sb1dyTlVwTVJZaFRtd1o2X01CUVA0VDJobEQ2WHJ5NDh5MzY5aGJvM25FMDFIYXhiQ21OYkRDY2hnUEZDQVFnNDhjek9zTzNna3ZMaDBCM1JwWGt3SkVjQXVOZmtXbURLZFkxblg5SlJpdmNGd3BteTRkLU9yTU52NlR6UlN2elladnBXTmd2YmFBeXZZYU83Q2o5a09Qd3Z2bUk3U0NYeTZfZE5FaFF4Skk2bU0tZ3RoWVZUNkgtMUVKRFZyNnF5Z3VjS04zWkNSRnZER0JMbXE2SjQ3QU9kVC1zejhQS21HRXhGMkN0aW1FcWFwaHdNcWFqWG50LV9pdmtMVFNUN2hkODRNdER5RWwyTW5JNGZORTFxODdEbnItS1NpS2RBWUlxaWctdWQ2LVhndVowU0otanpXUHp0eGVQQVZOM1l6MFlzby1oV3JyMlg4eURXYjl0dkt2WjFQNmxjakZDR0dKb1RCZ1FsRnhNSnNNanRBNGNuTnFYS0J4WnItTnpZZGJoZ3J6S1lRdQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgNBVV95cUxPVXVyV1UyaDRVRVJ2TnY2T1NHcTd6aGZjNXZSU1NNNUZ4ZjJteGR6ejcyX0pDS0JVemQ4S3lfT1dFMHZSYlZ0NmotN0lKYzFoVTI4bmZNQ19SWUNrdkR2UlZoS09EQXpadHFLUHIwUXFDVlQzSUNmQUNLVlQ1RnJENU5OdWFnSWhWbElIVjVQTkUxODFvOVVUcUotQzBtSHpZUEY0N2FmU2Etei1nTkhaZktQRGxiNnI0RTN5c01kZ3g2eHRTSldvX1N4ZkpneWJZcXZockp0WG94dkNBazNXdGZuVGptRDdxOHBrdVdITUpmVlJvWmR1SjNoTzlFVWotM0lZaHVBZ2xRb3BCT1FkVVd4dXAySF96ekxSUG91SWNVQ19TX2wxSUc4VlVXb3I0UDNqV2w3ZFFsNWlDc0xNQW9PRno4V2Y5UmhOMnptVXR6Z2J5Qm9mR0tZZWFZU1RVM05QX1ZxRElVZW1GMlZZdFlwMmtJMFFCNE53aW5CbTVnTnR1TV9ERDdZU3k2SjdhaDhQWnF1RWlfWHFKZ2lTZkJOSVJrb1U2alJMZll0ZlZxR2dZRFR1bnk3YUNyZ9IBuANBVV95cUxNbFQ1R282ZzNreHRvNkN4RVJ6azhwOGpmZ0lyOTFhc3RNaE1tSk5sb1dyTlVwTVJZaFRtd1o2X01CUVA0VDJobEQ2WHJ5NDh5MzY5aGJvM25FMDFIYXhiQ21OYkRDY2hnUEZDQVFnNDhjek9zTzNna3ZMaDBCM1JwWGt3SkVjQXVOZmtXbURLZFkxblg5SlJpdmNGd3BteTRkLU9yTU52NlR6UlN2elladnBXTmd2YmFBeXZZYU83Q2o5a09Qd3Z2bUk3U0NYeTZfZE5FaFF4Skk2bU0tZ3RoWVZUNkgtMUVKRFZyNnF5Z3VjS04zWkNSRnZER0JMbXE2SjQ3QU9kVC1zejhQS21HRXhGMkN0aW1FcWFwaHdNcWFqWG50LV9pdmtMVFNUN2hkODRNdER5RWwyTW5JNGZORTFxODdEbnItS1NpS2RBWUlxaWctdWQ2LVhndVowU0otanpXUHp0eGVQQVZOM1l6MFlzby1oV3JyMlg4eURXYjl0dkt2WjFQNmxjakZDR0dKb1RCZ1FsRnhNSnNNanRBNGNuTnFYS0J4WnItTnpZZGJoZ3J6S1lRdQ?oc=5\" target=\"_blank\">بعثة منتخب مصر تطير إلى جوبا لمواجهة جنوب السودان فى تصفيات أفريقيا.. صور</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
+      "date": "Sun, 27 Sep 2026 10:38:00 GMT",
+      "source": "Google News رياضة",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "رياضة",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News رياضة"
       ]
     },
     {
@@ -59,21 +104,6 @@
       "sourceCount": 1,
       "sources": [
         "Sky News عربية"
-      ]
-    },
-    {
-      "title": "مشاركة 23 لاعبًا.. منتخب مصر يختتم تدريباته قبل التوجه لمطار القاهرة - Masrawy",
-      "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxQM05Rd0ExTE85aHFqY3Rud3IxUTB5NTZsVXR1Q3Y0TlBwc2NraEZxNGVyS2c2Wm9lTTJUbkg3WVlScG5HS1lYSzdPVUFOaWhtc1AtMG9XaktOeVFhcHlnXzVxSnh0al94RGFKS0RJYkxYRW1aRHJDa1JSZTNNaFl6TUJlX1U5Vm00WU9RS0REUlhhUHpmSTBJbEJPSG9tUkg2MUpkZlFBRGdTVzlSOVpMaXJpQjFWdTkwVFV3NFRVdjVoSDFramYwOWN3RWUzS2ZaWDY2WGdrS3l1Xzh3S3doT0FNZ0JBX0NUdGxMTFUwNm4xSUtiZkFENGlQYjJ5OXBiektmOEJpNWZSS01RUjZ5RExGRi1CRkdlMjZIQkd1NUVaaHhWSXEzdFZjVE1zbll1d2tiQWwyNUt3aDQySHJsOGJudm4wOHpJQU1wOG5qd0toUjlFckRDaGFvQi1vdXFqMnloME50ZG5kR2wwQ0FYLXFzVXRSSzVrSEZ2clo0d2pjbHN6X0VmME9XeTdWNGc0MDdqQ2JMTlZiR3Q4OGFCM1U3N19lZ2poUG1TSXRRQnhCdFA4cFpTd0kwcVFzQzNITTdHT0hheHFNRU5jT0cwVFE1dTlRZWs2Q0pvSU1LeUVKT3BCTmNUalVrdFNsWDZYSG1vcE1ZeUpGblFUeEVuaGc5YjNqUUNsc2NPN0lkR1BoajVIOEJQQ2tyMWY2Z1B1MGpfamsyU1N0bnZyRmNBSGR30gG3BEFVX3lxTFBUZ2NWazVjM2lfc3JqcmFQbkNWUWFNWllXeW5WQjVZZ3JjYngzMnY0akx3cG52UHozZGZaUUEzcnNzZ0QwZjFQSDdYRlREQWNhd0FKLW1yY1F3MEFJZXpWOWk3Uk9RR3pxY3JmMnFYWW8tZXB1R19oM2VjekVnY0J3N3FPUW1zWGF3SDhObF9JRVIxVWhsYmwtWG9lYnZNc3hvMkNhUmdNZENfakdadkJlZzJLLVc4UFJHWVNkZHNVOVQyN1p5amNFT0JRajlnRFlPMGpLN0Ryc2J4b0FickVMbnpTY0NPUXZWbzlVWHd5WGloLUM4LTRLMERwb3lGOW45XzZMbVJodkVDMncwUXRVVkhBN2QxRGlEUW91RGQ4aWNwZlVFd3EtOGlrTWU4NEQtTUJaQTZKZ1VyMDdGV2VIWERYX01nUGtWY3pHT2JBQmxxYlhOSGZGcGRpbkRBRGM0MmZDbk9CNDdMMnVfbDRvTE5BZlA5bmtWWE5xOWRBQS1uRnc2eFVZYTJFUHFoVUxqMDlncXVUTnRmcmt5Rk14M3lRb0IzOFdZUGNuRnpLNkJwcVRRRlMySS1UUGx1LVZFQjcyQ0dkcEdMbVh4SHFUSDVtSS0tMERFelZtcHh5QXVCY1FYVXBGQVhhWjF1ckhLdmdmam8xVFRKa1g0M0dWTHhObXNJYVFBeUNlMkpQLURsVVlBSHRRZmZrLTR0Rm1PbkZnY2otX2pHUjZZdjB6bE5HRV9ZQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgRBVV95cUxQM05Rd0ExTE85aHFqY3Rud3IxUTB5NTZsVXR1Q3Y0TlBwc2NraEZxNGVyS2c2Wm9lTTJUbkg3WVlScG5HS1lYSzdPVUFOaWhtc1AtMG9XaktOeVFhcHlnXzVxSnh0al94RGFKS0RJYkxYRW1aRHJDa1JSZTNNaFl6TUJlX1U5Vm00WU9RS0REUlhhUHpmSTBJbEJPSG9tUkg2MUpkZlFBRGdTVzlSOVpMaXJpQjFWdTkwVFV3NFRVdjVoSDFramYwOWN3RWUzS2ZaWDY2WGdrS3l1Xzh3S3doT0FNZ0JBX0NUdGxMTFUwNm4xSUtiZkFENGlQYjJ5OXBiektmOEJpNWZSS01RUjZ5RExGRi1CRkdlMjZIQkd1NUVaaHhWSXEzdFZjVE1zbll1d2tiQWwyNUt3aDQySHJsOGJudm4wOHpJQU1wOG5qd0toUjlFckRDaGFvQi1vdXFqMnloME50ZG5kR2wwQ0FYLXFzVXRSSzVrSEZ2clo0d2pjbHN6X0VmME9XeTdWNGc0MDdqQ2JMTlZiR3Q4OGFCM1U3N19lZ2poUG1TSXRRQnhCdFA4cFpTd0kwcVFzQzNITTdHT0hheHFNRU5jT0cwVFE1dTlRZWs2Q0pvSU1LeUVKT3BCTmNUalVrdFNsWDZYSG1vcE1ZeUpGblFUeEVuaGc5YjNqUUNsc2NPN0lkR1BoajVIOEJQQ2tyMWY2Z1B1MGpfamsyU1N0bnZyRmNBSGR30gG3BEFVX3lxTFBUZ2NWazVjM2lfc3JqcmFQbkNWUWFNWllXeW5WQjVZZ3JjYngzMnY0akx3cG52UHozZGZaUUEzcnNzZ0QwZjFQSDdYRlREQWNhd0FKLW1yY1F3MEFJZXpWOWk3Uk9RR3pxY3JmMnFYWW8tZXB1R19oM2VjekVnY0J3N3FPUW1zWGF3SDhObF9JRVIxVWhsYmwtWG9lYnZNc3hvMkNhUmdNZENfakdadkJlZzJLLVc4UFJHWVNkZHNVOVQyN1p5amNFT0JRajlnRFlPMGpLN0Ryc2J4b0FickVMbnpTY0NPUXZWbzlVWHd5WGloLUM4LTRLMERwb3lGOW45XzZMbVJodkVDMncwUXRVVkhBN2QxRGlEUW91RGQ4aWNwZlVFd3EtOGlrTWU4NEQtTUJaQTZKZ1VyMDdGV2VIWERYX01nUGtWY3pHT2JBQmxxYlhOSGZGcGRpbkRBRGM0MmZDbk9CNDdMMnVfbDRvTE5BZlA5bmtWWE5xOWRBQS1uRnc2eFVZYTJFUHFoVUxqMDlncXVUTnRmcmt5Rk14M3lRb0IzOFdZUGNuRnpLNkJwcVRRRlMySS1UUGx1LVZFQjcyQ0dkcEdMbVh4SHFUSDVtSS0tMERFelZtcHh5QXVCY1FYVXBGQVhhWjF1ckhLdmdmam8xVFRKa1g0M0dWTHhObXNJYVFBeUNlMkpQLURsVVlBSHRRZmZrLTR0Rm1PbkZnY2otX2pHUjZZdjB6bE5HRV9ZQQ?oc=5\" target=\"_blank\">مشاركة 23 لاعبًا.. منتخب مصر يختتم تدريباته قبل التوجه لمطار القاهرة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
-      "date": "Sun, 27 Sep 2026 10:16:59 GMT",
-      "source": "Google News رياضة",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "رياضة",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News رياضة"
       ]
     },
     {
@@ -182,9 +212,9 @@
       ]
     },
     {
-      "title": "أصبح لدى الطلاب الآن المزيد من الخيارات المهنية في مجالات الذكاء الاصطناعي والروبوتات والسكك الحديدية فائقة السرعة. - vietnam.vn",
+      "title": "أصبح لدى الطلاب الآن المزيد من الخيارات المهنية في مجالات الذكاء الاصطناعي والروبوتات والسكك الحديدية فائقة السرعة. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDBjNUw3QmFCcE4yWnhPUUtFUlRRS3hRZVNPQ2liMkF4Ym9uMXp4NjRaWUhLRWJGdXlfOEZRYzJZMi1QTXZnYU9XZEFVMlBxOFFVZVE4NmFCLVpqZ0dLMm1GNVBaVjZuN2dZS0xEdjRmWk9HYmJ3ZFExZUZIaWJkRkVXQXhBaGFfSW1hd3ZuSS0wWTBwVVlxcjFxaw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDBjNUw3QmFCcE4yWnhPUUtFUlRRS3hRZVNPQ2liMkF4Ym9uMXp4NjRaWUhLRWJGdXlfOEZRYzJZMi1QTXZnYU9XZEFVMlBxOFFVZVE4NmFCLVpqZ0dLMm1GNVBaVjZuN2dZS0xEdjRmWk9HYmJ3ZFExZUZIaWJkRkVXQXhBaGFfSW1hd3ZuSS0wWTBwVVlxcjFxaw?oc=5\" target=\"_blank\">أصبح لدى الطلاب الآن المزيد من الخيارات المهنية في مجالات الذكاء الاصطناعي والروبوتات والسكك الحديدية فائقة السرعة.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vietnam.vn</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDBjNUw3QmFCcE4yWnhPUUtFUlRRS3hRZVNPQ2liMkF4Ym9uMXp4NjRaWUhLRWJGdXlfOEZRYzJZMi1QTXZnYU9XZEFVMlBxOFFVZVE4NmFCLVpqZ0dLMm1GNVBaVjZuN2dZS0xEdjRmWk9HYmJ3ZFExZUZIaWJkRkVXQXhBaGFfSW1hd3ZuSS0wWTBwVVlxcjFxaw?oc=5\" target=\"_blank\">أصبح لدى الطلاب الآن المزيد من الخيارات المهنية في مجالات الذكاء الاصطناعي والروبوتات والسكك الحديدية فائقة السرعة.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
       "date": "Sun, 27 Sep 2026 09:32:36 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -452,21 +482,6 @@
       ]
     },
     {
-      "title": "إسرائيل تدرس شراء طائرات لرصد الغواصات.. ما الحسابات؟",
-      "link": "https://www.skynewsarabia.com/middle-east/1894636-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%AF%D8%B1%D8%B3-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D9%84%D8%B1%D8%B5%D8%AF-%D8%A7%D9%84%D8%BA%D9%88%D8%A7%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA",
-      "description": "تبحث إسرائيل إمكانية شراء طائرات أميركية مخصصة لمراقبة البحار واكتشاف الغواصات، وسط تغيرات في موازين القوى البحرية بالمنطقة واتساع نطاق اهتمامها العسكري من البحر المتوسط إلى البحر الأحمر.",
-      "date": "Sun, 27 Sep 2026 08:24:43 GMT",
-      "source": "Sky News عربية",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://images.skynewsarabia.com/images/v1/2026/09/27/1894635/95/53/1-1894635.jpeg",
-      "sourceCount": 1,
-      "sources": [
-        "Sky News عربية"
-      ]
-    },
-    {
       "title": "خبير تكنولوجيا المعلومات: تطور وكلاء الذكاء الاصطناعى يفرض تحديات جديدة - اليوم السابع",
       "link": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPTUpiTEIzb2N1aXc0VVczQ3FndHQ1alNHNTNCZDhFRzZMYnBtSkMwaFJNUmZ0UjFBSjRXc3QtTU9RRXdZcGlzSE1PeGY0OGZWZ3FCM3ZnV1R2cU9CaXktdGNnLWJ4cDVmdzVxX0xDMkdneERDRF9UdDZ1ajhZRDhtZjdzZk84b0ltZnFrQVpIY0c2VnM5TndkUjJON25GU1B5OFdaOTAzUjhIeWFLb3NWZFgzdlhlamJCV1FaaWhYVlUtbXJBdWp2MDZwbkxSZXgwM0YwX1hrbUhLT0prNFQyYno1YW03VFZZMGZXa1VPZTI0U0ZVeGN2STBUdHlOYmR1N0ZEMklyTnBPb1Joc0Z1aGo3MHJjX3RxUEMtOENRZGotSGh6QWpnTjMydXpMbjVrdm10OXFla3dKZWdQQng0VTdpTER0WEZRSTdWMzd5SU5JZDBCd3MySmZVT0lfWDRzSURrcFF5UWJybjdmYzgyQm5ZRWIyd0JWSzJyMkhkYWhCVXBsNnIxMkJDNTRYVE5TczdSZEZOT1dwSFJZQlpkalZ2N3hJZ0lGaVFxUE1PRFg0ejdHSlY4N1JjZlVuaUNrWEpaODFzMUR6OVFEVGJ1WHVZWXc1MC10WjFJQ1B1cW85d1NiMWZkcVNselJkdFRlYkhXemhyN3VyZWNzTk51SHY1aERrLU5GeUdjVGMzQlFoVWRKcWtmbEhwTGc3YlVncWJCNkNEVEVab1FQNVNMbXNzM3RZWnh0UWNDZi1LOGg5Vm9MUzFIcVFsdl9Od9IByARBVV95cUxPdElaZzBRbVk5bjlLdTMwUHViUHI3anFQLUEtckl1ZVMxb3Y0b04tU1ZLRFNVc2tRZTZGUmo3UEJTbk5ZX0ZVT0pYeVJTa0dCUjh1QXNpa29JOWRLaTgwVG5oekF5MHN3QmVnWWJLVlc2QW9pelE4LWlUOUpXZVozSHRCMkZBTXNObmdscGZNSHpDMkdMczJjbjdPMWNaSnlrUW1sSlF0bjNzSFczLTBNS2JyT1JOeWE2d0tIZ2NNUlNPdmJkSXlkamV3WHVfck84WFNNdlFtNElOWlk5dFktYU5Kb3piSkpMZFU5TTY3cDZMR0xVb0ZhS0s1NU16SWZNX2lMTk9hU0ZmV3lGSFJzRmhtWG9pckk0X2dqY0J6V2V2Y1JQWGI5TFROczJhSEdfbjFZZHRKVmw2eGV6WFNTWHI0dEVxbWRUQWFRQkZhV3JuX2puQWNlU29LLWN5c3ZCakFFc0JsUDFuLVA1UFIzUUh2VWVscVlHSWRUWlc5Z2M4a2ZhSjV1aXFXc08xanlIaFQ5REtGVHNzYm04LTJvdFMxejVnaks0b3J2cGVEX2RBM0l4MF9UMlRsM05jZEQwWm9WcGtnZlBWMXR6NXlJYXRCWG9HTnhSaUN4TWFlWFRZR2dNREZleFFYQjNfQzlCWk94ZlQyTXpReTZTUHpKcFBxS0NRVzBjTEU0eDF6OHZmZGhySlVtZnZJYndyeFJ1RWtfQzVTSzNqQkpkbUxYRllSMWJZMlU2akxqLS13QUNxRDhxdF95SA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMizgRBVV95cUxPTUpiTEIzb2N1aXc0VVczQ3FndHQ1alNHNTNCZDhFRzZMYnBtSkMwaFJNUmZ0UjFBSjRXc3QtTU9RRXdZcGlzSE1PeGY0OGZWZ3FCM3ZnV1R2cU9CaXktdGNnLWJ4cDVmdzVxX0xDMkdneERDRF9UdDZ1ajhZRDhtZjdzZk84b0ltZnFrQVpIY0c2VnM5TndkUjJON25GU1B5OFdaOTAzUjhIeWFLb3NWZFgzdlhlamJCV1FaaWhYVlUtbXJBdWp2MDZwbkxSZXgwM0YwX1hrbUhLT0prNFQyYno1YW03VFZZMGZXa1VPZTI0U0ZVeGN2STBUdHlOYmR1N0ZEMklyTnBPb1Joc0Z1aGo3MHJjX3RxUEMtOENRZGotSGh6QWpnTjMydXpMbjVrdm10OXFla3dKZWdQQng0VTdpTER0WEZRSTdWMzd5SU5JZDBCd3MySmZVT0lfWDRzSURrcFF5UWJybjdmYzgyQm5ZRWIyd0JWSzJyMkhkYWhCVXBsNnIxMkJDNTRYVE5TczdSZEZOT1dwSFJZQlpkalZ2N3hJZ0lGaVFxUE1PRFg0ejdHSlY4N1JjZlVuaUNrWEpaODFzMUR6OVFEVGJ1WHVZWXc1MC10WjFJQ1B1cW85d1NiMWZkcVNselJkdFRlYkhXemhyN3VyZWNzTk51SHY1aERrLU5GeUdjVGMzQlFoVWRKcWtmbEhwTGc3YlVncWJCNkNEVEVab1FQNVNMbXNzM3RZWnh0UWNDZi1LOGg5Vm9MUzFIcVFsdl9Od9IByARBVV95cUxPdElaZzBRbVk5bjlLdTMwUHViUHI3anFQLUEtckl1ZVMxb3Y0b04tU1ZLRFNVc2tRZTZGUmo3UEJTbk5ZX0ZVT0pYeVJTa0dCUjh1QXNpa29JOWRLaTgwVG5oekF5MHN3QmVnWWJLVlc2QW9pelE4LWlUOUpXZVozSHRCMkZBTXNObmdscGZNSHpDMkdMczJjbjdPMWNaSnlrUW1sSlF0bjNzSFczLTBNS2JyT1JOeWE2d0tIZ2NNUlNPdmJkSXlkamV3WHVfck84WFNNdlFtNElOWlk5dFktYU5Kb3piSkpMZFU5TTY3cDZMR0xVb0ZhS0s1NU16SWZNX2lMTk9hU0ZmV3lGSFJzRmhtWG9pckk0X2dqY0J6V2V2Y1JQWGI5TFROczJhSEdfbjFZZHRKVmw2eGV6WFNTWHI0dEVxbWRUQWFRQkZhV3JuX2puQWNlU29LLWN5c3ZCakFFc0JsUDFuLVA1UFIzUUh2VWVscVlHSWRUWlc5Z2M4a2ZhSjV1aXFXc08xanlIaFQ5REtGVHNzYm04LTJvdFMxejVnaks0b3J2cGVEX2RBM0l4MF9UMlRsM05jZEQwWm9WcGtnZlBWMXR6NXlJYXRCWG9HTnhSaUN4TWFlWFRZR2dNREZleFFYQjNfQzlCWk94ZlQyTXpReTZTUHpKcFBxS0NRVzBjTEU0eDF6OHZmZGhySlVtZnZJYndyeFJ1RWtfQzVTSzNqQkpkbUxYRllSMWJZMlU2akxqLS13QUNxRDhxdF95SA?oc=5\" target=\"_blank\">خبير تكنولوجيا المعلومات: تطور وكلاء الذكاء الاصطناعى يفرض تحديات جديدة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
@@ -497,24 +512,9 @@
       ]
     },
     {
-      "title": "سانت كاترين تستقبل 454 سائحا يزورون سانت كاترين وسط تزايد الحركة السياحية - اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPLTY1OVhQbXZWZ2puMndDS2pIOXJMZldIT0dCaG5HMHJPZ0hCYjBhRXpvQ0Fobjd2UDF2UV9aVlRQbGFmalJiWHlQUmE5M1RJeEJxdU1UeUdKZzFBM00xY0JwZm1OckE1bURRSUVrdi1rN3ZoSU1MYmY4N3lGdksyckc3RDVIOURaVFFueUo5T1E5Y1Z1ajZLczg4VHhMTW9HWTRMUVhTSTY3dFpaelNSZ1F4RnY3aGM0NWpOM2J0anphYVZWbW51dUhfMXV3R1cteVpGSEQxMFhJckpFRUJGUUo4ZUg4eEJaY05fM0FZRXB2dW9KY3hNdHVHZWh2djBHaVRWZF9hb0RtZ1dzZ3RIN3pHRk9RbjBRamdpMnZaNW51V240TjNfYTV5SHJsbGNCT1hLRlpRaUVlZHAwRDI4TzRWYkI0dUZUUUFBT2NDbEpBMFQ5U3prNkVjakM4WUsyTGEzRUpTemNNYTZMZk1GZHBTYnBMcWxqTU1SbmFWcVRxZTN5ZE9CWHdBM2FCRjNfR2stRmttRnVRaUJtX1JZcmc5V3gyRnA2WE1PUzlxOHgxa1dRVkJ2cmo0SlEyMlIxRXdsVWZFVWhQdC02RG5IQ0l30gHMA0FVX3lxTFB0a0RCUUJEeHo4R2dsWkVzbzJueUo3bEhiUG5nWHdiY2IzM2t6eFdTaEZpZEVnRm9Td1liYW9hOU1lTFdqX0FfWGJaTl9obDJKQV9wd0RJaTg0RXJRMGlvcG93bWFsX2JJMzhhNXlES0duN1RUSXZfN2l0M1BVODliV2hpUkJXazhTMURMMzB6eHRzRzhvX0hEcmFjUmxoSHd3azBocmpHd1RhTUpMRDVOeDJySHFGSmdVZzVvOHFITmQ0N0dvN0pmTXBFWF9RNnhxemVrOVdKdnhzM3AzQ1Bqa2xpLWpac1BUNGFKRlRmY1cyR0NPOHVKbWNzV1liZXI1WmJ5ejFCSVI4bzg0UXVjWk45TTBuUE01YWpRT1huWXdsU2Z4VjBsTDhnOXBZWEtGUUtxWUUwN3I5N0hSWld3Znd3R2RLVDVoY1RQUzVWcE53Sm5ha0YyU1JhWV9EUEdJbVhmdkxINVVSUUJIenBYYWJVSjUzOTdzaTlmR3dpekJGNzlNRlA5UXpKcjZ3ajlnd3JrQWxmclFLNGM2UXV4UnVkd1ZhT3FERl94Q0Jwenc5ejhOcXctVi1xaUQtTW52MVRQNlhRdkxlSXk?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gNBVV95cUxPLTY1OVhQbXZWZ2puMndDS2pIOXJMZldIT0dCaG5HMHJPZ0hCYjBhRXpvQ0Fobjd2UDF2UV9aVlRQbGFmalJiWHlQUmE5M1RJeEJxdU1UeUdKZzFBM00xY0JwZm1OckE1bURRSUVrdi1rN3ZoSU1MYmY4N3lGdksyckc3RDVIOURaVFFueUo5T1E5Y1Z1ajZLczg4VHhMTW9HWTRMUVhTSTY3dFpaelNSZ1F4RnY3aGM0NWpOM2J0anphYVZWbW51dUhfMXV3R1cteVpGSEQxMFhJckpFRUJGUUo4ZUg4eEJaY05fM0FZRXB2dW9KY3hNdHVHZWh2djBHaVRWZF9hb0RtZ1dzZ3RIN3pHRk9RbjBRamdpMnZaNW51V240TjNfYTV5SHJsbGNCT1hLRlpRaUVlZHAwRDI4TzRWYkI0dUZUUUFBT2NDbEpBMFQ5U3prNkVjakM4WUsyTGEzRUpTemNNYTZMZk1GZHBTYnBMcWxqTU1SbmFWcVRxZTN5ZE9CWHdBM2FCRjNfR2stRmttRnVRaUJtX1JZcmc5V3gyRnA2WE1PUzlxOHgxa1dRVkJ2cmo0SlEyMlIxRXdsVWZFVWhQdC02RG5IQ0l30gHMA0FVX3lxTFB0a0RCUUJEeHo4R2dsWkVzbzJueUo3bEhiUG5nWHdiY2IzM2t6eFdTaEZpZEVnRm9Td1liYW9hOU1lTFdqX0FfWGJaTl9obDJKQV9wd0RJaTg0RXJRMGlvcG93bWFsX2JJMzhhNXlES0duN1RUSXZfN2l0M1BVODliV2hpUkJXazhTMURMMzB6eHRzRzhvX0hEcmFjUmxoSHd3azBocmpHd1RhTUpMRDVOeDJySHFGSmdVZzVvOHFITmQ0N0dvN0pmTXBFWF9RNnhxemVrOVdKdnhzM3AzQ1Bqa2xpLWpac1BUNGFKRlRmY1cyR0NPOHVKbWNzV1liZXI1WmJ5ejFCSVI4bzg0UXVjWk45TTBuUE01YWpRT1huWXdsU2Z4VjBsTDhnOXBZWEtGUUtxWUUwN3I5N0hSWld3Znd3R2RLVDVoY1RQUzVWcE53Sm5ha0YyU1JhWV9EUEdJbVhmdkxINVVSUUJIenBYYWJVSjUzOTdzaTlmR3dpekJGNzlNRlA5UXpKcjZ3ajlnd3JrQWxmclFLNGM2UXV4UnVkd1ZhT3FERl94Q0Jwenc5ejhOcXctVi1xaUQtTW52MVRQNlhRdkxlSXk?oc=5\" target=\"_blank\">سانت كاترين تستقبل 454 سائحا يزورون سانت كاترين وسط تزايد الحركة السياحية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
-      "date": "Sun, 27 Sep 2026 08:14:00 GMT",
-      "source": "Google News مصر",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "مصر",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News مصر"
-      ]
-    },
-    {
-      "title": "«ماكدونالدز» تضخ 8.5 مليار دولار لتحديث مطاعمها بالذكاء الاصطناعي والتكنولوجيا - fintechgate.net",
+      "title": "«ماكدونالدز» تضخ 8.5 مليار دولار لتحديث مطاعمها بالذكاء الاصطناعي والتكنولوجيا - بوابة التكنولوجيا المالية",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1ETWExbjVnWjVuejhTWmhlOWZZQlAwQ2JYMmczQWpFWl9zQnY0LUQzcUluUFRjRmFNaFFwWFFmQXpqUU9u?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1ETWExbjVnWjVuejhTWmhlOWZZQlAwQ2JYMmczQWpFWl9zQnY0LUQzcUluUFRjRmFNaFFwWFFmQXpqUU9u?oc=5\" target=\"_blank\">«ماكدونالدز» تضخ 8.5 مليار دولار لتحديث مطاعمها بالذكاء الاصطناعي والتكنولوجيا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fintechgate.net</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1ETWExbjVnWjVuejhTWmhlOWZZQlAwQ2JYMmczQWpFWl9zQnY0LUQzcUluUFRjRmFNaFFwWFFmQXpqUU9u?oc=5\" target=\"_blank\">«ماكدونالدز» تضخ 8.5 مليار دولار لتحديث مطاعمها بالذكاء الاصطناعي والتكنولوجيا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة التكنولوجيا المالية</font>",
       "date": "Sun, 27 Sep 2026 08:10:21 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -539,21 +539,6 @@
       "sourceCount": 1,
       "sources": [
         "Google News مصر"
-      ]
-    },
-    {
-      "title": "تغريم \"أبل\" 5.7 مليار دولار بسبب انتهاك براءتي اختراع",
-      "link": "https://www.skynewsarabia.com/technology/1894634-%D8%AA%D8%BA%D8%B1%D9%8A%D9%85-%D8%A3%D8%A8%D9%84-5-7-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D8%A8%D8%B1%D8%A7%D8%A1%D8%AA%D9%8A-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9",
-      "description": "أمرت هيئة محلفين أميركية شركة الإلكترونيات \"أبل\" بدفع أكثر من 5.7 مليار دولار، بسبب \"انتهاكها براءتي اختراع\".",
-      "date": "Sun, 27 Sep 2026 07:54:59 GMT",
-      "source": "Sky News عربية",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://images.skynewsarabia.com/images/v2/2026/07/11/1880276/95/53/1-1880276.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "Sky News عربية"
       ]
     },
     {
@@ -602,9 +587,24 @@
       ]
     },
     {
-      "title": "إبراهيم حسن: محمد عبدالمنعم خارج مباراة مصر وجنوب السودان بسبب أرضية الملعب - نجوم إف إم",
+      "title": "\"الصحة\" المصرية تبحث مع «فيليبس» توطين صناعة الأجهزة الطبية في مصر - معلومات مباشر",
+      "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxNZWVyUEhzUWdLTmRGbXBveHVvWVdJSFphRkJjTFRHd3Ixa1FzRm4wYVFPMmF5SGR0Qjk4bXpJVEZSaWw0dHpYSmVycXNMZ0Q5ZF9PT2dnbVNMVVZaOHZSVEVSWFNBZTI3SF9FRHJjUjVGazFYTjQ0aGdjNmlXUFgxQzA5RVhxQjU3ajdMOFVpNXhvWHZyX1YwSlJ6TFBEYW52LTdYbTV0ZmJkaHJfaEZYMDRWWG9MbjYtUWJFbnQ0VGlzVy1Zb1Z4RGQtWmg3clFpUXRtQnBIakxrNy1oZHpzX3M4WHNNeFgzQy1xWUNsd2VyWnJIaFNhanllU3dyRXlKWFV3VGdsVmN2djNaamM5N0xZLUc5YUlfUkZSenpHOG5aY2o4em05Sms0NHhUSzhlYlR3cW9qdEtNdGFvaFZ2Z2VoSEo3WXkyaTVxNHd5ZFo0em9EWi13UHl3WkFHOUlCSjNEY1FMR1ZDX3dSUTFHMmRCRGpxQVpMTEhUbVNkS0FVSlBoUldIYWpXQmNHbGZjclFRMFd1YU1kNnllcW04Q0pZUWJnckpwZXVYNWxJanBVaFIxc0pGLXRIaVNkMjhrNUFzSFNTODBvXy1ING5IeTBOaE1MU3pNVDZDdUZtX1dLX0o2bllkZ01VNUZUVTUzSXdBWVhtVlJrMGFOTmVRbg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigARBVV95cUxNZWVyUEhzUWdLTmRGbXBveHVvWVdJSFphRkJjTFRHd3Ixa1FzRm4wYVFPMmF5SGR0Qjk4bXpJVEZSaWw0dHpYSmVycXNMZ0Q5ZF9PT2dnbVNMVVZaOHZSVEVSWFNBZTI3SF9FRHJjUjVGazFYTjQ0aGdjNmlXUFgxQzA5RVhxQjU3ajdMOFVpNXhvWHZyX1YwSlJ6TFBEYW52LTdYbTV0ZmJkaHJfaEZYMDRWWG9MbjYtUWJFbnQ0VGlzVy1Zb1Z4RGQtWmg3clFpUXRtQnBIakxrNy1oZHpzX3M4WHNNeFgzQy1xWUNsd2VyWnJIaFNhanllU3dyRXlKWFV3VGdsVmN2djNaamM5N0xZLUc5YUlfUkZSenpHOG5aY2o4em05Sms0NHhUSzhlYlR3cW9qdEtNdGFvaFZ2Z2VoSEo3WXkyaTVxNHd5ZFo0em9EWi13UHl3WkFHOUlCSjNEY1FMR1ZDX3dSUTFHMmRCRGpxQVpMTEhUbVNkS0FVSlBoUldIYWpXQmNHbGZjclFRMFd1YU1kNnllcW04Q0pZUWJnckpwZXVYNWxJanBVaFIxc0pGLXRIaVNkMjhrNUFzSFNTODBvXy1ING5IeTBOaE1MU3pNVDZDdUZtX1dLX0o2bllkZ01VNUZUVTUzSXdBWVhtVlJrMGFOTmVRbg?oc=5\" target=\"_blank\">\"الصحة\" المصرية تبحث مع «فيليبس» توطين صناعة الأجهزة الطبية في مصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">معلومات مباشر</font>",
+      "date": "Sun, 27 Sep 2026 07:33:53 GMT",
+      "source": "Google News مصر",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "مصر",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News مصر"
+      ]
+    },
+    {
+      "title": "إبراهيم حسن: محمد عبدالمنعم خارج مباراة مصر وجنوب السودان بسبب أرضية الملعب - nogoumfm.net",
       "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQVW5HMUVRRFFYVnY3alRleW5kdDJnTF9QWE5pYkVXX1ctYjRhZFZNTUU3bWdzM18tS3prUTJ2SFh1cUl4ak5wTGlWZTMtT0FCR1hUcS0ySUFJS3h6MG4wTFlDOUZzdDhERTRSaWJDdmRsb2xpNTk0b1JGSWlEYmF1VHJVbkdSdDJfcExzQVZpN3ZBaGNzdnFiRnc2ejlET3Jqa2Q1TXVJajFNODFwb1oyNDdwT0VZWDRka1hUUFkxX2U1aWNfS0tHZlBWbFpOSXRZS3VYb1FuVW9RZGlhcVZIcjRVTXRlYkFKTVpDLTRLY2VuQWxUYVNUUlVsQWEwejB2eTctaTdrV2pVM0VMSGZiSmIzcTV4ZEdya0wxcm9DdGgteEZzSUozMjI5WkdWQThMMkhNTWpMdHpYczk1dFEzOTlUUWtnY1BzMThKWmxFYjQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AJBVV95cUxQVW5HMUVRRFFYVnY3alRleW5kdDJnTF9QWE5pYkVXX1ctYjRhZFZNTUU3bWdzM18tS3prUTJ2SFh1cUl4ak5wTGlWZTMtT0FCR1hUcS0ySUFJS3h6MG4wTFlDOUZzdDhERTRSaWJDdmRsb2xpNTk0b1JGSWlEYmF1VHJVbkdSdDJfcExzQVZpN3ZBaGNzdnFiRnc2ejlET3Jqa2Q1TXVJajFNODFwb1oyNDdwT0VZWDRka1hUUFkxX2U1aWNfS0tHZlBWbFpOSXRZS3VYb1FuVW9RZGlhcVZIcjRVTXRlYkFKTVpDLTRLY2VuQWxUYVNUUlVsQWEwejB2eTctaTdrV2pVM0VMSGZiSmIzcTV4ZEdya0wxcm9DdGgteEZzSUozMjI5WkdWQThMMkhNTWpMdHpYczk1dFEzOTlUUWtnY1BzMThKWmxFYjQ?oc=5\" target=\"_blank\">إبراهيم حسن: محمد عبدالمنعم خارج مباراة مصر وجنوب السودان بسبب أرضية الملعب</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">نجوم إف إم</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AJBVV95cUxQVW5HMUVRRFFYVnY3alRleW5kdDJnTF9QWE5pYkVXX1ctYjRhZFZNTUU3bWdzM18tS3prUTJ2SFh1cUl4ak5wTGlWZTMtT0FCR1hUcS0ySUFJS3h6MG4wTFlDOUZzdDhERTRSaWJDdmRsb2xpNTk0b1JGSWlEYmF1VHJVbkdSdDJfcExzQVZpN3ZBaGNzdnFiRnc2ejlET3Jqa2Q1TXVJajFNODFwb1oyNDdwT0VZWDRka1hUUFkxX2U1aWNfS0tHZlBWbFpOSXRZS3VYb1FuVW9RZGlhcVZIcjRVTXRlYkFKTVpDLTRLY2VuQWxUYVNUUlVsQWEwejB2eTctaTdrV2pVM0VMSGZiSmIzcTV4ZEdya0wxcm9DdGgteEZzSUozMjI5WkdWQThMMkhNTWpMdHpYczk1dFEzOTlUUWtnY1BzMThKWmxFYjQ?oc=5\" target=\"_blank\">إبراهيم حسن: محمد عبدالمنعم خارج مباراة مصر وجنوب السودان بسبب أرضية الملعب</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nogoumfm.net</font>",
       "date": "Sun, 27 Sep 2026 07:23:07 GMT",
       "source": "Google News رياضة",
       "sourceScore": 6,
@@ -636,6 +636,21 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10RnFOQ20tanF1T3hCRTB1TmFpc3lvdkpzOFZ0b0hEaDJoR3FsM0xkSVB3WUphNkRBMnJBZUd3MUtvcUN6cU1VWE52LUpueFJBSnQtYVdB?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE10RnFOQ20tanF1T3hCRTB1TmFpc3lvdkpzOFZ0b0hEaDJoR3FsM0xkSVB3WUphNkRBMnJBZUd3MUtvcUN6cU1VWE52LUpueFJBSnQtYVdB?oc=5\" target=\"_blank\">جامعة العاصمة تنظم ورش تدريبية في أساسيات البرمجة ومفاهيم الذكاء الاصطناعي| صور</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة الأهرام</font>",
       "date": "Sun, 27 Sep 2026 06:59:00 GMT",
+      "source": "Google News تكنولوجيا",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "تكنولوجيا",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News تكنولوجيا"
+      ]
+    },
+    {
+      "title": "اليوم العالمي للسياحة يسلط الضوء على الذكاء الاصطناعي.. ومصر تواصل تطوير قطاعها السياحي - بوابة دار المعارف",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tc05vZXVpeURBU09zN3VXNkJua185a18zZi1GWXRqbHZVSkdyenhybWJBRWRteEhOVF82bDBmSU1pS2pYU2NMZmk2aExULUk3UXc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tc05vZXVpeURBU09zN3VXNkJua185a18zZi1GWXRqbHZVSkdyenhybWJBRWRteEhOVF82bDBmSU1pS2pYU2NMZmk2aExULUk3UXc?oc=5\" target=\"_blank\">اليوم العالمي للسياحة يسلط الضوء على الذكاء الاصطناعي.. ومصر تواصل تطوير قطاعها السياحي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة دار المعارف</font>",
+      "date": "Sun, 27 Sep 2026 06:57:45 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
       "sourceType": "aggregator",
@@ -692,9 +707,9 @@
       ]
     },
     {
-      "title": "البنية التحتية أمام اختبار الذكاء الاصطناعي - argaam.com",
+      "title": "البنية التحتية أمام اختبار الذكاء الاصطناعي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kNmVFUjNrZzRMYl9lejJIMExPTl9WOGFfcEo2aXdnZndmQUdPNjBUMUplSG5pckJmZEZTTEt4SFgyQTBHY2cxNVdDclM2ZTkxcEdEOGlUdm9hNzNJQmVRRldsb2pXeVFySFE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5kNmVFUjNrZzRMYl9lejJIMExPTl9WOGFfcEo2aXdnZndmQUdPNjBUMUplSG5pckJmZEZTTEt4SFgyQTBHY2cxNVdDclM2ZTkxcEdEOGlUdm9hNzNJQmVRRldsb2pXeVFySFE?oc=5\" target=\"_blank\">البنية التحتية أمام اختبار الذكاء الاصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">argaam.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5kNmVFUjNrZzRMYl9lejJIMExPTl9WOGFfcEo2aXdnZndmQUdPNjBUMUplSG5pckJmZEZTTEt4SFgyQTBHY2cxNVdDclM2ZTkxcEdEOGlUdm9hNzNJQmVRRldsb2pXeVFySFE?oc=5\" target=\"_blank\">البنية التحتية أمام اختبار الذكاء الاصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي</font>",
       "date": "Sun, 27 Sep 2026 06:37:35 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -752,21 +767,6 @@
       ]
     },
     {
-      "title": "\"غوغل\" تختبر شراء منتجات \"Flipkart\" مباشرة عبر جيميناي وAI Mode - العربية",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQUG1BZ0FVbWJpelpNcVY4NkdtZnNxS2dtdjlySGVvN19KUk12WEVKNjhXZGs2a0dQcUMzcGJ5Y1pUcU1vYldSbjM2SldIQ3ZQVllsaG4tdUNWZlF6dksxUXhKS3RnekFvSzJFd01ySGxNNHRacm52dF9sNWZZOXBseHZEOW95aDNRVnNIdFg3ajNZZ0puelQ4VDBSTi1xVjBzclJ4UWRCbTJrR2ZuOVF3VW5pT1I5VWc1TzNEcVduek43RmUySmtmZWxCbFJlMGJtaXFSTmlwd0FpVGdNWE95T1dQekNPQkpoaXpHRFEwQVJIb1pZU0g3cTFWLUtuTXkwdXN0cXF2WXFvbnhDVWxfZXhQdk5lYkx0V2VUcHZfdHJKTkM4N2hFNTE0bXV2X09CZ3VEMk02UVdNLUdHXzNCdzRPckZPdnFzcHN0RHBMWFQxN2l5cU1kdXRHY2EyT3pSQUQ3azJ6T1FzQjloanVJQ19CdEFtVUZCSWU3Y1ljSmItc2xsVnFZQWs5SzdPQjBZT2N5NFkydjItb0VfRTlSZ9IBpgNBVV95cUxPdHNvLWlpYXctaXR2WVpaLVNQVTBLbmZBTDNHcnIyTnV6RjQ0RUN2ZjV4cG5jejUwaDVNcWNCQUNtM3FNSXVkWjBQX1dCUGhWMml4UjBtTDBzLWI4NXo3bVJLeU1WT1pkNGFmWWcyNFJWNFpWb0o0RnROQlBZTEwyR1NBbkV3bExXSkpxU3Zsc3RONGJ6Tl9WblRKTDU4b215T1NSSENLZzVwckVoaVZveV9MaEdGdlRTcTNEY1BlNXlOY2hibC1wRGlTYmpwdUJHdkFDcDNPRXFtekN2Tm5mQnMzbU5xcDdFcGFVUE56OGo0cWM4OUs0eERfMmxSdTgxbi1vNGFKa1V1OXhpVDBFd1VEdmxYSzVaYUdQbXd5Y29lU2UzWWd2Q3VYU3AzMkpEUzk5TmxROHRnMlBHQjA4QTBWRWNiQm56dktLcURTY0dRQnViR1JXZ216NVNyX19tQ1d3WEZiQlpIQW9MUWRoWFNHWDJRV1FITm1yLTB0REpLcmRuLU1Ud21TYU5SSmlaX0dnZ2VoSkNOSXVKVHBwMldwSDJGUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxQUG1BZ0FVbWJpelpNcVY4NkdtZnNxS2dtdjlySGVvN19KUk12WEVKNjhXZGs2a0dQcUMzcGJ5Y1pUcU1vYldSbjM2SldIQ3ZQVllsaG4tdUNWZlF6dksxUXhKS3RnekFvSzJFd01ySGxNNHRacm52dF9sNWZZOXBseHZEOW95aDNRVnNIdFg3ajNZZ0puelQ4VDBSTi1xVjBzclJ4UWRCbTJrR2ZuOVF3VW5pT1I5VWc1TzNEcVduek43RmUySmtmZWxCbFJlMGJtaXFSTmlwd0FpVGdNWE95T1dQekNPQkpoaXpHRFEwQVJIb1pZU0g3cTFWLUtuTXkwdXN0cXF2WXFvbnhDVWxfZXhQdk5lYkx0V2VUcHZfdHJKTkM4N2hFNTE0bXV2X09CZ3VEMk02UVdNLUdHXzNCdzRPckZPdnFzcHN0RHBMWFQxN2l5cU1kdXRHY2EyT3pSQUQ3azJ6T1FzQjloanVJQ19CdEFtVUZCSWU3Y1ljSmItc2xsVnFZQWs5SzdPQjBZT2N5NFkydjItb0VfRTlSZ9IBpgNBVV95cUxPdHNvLWlpYXctaXR2WVpaLVNQVTBLbmZBTDNHcnIyTnV6RjQ0RUN2ZjV4cG5jejUwaDVNcWNCQUNtM3FNSXVkWjBQX1dCUGhWMml4UjBtTDBzLWI4NXo3bVJLeU1WT1pkNGFmWWcyNFJWNFpWb0o0RnROQlBZTEwyR1NBbkV3bExXSkpxU3Zsc3RONGJ6Tl9WblRKTDU4b215T1NSSENLZzVwckVoaVZveV9MaEdGdlRTcTNEY1BlNXlOY2hibC1wRGlTYmpwdUJHdkFDcDNPRXFtekN2Tm5mQnMzbU5xcDdFcGFVUE56OGo0cWM4OUs0eERfMmxSdTgxbi1vNGFKa1V1OXhpVDBFd1VEdmxYSzVaYUdQbXd5Y29lU2UzWWd2Q3VYU3AzMkpEUzk5TmxROHRnMlBHQjA4QTBWRWNiQm56dktLcURTY0dRQnViR1JXZ216NVNyX19tQ1d3WEZiQlpIQW9MUWRoWFNHWDJRV1FITm1yLTB0REpLcmRuLU1Ud21TYU5SSmlaX0dnZ2VoSkNOSXVKVHBwMldwSDJGUQ?oc=5\" target=\"_blank\">\"غوغل\" تختبر شراء منتجات \"Flipkart\" مباشرة عبر جيميناي وAI Mode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربية</font>",
-      "date": "Sun, 27 Sep 2026 06:21:00 GMT",
-      "source": "Google News تكنولوجيا",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "تكنولوجيا",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News تكنولوجيا"
-      ]
-    },
-    {
       "title": "The ecstasy of buying our first home was short-lived after we found 150 faults",
       "link": "https://www.bbc.co.uk/news/articles/c2dyxg0zkpko?at_medium=RSS&at_campaign=rss",
       "description": "Getting the keys to a new home felt like a dream come true, until this couple found 150 faults.",
@@ -797,9 +797,9 @@
       ]
     },
     {
-      "title": "أسامه فيصل ينضم لمنتخب مصر استعدادا لمواجهة السودان - alnaharegypt.com",
+      "title": "أسامه فيصل ينضم لمنتخب مصر استعدادا لمواجهة السودان - جريدة النهار المصرية",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KeWdYcWE4ZEI0b2lDeDNGaElPZjFBUHJDd2J4S1NzOVFab1dIM0R1TlpjZ2c3UmdTOWIxZy1seS1LRy1iRXZIZl9rSFA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KeWdYcWE4ZEI0b2lDeDNGaElPZjFBUHJDd2J4S1NzOVFab1dIM0R1TlpjZ2c3UmdTOWIxZy1seS1LRy1iRXZIZl9rSFA?oc=5\" target=\"_blank\">أسامه فيصل ينضم لمنتخب مصر استعدادا لمواجهة السودان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alnaharegypt.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KeWdYcWE4ZEI0b2lDeDNGaElPZjFBUHJDd2J4S1NzOVFab1dIM0R1TlpjZ2c3UmdTOWIxZy1seS1LRy1iRXZIZl9rSFA?oc=5\" target=\"_blank\">أسامه فيصل ينضم لمنتخب مصر استعدادا لمواجهة السودان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة النهار المصرية</font>",
       "date": "Sun, 27 Sep 2026 03:13:50 GMT",
       "source": "Google News رياضة",
       "sourceScore": 6,
@@ -857,9 +857,9 @@
       ]
     },
     {
-      "title": "وزير الرياضة يهنئ سارة حسني بعد إنجازها التاريخي في كأس العالم لسلاح الشيش - بوابة الشروق",
+      "title": "وزير الرياضة يهنئ سارة حسني بعد إنجازها التاريخي في كأس العالم لسلاح الشيش - shorouknews.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYlVkaEVxaVZVajRzWG43UzdfNEtSTml1VzBlQzNYVjh5SEw1Zk9PRlc0cFI4NWR2Wmo0bFo2eDBjbWZ4QnU2SVFnbUZXdDRNUlM0YV94T0NPcFpQU1ZQUzVOYVNxWk9CblRKSU11bHJOSDNXSVl5dWVCbjJTejZFalBySVYtSHZvXzdaRWp0UGVrZ3otanJYdGlseWNvQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYlVkaEVxaVZVajRzWG43UzdfNEtSTml1VzBlQzNYVjh5SEw1Zk9PRlc0cFI4NWR2Wmo0bFo2eDBjbWZ4QnU2SVFnbUZXdDRNUlM0YV94T0NPcFpQU1ZQUzVOYVNxWk9CblRKSU11bHJOSDNXSVl5dWVCbjJTejZFalBySVYtSHZvXzdaRWp0UGVrZ3otanJYdGlseWNvQQ?oc=5\" target=\"_blank\">وزير الرياضة يهنئ سارة حسني بعد إنجازها التاريخي في كأس العالم لسلاح الشيش</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة الشروق</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYlVkaEVxaVZVajRzWG43UzdfNEtSTml1VzBlQzNYVjh5SEw1Zk9PRlc0cFI4NWR2Wmo0bFo2eDBjbWZ4QnU2SVFnbUZXdDRNUlM0YV94T0NPcFpQU1ZQUzVOYVNxWk9CblRKSU11bHJOSDNXSVl5dWVCbjJTejZFalBySVYtSHZvXzdaRWp0UGVrZ3otanJYdGlseWNvQQ?oc=5\" target=\"_blank\">وزير الرياضة يهنئ سارة حسني بعد إنجازها التاريخي في كأس العالم لسلاح الشيش</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shorouknews.com</font>",
       "date": "Sat, 26 Sep 2026 18:50:47 GMT",
       "source": "Google News رياضة",
       "sourceScore": 6,
@@ -1143,9 +1143,9 @@
       ]
     },
     {
-      "title": "حنان السويدي.. مسيرة إماراتية من طب الأسرة إلى الفضاء - albayan.ae",
+      "title": "حنان السويدي.. مسيرة إماراتية من طب الأسرة إلى الفضاء - البيان",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1bjFNaUUtT1BxOEtDRm51YklaYWFvNURsaU9aaW9FY3ROUTZkbXRGYVQzd0ozUjBWMXdzMGgxUlpERkEwaWNDaHVLUkkyU05DSjVtZmI3NktDZGvSAWBBVV95cUxQNE1mWHhrbE80ak11UmptQlVNZVlaMkhXOERSMlhBOEJsZG44TVZQbUc1REtjbFRFYnVKQ3U3dmRXNE05RExkbXREMWRlcVY0LVdzckxpUnpoXzEtaWJDM3o?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1bjFNaUUtT1BxOEtDRm51YklaYWFvNURsaU9aaW9FY3ROUTZkbXRGYVQzd0ozUjBWMXdzMGgxUlpERkEwaWNDaHVLUkkyU05DSjVtZmI3NktDZGvSAWBBVV95cUxQNE1mWHhrbE80ak11UmptQlVNZVlaMkhXOERSMlhBOEJsZG44TVZQbUc1REtjbFRFYnVKQ3U3dmRXNE05RExkbXREMWRlcVY0LVdzckxpUnpoXzEtaWJDM3o?oc=5\" target=\"_blank\">حنان السويدي.. مسيرة إماراتية من طب الأسرة إلى الفضاء</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">albayan.ae</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1bjFNaUUtT1BxOEtDRm51YklaYWFvNURsaU9aaW9FY3ROUTZkbXRGYVQzd0ozUjBWMXdzMGgxUlpERkEwaWNDaHVLUkkyU05DSjVtZmI3NktDZGvSAWBBVV95cUxQNE1mWHhrbE80ak11UmptQlVNZVlaMkhXOERSMlhBOEJsZG44TVZQbUc1REtjbFRFYnVKQ3U3dmRXNE05RExkbXREMWRlcVY0LVdzckxpUnpoXzEtaWJDM3o?oc=5\" target=\"_blank\">حنان السويدي.. مسيرة إماراتية من طب الأسرة إلى الفضاء</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">البيان</font>",
       "date": "Sat, 29 Aug 2026 07:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
@@ -1233,9 +1233,9 @@
       ]
     },
     {
-      "title": "«بدائل الطب والهندسة».. خريطة تخصصات المستقبل في تنسيق 2026 - الوطن",
+      "title": "«بدائل الطب والهندسة».. خريطة تخصصات المستقبل في تنسيق 2026 - elwatannews.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UNEw4WjM4QldZSTd3ZW82eERhVlFxYlY1Tmk3RnNrYmNoQzhEblhKUmlRbVFLT2s4LXgxcElueWdERFhQamoyaHh6MTVTSHhjSjEzNmwwR09nM3pq?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UNEw4WjM4QldZSTd3ZW82eERhVlFxYlY1Tmk3RnNrYmNoQzhEblhKUmlRbVFLT2s4LXgxcElueWdERFhQamoyaHh6MTVTSHhjSjEzNmwwR09nM3pq?oc=5\" target=\"_blank\">«بدائل الطب والهندسة».. خريطة تخصصات المستقبل في تنسيق 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الوطن</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UNEw4WjM4QldZSTd3ZW82eERhVlFxYlY1Tmk3RnNrYmNoQzhEblhKUmlRbVFLT2s4LXgxcElueWdERFhQamoyaHh6MTVTSHhjSjEzNmwwR09nM3pq?oc=5\" target=\"_blank\">«بدائل الطب والهندسة».. خريطة تخصصات المستقبل في تنسيق 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elwatannews.com</font>",
       "date": "Sun, 02 Aug 2026 07:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
@@ -1248,9 +1248,9 @@
       ]
     },
     {
-      "title": "مش بس طب وهندسة.. كليات لها مستقبل واعد في سوق العمل - الوطن",
+      "title": "مش بس طب وهندسة.. كليات لها مستقبل واعد في سوق العمل - elwatannews.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSkNMbm1yMWxpYktGSGJPNXE1c20zeTB2LWdNeXl0QS1fT2Zxd3pLUkdNamJYeTVuUzJhUjZXNTF6V3BsSHotMXhIV0hMSUYwRU9IRm1jd3h0TjJY?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSkNMbm1yMWxpYktGSGJPNXE1c20zeTB2LWdNeXl0QS1fT2Zxd3pLUkdNamJYeTVuUzJhUjZXNTF6V3BsSHotMXhIV0hMSUYwRU9IRm1jd3h0TjJY?oc=5\" target=\"_blank\">مش بس طب وهندسة.. كليات لها مستقبل واعد في سوق العمل</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الوطن</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSkNMbm1yMWxpYktGSGJPNXE1c20zeTB2LWdNeXl0QS1fT2Zxd3pLUkdNamJYeTVuUzJhUjZXNTF6V3BsSHotMXhIV0hMSUYwRU9IRm1jd3h0TjJY?oc=5\" target=\"_blank\">مش بس طب وهندسة.. كليات لها مستقبل واعد في سوق العمل</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elwatannews.com</font>",
       "date": "Sat, 01 Aug 2026 07:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
@@ -1308,9 +1308,9 @@
       ]
     },
     {
-      "title": "دراسة للتخصصي في طب الفضاء تصنّف ضمن أعلى 5% عالميًّا - أخبار 24",
+      "title": "دراسة للتخصصي في طب الفضاء تصنّف ضمن أعلى 5% عالميًّا - akhbaar24.com",
       "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNTzZKMTJXRTRwdVFXZVY4MVlkQlhaYktyYjRxNEVKWmJ3eVFoN20xWm91TDY3SW5WbzlKX3M0OWRrYkFlaDM3czBpOUY3S1NwZm5UNHJRZzlJVEtnN0JTcmRPMUdaaGNpSEF1a0NJa21xb21JbWN2QWNOZll1Y3h3VGZkeEszNHV1V1IxVFhMQVd4ZUhRRVlDZ2U1bmdKblo2QVZiWTB0dXFTMnVudzMxaVNMelJfZG5vanVaSUhEaFg4OHVvdHFSUTJ4YzNKaEZaU0tVdWlnY2FKeERLNWkwVmUyTlU0RnhWLUVMNTdfcHlwUXlfaVhhNWU5WExic3RYMldoem9RNXZEVVJZNE5reTc2Vml4dW12UHp5bzVtWDF5QkltcnpJaUJzc3RFLXlNS0h6WlFxa3M0bEZ5QmNrazYzRnhseTNnWmZEZUx6VFFYTEVMdmIta3JJX3BsTm5wMDZtVGI0OFRpQlNhX2M0d01Hbm1CaFg5UTJINzdVN2RUZHdDZHN3VTE5ZEdyQjRma3d6Yi12SWRsSlc0SmtDQkFKYTBwV0YwMF9RSEpLX3ZERWVPUmdj?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxNTzZKMTJXRTRwdVFXZVY4MVlkQlhaYktyYjRxNEVKWmJ3eVFoN20xWm91TDY3SW5WbzlKX3M0OWRrYkFlaDM3czBpOUY3S1NwZm5UNHJRZzlJVEtnN0JTcmRPMUdaaGNpSEF1a0NJa21xb21JbWN2QWNOZll1Y3h3VGZkeEszNHV1V1IxVFhMQVd4ZUhRRVlDZ2U1bmdKblo2QVZiWTB0dXFTMnVudzMxaVNMelJfZG5vanVaSUhEaFg4OHVvdHFSUTJ4YzNKaEZaU0tVdWlnY2FKeERLNWkwVmUyTlU0RnhWLUVMNTdfcHlwUXlfaVhhNWU5WExic3RYMldoem9RNXZEVVJZNE5reTc2Vml4dW12UHp5bzVtWDF5QkltcnpJaUJzc3RFLXlNS0h6WlFxa3M0bEZ5QmNrazYzRnhseTNnWmZEZUx6VFFYTEVMdmIta3JJX3BsTm5wMDZtVGI0OFRpQlNhX2M0d01Hbm1CaFg5UTJINzdVN2RUZHdDZHN3VTE5ZEdyQjRma3d6Yi12SWRsSlc0SmtDQkFKYTBwV0YwMF9RSEpLX3ZERWVPUmdj?oc=5\" target=\"_blank\">دراسة للتخصصي في طب الفضاء تصنّف ضمن أعلى 5% عالميًّا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">أخبار 24</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxNTzZKMTJXRTRwdVFXZVY4MVlkQlhaYktyYjRxNEVKWmJ3eVFoN20xWm91TDY3SW5WbzlKX3M0OWRrYkFlaDM3czBpOUY3S1NwZm5UNHJRZzlJVEtnN0JTcmRPMUdaaGNpSEF1a0NJa21xb21JbWN2QWNOZll1Y3h3VGZkeEszNHV1V1IxVFhMQVd4ZUhRRVlDZ2U1bmdKblo2QVZiWTB0dXFTMnVudzMxaVNMelJfZG5vanVaSUhEaFg4OHVvdHFSUTJ4YzNKaEZaU0tVdWlnY2FKeERLNWkwVmUyTlU0RnhWLUVMNTdfcHlwUXlfaVhhNWU5WExic3RYMldoem9RNXZEVVJZNE5reTc2Vml4dW12UHp5bzVtWDF5QkltcnpJaUJzc3RFLXlNS0h6WlFxa3M0bEZ5QmNrazYzRnhseTNnWmZEZUx6VFFYTEVMdmIta3JJX3BsTm5wMDZtVGI0OFRpQlNhX2M0d01Hbm1CaFg5UTJINzdVN2RUZHdDZHN3VTE5ZEdyQjRma3d6Yi12SWRsSlc0SmtDQkFKYTBwV0YwMF9RSEpLX3ZERWVPUmdj?oc=5\" target=\"_blank\">دراسة للتخصصي في طب الفضاء تصنّف ضمن أعلى 5% عالميًّا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">akhbaar24.com</font>",
       "date": "Sun, 14 Jun 2026 07:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
@@ -1323,9 +1323,9 @@
       ]
     },
     {
-      "title": "طفرة علمية روسية تقود العالم بابتكارات نوعية في الفضاء والطب - Jo24.net",
+      "title": "طفرة علمية روسية تقود العالم بابتكارات نوعية في الفضاء والطب - jo24.net",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1BUTE5OU9QVEYxelRtM2poQUZSREE4eC10eXFuLTg0QTctcmZqR09mRUdYRGprd3l6WnV4WHhfUl9JX3J2VVE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1BUTE5OU9QVEYxelRtM2poQUZSREE4eC10eXFuLTg0QTctcmZqR09mRUdYRGprd3l6WnV4WHhfUl9JX3J2VVE?oc=5\" target=\"_blank\">طفرة علمية روسية تقود العالم بابتكارات نوعية في الفضاء والطب</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jo24.net</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1BUTE5OU9QVEYxelRtM2poQUZSREE4eC10eXFuLTg0QTctcmZqR09mRUdYRGprd3l6WnV4WHhfUl9JX3J2VVE?oc=5\" target=\"_blank\">طفرة علمية روسية تقود العالم بابتكارات نوعية في الفضاء والطب</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jo24.net</font>",
       "date": "Sat, 13 Jun 2026 07:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
