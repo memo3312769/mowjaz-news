@@ -665,18 +665,9 @@ function getList(){
 
     })
     .sort((a,b) => {
-
-      const scoreA = importanceScore(a);
-      const scoreB = importanceScore(b);
-
-      if(scoreA !== scoreB){
-        return scoreB - scoreA;
-      }
-
-      return new Date(b.date || 0) -
-             new Date(a.date || 0);
-
-    });
+  return new Date(b.date || 0) -
+         new Date(a.date || 0);
+});
 
 }
   function updateSourceFilter(){
