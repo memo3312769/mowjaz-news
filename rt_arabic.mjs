@@ -30,7 +30,7 @@ if (fs.existsSync(newsFile)) {
     if (saved && Array.isArray(saved.items)) {
       newsData = saved;
     }
-  } catch (error) {
+  } catch {
     console.log(
       "تعذر قراءة news.json، سيتم استخدام ملف جديد"
     );
@@ -52,17 +52,21 @@ if (!response.ok) {
 const xml = await response.text();
 
 // ===============================
-// استخراج العناصر
+// استخراج أخبار RT
 // ===============================
 
 const items = [
-  ...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)
+  ...xml.matchAll(
+    /<item>([\s\S]*?)<\/item>/gi
+  )
 ]
   .slice(0, 10)
   .map(match => {
+
     const item = match[1];
 
     const get = tag => {
+
       const regex = new RegExp(
         `<${tag}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${tag}>`,
         "i"
@@ -75,7 +79,10 @@ const items = [
       }
 
       return result[1]
-        .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/gi, "$1")
+        .replace(
+          /<!\[CDATA\[([\s\S]*?)\]\]>/gi,
+          "$1"
+        )
         .replace(/<[^>]+>/g, "")
         .trim();
     };
@@ -93,8 +100,13 @@ const items = [
         ? new Date(pubDate).toISOString()
         : new Date().toISOString()
     };
+
   })
-  .filter(item => item.title && item.link);
+  .filter(
+    item =>
+      item.title &&
+      item.link
+  );
 
 // ===============================
 // معالجة الأخبار
@@ -105,48 +117,89 @@ let sent = 0;
 
 for (const item of items) {
 
-  // منع تكرار الخبر داخل news.json
-  const exists = newsData.items.some(existing =>
-    existing.link === item.link ||
-    existing.title === item.title
-  );
+  // =============================
+  // منع التكرار
+  // =============================
+
+  const exists =
+    newsData.items.some(existing =>
+      existing.link === item.link ||
+      existing.title === item.title
+    );
 
   if (exists) {
+
     console.log(
       `خبر موجود بالفعل: ${item.title}`
     );
+
     continue;
   }
 
   // =============================
-  // إنشاء خبر جديد
+  // إنشاء الخبر للمنصة
   // =============================
 
   const newsItem = {
-    title: item.title,
-    link: item.link,
-    description: item.description.slice(0, 500),
-    date: item.date,
-    source: "RT Arabic",
-    sourceScore: 8,
-    sourceType: "official-rss",
-    cat: "العالم",
-    image: "",
-    sourceCount: 1,
-    sources: ["RT Arabic"]
+
+    title:
+      item.title,
+
+    link:
+      item.link,
+
+    description:
+      item.description.slice(0, 500),
+
+    date:
+      item.date,
+
+    source:
+      "RT Arabic",
+
+    sourceScore:
+      8,
+
+    /*
+      مهم جدًا:
+      نضعه telegram حتى يستطيع
+      fetch_news.mjs الاحتفاظ به
+      أثناء إعادة بناء news.json
+    */
+    sourceType:
+      "telegram",
+
+    cat:
+      "العالم",
+
+    image:
+      "",
+
+    sourceCount:
+      1,
+
+    sources:
+      ["RT Arabic"]
+
   };
 
-  // إضافة الخبر في بداية القائمة
-  newsData.items.unshift(newsItem);
+  // =============================
+  // إضافة الخبر مباشرة إلى
+  // news.json
+  // =============================
+
+  newsData.items.unshift(
+    newsItem
+  );
 
   added++;
 
   console.log(
-    `تمت إضافة خبر RT إلى news.json: ${item.title}`
+    `تمت إضافة خبر RT مباشرة إلى news.json: ${item.title}`
   );
 
   // =============================
-  // إرسال الخبر إلى Telegram
+  // إرسال الخبر إلى القناة
   // =============================
 
   const sendUrl =
@@ -157,40 +210,56 @@ for (const item of items) {
     `${item.title}\n\n` +
     `🔗 ${item.link}`;
 
-  const sendResponse = await fetch(sendUrl, {
-    method: "POST",
+  const sendResponse =
+    await fetch(
+      sendUrl,
+      {
+        method: "POST",
 
-    headers: {
-      "Content-Type": "application/json"
-    },
+        headers: {
+          "Content-Type":
+            "application/json"
+        },
 
-    body: JSON.stringify({
-      chat_id: telegramChatId,
-      text
-    })
-  });
+        body:
+          JSON.stringify({
 
-  const result = await sendResponse.json();
+            chat_id:
+              telegramChatId,
+
+            text
+
+          })
+      }
+    );
+
+  const result =
+    await sendResponse.json();
 
   if (!result.ok) {
+
     console.log(
       `فشل إرسال الخبر إلى Telegram: ${item.title}`
     );
+
   } else {
+
     sent++;
 
     console.log(
       `تم إرسال خبر RT إلى Telegram: ${item.title}`
     );
+
   }
 }
 
 // ===============================
-// الحفاظ على حجم news.json
+// الاحتفاظ بآخر 160 خبرًا
 // ===============================
 
-// نحتفظ بآخر 160 خبرًا فقط
-newsData.items = newsData.items.slice(0, 160);
+newsData.items =
+  newsData.items
+    .slice(0, 160);
 
 newsData.updatedAt =
   new Date().toISOString();
@@ -201,12 +270,16 @@ newsData.updatedAt =
 
 fs.writeFileSync(
   newsFile,
-  JSON.stringify(newsData, null, 2),
+  JSON.stringify(
+    newsData,
+    null,
+    2
+  ),
   "utf8"
 );
 
 // ===============================
-// النتيجة النهائية
+// النتائج
 // ===============================
 
 console.log(
