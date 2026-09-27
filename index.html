@@ -931,9 +931,15 @@ ${isUrgent(x) ? '<div style="color:#dc2626;font-weight:900;margin-bottom:8px">ðŸ
 
   }
 
-  document.getElementById("latest").innerHTML =
+const latestNews = [...news]
+  .sort((a,b) =>
+    new Date(b.date || 0) -
+    new Date(a.date || 0)
+  )
+  .slice(0,15);
 
-    news.slice(0,15).map(x => `
+document.getElementById("latest").innerHTML =
+  latestNews.map(x => `
 
       <div class="latest-item">
 
