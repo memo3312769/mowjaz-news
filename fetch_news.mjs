@@ -484,10 +484,14 @@ if (balanced.length === 0) {
   );
 }
 
-// الاحتفاظ بأخبار Telegram السابقة
-let oldTelegramNews = [];
+// =========================
+// الاحتفاظ بأخبار Telegram و RT السابقة
+// =========================
+
+let oldSpecialNews = [];
 
 try {
+
   const previousText = await fs.readFile(
     "news.json",
     "utf8"
@@ -495,28 +499,57 @@ try {
 
   const previous = JSON.parse(previousText);
 
-  const previousItems = Array.isArray(previous)
-    ? previous
-    : Array.isArray(previous.items)
-      ? previous.items
-      : [];
+  const previousItems =
+    Array.isArray(previous)
+      ? previous
+      : Array.isArray(previous.items)
+        ? previous.items
+        : [];
 
-  oldTelegramNews = previousItems.filter(
-    (item) => item.sourceType === "telegram"
-  );
+  const cutoff =
+    Date.now() - (48 * 60 * 60 * 1000);
+
+  oldSpecialNews =
+    previousItems.filter((item) => {
+
+      const isTelegram =
+        item.sourceType === "telegram";
+
+      const isRT =
+        item.source === "RT Arabic" &&
+        item.sourceType === "official-rss";
+
+      if (!isTelegram && !isRT) {
+        return false;
+      }
+
+      const itemTime =
+        new Date(item.date).getTime();
+
+      return (
+        Number.isFinite(itemTime) &&
+        itemTime >= cutoff
+      );
+
+    });
 
 } catch (error) {
+
   console.log(
-    "لا توجد أخبار Telegram سابقة، أو تعذر قراءتها."
+    "لا توجد أخبار Telegram أو RT سابقة، أو تعذر قراءة news.json."
   );
 
-  oldTelegramNews = [];
+  oldSpecialNews = [];
 }
 
-// دمج الأخبار العادية مع أخبار Telegram
+
+// =========================
+// دمج الأخبار
+// =========================
+
 const mergedNews = [
   ...balanced,
-  ...oldTelegramNews
+  ...oldSpecialNews
 ];
 
 // منع تكرار الأخبار
