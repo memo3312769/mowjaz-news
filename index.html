@@ -998,9 +998,12 @@ async function loadNews(){
       : (telegramData.items || []);
 
     const combined = [
-      ...telegramNews,
-      ...mainNews
-    ];
+  ...telegramNews,
+  ...mainNews
+].sort((a,b) => {
+  return new Date(b.date || 0) -
+         new Date(a.date || 0);
+});
 
     const seen = new Set();
 
