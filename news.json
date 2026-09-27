@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-09-27T09:51:05.793Z",
+  "updatedAt": "2026-09-27T10:06:33.892Z",
   "items": [
+    {
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "date": "Sun, 27 Sep 2026 10:00:36 GMT",
+      "source": "BBC World",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "سعر الذهب اليوم في مصر يعود للارتفاع منتصف تعاملات الأحد - Masrawy",
+      "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxOX05KdXJsMWlVRTE3M3RfZTV1NmQ3Z2J1YjhpVmc4aXRMWmREODBDc2JmdjlnYzlvOEJtRF9INHNzZ3l4bjI0TkRta19ObUlJRzhkZl9ncVh0cnZRNElGTTBtZFFaN0pWRVZ4WFdhZms1Z3lNLWRkcE9JcmRlM2tWeF9wNzdKSTFMVHhoSG8zUEtfVFpYX2hCTnNuY0ljak9wTHlpbjJfcXdkaWhsRzhETVUydlNOTEJaR0dKM2JHbkk1X1NPSXJfaS1MekxVSU5WenpOc0NSZnJuTENSZ1NNXzZkRDJpbW5Lejd4YmUyVTFSTURZSHhiRWhGeWdTTEUzSGhIN1hOdDZlSUxRQWxGaFlLN0tTY0NoenNsdklDc1hLNkZwZXRzY0d4SFVIVERKZnhwZkJ2b3JfT001ZWk0WTZhQk9SYnk3a0FpWnRHZXJpUi1JT3FjUVNQWW5GemF5Rm4wa1N3TWMyNnRKQ3IwMHZQSFUzYzFUUjJQR2tlM0t2bGNwX1BPbGlnWmIwclNVUy1nNU9YTEdXVHVvckI0blhrd0dadEc4US1Jd2FjYkpJVTRTZy1Qc0pIWFctWm5JUUdJaWl3U2szd244YThZWm50V0xReW9IMEszb0NwcVl0MG9zMTJlMFcyNnFuNHlWcDBWemN2bGpWRTTSAYAEQVVfeXFMTXA0eG9BcDlOd0J3eEpoWGZDVmFPRVNLWW9idk4xcHdyWFpfYmY4TFMxZnJBbGcwNTZOVlB6eEd1R3NjZUFIcXowaGlldlpzeVpvbDdwWFZWQWFsTkdReXBkRzRzendxcDZTQ0ZSbkdlT0Z2a05zMTk4Sl9xLVZWRkZ0UE1xMU56d1JfRkZ4YU1vVEJNMXNpOXR3eTFuMWs4UXE5QUhJUXZhUnJ5X1ZSbVFMbTIwa1JZTk0zemxPLVZZaFRBLVQxb19hZFlJUjV5Z2g4NkFDbTZ0YVpOWnVCVkdseEloeEVTMnIxNExTM1RPOHhGNzl3M2xQNFdqcGg5SWxELWotV3EzOUZaS2VXMGxlaERlai1ETG5XXzFWZmo5WWFiQ3pRbTM0d2t0TXpxRTlsQTJNT1dlYU8tQ09fTkhRNTRxc2l2YlBhOExjNmpXUlVlWkZ1dmNFMHliWG44TmRKdVZlN09rakJjaldJQXZyUXhaVFoyRDBGOXpFTDIySzFLRS1jWndQSVVYRkdFeWdWdGl1XzhhWDFPVjN6cUpEZUE5b1ZQRWxVbkVObXFManlDTVBTUTRDS3VNMDhOdEV6czhnU1RoZ210djBJaWxkMVZEbnpKbWhwYjhGQi1vUm12T09vT2JLLXNpa2ZlcUo0VTRKclpvR2VpTHNGcXM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi-wNBVV95cUxOX05KdXJsMWlVRTE3M3RfZTV1NmQ3Z2J1YjhpVmc4aXRMWmREODBDc2JmdjlnYzlvOEJtRF9INHNzZ3l4bjI0TkRta19ObUlJRzhkZl9ncVh0cnZRNElGTTBtZFFaN0pWRVZ4WFdhZms1Z3lNLWRkcE9JcmRlM2tWeF9wNzdKSTFMVHhoSG8zUEtfVFpYX2hCTnNuY0ljak9wTHlpbjJfcXdkaWhsRzhETVUydlNOTEJaR0dKM2JHbkk1X1NPSXJfaS1MekxVSU5WenpOc0NSZnJuTENSZ1NNXzZkRDJpbW5Lejd4YmUyVTFSTURZSHhiRWhGeWdTTEUzSGhIN1hOdDZlSUxRQWxGaFlLN0tTY0NoenNsdklDc1hLNkZwZXRzY0d4SFVIVERKZnhwZkJ2b3JfT001ZWk0WTZhQk9SYnk3a0FpWnRHZXJpUi1JT3FjUVNQWW5GemF5Rm4wa1N3TWMyNnRKQ3IwMHZQSFUzYzFUUjJQR2tlM0t2bGNwX1BPbGlnWmIwclNVUy1nNU9YTEdXVHVvckI0blhrd0dadEc4US1Jd2FjYkpJVTRTZy1Qc0pIWFctWm5JUUdJaWl3U2szd244YThZWm50V0xReW9IMEszb0NwcVl0MG9zMTJlMFcyNnFuNHlWcDBWemN2bGpWRTTSAYAEQVVfeXFMTXA0eG9BcDlOd0J3eEpoWGZDVmFPRVNLWW9idk4xcHdyWFpfYmY4TFMxZnJBbGcwNTZOVlB6eEd1R3NjZUFIcXowaGlldlpzeVpvbDdwWFZWQWFsTkdReXBkRzRzendxcDZTQ0ZSbkdlT0Z2a05zMTk4Sl9xLVZWRkZ0UE1xMU56d1JfRkZ4YU1vVEJNMXNpOXR3eTFuMWs4UXE5QUhJUXZhUnJ5X1ZSbVFMbTIwa1JZTk0zemxPLVZZaFRBLVQxb19hZFlJUjV5Z2g4NkFDbTZ0YVpOWnVCVkdseEloeEVTMnIxNExTM1RPOHhGNzl3M2xQNFdqcGg5SWxELWotV3EzOUZaS2VXMGxlaERlai1ETG5XXzFWZmo5WWFiQ3pRbTM0d2t0TXpxRTlsQTJNT1dlYU8tQ09fTkhRNTRxc2l2YlBhOExjNmpXUlVlWkZ1dmNFMHliWG44TmRKdVZlN09rakJjaldJQXZyUXhaVFoyRDBGOXpFTDIySzFLRS1jWndQSVVYRkdFeWdWdGl1XzhhWDFPVjN6cUpEZUE5b1ZQRWxVbkVObXFManlDTVBTUTRDS3VNMDhOdEV6czhnU1RoZ210djBJaWxkMVZEbnpKbWhwYjhGQi1vUm12T09vT2JLLXNpa2ZlcUo0VTRKclpvR2VpTHNGcXM?oc=5\" target=\"_blank\">سعر الذهب اليوم في مصر يعود للارتفاع منتصف تعاملات الأحد</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
+      "date": "Sun, 27 Sep 2026 09:53:00 GMT",
+      "source": "Google News مصر",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "مصر",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News مصر"
+      ]
+    },
+    {
+      "title": "احتجاز أشخاص وإجلاء سكان بعد إعلان حالة طوارئ قرب قاعدة بريطانية - أمريكية",
+      "link": "https://www.bbc.com/arabic/articles/cmwyz9xkqeg1o?at_medium=RSS&at_campaign=rss",
+      "description": "أُعلنت حالة طوارئ وأُجلي سكان من منازلهم في قرية وِلفورد قرب قاعدة سلاح الجو الملكي البريطاني فيرفورد.",
+      "date": "Sun, 27 Sep 2026 09:51:19 GMT",
+      "source": "BBC العربية",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6802/live/90db3810-ba4d-11f1-a5c2-5319e0e9b9a7.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "BBC العربية"
+      ]
+    },
     {
       "title": "إيران تنتظر رداً أمريكياً على مقترحها، وتتوقع هجوماً جديداً من واشنطن",
       "link": "https://www.bbc.com/arabic/articles/cqm2m6n86jgmo?at_medium=RSS&at_campaign=rss",
@@ -14,6 +59,36 @@
       "sourceCount": 1,
       "sources": [
         "BBC العربية"
+      ]
+    },
+    {
+      "title": "مكتب نتنياهو ينفي تحذير مصر لإسرائيل قبل هجوم 7 أكتوبر: كذب وتدوير وتلاعب - Masrawy",
+      "link": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxPeXprTjlEZ1dDWE5LLVRwVnhSM2RtNGlNNHhvZ0o2NXpyaWFiUDF3X2U0VEROUU8zemlYbUJuQXpsTVVzc3g5VmtPZ0lHY3NncF9veDVjMFQ2c2RzTWZ6cEZzT05TenRoNEN5Nkl3UlJsX3dQb0s4WHVhWFNINWJIZUNRRzVnbkNsdTNXSmQzZV8xLTRoYkNFbXd4alhnall0aTY5OUlLcUU1WnpEd0Z4TDFna0NuVmRjQ1h3QnRHekNHODluaWZGRVRsZDJfckVHV1dXM1ptV2JHWENrb1o0RDJuZGZEOGJQa0xid2h1bk9NTWhvOHJZUTVpOTBpek9GcDRGNGRrN3Mtd1ptckp0cTlJR1podVRtU1UyZnQzMzJQcDlyWGhLbE1VNDNKdmVDekZuNlNDdHZDQW5RTjdnRmtqWVNmSEhGTGRYdm1CUTNITTFaTV9LSVZtZzBicTVsNzRqcmZ3VFNSbTk3a0l3R3NMN2VydXBVXzZoRnppRUYtNDgtYlJ2bG1SUXZmaG9SLUpqTXNzeVVINUFzdUc1Rmg1TUFiNURuSjI2cXFCQnFHMnEyM3VHV1R6eWJHdjZ5d0NKaWc3V09EbjVvQ1F3b1BnX1JPM2RzZlFSOWhraG5TX0VWN0dSVHlWWFc3Y1c1U0FUOHpqYlNuRjhzM0RaRjlpSk5jdmZvOC13S1pPZlAzV2swdmQwOWY4UzN2YUtON3pvekpkVmlKcGxMN2UyQUdJcXk0TUFuZ0k3UHRJTnhQMnVtNHNERTRYQ2JndWhlbzhxUDBXYWNiNTJzUUpfcWtIMzdVR3l10gHuBEFVX3lxTE9NMjl3SFJTa1FUZUpqQzBEbTRhdXBCYWdMaEY4YUxpZmYyNFBaaGQxbTVGWE11cjlJNjFkaWZ4Um5RWVdBWGF6U1hnVm82MG1OcE1pX0ZPLWtrTTU1OEJwMG01YW9IeU5ES3FvNkxUcmJEOUY5bElZS3VaWUlwQnpRUHhtWHE4R2hUTEF6S0ZLcEFlR2tOVEZtMnJfVVBiX2xlOFFTa1Y0X2pBeDJZV2ZOaVRfLWIzeWNrRGRWYzZGQ0otNmh1Z1lUTWh1QlNPOWFVa1BCalRMcXJjazlkanVaZTRYOXNVb1hMOW8yU0ZLOFkyZDJfWjFYMWxaT2xMYUZaaXlYejdTRmx0OGIwVDlyYnMtQkhMT0pwejBjU1phQVZmZ1cxM3M4MlhIV2phWmkySnY2MjV3bnhicmJiT1RjZjFZQ1RNaWJFalo0TXllMnh6RzlRUW1qdVJraVgtSDc1SHZycXpiSEd6SUN1ZlZTVzl1bmpFRzRTQ1hZenRybm12c1VVci1lMWdsb0czbWUta2RZNXJJOURsMTZiWjc5cmpiRWdjbF9SNUFZOGowckZQNWhOeGdsVWxlNmYyVkZ2emR0b0R0UEpHdWcxZF9FaGRvRjhlcm1XSEtDQk1zUGZRQmt6YUE5NGYyRS1sWU8tSDVVQS1ENjljeVRJTlZ0ZEJKbkIwYWxxdXJoTW5RSEVPY0p6d3B5UFFnRk81Zm0wQXFNOFoyZUIzaE5GMThvM1FQV1JSeC1udUlEX1VhRWRsM182aXVNWXMwaDloREt6bEx4dmtpbFJwc2RyOFFHMzNLRDBBWXdvTkwzZFE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6ARBVV95cUxPeXprTjlEZ1dDWE5LLVRwVnhSM2RtNGlNNHhvZ0o2NXpyaWFiUDF3X2U0VEROUU8zemlYbUJuQXpsTVVzc3g5VmtPZ0lHY3NncF9veDVjMFQ2c2RzTWZ6cEZzT05TenRoNEN5Nkl3UlJsX3dQb0s4WHVhWFNINWJIZUNRRzVnbkNsdTNXSmQzZV8xLTRoYkNFbXd4alhnall0aTY5OUlLcUU1WnpEd0Z4TDFna0NuVmRjQ1h3QnRHekNHODluaWZGRVRsZDJfckVHV1dXM1ptV2JHWENrb1o0RDJuZGZEOGJQa0xid2h1bk9NTWhvOHJZUTVpOTBpek9GcDRGNGRrN3Mtd1ptckp0cTlJR1podVRtU1UyZnQzMzJQcDlyWGhLbE1VNDNKdmVDekZuNlNDdHZDQW5RTjdnRmtqWVNmSEhGTGRYdm1CUTNITTFaTV9LSVZtZzBicTVsNzRqcmZ3VFNSbTk3a0l3R3NMN2VydXBVXzZoRnppRUYtNDgtYlJ2bG1SUXZmaG9SLUpqTXNzeVVINUFzdUc1Rmg1TUFiNURuSjI2cXFCQnFHMnEyM3VHV1R6eWJHdjZ5d0NKaWc3V09EbjVvQ1F3b1BnX1JPM2RzZlFSOWhraG5TX0VWN0dSVHlWWFc3Y1c1U0FUOHpqYlNuRjhzM0RaRjlpSk5jdmZvOC13S1pPZlAzV2swdmQwOWY4UzN2YUtON3pvekpkVmlKcGxMN2UyQUdJcXk0TUFuZ0k3UHRJTnhQMnVtNHNERTRYQ2JndWhlbzhxUDBXYWNiNTJzUUpfcWtIMzdVR3l10gHuBEFVX3lxTE9NMjl3SFJTa1FUZUpqQzBEbTRhdXBCYWdMaEY4YUxpZmYyNFBaaGQxbTVGWE11cjlJNjFkaWZ4Um5RWVdBWGF6U1hnVm82MG1OcE1pX0ZPLWtrTTU1OEJwMG01YW9IeU5ES3FvNkxUcmJEOUY5bElZS3VaWUlwQnpRUHhtWHE4R2hUTEF6S0ZLcEFlR2tOVEZtMnJfVVBiX2xlOFFTa1Y0X2pBeDJZV2ZOaVRfLWIzeWNrRGRWYzZGQ0otNmh1Z1lUTWh1QlNPOWFVa1BCalRMcXJjazlkanVaZTRYOXNVb1hMOW8yU0ZLOFkyZDJfWjFYMWxaT2xMYUZaaXlYejdTRmx0OGIwVDlyYnMtQkhMT0pwejBjU1phQVZmZ1cxM3M4MlhIV2phWmkySnY2MjV3bnhicmJiT1RjZjFZQ1RNaWJFalo0TXllMnh6RzlRUW1qdVJraVgtSDc1SHZycXpiSEd6SUN1ZlZTVzl1bmpFRzRTQ1hZenRybm12c1VVci1lMWdsb0czbWUta2RZNXJJOURsMTZiWjc5cmpiRWdjbF9SNUFZOGowckZQNWhOeGdsVWxlNmYyVkZ2emR0b0R0UEpHdWcxZF9FaGRvRjhlcm1XSEtDQk1zUGZRQmt6YUE5NGYyRS1sWU8tSDVVQS1ENjljeVRJTlZ0ZEJKbkIwYWxxdXJoTW5RSEVPY0p6d3B5UFFnRk81Zm0wQXFNOFoyZUIzaE5GMThvM1FQV1JSeC1udUlEX1VhRWRsM182aXVNWXMwaDloREt6bEx4dmtpbFJwc2RyOFFHMzNLRDBBWXdvTkwzZFE?oc=5\" target=\"_blank\">مكتب نتنياهو ينفي تحذير مصر لإسرائيل قبل هجوم 7 أكتوبر: كذب وتدوير وتلاعب</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
+      "date": "Sun, 27 Sep 2026 09:43:55 GMT",
+      "source": "Google News مصر",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "مصر",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News مصر"
+      ]
+    },
+    {
+      "title": "بالصور- سقوط نخلة يعطل الحركة المرورية على طريق «مصر – أسوان» الزراعي - Masrawy",
+      "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxOS25ZYktXSnV1MGx2RGNiWGt5UlZUNXNtT0htLWQxbjhkcnFZWWhrYVZpREFPMVJ0NGFNSERoREZQY0p4T1RFXzdwSURYY2w1VmFJLUk5Z0NVcHlfb0FCYWVzR1R5YXpQQjA3OE5qRjVCTXFYZTdQcUJ0bW53UnRCWF9RUkxkNGZHRk9LLTVNRmN1aWliRjlpd0FaR3ZiLS0wOFFHTEFteU5mN3IzbnJaNzVNOGlROVJYY3VtWTY0bkhvaXdURlo4c2w3QzRSR20xTHJ4ZVhUUTRkLWpzQm1vXzFnQnVjQTY2TEZOT1BRbmhzZExNRXFrVzhuX0JYdmw3aGpOOWtvU1c3OWFIVzU3LTkwNlpCdmZoOFUzeG1BZ1ZpN3Y1NXJRN2U4dEVyYjVjTFVOeDRJaDl0SE5XZk1wSnk2ME9hNVFzaTE2LUgtQlR1am9wZ183OUpjTmlUZHEzb0xKVkQtSEdibU84MHQzay12WjAwU2d0U19wbWlXeXNRalpLZ1pYR0hUY3NVOFdqSnVHRmZFdEI3NHJ3MjFUS3lNeFRlQm1FSFduTTU2R3ByUW5CZE1yS3d1bV9teTdlNm5qNGtlOG8tT0VCMlBmSnZ5Q2hlOTU0US1PNDRXTW9lc1pZY1E5MVA5SWpSZjRaRGtmanJJQnM4WC05RHA3LVZ0dG1MS0JHZkl0c3F0Y00zSXdhUXp3SkhheVJoX0pTVGpFdzZhLXliNVRCWjBfNGkyWExTQdIBuwRBVV95cUxNaUtkZGpJTHRNSVZIbDdRa1VqTUhOekMzcG9fYy1FRlFQMHQxbVFhOHFNQkJ3UGRubVU3X00xbURqbklRcjNUalNwLTJVOVJPN1M2c3pmWGdNTU8xMXo4R3FXSjR2LWpyQXFnSFZ2Vm5GakFzakkzTEE5NU1rb2xTSkxYeVo1XzlQMjZ5WTc1Zk9GVXlRNmphblFrZ0JKb0YtdWV5Rk0tLXA2VWRSLVF2Z0RuVzY4Y2F4UkY3czRQLXNWVmdVMURfX1JFNnNsSFhMU0o0d3g3bHZJSFppWm1VMS1rRFNieXlJTHROSURyRE5xYjBoZHpKeE11Y3lubnZZaC1nTjhVLVVTalZjQld5UjNvcTh4bnEzWGQ3RDIyTFd4bkFKM3lkQ25RZ2VDdzdkb1pfM291TF9YVFRBekotQkcwaTZMZm1ib3FQVGEwM25Gc0VnMndPOHgxcl94ekV4QWhTSXMwaVBXQ1hyQ2g3QVkyR0wzWWhwS0pfRVU4ZE1oWWVELUQydmJHZV9DN2ZHMFNWU2h4VldwU0tSeEdKc0U3Y3F0SWJkUlFDQ19uV0JGcm51RWZvMG5aeHh0akNUZElyV2QzeUJXOUdBV3RkUHlueWhLdnlwTldldWtGM1FIa3RTSHAzc3JraU1HSzBSWGZnQ0o3aWhFbzJQVEpBQTlfYW84VzFhRTVuUmpIVGZoOWhjMVpZVHV6U1ZwNWhWS1BfMV85dkRneVFIbUxHcnJPb1ZNejZCU0Zz?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgRBVV95cUxOS25ZYktXSnV1MGx2RGNiWGt5UlZUNXNtT0htLWQxbjhkcnFZWWhrYVZpREFPMVJ0NGFNSERoREZQY0p4T1RFXzdwSURYY2w1VmFJLUk5Z0NVcHlfb0FCYWVzR1R5YXpQQjA3OE5qRjVCTXFYZTdQcUJ0bW53UnRCWF9RUkxkNGZHRk9LLTVNRmN1aWliRjlpd0FaR3ZiLS0wOFFHTEFteU5mN3IzbnJaNzVNOGlROVJYY3VtWTY0bkhvaXdURlo4c2w3QzRSR20xTHJ4ZVhUUTRkLWpzQm1vXzFnQnVjQTY2TEZOT1BRbmhzZExNRXFrVzhuX0JYdmw3aGpOOWtvU1c3OWFIVzU3LTkwNlpCdmZoOFUzeG1BZ1ZpN3Y1NXJRN2U4dEVyYjVjTFVOeDRJaDl0SE5XZk1wSnk2ME9hNVFzaTE2LUgtQlR1am9wZ183OUpjTmlUZHEzb0xKVkQtSEdibU84MHQzay12WjAwU2d0U19wbWlXeXNRalpLZ1pYR0hUY3NVOFdqSnVHRmZFdEI3NHJ3MjFUS3lNeFRlQm1FSFduTTU2R3ByUW5CZE1yS3d1bV9teTdlNm5qNGtlOG8tT0VCMlBmSnZ5Q2hlOTU0US1PNDRXTW9lc1pZY1E5MVA5SWpSZjRaRGtmanJJQnM4WC05RHA3LVZ0dG1MS0JHZkl0c3F0Y00zSXdhUXp3SkhheVJoX0pTVGpFdzZhLXliNVRCWjBfNGkyWExTQdIBuwRBVV95cUxNaUtkZGpJTHRNSVZIbDdRa1VqTUhOekMzcG9fYy1FRlFQMHQxbVFhOHFNQkJ3UGRubVU3X00xbURqbklRcjNUalNwLTJVOVJPN1M2c3pmWGdNTU8xMXo4R3FXSjR2LWpyQXFnSFZ2Vm5GakFzakkzTEE5NU1rb2xTSkxYeVo1XzlQMjZ5WTc1Zk9GVXlRNmphblFrZ0JKb0YtdWV5Rk0tLXA2VWRSLVF2Z0RuVzY4Y2F4UkY3czRQLXNWVmdVMURfX1JFNnNsSFhMU0o0d3g3bHZJSFppWm1VMS1rRFNieXlJTHROSURyRE5xYjBoZHpKeE11Y3lubnZZaC1nTjhVLVVTalZjQld5UjNvcTh4bnEzWGQ3RDIyTFd4bkFKM3lkQ25RZ2VDdzdkb1pfM291TF9YVFRBekotQkcwaTZMZm1ib3FQVGEwM25Gc0VnMndPOHgxcl94ekV4QWhTSXMwaVBXQ1hyQ2g3QVkyR0wzWWhwS0pfRVU4ZE1oWWVELUQydmJHZV9DN2ZHMFNWU2h4VldwU0tSeEdKc0U3Y3F0SWJkUlFDQ19uV0JGcm51RWZvMG5aeHh0akNUZElyV2QzeUJXOUdBV3RkUHlueWhLdnlwTldldWtGM1FIa3RTSHAzc3JraU1HSzBSWGZnQ0o3aWhFbzJQVEpBQTlfYW84VzFhRTVuUmpIVGZoOWhjMVpZVHV6U1ZwNWhWS1BfMV85dkRneVFIbUxHcnJPb1ZNejZCU0Zz?oc=5\" target=\"_blank\">بالصور- سقوط نخلة يعطل الحركة المرورية على طريق «مصر – أسوان» الزراعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
+      "date": "Sun, 27 Sep 2026 09:40:13 GMT",
+      "source": "Google News مصر",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "مصر",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News مصر"
       ]
     },
     {
@@ -59,21 +134,6 @@
       "sourceCount": 1,
       "sources": [
         "Google News مصر"
-      ]
-    },
-    {
-      "title": "احتجاز أشخاص وإجلاء سكان بعد إعلان حالة طوارئ قرب قاعدة بريطانية - أمريكية",
-      "link": "https://www.bbc.com/arabic/articles/cmwyz9xkqeg1o?at_medium=RSS&at_campaign=rss",
-      "description": "أُعلنت حالة طوارئ وأُجلي سكان من منازلهم في قرية وِلفورد قرب قاعدة سلاح الجو الملكي البريطاني فيرفورد.",
-      "date": "Sun, 27 Sep 2026 09:25:30 GMT",
-      "source": "BBC العربية",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6802/live/90db3810-ba4d-11f1-a5c2-5319e0e9b9a7.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "BBC العربية"
       ]
     },
     {
@@ -302,21 +362,6 @@
       ]
     },
     {
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "date": "Sun, 27 Sep 2026 08:40:02 GMT",
-      "source": "BBC World",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
       "title": "إسرائيل تدرس شراء طائرات لرصد الغواصات.. ما الحسابات؟",
       "link": "https://www.skynewsarabia.com/middle-east/1894636-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%AF%D8%B1%D8%B3-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D9%84%D8%B1%D8%B5%D8%AF-%D8%A7%D9%84%D8%BA%D9%88%D8%A7%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA",
       "description": "تبحث إسرائيل إمكانية شراء طائرات أميركية مخصصة لمراقبة البحار واكتشاف الغواصات، وسط تغيرات في موازين القوى البحرية بالمنطقة واتساع نطاق اهتمامها العسكري من البحر المتوسط إلى البحر الأحمر.",
@@ -407,21 +452,6 @@
       ]
     },
     {
-      "title": "«بيل جيتس»: الذكاء الاصطناعي قد يؤدي إلى وفاة مليار شخص - بوابة التكنولوجيا المالية",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1qVHRlZXQ2Q3FoWWd4SkJxcHNqeDBuLUVqaUNhVldFQ2hYTVJpeWFEWHF1UVdiejMwZjU5azN6V0FBTmZK?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1qVHRlZXQ2Q3FoWWd4SkJxcHNqeDBuLUVqaUNhVldFQ2hYTVJpeWFEWHF1UVdiejMwZjU5azN6V0FBTmZK?oc=5\" target=\"_blank\">«بيل جيتس»: الذكاء الاصطناعي قد يؤدي إلى وفاة مليار شخص</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة التكنولوجيا المالية</font>",
-      "date": "Sun, 27 Sep 2026 08:05:12 GMT",
-      "source": "Google News تكنولوجيا",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "تكنولوجيا",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News تكنولوجيا"
-      ]
-    },
-    {
       "title": "تغريم \"أبل\" 5.7 مليار دولار بسبب انتهاك براءتي اختراع",
       "link": "https://www.skynewsarabia.com/technology/1894634-%D8%AA%D8%BA%D8%B1%D9%8A%D9%85-%D8%A3%D8%A8%D9%84-5-7-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D8%A8%D8%B1%D8%A7%D8%A1%D8%AA%D9%8A-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9",
       "description": "أمرت هيئة محلفين أميركية شركة الإلكترونيات \"أبل\" بدفع أكثر من 5.7 مليار دولار، بسبب \"انتهاكها براءتي اختراع\".",
@@ -464,21 +494,6 @@
       "sourceCount": 1,
       "sources": [
         "BBC Business"
-      ]
-    },
-    {
-      "title": "أسعار وثائق صناديق الاستثمار المصرية 26-9-2026 - معلومات مباشر",
-      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNTnlHa0lXNEVweWZjUEdHR3hnMm94NjlLeUZOcERNbXhEaGV2Mkl3a3JaanJ2ZmZBVVdldTV5czhYY1ZJOGpBTkZVSzlTZlVyVjNBenpUY2NZMU1xQllPT3B5d19ScWhEUEczbW1Dd2RmYm9INU9ialdZTWtEamgyMlVPb3diYmVlenZ6eXprd1M5SzN4eHd1dE5ESjVjbUduY0xmWndIaGVfZG02eXdTOUZFdDBrTFQ2QzYyRmtsaWQydUFpV00zSmV2UVVsdjRWNF9CRkk4VUlWeXhHNXFwLUdIalRPazhaOEQteEFxV3ZkUjdmc1I3eDhvSHoyUXhoNnd1Sk1BejQyQ2FGUnI5NUN0TU9ybWhHRXFELVhrb1FQV21jMXY0a3RDRzJ3MWMxUHZ1NEtiWjRXYURmQVhKSUxtekhlS2R6R3UyM2hoWWpnem51OFlsSWZ1YWUwSVRwN0Z5dw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AJBVV95cUxNTnlHa0lXNEVweWZjUEdHR3hnMm94NjlLeUZOcERNbXhEaGV2Mkl3a3JaanJ2ZmZBVVdldTV5czhYY1ZJOGpBTkZVSzlTZlVyVjNBenpUY2NZMU1xQllPT3B5d19ScWhEUEczbW1Dd2RmYm9INU9ialdZTWtEamgyMlVPb3diYmVlenZ6eXprd1M5SzN4eHd1dE5ESjVjbUduY0xmWndIaGVfZG02eXdTOUZFdDBrTFQ2QzYyRmtsaWQydUFpV00zSmV2UVVsdjRWNF9CRkk4VUlWeXhHNXFwLUdIalRPazhaOEQteEFxV3ZkUjdmc1I3eDhvSHoyUXhoNnd1Sk1BejQyQ2FGUnI5NUN0TU9ybWhHRXFELVhrb1FQV21jMXY0a3RDRzJ3MWMxUHZ1NEtiWjRXYURmQVhKSUxtekhlS2R6R3UyM2hoWWpnem51OFlsSWZ1YWUwSVRwN0Z5dw?oc=5\" target=\"_blank\">أسعار وثائق صناديق الاستثمار المصرية 26-9-2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">معلومات مباشر</font>",
-      "date": "Sun, 27 Sep 2026 07:47:49 GMT",
-      "source": "Google News مصر",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "مصر",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News مصر"
       ]
     },
     {
@@ -587,6 +602,21 @@
       ]
     },
     {
+      "title": "617 مليون طن نفايات إلكترونية خطيرة بسبب الذكاء الاصطناعي - alghad.tv",
+      "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQdWZvQ0FxVTBRTzRvVXhKLWNIOUpwZTFGem92RXFlTjk4bGhIRUk3YlBSSFV1aXdzektmangzeS1zeU1zbDBaT2wyQm1MZjZtaE43WTVwODFhVGdQbnRESUplQVJVZzFJNm5naUp3bTVwNWlpb0Nud0MyUmxxNGlWRDZaNkZuUDgxZlRUX3Qxd1RhUjJCZjVkS0drZkotYzhsYlh4NWVmOVh3U042TTJia2FjUFQ4RUlLRjFVbnRMQjZVQWUzNXhER3JpQU5oQV96UUQzYnlEWW5mdHlyX1l0NTcxc1dQMVc3U3ZJQWViWWRESWpqNUdENTl3SG5QSnpNNFZ6VjRpb0E2aXFXTDJZT1Utc01waThMdG40UE1SVjZLUDFuMWxGN3AwRVJBaUMwZ0U0OUx5THZjaWJwUi1weHU0RWNjbE1Qem1pcjVXMG9nVTF1ZlZ6b2JHa0hTRmQtZ1ZkTzlUYzFNaHhXT09uVEk0czZlb1I2MU5aaVZUQlZ1UGFRQ09sUThfMkZXQy1faVdKWVRaenVBRmNoaEpZcXVYY1Q2TVhIU1kydERNbXl0ZXRHczhPcUdOa05Xa2NacVFrbjd3c011ZFgzOG92Z1BrMTJ0cF9xTHBRUDhTR29Pano4RDBiQVpIU2xLWUFRYnlUQWxYSUdNd3U0WGt2XzFWMmpRdFk2cFE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigRBVV95cUxQdWZvQ0FxVTBRTzRvVXhKLWNIOUpwZTFGem92RXFlTjk4bGhIRUk3YlBSSFV1aXdzektmangzeS1zeU1zbDBaT2wyQm1MZjZtaE43WTVwODFhVGdQbnRESUplQVJVZzFJNm5naUp3bTVwNWlpb0Nud0MyUmxxNGlWRDZaNkZuUDgxZlRUX3Qxd1RhUjJCZjVkS0drZkotYzhsYlh4NWVmOVh3U042TTJia2FjUFQ4RUlLRjFVbnRMQjZVQWUzNXhER3JpQU5oQV96UUQzYnlEWW5mdHlyX1l0NTcxc1dQMVc3U3ZJQWViWWRESWpqNUdENTl3SG5QSnpNNFZ6VjRpb0E2aXFXTDJZT1Utc01waThMdG40UE1SVjZLUDFuMWxGN3AwRVJBaUMwZ0U0OUx5THZjaWJwUi1weHU0RWNjbE1Qem1pcjVXMG9nVTF1ZlZ6b2JHa0hTRmQtZ1ZkTzlUYzFNaHhXT09uVEk0czZlb1I2MU5aaVZUQlZ1UGFRQ09sUThfMkZXQy1faVdKWVRaenVBRmNoaEpZcXVYY1Q2TVhIU1kydERNbXl0ZXRHczhPcUdOa05Xa2NacVFrbjd3c011ZFgzOG92Z1BrMTJ0cF9xTHBRUDhTR29Pano4RDBiQVpIU2xLWUFRYnlUQWxYSUdNd3U0WGt2XzFWMmpRdFk2cFE?oc=5\" target=\"_blank\">617 مليون طن نفايات إلكترونية خطيرة بسبب الذكاء الاصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alghad.tv</font>",
+      "date": "Sun, 27 Sep 2026 06:45:44 GMT",
+      "source": "Google News تكنولوجيا",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "تكنولوجيا",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News تكنولوجيا"
+      ]
+    },
+    {
       "title": "بات أسرع من قانون البشر.. مختصون يحذرون من قدرات الذكاء الاصطناعي - العربية",
       "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxQUkxfSWpBbjZKTWVTd2tqNk1tSXBTVHhBdko5eTRoSlJMU2N5c1dIRTNpOVNCTkFJSnR1U1VaTVlWd3ZVbTBtWS1lcFJlbWdHVE5KN01BbmlRcEFYdVlJaFlVR3M0SmV3VTFUWC1GWHFlWkZxLWVIOUZoY0VLOEdxczZSR2lyRElucnZMTXBWQlgwdnBtdU84NnRROWlTSDFWVjNVSEFnVWwzT1RtT1FjYzZvaFdULWFSeXp5dXJ5T2dLSFJhNkh1a1hZVFN0RTJZTTJGcWQwelZLU3V4Wml4VWotamo1MnFYcm9CdGhJNEdycTJLQ3VnY0xZRVlIVm5hN0JaT2FqQ3JwSDJtY3J4aElzQkVpOTI5czlMUGplTmNEV0sxOUdXTkI5NHN4ZEVTb1lFdFNNMXU0cERlbTRUOGVOZ1llQXBSTV83NkRkejF5UDRZczFfbUIySTMwVGF4ZmZqWndtakVNTDhVdDN6Yk9SZU5WMEcxbFFnMW1jSFJJcEpoTWxnNHZXLW9feXFaVXJEZmRJVGMxSHhaY01ERUU0dTlVWFR2allxU202SVNuRkpOZmI5ZlBzS0FnUjRPVUNNNVFra1pxMFd3QmJSU2MxQW0waW9OOTNoekpDWlRxaUZ6ZHBoNUpZd1lQd2t5RE16U1dGcG5UZ2p0enZNelE2UmtrUF9mQXNaOVBsWjZzbFlFWGpHWVhhY2l4V2vSAaQEQVVfeXFMT2lwazJ4ODJiMUJYRlV5blpOdm5Wd09PYldocmlJWHRVZHF2RzgwTU05TWk4cUhPN0t3UnlFX1E2NTYzc0FkZVlnYkNINkFidkRGdE1EYnc1VTRFU3VXVWpGLVR6Y2lwbEFaaVJoazdKek9tS0lkempZUFYzSTRtRUE5UUZhRjRBSDRKdFBselB3X1d1cG81b21ocXpFZkVYQ000Q1R0TzQ3eGI1SVd3a0RRYXd2RUEyRW1mZlI3V2RIMEtFQ3BOU2p0b0xBRXVxNkRkRm83eXhEbXpxbGlZYkRZRG82T0x6UjZIUHE5MU9YQzlOS2NJWjJLRElvUHZJNUJPQXhiUEZWM09IZmNTdzFlVlh0ZmZIRUNTSnNEcm9TUmNXM2FxRGNFVXkydW94aWhEajdsSldRWkd6TDA3YWFVNGFwQ3BNNVI2Zy10S1djcEs2TUJUNTF1dm1MVFhvdUxzRU1iMXBxNnBOaU1KOUF6OGhzYW9mM3kxQTBZZlhzS2ZXeGF1TjRETkZ2bEdEdXBLWnFMbWVac0k3T1BtOF9WVVE1NnpoVlgwQzUteU5wVTJ0d0N2Mm5ZSGxZME5ET3VsZmNOX0U2Z2swMlFSRzktXzZIRWVnQnhXZ1gyMkN2bWJ4V25zNlhmcEt5V0w5MGplTnBhdDFJbC0xbnNLWHY4UmN4VW5QUlpNcE9MYWhGclZTVWRhMGl5ano0VzZTTFNRaEw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMinwRBVV95cUxQUkxfSWpBbjZKTWVTd2tqNk1tSXBTVHhBdko5eTRoSlJMU2N5c1dIRTNpOVNCTkFJSnR1U1VaTVlWd3ZVbTBtWS1lcFJlbWdHVE5KN01BbmlRcEFYdVlJaFlVR3M0SmV3VTFUWC1GWHFlWkZxLWVIOUZoY0VLOEdxczZSR2lyRElucnZMTXBWQlgwdnBtdU84NnRROWlTSDFWVjNVSEFnVWwzT1RtT1FjYzZvaFdULWFSeXp5dXJ5T2dLSFJhNkh1a1hZVFN0RTJZTTJGcWQwelZLU3V4Wml4VWotamo1MnFYcm9CdGhJNEdycTJLQ3VnY0xZRVlIVm5hN0JaT2FqQ3JwSDJtY3J4aElzQkVpOTI5czlMUGplTmNEV0sxOUdXTkI5NHN4ZEVTb1lFdFNNMXU0cERlbTRUOGVOZ1llQXBSTV83NkRkejF5UDRZczFfbUIySTMwVGF4ZmZqWndtakVNTDhVdDN6Yk9SZU5WMEcxbFFnMW1jSFJJcEpoTWxnNHZXLW9feXFaVXJEZmRJVGMxSHhaY01ERUU0dTlVWFR2allxU202SVNuRkpOZmI5ZlBzS0FnUjRPVUNNNVFra1pxMFd3QmJSU2MxQW0waW9OOTNoekpDWlRxaUZ6ZHBoNUpZd1lQd2t5RE16U1dGcG5UZ2p0enZNelE2UmtrUF9mQXNaOVBsWjZzbFlFWGpHWVhhY2l4V2vSAaQEQVVfeXFMT2lwazJ4ODJiMUJYRlV5blpOdm5Wd09PYldocmlJWHRVZHF2RzgwTU05TWk4cUhPN0t3UnlFX1E2NTYzc0FkZVlnYkNINkFidkRGdE1EYnc1VTRFU3VXVWpGLVR6Y2lwbEFaaVJoazdKek9tS0lkempZUFYzSTRtRUE5UUZhRjRBSDRKdFBselB3X1d1cG81b21ocXpFZkVYQ000Q1R0TzQ3eGI1SVd3a0RRYXd2RUEyRW1mZlI3V2RIMEtFQ3BOU2p0b0xBRXVxNkRkRm83eXhEbXpxbGlZYkRZRG82T0x6UjZIUHE5MU9YQzlOS2NJWjJLRElvUHZJNUJPQXhiUEZWM09IZmNTdzFlVlh0ZmZIRUNTSnNEcm9TUmNXM2FxRGNFVXkydW94aWhEajdsSldRWkd6TDA3YWFVNGFwQ3BNNVI2Zy10S1djcEs2TUJUNTF1dm1MVFhvdUxzRU1iMXBxNnBOaU1KOUF6OGhzYW9mM3kxQTBZZlhzS2ZXeGF1TjRETkZ2bEdEdXBLWnFMbWVac0k3T1BtOF9WVVE1NnpoVlgwQzUteU5wVTJ0d0N2Mm5ZSGxZME5ET3VsZmNOX0U2Z2swMlFSRzktXzZIRWVnQnhXZ1gyMkN2bWJ4V25zNlhmcEt5V0w5MGplTnBhdDFJbC0xbnNLWHY4UmN4VW5QUlpNcE9MYWhGclZTVWRhMGl5ano0VzZTTFNRaEw?oc=5\" target=\"_blank\">بات أسرع من قانون البشر.. مختصون يحذرون من قدرات الذكاء الاصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربية</font>",
@@ -662,25 +692,25 @@
       ]
     },
     {
-      "title": "سعر الذهب اليوم في مصر ينخفض مع بداية تعاملات الأحد - Masrawy",
-      "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPd1VpR0dsQ0hKWnZtX1Riby1PRl9YZUxTbUxxMUtLQlFDWnk1ZDVucEJjd1RsYXlZcTZoVl9VdzVHNkUtTUFHTExMejM1bk5mMFBNZ2I5NURFNjNmaWJVbHpIMkM3ajJRM1RuQ2VhbkMyU2VraGNDY0JkaTdfLU90MGxTbk5SLXFrUE11VklmdE1LX2VCU3YzUHRNaFUxSVVWWERHU3c3ZldDazllYUUwZnJFSkZtV0ZWZGpWUDNPZnNIRUNLWTRoLXZwNjlsenQzMUE4ektZdWhmV2VhZG5aSWlYZXFINDVjU2dyTFVkYUpVa2RlRzRlNXRDbS0yVU5aeXRRMm1BT3h4SVVqTmVsRTM2YWRxVFBuUnIxM0FIWUtmaXVuNks4QVlZYjZYWjl4endlcnhIdjY5M1JCUWFsWUc1UDYyWE5TYkx3TjNxNnBHV2pMQk1xcnYwOU9uZzBjTFdDb1U4UmJVSmlhM2xPZnktbEc1WU9CVnk4b2FhNzFPd280M25iRlJzWnpRTGVmNlRJX2h0dENHQmZsZzc1LTBRajU4cERhX1RLUFJKS3h0ejZJSFEwcnVhRVBWcDA1MXhpcHYyY1czQkhma1REQzl0UdIB2ANBVV95cUxQQ3lUZ2hsYTZZVlB1Y1BCSFFwbFE5SVRGaGQ3LXFmUDlhdWJYdk1Ocmd2UTFlRkc5Zjg2VHhXb2M1RDhPWmVFTUVmWnNRblZZTHBXaDVRR3lYVnVKR0NaMnVXNDNKY1RhSWk3bjBRMmpMSHd3bUFucUwwZ08zMGF2WU5CRUVTdUNaZTBGbUhHdmdobTBQMFpjQUhqUVQzUzV4T2V5aU5pTHgxbUM2c0xSRTY1QWVkbDlfR1hPQ0FaOWFhb19PZ3M5ZFY5QUZDUHIzTTc1bVM2Wl9rV1Nub1VhNmVuOENTd043OHJ6UmRfRU90Ml9Sc1Y5QURiY3Q4OW5UVnZNemhhanAzVWhRQ1NIX1NmQ0RrUG1xZzdfUFBlVDBYUlVjeFZocUFqM3JwcWgwUmF2Rk5uZ0I1NWtyRGlhbGZoUUVJUzJlT3Z1amx4TUszaXZMRHRFNm9WSGpVdmZLaU5HODFSeFhwMEJoNW9uN0hvZWFrT005WXFUVFNHd0JKUTlMX3p6ZGFrRlltYi1qLTBzR21WbGNORUQ2c2pZMzM0aEZ6U0dvanAzemRlYk9MWVdhSEVBYW9RZHJJbFRoTmRJbEJydFNnQ0RBQTlUcGJEcHMzdnVx?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wNBVV95cUxPd1VpR0dsQ0hKWnZtX1Riby1PRl9YZUxTbUxxMUtLQlFDWnk1ZDVucEJjd1RsYXlZcTZoVl9VdzVHNkUtTUFHTExMejM1bk5mMFBNZ2I5NURFNjNmaWJVbHpIMkM3ajJRM1RuQ2VhbkMyU2VraGNDY0JkaTdfLU90MGxTbk5SLXFrUE11VklmdE1LX2VCU3YzUHRNaFUxSVVWWERHU3c3ZldDazllYUUwZnJFSkZtV0ZWZGpWUDNPZnNIRUNLWTRoLXZwNjlsenQzMUE4ektZdWhmV2VhZG5aSWlYZXFINDVjU2dyTFVkYUpVa2RlRzRlNXRDbS0yVU5aeXRRMm1BT3h4SVVqTmVsRTM2YWRxVFBuUnIxM0FIWUtmaXVuNks4QVlZYjZYWjl4endlcnhIdjY5M1JCUWFsWUc1UDYyWE5TYkx3TjNxNnBHV2pMQk1xcnYwOU9uZzBjTFdDb1U4UmJVSmlhM2xPZnktbEc1WU9CVnk4b2FhNzFPd280M25iRlJzWnpRTGVmNlRJX2h0dENHQmZsZzc1LTBRajU4cERhX1RLUFJKS3h0ejZJSFEwcnVhRVBWcDA1MXhpcHYyY1czQkhma1REQzl0UdIB2ANBVV95cUxQQ3lUZ2hsYTZZVlB1Y1BCSFFwbFE5SVRGaGQ3LXFmUDlhdWJYdk1Ocmd2UTFlRkc5Zjg2VHhXb2M1RDhPWmVFTUVmWnNRblZZTHBXaDVRR3lYVnVKR0NaMnVXNDNKY1RhSWk3bjBRMmpMSHd3bUFucUwwZ08zMGF2WU5CRUVTdUNaZTBGbUhHdmdobTBQMFpjQUhqUVQzUzV4T2V5aU5pTHgxbUM2c0xSRTY1QWVkbDlfR1hPQ0FaOWFhb19PZ3M5ZFY5QUZDUHIzTTc1bVM2Wl9rV1Nub1VhNmVuOENTd043OHJ6UmRfRU90Ml9Sc1Y5QURiY3Q4OW5UVnZNemhhanAzVWhRQ1NIX1NmQ0RrUG1xZzdfUFBlVDBYUlVjeFZocUFqM3JwcWgwUmF2Rk5uZ0I1NWtyRGlhbGZoUUVJUzJlT3Z1amx4TUszaXZMRHRFNm9WSGpVdmZLaU5HODFSeFhwMEJoNW9uN0hvZWFrT005WXFUVFNHd0JKUTlMX3p6ZGFrRlltYi1qLTBzR21WbGNORUQ2c2pZMzM0aEZ6U0dvanAzemRlYk9MWVdhSEVBYW9RZHJJbFRoTmRJbEJydFNnQ0RBQTlUcGJEcHMzdnVx?oc=5\" target=\"_blank\">سعر الذهب اليوم في مصر ينخفض مع بداية تعاملات الأحد</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
-      "date": "Sun, 27 Sep 2026 06:33:48 GMT",
-      "source": "Google News مصر",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "مصر",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News مصر"
-      ]
-    },
-    {
       "title": "شركات الذكاء الاصطناعي تحقق في عشرات الآلاف من حوادث نماذجها الأمنية - الشرق للأخبار",
       "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNWUtKM0M0SDZIZFVlblREQ2tqUkpEc2RDdW1NazUtTDVqQmFZQnBLTDNHUUwwQkY5RVZYTGY4N3hzNm05eDJNdVRibjBSU0c2ZlJ6bUxkT3lBa3hiTEF3cnNsaUUzQzBfM0RlNG1IVWtHbUhrX1FOdHVQQ2Q3OXAzUUZ1NnU3WG5hWk85U1B5amVZOW5oUXhJRkYyQlNHR1NWb1pZUml0MDlQaDRScjFrRjd6UWE4UGpOVW9OTVhGVlYtcE9RMlgycmtyelowNUJPektCU1V1ZE9NMW5IbkY5MWJLcUV4SG1ORFUyMk9CRnYyLUJYTHhXMmtNaDJYb3pMY05uc1p3UFBhWXNoNTExWFotMlBTZWZjX0Q2THgzdHd3VkdDcFpJSG02LVZvanlkZDJHS3FvMERnUXctNlhTd09LeTJxa1R4ZG4tYWl0SkgwMVdEZ2F2bXJCenNvSXNMWkhRVW1aOW1LUDhtb01TSFB0bkVKT2p6OEJieF9EaWFleTZZajk1TF9fdHRlc3FDUDlHUUpibGZuaU85aGtmVkhVY2cwbW5pYXdWb0trci03aWktNGFEbkNSMzJxbG10QlNGbGx0ZVBya3pLLWthamg1VU00WlFMdmVPaGRjSWE0a0YxTmc2Qm44YUJhVWx6R1VDUGdxSEktQQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gNBVV95cUxNWUtKM0M0SDZIZFVlblREQ2tqUkpEc2RDdW1NazUtTDVqQmFZQnBLTDNHUUwwQkY5RVZYTGY4N3hzNm05eDJNdVRibjBSU0c2ZlJ6bUxkT3lBa3hiTEF3cnNsaUUzQzBfM0RlNG1IVWtHbUhrX1FOdHVQQ2Q3OXAzUUZ1NnU3WG5hWk85U1B5amVZOW5oUXhJRkYyQlNHR1NWb1pZUml0MDlQaDRScjFrRjd6UWE4UGpOVW9OTVhGVlYtcE9RMlgycmtyelowNUJPektCU1V1ZE9NMW5IbkY5MWJLcUV4SG1ORFUyMk9CRnYyLUJYTHhXMmtNaDJYb3pMY05uc1p3UFBhWXNoNTExWFotMlBTZWZjX0Q2THgzdHd3VkdDcFpJSG02LVZvanlkZDJHS3FvMERnUXctNlhTd09LeTJxa1R4ZG4tYWl0SkgwMVdEZ2F2bXJCenNvSXNMWkhRVW1aOW1LUDhtb01TSFB0bkVKT2p6OEJieF9EaWFleTZZajk1TF9fdHRlc3FDUDlHUUpibGZuaU85aGtmVkhVY2cwbW5pYXdWb0trci03aWktNGFEbkNSMzJxbG10QlNGbGx0ZVBya3pLLWthamg1VU00WlFMdmVPaGRjSWE0a0YxTmc2Qm44YUJhVWx6R1VDUGdxSEktQQ?oc=5\" target=\"_blank\">شركات الذكاء الاصطناعي تحقق في عشرات الآلاف من حوادث نماذجها الأمنية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق للأخبار</font>",
       "date": "Sun, 27 Sep 2026 06:30:04 GMT",
+      "source": "Google News تكنولوجيا",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "تكنولوجيا",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News تكنولوجيا"
+      ]
+    },
+    {
+      "title": "\"غوغل\" تختبر شراء منتجات \"Flipkart\" مباشرة عبر جيميناي وAI Mode - العربية",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQUG1BZ0FVbWJpelpNcVY4NkdtZnNxS2dtdjlySGVvN19KUk12WEVKNjhXZGs2a0dQcUMzcGJ5Y1pUcU1vYldSbjM2SldIQ3ZQVllsaG4tdUNWZlF6dksxUXhKS3RnekFvSzJFd01ySGxNNHRacm52dF9sNWZZOXBseHZEOW95aDNRVnNIdFg3ajNZZ0puelQ4VDBSTi1xVjBzclJ4UWRCbTJrR2ZuOVF3VW5pT1I5VWc1TzNEcVduek43RmUySmtmZWxCbFJlMGJtaXFSTmlwd0FpVGdNWE95T1dQekNPQkpoaXpHRFEwQVJIb1pZU0g3cTFWLUtuTXkwdXN0cXF2WXFvbnhDVWxfZXhQdk5lYkx0V2VUcHZfdHJKTkM4N2hFNTE0bXV2X09CZ3VEMk02UVdNLUdHXzNCdzRPckZPdnFzcHN0RHBMWFQxN2l5cU1kdXRHY2EyT3pSQUQ3azJ6T1FzQjloanVJQ19CdEFtVUZCSWU3Y1ljSmItc2xsVnFZQWs5SzdPQjBZT2N5NFkydjItb0VfRTlSZ9IBpgNBVV95cUxPdHNvLWlpYXctaXR2WVpaLVNQVTBLbmZBTDNHcnIyTnV6RjQ0RUN2ZjV4cG5jejUwaDVNcWNCQUNtM3FNSXVkWjBQX1dCUGhWMml4UjBtTDBzLWI4NXo3bVJLeU1WT1pkNGFmWWcyNFJWNFpWb0o0RnROQlBZTEwyR1NBbkV3bExXSkpxU3Zsc3RONGJ6Tl9WblRKTDU4b215T1NSSENLZzVwckVoaVZveV9MaEdGdlRTcTNEY1BlNXlOY2hibC1wRGlTYmpwdUJHdkFDcDNPRXFtekN2Tm5mQnMzbU5xcDdFcGFVUE56OGo0cWM4OUs0eERfMmxSdTgxbi1vNGFKa1V1OXhpVDBFd1VEdmxYSzVaYUdQbXd5Y29lU2UzWWd2Q3VYU3AzMkpEUzk5TmxROHRnMlBHQjA4QTBWRWNiQm56dktLcURTY0dRQnViR1JXZ216NVNyX19tQ1d3WEZiQlpIQW9MUWRoWFNHWDJRV1FITm1yLTB0REpLcmRuLU1Ud21TYU5SSmlaX0dnZ2VoSkNOSXVKVHBwMldwSDJGUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxQUG1BZ0FVbWJpelpNcVY4NkdtZnNxS2dtdjlySGVvN19KUk12WEVKNjhXZGs2a0dQcUMzcGJ5Y1pUcU1vYldSbjM2SldIQ3ZQVllsaG4tdUNWZlF6dksxUXhKS3RnekFvSzJFd01ySGxNNHRacm52dF9sNWZZOXBseHZEOW95aDNRVnNIdFg3ajNZZ0puelQ4VDBSTi1xVjBzclJ4UWRCbTJrR2ZuOVF3VW5pT1I5VWc1TzNEcVduek43RmUySmtmZWxCbFJlMGJtaXFSTmlwd0FpVGdNWE95T1dQekNPQkpoaXpHRFEwQVJIb1pZU0g3cTFWLUtuTXkwdXN0cXF2WXFvbnhDVWxfZXhQdk5lYkx0V2VUcHZfdHJKTkM4N2hFNTE0bXV2X09CZ3VEMk02UVdNLUdHXzNCdzRPckZPdnFzcHN0RHBMWFQxN2l5cU1kdXRHY2EyT3pSQUQ3azJ6T1FzQjloanVJQ19CdEFtVUZCSWU3Y1ljSmItc2xsVnFZQWs5SzdPQjBZT2N5NFkydjItb0VfRTlSZ9IBpgNBVV95cUxPdHNvLWlpYXctaXR2WVpaLVNQVTBLbmZBTDNHcnIyTnV6RjQ0RUN2ZjV4cG5jejUwaDVNcWNCQUNtM3FNSXVkWjBQX1dCUGhWMml4UjBtTDBzLWI4NXo3bVJLeU1WT1pkNGFmWWcyNFJWNFpWb0o0RnROQlBZTEwyR1NBbkV3bExXSkpxU3Zsc3RONGJ6Tl9WblRKTDU4b215T1NSSENLZzVwckVoaVZveV9MaEdGdlRTcTNEY1BlNXlOY2hibC1wRGlTYmpwdUJHdkFDcDNPRXFtekN2Tm5mQnMzbU5xcDdFcGFVUE56OGo0cWM4OUs0eERfMmxSdTgxbi1vNGFKa1V1OXhpVDBFd1VEdmxYSzVaYUdQbXd5Y29lU2UzWWd2Q3VYU3AzMkpEUzk5TmxROHRnMlBHQjA4QTBWRWNiQm56dktLcURTY0dRQnViR1JXZ216NVNyX19tQ1d3WEZiQlpIQW9MUWRoWFNHWDJRV1FITm1yLTB0REpLcmRuLU1Ud21TYU5SSmlaX0dnZ2VoSkNOSXVKVHBwMldwSDJGUQ?oc=5\" target=\"_blank\">\"غوغل\" تختبر شراء منتجات \"Flipkart\" مباشرة عبر جيميناي وAI Mode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربية</font>",
+      "date": "Sun, 27 Sep 2026 06:21:00 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
       "sourceType": "aggregator",
@@ -711,37 +741,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOYmszSnpSQkdpTDloUFMxYmlMOWN5QUl3eElYLUlxUU93cHdxZTlHRTZXNVctc2ZnTUVSQTZGa0dHblFBcXhJMlc1S2FiS3YtbGRCNHQyOHhZTUw2aHNXcW0xT3R1UmV0Y1JmUnE1Y0tlWU5PSDcwaUQ5MEExS1E1bFVnRWt3em9EXy1XU0tYZUlyR3FHME1kSzQwZFFQUVZGWmZfTzNLVzJVSkNaMGVQb1ZuSW14eVptZUYtc1VhZjhseWl1eGJNdWRGLWFsUklGT3NJMW54eUY5aGlrdW5lbGpyc3BHa3NaRWVrU3RLYzZ1cXFtT3VBTnowTi04V0pZZnZFb1NiOVQzaWNDbUYya2s1NkFzdUl3b21NTEplNUhWRUsxYVMzT1QxSUhJLXhVS2dKOFI1dDJMUXRiSlI1ME9majNTWlZ0RExPUEw3UVJ1Nk5CUHRKWlZRblo4UTE1OXRXcTN6RkRmNWhBNGVLNUViLVNZYXJpSGhENFRDOWI1R2l4alNreXZBNXRsSVJYRXd1MEdJRUJoZHIzSV9vdThXb3FVcHU1eHZDZXlLTy00Qk0?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiswNBVV95cUxOYmszSnpSQkdpTDloUFMxYmlMOWN5QUl3eElYLUlxUU93cHdxZTlHRTZXNVctc2ZnTUVSQTZGa0dHblFBcXhJMlc1S2FiS3YtbGRCNHQyOHhZTUw2aHNXcW0xT3R1UmV0Y1JmUnE1Y0tlWU5PSDcwaUQ5MEExS1E1bFVnRWt3em9EXy1XU0tYZUlyR3FHME1kSzQwZFFQUVZGWmZfTzNLVzJVSkNaMGVQb1ZuSW14eVptZUYtc1VhZjhseWl1eGJNdWRGLWFsUklGT3NJMW54eUY5aGlrdW5lbGpyc3BHa3NaRWVrU3RLYzZ1cXFtT3VBTnowTi04V0pZZnZFb1NiOVQzaWNDbUYya2s1NkFzdUl3b21NTEplNUhWRUsxYVMzT1QxSUhJLXhVS2dKOFI1dDJMUXRiSlI1ME9majNTWlZ0RExPUEw3UVJ1Nk5CUHRKWlZRblo4UTE1OXRXcTN6RkRmNWhBNGVLNUViLVNZYXJpSGhENFRDOWI1R2l4alNreXZBNXRsSVJYRXd1MEdJRUJoZHIzSV9vdThXb3FVcHU1eHZDZXlLTy00Qk0?oc=5\" target=\"_blank\">الذكاء الاصطناعي.. ثروة جديدة قد تعمّق فجوة الدخل</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">maspero.eg</font>",
       "date": "Sun, 27 Sep 2026 06:05:41 GMT",
-      "source": "Google News تكنولوجيا",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "تكنولوجيا",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News تكنولوجيا"
-      ]
-    },
-    {
-      "title": "مواعيد مباريات الجولة الأولى بكأس عاصمة مصر - اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPLTF6Y2p4NnpRemZSZ2Z1TC1WSDZzeHB3TGE0d1h4QXRja1BKWFpuSDFlX3ZiamM4NGw1MnBobG5xT0VlQ0t4R1lSVUV6X1FSczN2RmdiYUJjdE9lZUdIRzB0eGtWVkhKaEVyWmNWVXg0RFBfdEpWM2RKV1NFU1NwZnlaVWpBMG01MGJIUk55NUc5QnZ0Ym9mQkxHZGRnX1NteG9MLTJ4N1ZKYkhYbFF6RWYtOE1QV1hfd0ctc01yamdhQk5OaTdFMkx4RG04TnhidTQwaEd6OUkxei1hbGVYbzhmMGtPZjlpWTQ5QmYtbGVJRGVmMWxCbVRDSVJ4LVFlZUl2RDZWV2stTU5KVndDTEFieTBlelVrS2Y2WTVGZHVBRFAwcHRqUjhWR2VmSGV6R1lGZVQ0MnE1WlcxUjJwWkZXVkVoVVN4OEFOSWE1UHdOQTNhUXFKMjdGRWk0ZmROQjJydXRoNENrUUZ1dnFyWER2YzNNdFBZb0k1M3V3d2tnM0hpUkpUR0N30gGEA0FVX3lxTE5PdWRPc0RDeWdSV21mR2tKYXY5RGE4eEdNdEhld2JxaE9TQzBzSlNoQzFuYnhXaDVSLXotQTZFZUtsS05JbUlWQ2paTks2R1M3M2RLb25fVXQ3Y0tsRDc3VEZ6OE5nblktMWFDMUZraWZyR2ptaHVOWUVQZ1NELVNvZXFzaVh0MnRBNWV1T2Nxc3ZReGxkak5DNlZWZlhyTlFVWEc2a0kwdW96TFFmNGZTV3N2UEcwOWNCdWVvX0FaS2M5b3NlWXI5cngxRm9RRmUwUzNhTHRnb2d2Qmp2ZVRJWDVCbWM2aHlGMG9QSUMyMXNoT19SWXZFeVpmcFEwNzctWV85OXVaM3BjTExxUE5lVXFtSXdhdGpiSlhuZlFXWGN2b041U3cxMldiNFFmS245Nm9QZUQyczFNdmwzOFBXamtscUNqYkJjbnlMTjlDX2FVOXc3Z3ZXR0Jtb1ZpOFZjNWNydXVqSzhWbThOOGNzUEY3cmtrLVRTNEE0UFhwbTBJYjI?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxPLTF6Y2p4NnpRemZSZ2Z1TC1WSDZzeHB3TGE0d1h4QXRja1BKWFpuSDFlX3ZiamM4NGw1MnBobG5xT0VlQ0t4R1lSVUV6X1FSczN2RmdiYUJjdE9lZUdIRzB0eGtWVkhKaEVyWmNWVXg0RFBfdEpWM2RKV1NFU1NwZnlaVWpBMG01MGJIUk55NUc5QnZ0Ym9mQkxHZGRnX1NteG9MLTJ4N1ZKYkhYbFF6RWYtOE1QV1hfd0ctc01yamdhQk5OaTdFMkx4RG04TnhidTQwaEd6OUkxei1hbGVYbzhmMGtPZjlpWTQ5QmYtbGVJRGVmMWxCbVRDSVJ4LVFlZUl2RDZWV2stTU5KVndDTEFieTBlelVrS2Y2WTVGZHVBRFAwcHRqUjhWR2VmSGV6R1lGZVQ0MnE1WlcxUjJwWkZXVkVoVVN4OEFOSWE1UHdOQTNhUXFKMjdGRWk0ZmROQjJydXRoNENrUUZ1dnFyWER2YzNNdFBZb0k1M3V3d2tnM0hpUkpUR0N30gGEA0FVX3lxTE5PdWRPc0RDeWdSV21mR2tKYXY5RGE4eEdNdEhld2JxaE9TQzBzSlNoQzFuYnhXaDVSLXotQTZFZUtsS05JbUlWQ2paTks2R1M3M2RLb25fVXQ3Y0tsRDc3VEZ6OE5nblktMWFDMUZraWZyR2ptaHVOWUVQZ1NELVNvZXFzaVh0MnRBNWV1T2Nxc3ZReGxkak5DNlZWZlhyTlFVWEc2a0kwdW96TFFmNGZTV3N2UEcwOWNCdWVvX0FaS2M5b3NlWXI5cngxRm9RRmUwUzNhTHRnb2d2Qmp2ZVRJWDVCbWM2aHlGMG9QSUMyMXNoT19SWXZFeVpmcFEwNzctWV85OXVaM3BjTExxUE5lVXFtSXdhdGpiSlhuZlFXWGN2b041U3cxMldiNFFmS245Nm9QZUQyczFNdmwzOFBXamtscUNqYkJjbnlMTjlDX2FVOXc3Z3ZXR0Jtb1ZpOFZjNWNydXVqSzhWbThOOGNzUEY3cmtrLVRTNEE0UFhwbTBJYjI?oc=5\" target=\"_blank\">مواعيد مباريات الجولة الأولى بكأس عاصمة مصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
-      "date": "Sun, 27 Sep 2026 05:30:00 GMT",
-      "source": "Google News مصر",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "مصر",
-      "image": "",
-      "sourceCount": 2,
-      "sources": [
-        "Google News مصر",
-        "Google News رياضة"
-      ]
-    },
-    {
-      "title": "الأسلحة ذاتية التشغيل.. أميركا وروسيا تحبطان تحركات أممية لتقييد الضوابط - الشرق للأخبار",
-      "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPQTBMTWU1Q3h2QUlnNEtRRHpNZkZKdFNfQU45R21PbGpoV2FyMF9Fc2F0X2d0XzA5LVd4MmwxVWkyS0FaVEs3NVJvaUx5SnVuX2s4ODRFZ2phUnItQXFZRjladFBIcGdjWjUycmNiWTJtLUpRS1dOOC1vSDNUeV9zMWhTYTVjdFdTZk93Tjdjc0U4b2d2b1ZMTXQ3R3dWRmV1SjN0YXlPUzhoYjlZVnRDU0R0Xy0xNWpOUHNzdGxhSGhXMUE5ZkZLSWNNeHFkcVFjcjRhci03OE5JU09BdS1DbHFUU1BGZGt0Q1o1Tk4wcnFYLUtNQjlNVmg3Q21YRzFxallWVWduUUE4U25GWHJrQU1jMmJuQzdzSko3VFlBOXZYbUdrVnJJVmJfREtONl9hZFZBek5tSUh6ZUxfX3hLN3FjSFlXdkhMZzg2RzNPdEduSjlXV0JQRnB3YnBfb01DUjYxVkdkMTNZMkNWR1FTeG5HMVQ2UzBpd1FiN1UtU0FlckxnalRGRFpTX0k5SU45eFZPM2w5WkdSb1BTMHBab1FzeVQ0T0Z2UG5XMk54cm5ibS1hMHYtZTU5SENNSHhYXzYzUmI3bG9oa2twTV9fdzllN1Nya3plZlo0NkpheUd5V0hBemI4bWdqZzlrc3c?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wNBVV95cUxPQTBMTWU1Q3h2QUlnNEtRRHpNZkZKdFNfQU45R21PbGpoV2FyMF9Fc2F0X2d0XzA5LVd4MmwxVWkyS0FaVEs3NVJvaUx5SnVuX2s4ODRFZ2phUnItQXFZRjladFBIcGdjWjUycmNiWTJtLUpRS1dOOC1vSDNUeV9zMWhTYTVjdFdTZk93Tjdjc0U4b2d2b1ZMTXQ3R3dWRmV1SjN0YXlPUzhoYjlZVnRDU0R0Xy0xNWpOUHNzdGxhSGhXMUE5ZkZLSWNNeHFkcVFjcjRhci03OE5JU09BdS1DbHFUU1BGZGt0Q1o1Tk4wcnFYLUtNQjlNVmg3Q21YRzFxallWVWduUUE4U25GWHJrQU1jMmJuQzdzSko3VFlBOXZYbUdrVnJJVmJfREtONl9hZFZBek5tSUh6ZUxfX3hLN3FjSFlXdkhMZzg2RzNPdEduSjlXV0JQRnB3YnBfb01DUjYxVkdkMTNZMkNWR1FTeG5HMVQ2UzBpd1FiN1UtU0FlckxnalRGRFpTX0k5SU45eFZPM2w5WkdSb1BTMHBab1FzeVQ0T0Z2UG5XMk54cm5ibS1hMHYtZTU5SENNSHhYXzYzUmI3bG9oa2twTV9fdzllN1Nya3plZlo0NkpheUd5V0hBemI4bWdqZzlrc3c?oc=5\" target=\"_blank\">الأسلحة ذاتية التشغيل.. أميركا وروسيا تحبطان تحركات أممية لتقييد الضوابط</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق للأخبار</font>",
-      "date": "Sun, 27 Sep 2026 04:51:03 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
       "sourceType": "aggregator",
