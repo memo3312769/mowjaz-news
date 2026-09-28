@@ -27,10 +27,7 @@ if (!apiId || !apiHash || !sessionString) {
 // ويمكن إضافة أكثر من 20 قناة
 // ==========================================
 
-const TARGET_CHANNELS = [
-  "RTarabic_br",
-
-];
+const TARGET_CHANNELS = [];
 
 // ==========================================
 // الملفات
