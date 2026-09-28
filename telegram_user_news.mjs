@@ -505,7 +505,7 @@ for (const channel of channels) {
           channel.title,
 
         sourceScore:
-          channel.username === "@RTarabic_br"
+          channel.username === "RTarabic_br"
             ? 10
             : 8,
 
