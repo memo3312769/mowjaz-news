@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-09-28T11:08:57.798Z",
+  "updatedAt": "2026-09-28T11:26:36.217Z",
   "items": [
+    {
+      "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+      "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
+      "description": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
+      "date": "Mon, 28 Sep 2026 11:16:08 GMT",
+      "source": "BBC Technology",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "تكنولوجيا",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b94e/live/b987eeb0-bb2a-11f1-971b-5fdf53b135ba.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "BBC Technology"
+      ]
+    },
     {
       "title": "شركة إنفيديا تطلق منصة أمان جديدة.. أعلنت قدرتها على منع وكلاء الذكاء الاصطناعي من الخروج عن السيطرة - المصري اليوم",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NLVRtNXA1V01QWURrdk1FUENZMzNlLWZpMWFoUkNrNVl4Yjh3YlhlT2RfSVl1S084TDE1aHZwMWRDM2NaeUN1aURKVXhfZV9LV1BodldKX29FRTN2X0hR?oc=5",
@@ -276,14 +291,30 @@
       "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPa0NUelVVajVQTUpERlFaVkFtYUtTeFRlanJ5dzdxcUlBdlprMDRfdjBjRTNlVUJPR2sycmt5cVQtSDhRQWFDeUxBcnNiUEJTQ2RJckpVLXFsMnlCN2xaaUNwMzNXWlRldFo2TEFMOGhqd2NMS3hnX2NLLTdNX01nelpXTVZ6eVBTWVRkLUhSRmxfM2o2Tl9BOTl6WnlteGdxZ0JPb09acm1NV1JXeThFRzBqbHg3QWJkM0VEM18wdFdRajRZaDZQclRXemppUDREVWhKVzhnWlVNbTd3Nk41RG5MS2JvU0ZJdElrLW45dU1Hc1B5U3ZDRHE5MXFITW9ZQUVJZzI1VU1aYTN3RW9mSzRXaG4tbUVta3Ffc2FrcjZ6ZWZkRDJHUVJvYzh6RlUydjZnVlpTdmxGNWlZTXpHTmZRNEx6WW9QRUJTcVRrOTJaaTVEamRkeDNYR1ktRm8ycTlsNWF1ck8tZVdlUTl6S2N3a2R1WlFiSGZ1VFlQak1pd19RMmllOWw2Z2IwX3VweS1BTURkVnZEVU54MjFVcVVPUUJHdkMtU2YtLVpvWjhWbTV3N3ZDSlJpbFh5d9IBuANBVV95cUxNbHJUWF85MjJObUVWeFlHUkFXUU9mSi13dmVUVGxzMXFydkxQV3Q5NEtqT1dhNGFzSTJXT3AtVWFCUlRvRlVoV0NUWlZKbVJJU0pPV2hRVVpubnM0WWRKSUE2enRSZVg1N3ZKa2NpOGpuY3ZFTjJRMGFJUGQ0bXdzRjR6YkxQUU1VUkgyMFZnRF9iM1hxeUlPZUdtZEw3bkVjTTdtaHpDYnRMeTZDdkZHUS1MWmVEaGFfYW5HWTBwTU9FczE0QVAtZEdvYU8yN1pjNUZUclF0aXZmODlEMkRuWlVrNjZfNTBWZ0E1OWRyZFVSazlhd3hNeGdWWnpiQ2hGUEpWM1N1MXJ2djJjUG83SnNYTlZQQmxyRzU1WjZDU3hjZktBXzQtLVdLbzVKV0NUa25idlhRaHExdWZRV3lYc0oxMFNFb0VZZUFjZTBQOUNPSnNXOXhZZ21qc3loQ0VENUZaM25od2VQYzVsemEwUXFTWVFNbXluZFhXTGxXYkhTdkpPT204U3MzM1pucWNlMXVWZng0UmI5alQzczZMUkNtZE5aRHBnTHhZdExnNDJ6eC1wa05KcA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivgNBVV95cUxPa0NUelVVajVQTUpERlFaVkFtYUtTeFRlanJ5dzdxcUlBdlprMDRfdjBjRTNlVUJPR2sycmt5cVQtSDhRQWFDeUxBcnNiUEJTQ2RJckpVLXFsMnlCN2xaaUNwMzNXWlRldFo2TEFMOGhqd2NMS3hnX2NLLTdNX01nelpXTVZ6eVBTWVRkLUhSRmxfM2o2Tl9BOTl6WnlteGdxZ0JPb09acm1NV1JXeThFRzBqbHg3QWJkM0VEM18wdFdRajRZaDZQclRXemppUDREVWhKVzhnWlVNbTd3Nk41RG5MS2JvU0ZJdElrLW45dU1Hc1B5U3ZDRHE5MXFITW9ZQUVJZzI1VU1aYTN3RW9mSzRXaG4tbUVta3Ffc2FrcjZ6ZWZkRDJHUVJvYzh6RlUydjZnVlpTdmxGNWlZTXpHTmZRNEx6WW9QRUJTcVRrOTJaaTVEamRkeDNYR1ktRm8ycTlsNWF1ck8tZVdlUTl6S2N3a2R1WlFiSGZ1VFlQak1pd19RMmllOWw2Z2IwX3VweS1BTURkVnZEVU54MjFVcVVPUUJHdkMtU2YtLVpvWjhWbTV3N3ZDSlJpbFh5d9IBuANBVV95cUxNbHJUWF85MjJObUVWeFlHUkFXUU9mSi13dmVUVGxzMXFydkxQV3Q5NEtqT1dhNGFzSTJXT3AtVWFCUlRvRlVoV0NUWlZKbVJJU0pPV2hRVVpubnM0WWRKSUE2enRSZVg1N3ZKa2NpOGpuY3ZFTjJRMGFJUGQ0bXdzRjR6YkxQUU1VUkgyMFZnRF9iM1hxeUlPZUdtZEw3bkVjTTdtaHpDYnRMeTZDdkZHUS1MWmVEaGFfYW5HWTBwTU9FczE0QVAtZEdvYU8yN1pjNUZUclF0aXZmODlEMkRuWlVrNjZfNTBWZ0E1OWRyZFVSazlhd3hNeGdWWnpiQ2hGUEpWM1N1MXJ2djJjUG83SnNYTlZQQmxyRzU1WjZDU3hjZktBXzQtLVdLbzVKV0NUa25idlhRaHExdWZRV3lYc0oxMFNFb0VZZUFjZTBQOUNPSnNXOXhZZ21qc3loQ0VENUZaM25od2VQYzVsemEwUXFTWVFNbXluZFhXTGxXYkhTdkpPT204U3MzM1pucWNlMXVWZng0UmI5alQzczZMUkNtZE5aRHBnTHhZdExnNDJ6eC1wa05KcA?oc=5\" target=\"_blank\">طاهر محمد طاهر يقترب من المشاركة فى ودية الأهلي أمام مصر المقاصة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
       "date": "Mon, 28 Sep 2026 10:20:00 GMT",
-      "source": "Google News رياضة",
+      "source": "Google News مصر",
       "sourceScore": 6,
       "sourceType": "aggregator",
-      "cat": "رياضة",
+      "cat": "مصر",
+      "image": "",
+      "sourceCount": 2,
+      "sources": [
+        "Google News مصر",
+        "Google News رياضة"
+      ]
+    },
+    {
+      "title": "\"إنفيديا\" تطور نظام أمان كان بإمكانه منع اختراق \"هاغينغ فيس\" - asharqbusiness.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNdFYtOHM5aWlkbFBnSjhPOWUyMUNEbTZQSlNOcFhuMy1DeTVLT1hsVGxNZDl5ajNDSl8yUmhFUEpmZlJzQXdxbFlOa1p1VU5pbjB0VnQya3lOZGtXNmFHVG9aODF0VFRUS3ZxOEpDYTNnOVRuTkl3UG9wSEVRTVBlNkQzT3NyLVJock52S3hsdFZYUzI5NmdxYnR1YUdBUENfT0VvSFJ4Qlo2MzA1NDFVcmE4M2F5ZVJIbEZzdXRLcktnem94dUVocGdfT3R6dzRLdXZTV2hkN3V3SUliVndYc0pVUDFoMGZybHNYVy1EWTZrMjg1ZjJvNUVBNkFJLW9vZTNpNFNBTlp6Wl9kNjdka3V0bHF6VURCSGN4b2VNQzRMVmVuaXJkQzlxeExfWURwS2Qwa1UzQ0ZtMzRGc0tybGg4aUFxaWNadFkweUNlODFxeU1aRkQyTnJNcWQxYkUwMTNwa3VYbHJ5QlNpZlk1dXgzRXdNRWh0VEpHbTNGSi1yejJVRGZ5UTlucktRZU01R3BIcGFtQnZoZkotRUVGV0pxS1ItM2NnVUFmelNIckRRQ3NYWEYweVhRc29VcUgtUk8xMG1LZUNCZ3oybHhpWUI0VDhfRmdxX1o3TzR3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gNBVV95cUxNdFYtOHM5aWlkbFBnSjhPOWUyMUNEbTZQSlNOcFhuMy1DeTVLT1hsVGxNZDl5ajNDSl8yUmhFUEpmZlJzQXdxbFlOa1p1VU5pbjB0VnQya3lOZGtXNmFHVG9aODF0VFRUS3ZxOEpDYTNnOVRuTkl3UG9wSEVRTVBlNkQzT3NyLVJock52S3hsdFZYUzI5NmdxYnR1YUdBUENfT0VvSFJ4Qlo2MzA1NDFVcmE4M2F5ZVJIbEZzdXRLcktnem94dUVocGdfT3R6dzRLdXZTV2hkN3V3SUliVndYc0pVUDFoMGZybHNYVy1EWTZrMjg1ZjJvNUVBNkFJLW9vZTNpNFNBTlp6Wl9kNjdka3V0bHF6VURCSGN4b2VNQzRMVmVuaXJkQzlxeExfWURwS2Qwa1UzQ0ZtMzRGc0tybGg4aUFxaWNadFkweUNlODFxeU1aRkQyTnJNcWQxYkUwMTNwa3VYbHJ5QlNpZlk1dXgzRXdNRWh0VEpHbTNGSi1yejJVRGZ5UTlucktRZU01R3BIcGFtQnZoZkotRUVGV0pxS1ItM2NnVUFmelNIckRRQ3NYWEYweVhRc29VcUgtUk8xMG1LZUNCZ3oybHhpWUI0VDhfRmdxX1o3TzR3?oc=5\" target=\"_blank\">\"إنفيديا\" تطور نظام أمان كان بإمكانه منع اختراق \"هاغينغ فيس\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">asharqbusiness.com</font>",
+      "date": "Mon, 28 Sep 2026 10:18:45 GMT",
+      "source": "Google News تكنولوجيا",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "تكنولوجيا",
       "image": "",
       "sourceCount": 1,
       "sources": [
-        "Google News رياضة"
+        "Google News تكنولوجيا"
       ]
     },
     {
@@ -437,9 +468,9 @@
       ]
     },
     {
-      "title": "وزير البترول: مصر تمتلك ثروة جيولوجية متنوعة - بوابة أخبار اليوم الإلكترونية",
+      "title": "وزير البترول: مصر تمتلك ثروة جيولوجية متنوعة - akhbarelyom.com",
       "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPOFVZbkRWUVBheTE4MTQtdTZGMmtCaGVraGQzSnJkeUhrMjlkcWI2T29LQXRsWU9sMjlqaUJQdUptV3draGduUEJMQUpoeF9veEVIT2dHWFBXeldWWTFDRzJ2clh5OXk1OEhfVk1uOUpTUGVNanl3UGxKUDZ0ZVowSkZGeUsteTNUVlJYa0U4VEY3WmlmTlhzYkJTUUZEYnlEckxxWnppZ3pMWlBZcTNUZlE3Zno0SlF2aDZ3cnNmc0RoM3Q0dHFBX002QV9aRjdPU3kyQnBJc0tUNW9YaVo1R1VVek9JamJQa2UtNnZWYTU4dFVMYy1CLWxTbWM3ZW9feDFBbFY5MDdCblpqM3J3VHRCeVp4Tm41bkNLVzB1RzZHY0NzRFFfbFJlTThLMGVTWXY1M09jVHR2VDVyOGUzeDRfSHFLdlpFckh5OHdkbG5xWFRzdE5UcmU2RHgzQVZNb21Gd1cwaUJyNWJRY3BqMW9Fc3dyZlU?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wJBVV95cUxPOFVZbkRWUVBheTE4MTQtdTZGMmtCaGVraGQzSnJkeUhrMjlkcWI2T29LQXRsWU9sMjlqaUJQdUptV3draGduUEJMQUpoeF9veEVIT2dHWFBXeldWWTFDRzJ2clh5OXk1OEhfVk1uOUpTUGVNanl3UGxKUDZ0ZVowSkZGeUsteTNUVlJYa0U4VEY3WmlmTlhzYkJTUUZEYnlEckxxWnppZ3pMWlBZcTNUZlE3Zno0SlF2aDZ3cnNmc0RoM3Q0dHFBX002QV9aRjdPU3kyQnBJc0tUNW9YaVo1R1VVek9JamJQa2UtNnZWYTU4dFVMYy1CLWxTbWM3ZW9feDFBbFY5MDdCblpqM3J3VHRCeVp4Tm41bkNLVzB1RzZHY0NzRFFfbFJlTThLMGVTWXY1M09jVHR2VDVyOGUzeDRfSHFLdlpFckh5OHdkbG5xWFRzdE5UcmU2RHgzQVZNb21Gd1cwaUJyNWJRY3BqMW9Fc3dyZlU?oc=5\" target=\"_blank\">وزير البترول: مصر تمتلك ثروة جيولوجية متنوعة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة أخبار اليوم الإلكترونية</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wJBVV95cUxPOFVZbkRWUVBheTE4MTQtdTZGMmtCaGVraGQzSnJkeUhrMjlkcWI2T29LQXRsWU9sMjlqaUJQdUptV3draGduUEJMQUpoeF9veEVIT2dHWFBXeldWWTFDRzJ2clh5OXk1OEhfVk1uOUpTUGVNanl3UGxKUDZ0ZVowSkZGeUsteTNUVlJYa0U4VEY3WmlmTlhzYkJTUUZEYnlEckxxWnppZ3pMWlBZcTNUZlE3Zno0SlF2aDZ3cnNmc0RoM3Q0dHFBX002QV9aRjdPU3kyQnBJc0tUNW9YaVo1R1VVek9JamJQa2UtNnZWYTU4dFVMYy1CLWxTbWM3ZW9feDFBbFY5MDdCblpqM3J3VHRCeVp4Tm41bkNLVzB1RzZHY0NzRFFfbFJlTThLMGVTWXY1M09jVHR2VDVyOGUzeDRfSHFLdlpFckh5OHdkbG5xWFRzdE5UcmU2RHgzQVZNb21Gd1cwaUJyNWJRY3BqMW9Fc3dyZlU?oc=5\" target=\"_blank\">وزير البترول: مصر تمتلك ثروة جيولوجية متنوعة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">akhbarelyom.com</font>",
       "date": "Mon, 28 Sep 2026 09:46:26 GMT",
       "source": "Google News مصر",
       "sourceScore": 6,
@@ -467,48 +498,17 @@
       ]
     },
     {
-      "title": "أسعار الذهب اليوم في مصر الاثنين 28/9/2026.. عيار 21 يخسر 130 جنيهًا - جريدة البورصة",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14QWVWZng0eGlFVURZaHd4SEF3aG9wZ2RUOTBwRkU0NG1Id3MzR1lIXzljcl9HNkp3V3ViZzEyYnNvZzR0YmtNOFNkV1pWdWlKTlljTUpMRXB0WGM?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE14QWVWZng0eGlFVURZaHd4SEF3aG9wZ2RUOTBwRkU0NG1Id3MzR1lIXzljcl9HNkp3V3ViZzEyYnNvZzR0YmtNOFNkV1pWdWlKTlljTUpMRXB0WGM?oc=5\" target=\"_blank\">أسعار الذهب اليوم في مصر الاثنين 28/9/2026.. عيار 21 يخسر 130 جنيهًا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة البورصة</font>",
-      "date": "Mon, 28 Sep 2026 09:44:18 GMT",
-      "source": "Google News مصر",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "مصر",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News مصر"
-      ]
-    },
-    {
-      "title": "\"إنفيديا\" تطور نظام أمان كان بإمكانه منع اختراق \"هاغينغ فيس\" - asharqbusiness.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNdFYtOHM5aWlkbFBnSjhPOWUyMUNEbTZQSlNOcFhuMy1DeTVLT1hsVGxNZDl5ajNDSl8yUmhFUEpmZlJzQXdxbFlOa1p1VU5pbjB0VnQya3lOZGtXNmFHVG9aODF0VFRUS3ZxOEpDYTNnOVRuTkl3UG9wSEVRTVBlNkQzT3NyLVJock52S3hsdFZYUzI5NmdxYnR1YUdBUENfT0VvSFJ4Qlo2MzA1NDFVcmE4M2F5ZVJIbEZzdXRLcktnem94dUVocGdfT3R6dzRLdXZTV2hkN3V3SUliVndYc0pVUDFoMGZybHNYVy1EWTZrMjg1ZjJvNUVBNkFJLW9vZTNpNFNBTlp6Wl9kNjdka3V0bHF6VURCSGN4b2VNQzRMVmVuaXJkQzlxeExfWURwS2Qwa1UzQ0ZtMzRGc0tybGg4aUFxaWNadFkweUNlODFxeU1aRkQyTnJNcWQxYkUwMTNwa3VYbHJ5QlNpZlk1dXgzRXdNRWh0VEpHbTNGSi1yejJVRGZ5UTlucktRZU01R3BIcGFtQnZoZkotRUVGV0pxS1ItM2NnVUFmelNIckRRQ3NYWEYweVhRc29VcUgtUk8xMG1LZUNCZ3oybHhpWUI0VDhfRmdxX1o3TzR3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gNBVV95cUxNdFYtOHM5aWlkbFBnSjhPOWUyMUNEbTZQSlNOcFhuMy1DeTVLT1hsVGxNZDl5ajNDSl8yUmhFUEpmZlJzQXdxbFlOa1p1VU5pbjB0VnQya3lOZGtXNmFHVG9aODF0VFRUS3ZxOEpDYTNnOVRuTkl3UG9wSEVRTVBlNkQzT3NyLVJock52S3hsdFZYUzI5NmdxYnR1YUdBUENfT0VvSFJ4Qlo2MzA1NDFVcmE4M2F5ZVJIbEZzdXRLcktnem94dUVocGdfT3R6dzRLdXZTV2hkN3V3SUliVndYc0pVUDFoMGZybHNYVy1EWTZrMjg1ZjJvNUVBNkFJLW9vZTNpNFNBTlp6Wl9kNjdka3V0bHF6VURCSGN4b2VNQzRMVmVuaXJkQzlxeExfWURwS2Qwa1UzQ0ZtMzRGc0tybGg4aUFxaWNadFkweUNlODFxeU1aRkQyTnJNcWQxYkUwMTNwa3VYbHJ5QlNpZlk1dXgzRXdNRWh0VEpHbTNGSi1yejJVRGZ5UTlucktRZU01R3BIcGFtQnZoZkotRUVGV0pxS1ItM2NnVUFmelNIckRRQ3NYWEYweVhRc29VcUgtUk8xMG1LZUNCZ3oybHhpWUI0VDhfRmdxX1o3TzR3?oc=5\" target=\"_blank\">\"إنفيديا\" تطور نظام أمان كان بإمكانه منع اختراق \"هاغينغ فيس\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">asharqbusiness.com</font>",
-      "date": "Mon, 28 Sep 2026 09:43:51 GMT",
-      "source": "Google News تكنولوجيا",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "تكنولوجيا",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News تكنولوجيا"
-      ]
-    },
-    {
       "title": "القناة الناقلة لمباراة مصر وجنوب السودان فى تصفيات أمم أفريقيا 2027 - اليوم السابع",
       "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOaUhtRUFUOWJqTjhDTHVfXzhOVlhVTEUtWGRMRTNtdGFqVHpaemVJUm5uMWJqREdYUHdFVHFsYVJHZGNYQU12bFNVX3V3ZzVScTlLY3pBbl9TM01yaUg5U05BbURLR3Vob3VqdVpuRjBnQk9RU09Lak9xZWpjQjkxMXdmMEpidFk5Q0twN1BUSktoMTIxV2Jaa1JVYTE0WkhmaGhuenRBdXY5dkFvdjdYUTZ1dm5ESHZLTnk1VHdNUXNsdnlMZzI4SmNtSFR2VWJ3cTVDSlJmUFVrbkpqay1CUkNsU2d5NlY5UW5EdUpWSWgwVE5wY3g4dVRkbGo4T0lqNlpxX0dXTWlZbkNacXZUVkRfY21QTUhIUDdINW1HQzZwa0VxZnFydDBvOEdsYTl6QUtCdWtCVXJENkxxWjNDV3dBMlBlZU9Qci04YkQ4R2M4UXVnX2oxS3JCS2w0V3hXbFl5YzRydllrVklXZlNGTTdJLVU5Q0RSU2ptQmtibzZQS1NNUUp6SzlFQkdGR2RmWl9kYW40RXhuRlZuV2t4X2k0WUNINUQ3bnpCaXNVM29EcTY3TXlRODRLbDBkemk5bVZQbUwxMXpGUGtVZEUwYjd3b08zUF9MUU1FaVhrZF9zOC1seHNTaUdIb3kzdEpxNjZMSHBqWVI5WVkzRWJtLU96U2lQNEc1cEdZUjlR0gGIBEFVX3lxTE1yMnZLWjFtMUo1TlVqcS1qaEhXaC1sdktzWjdHUm1UQ2NzMWMzUWhYQ29QUUNnbWd2b20yYldMNk85YWxLbm1NcXZxYi1FQlJIRVBDOV84M3hFQXlpcE9mTVhXSVB4dFFUUjJBaUVybTV3MXczZVhjcXozd1Z1Q3lRekJuU2hsSTNnazZURzdERjFZMks5SGl5NmtJRW8tMHFobExkMy1JQ2NxSXZfRFRHUGhZUDJxRkJiZGNZbGNsc1lZYVFaRXdsV1I3eElJREdPT180UXVBdVFaWjJ1NkEzVERyUzhxd0stR21TU1Q3WkNxV1FqRTY1UWpjYkZ4amtMdnJQcmIyaTVMN1htYVhUUXluek85NU1LdElVMEdqZGk0Nll0aWxaSS1LcU10aDhiM09QNmdDbHlPU0tDQnU0VVdMTkRCQUpMelNYMFlrR3g4RWdpVFg3Z050VFF2UVZnTlVJXzlWMGowYkgtQlNCYzNJc2dXZE01U0pFUmFQaWNGLUdkRlRSQzRNYTJDNmswcGFzVEdCaW14eFZiSUd5VzduWFprZFVPM0x6YUNETXVoM3VycXdMNU5pOHNQcnMybXdwdGJmNHFxU3JEVDNhT1lqdTktV0RQM2kzNWF2ZWJ1em9mN1FuQTRabmtsTmU0d3p0YTVsTUh2Vk4wSUZJcGRFNTZLM1o?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijgRBVV95cUxOaUhtRUFUOWJqTjhDTHVfXzhOVlhVTEUtWGRMRTNtdGFqVHpaemVJUm5uMWJqREdYUHdFVHFsYVJHZGNYQU12bFNVX3V3ZzVScTlLY3pBbl9TM01yaUg5U05BbURLR3Vob3VqdVpuRjBnQk9RU09Lak9xZWpjQjkxMXdmMEpidFk5Q0twN1BUSktoMTIxV2Jaa1JVYTE0WkhmaGhuenRBdXY5dkFvdjdYUTZ1dm5ESHZLTnk1VHdNUXNsdnlMZzI4SmNtSFR2VWJ3cTVDSlJmUFVrbkpqay1CUkNsU2d5NlY5UW5EdUpWSWgwVE5wY3g4dVRkbGo4T0lqNlpxX0dXTWlZbkNacXZUVkRfY21QTUhIUDdINW1HQzZwa0VxZnFydDBvOEdsYTl6QUtCdWtCVXJENkxxWjNDV3dBMlBlZU9Qci04YkQ4R2M4UXVnX2oxS3JCS2w0V3hXbFl5YzRydllrVklXZlNGTTdJLVU5Q0RSU2ptQmtibzZQS1NNUUp6SzlFQkdGR2RmWl9kYW40RXhuRlZuV2t4X2k0WUNINUQ3bnpCaXNVM29EcTY3TXlRODRLbDBkemk5bVZQbUwxMXpGUGtVZEUwYjd3b08zUF9MUU1FaVhrZF9zOC1seHNTaUdIb3kzdEpxNjZMSHBqWVI5WVkzRWJtLU96U2lQNEc1cEdZUjlR0gGIBEFVX3lxTE1yMnZLWjFtMUo1TlVqcS1qaEhXaC1sdktzWjdHUm1UQ2NzMWMzUWhYQ29QUUNnbWd2b20yYldMNk85YWxLbm1NcXZxYi1FQlJIRVBDOV84M3hFQXlpcE9mTVhXSVB4dFFUUjJBaUVybTV3MXczZVhjcXozd1Z1Q3lRekJuU2hsSTNnazZURzdERjFZMks5SGl5NmtJRW8tMHFobExkMy1JQ2NxSXZfRFRHUGhZUDJxRkJiZGNZbGNsc1lZYVFaRXdsV1I3eElJREdPT180UXVBdVFaWjJ1NkEzVERyUzhxd0stR21TU1Q3WkNxV1FqRTY1UWpjYkZ4amtMdnJQcmIyaTVMN1htYVhUUXluek85NU1LdElVMEdqZGk0Nll0aWxaSS1LcU10aDhiM09QNmdDbHlPU0tDQnU0VVdMTkRCQUpMelNYMFlrR3g4RWdpVFg3Z050VFF2UVZnTlVJXzlWMGowYkgtQlNCYzNJc2dXZE01U0pFUmFQaWNGLUdkRlRSQzRNYTJDNmswcGFzVEdCaW14eFZiSUd5VzduWFprZFVPM0x6YUNETXVoM3VycXdMNU5pOHNQcnMybXdwdGJmNHFxU3JEVDNhT1lqdTktV0RQM2kzNWF2ZWJ1em9mN1FuQTRabmtsTmU0d3p0YTVsTUh2Vk4wSUZJcGRFNTZLM1o?oc=5\" target=\"_blank\">القناة الناقلة لمباراة مصر وجنوب السودان فى تصفيات أمم أفريقيا 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
       "date": "Mon, 28 Sep 2026 09:33:00 GMT",
-      "source": "Google News مصر",
+      "source": "Google News رياضة",
       "sourceScore": 6,
       "sourceType": "aggregator",
-      "cat": "مصر",
+      "cat": "رياضة",
       "image": "",
-      "sourceCount": 2,
+      "sourceCount": 1,
       "sources": [
-        "Google News مصر",
         "Google News رياضة"
       ]
     },
@@ -528,9 +528,9 @@
       ]
     },
     {
-      "title": "بحضور وزيرا التضامن والشباب.. انطلاق الحفل الختامي لجائزة مصر الخير - بوابة أخبار اليوم الإلكترونية",
+      "title": "بحضور وزيرا التضامن والشباب.. انطلاق الحفل الختامي لجائزة مصر الخير - akhbarelyom.com",
       "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQaXBaOFRlMzNfQzJTS3duelFxWlowY01QZTBhMHAtdWR1TzBOcGVieHdpbkU2dnFXRjk0QThQZUYxeXh2V3dMSmN2dGctSGtIcWZVY2doZkVCQmFsQTV1MS1XUkJDYVZDeGVHZXJmaWtmcHh5VkVURkdZWTgxdEFfN3JiRmRqM0dpQmZqTEJ4bEw2VUtJVXVqN3pHX1NaU0p4RzZaSlUwejZSVEpMM2thN2E4U3ZCLWwzMGNsZHh1TG95X2lyVzkwTWNNal9kUER0OS0xQWNxbFMxT3FXTGcyay0taTR1cndQaWRRamJVeFp1cWVGMWtGb2J1eXhmRHNvWFNPNVVVMGYtOEhsOWt1dDVweGM1eWZSbUcxUFZ2Z0tlQ21Ia1JnelF4Y0hxT3EtODdCekNDamVXOTBvS0tkOHB2N0I5M21yMHNVaElnbTd3cURWaFQ4RDc5MDY4SWZ1dUVSaEFhb1JCdFRoc3JPLVF1S2R5Nm9WcGFZRS13?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxQaXBaOFRlMzNfQzJTS3duelFxWlowY01QZTBhMHAtdWR1TzBOcGVieHdpbkU2dnFXRjk0QThQZUYxeXh2V3dMSmN2dGctSGtIcWZVY2doZkVCQmFsQTV1MS1XUkJDYVZDeGVHZXJmaWtmcHh5VkVURkdZWTgxdEFfN3JiRmRqM0dpQmZqTEJ4bEw2VUtJVXVqN3pHX1NaU0p4RzZaSlUwejZSVEpMM2thN2E4U3ZCLWwzMGNsZHh1TG95X2lyVzkwTWNNal9kUER0OS0xQWNxbFMxT3FXTGcyay0taTR1cndQaWRRamJVeFp1cWVGMWtGb2J1eXhmRHNvWFNPNVVVMGYtOEhsOWt1dDVweGM1eWZSbUcxUFZ2Z0tlQ21Ia1JnelF4Y0hxT3EtODdCekNDamVXOTBvS0tkOHB2N0I5M21yMHNVaElnbTd3cURWaFQ4RDc5MDY4SWZ1dUVSaEFhb1JCdFRoc3JPLVF1S2R5Nm9WcGFZRS13?oc=5\" target=\"_blank\">بحضور وزيرا التضامن والشباب.. انطلاق الحفل الختامي لجائزة مصر الخير</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة أخبار اليوم الإلكترونية</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxQaXBaOFRlMzNfQzJTS3duelFxWlowY01QZTBhMHAtdWR1TzBOcGVieHdpbkU2dnFXRjk0QThQZUYxeXh2V3dMSmN2dGctSGtIcWZVY2doZkVCQmFsQTV1MS1XUkJDYVZDeGVHZXJmaWtmcHh5VkVURkdZWTgxdEFfN3JiRmRqM0dpQmZqTEJ4bEw2VUtJVXVqN3pHX1NaU0p4RzZaSlUwejZSVEpMM2thN2E4U3ZCLWwzMGNsZHh1TG95X2lyVzkwTWNNal9kUER0OS0xQWNxbFMxT3FXTGcyay0taTR1cndQaWRRamJVeFp1cWVGMWtGb2J1eXhmRHNvWFNPNVVVMGYtOEhsOWt1dDVweGM1eWZSbUcxUFZ2Z0tlQ21Ia1JnelF4Y0hxT3EtODdCekNDamVXOTBvS0tkOHB2N0I5M21yMHNVaElnbTd3cURWaFQ4RDc5MDY4SWZ1dUVSaEFhb1JCdFRoc3JPLVF1S2R5Nm9WcGFZRS13?oc=5\" target=\"_blank\">بحضور وزيرا التضامن والشباب.. انطلاق الحفل الختامي لجائزة مصر الخير</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">akhbarelyom.com</font>",
       "date": "Mon, 28 Sep 2026 09:20:17 GMT",
       "source": "Google News مصر",
       "sourceScore": 6,
@@ -664,10 +664,25 @@
       ]
     },
     {
-      "title": "الرئيس السيسي يشهد افتتاح منتدى مصر للتعدين - بوابة أخبار اليوم الإلكترونية",
+      "title": "الرئيس السيسي يشهد افتتاح منتدى مصر للتعدين - akhbarelyom.com",
       "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOQzUxMU41SGFuN2Z5UTgydTNxX2FVQTdQb1hCSm1vWDZKSFpDUGFTUTM5Ujk2QnI4bXM5YVF3M2QyZzlhVnZPaTl0SldNNjRDNjRmdFVnOE01aEYwUmtTWThmNlJMRXVlT294b1drZkc3dXU5SUR5U3kxbV9JRWNKaXUtTUVCakhPa3dZb1N6NFRqNEJkOU9mdHExUVZwenZ4eXUyRUd5TjNiQUl4SVU2UEpVNGd5WnFtYUNyYzZxMUNSWTIwR0Q0ZWNZd1JOSTBfV3BVbTk5M0l1dnZVSi1SaE82NW0wajZjZ19TZFdyeEg2VVkzc3V3VElPa2JZakZsSzBLcnc3SDFIU25MY1hQV0ZfLXRnZWtHU1FBRkxselRfUkNiRXN0TXQzT0RGaU9aMFQ3cGZIcUVCbDdvNWxWcjhlZENvWDdLX05xajdNdzVyT3pMdGVLczhPdzUzWnNKbTlFcVA3SnpsWHVkclR5Yk5ZVk1qYTg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wJBVV95cUxOQzUxMU41SGFuN2Z5UTgydTNxX2FVQTdQb1hCSm1vWDZKSFpDUGFTUTM5Ujk2QnI4bXM5YVF3M2QyZzlhVnZPaTl0SldNNjRDNjRmdFVnOE01aEYwUmtTWThmNlJMRXVlT294b1drZkc3dXU5SUR5U3kxbV9JRWNKaXUtTUVCakhPa3dZb1N6NFRqNEJkOU9mdHExUVZwenZ4eXUyRUd5TjNiQUl4SVU2UEpVNGd5WnFtYUNyYzZxMUNSWTIwR0Q0ZWNZd1JOSTBfV3BVbTk5M0l1dnZVSi1SaE82NW0wajZjZ19TZFdyeEg2VVkzc3V3VElPa2JZakZsSzBLcnc3SDFIU25MY1hQV0ZfLXRnZWtHU1FBRkxselRfUkNiRXN0TXQzT0RGaU9aMFQ3cGZIcUVCbDdvNWxWcjhlZENvWDdLX05xajdNdzVyT3pMdGVLczhPdzUzWnNKbTlFcVA3SnpsWHVkclR5Yk5ZVk1qYTg?oc=5\" target=\"_blank\">الرئيس السيسي يشهد افتتاح منتدى مصر للتعدين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة أخبار اليوم الإلكترونية</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wJBVV95cUxOQzUxMU41SGFuN2Z5UTgydTNxX2FVQTdQb1hCSm1vWDZKSFpDUGFTUTM5Ujk2QnI4bXM5YVF3M2QyZzlhVnZPaTl0SldNNjRDNjRmdFVnOE01aEYwUmtTWThmNlJMRXVlT294b1drZkc3dXU5SUR5U3kxbV9JRWNKaXUtTUVCakhPa3dZb1N6NFRqNEJkOU9mdHExUVZwenZ4eXUyRUd5TjNiQUl4SVU2UEpVNGd5WnFtYUNyYzZxMUNSWTIwR0Q0ZWNZd1JOSTBfV3BVbTk5M0l1dnZVSi1SaE82NW0wajZjZ19TZFdyeEg2VVkzc3V3VElPa2JZakZsSzBLcnc3SDFIU25MY1hQV0ZfLXRnZWtHU1FBRkxselRfUkNiRXN0TXQzT0RGaU9aMFQ3cGZIcUVCbDdvNWxWcjhlZENvWDdLX05xajdNdzVyT3pMdGVLczhPdzUzWnNKbTlFcVA3SnpsWHVkclR5Yk5ZVk1qYTg?oc=5\" target=\"_blank\">الرئيس السيسي يشهد افتتاح منتدى مصر للتعدين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">akhbarelyom.com</font>",
       "date": "Mon, 28 Sep 2026 08:52:18 GMT",
+      "source": "Google News مصر",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "مصر",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News مصر"
+      ]
+    },
+    {
+      "title": "مصر تسعى لجذب استثمارات فرنسية جديدة على هامش منتدى الأعمال المشترك - جريدة البورصة",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tcUNrQTRXcHFIZTBpQXJqekVuM0h4djdZdVg3emZsbWY4ZERfSGkyeVc2dGgyd0l3eXRMU1RDMHJ2cmJ1UUFfcTlKTXc3Nnp1aFlCeFp3SWMyYzg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tcUNrQTRXcHFIZTBpQXJqekVuM0h4djdZdVg3emZsbWY4ZERfSGkyeVc2dGgyd0l3eXRMU1RDMHJ2cmJ1UUFfcTlKTXc3Nnp1aFlCeFp3SWMyYzg?oc=5\" target=\"_blank\">مصر تسعى لجذب استثمارات فرنسية جديدة على هامش منتدى الأعمال المشترك</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة البورصة</font>",
+      "date": "Mon, 28 Sep 2026 08:44:42 GMT",
       "source": "Google News مصر",
       "sourceScore": 6,
       "sourceType": "aggregator",
@@ -709,21 +724,6 @@
       ]
     },
     {
-      "title": "هيثم حسن يعوض غياب محمد صلاح ويقود جبهة مصر اليمنى أمام جنوب السودان - اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxOeENUdnZBY204N1c0cmZDOWhOSmxrMmtXUnlCLXNoQm5rYmJiOVV2MHE3b2ZYa3MtVmFOeUJhVEFCcC1sTlpiQTlibU9tM1dvcnI2UFBYQ3FZNzdyTThybTQzUHBaNkpiWmRKeF9uSzFvMmxYRTFrSkZPUEFLSVBjeHc1czdvOExlcm9yWVd0TXZWTS1ESVFPTTI2ckVjRkJrS2FTVl95UEl2Q1hNZDFYdmNqWi1mLWUwRTNRU3o1bzNsdzc2Q0pDMUJsNDNpXzlIS0ZBcy1UODZKeTQtVUs3UlFnVkJZY0JQazczTXFBeWVqRTJwNnlNZlFTSUdRX3NfaDk1bG9aQTdrd1ZVZVgtT2h4X3VvQUJ4aC04d1MxSy1jRVR6TEU1Z0twMWo4RmRKVG1EN3lGa0ZNaWdraW9JV043QnpGb1A2Ui01ZS0xVHktaldCUjNKUE5kQkZNX052SWFENHRYYUM1OUh5WWp1YTBEdkN4ZkZ4ODZ4NXZIZnBaYm51azdOU0NPSk5nd0NmOEF5THUyelQzSEpyQ2JVOUY4cmwtNmJ2T0hEak1B0gGoA0FVX3lxTFBfQ3lUY0VuM0loNGJtSWFfcEN3VTdMc0RUYTBBUC15NkQtdnVQUkw4YWw2WmZWN2NZQ1NqYUNTSi1HcHRRdkJkT0l4VFM1ZGRDTUNqekNGZG1iRDFYVUVxTGEtYTdGaUx6Xy1OLXdILTZvSGo5dU1tU19oVDByX0VBWTFsbU01bHpTMGRHbXhabTJLNk03amVLLWhRRDl5MDJ6dFVVRmJ2eWdZdHRqT2NrRmpJM0pTdjhnZjNNNHE2a0w4V1BiSlM0RWtZZzdpTXdXV2NWU21WX2J3Q2hkNDl3S3NpNkl4MnhVbVBmYm1XZ01iWjBsWm55YW53UXNyTFh4R3UzbEpQMXgtRldvSm5yV1hpT0pEcVJTMElfR2UzbC1kM09zcGFTWG5DUWMxTWh1WVdvNXFhVVNwaGRvS3dIc3hsZTFSSFFSSmdjSnVDVDJSdDdWRmtzSUlDT01WQ2NQeDk2QnhCOGFVdUVRc1ZpWDExS3ZXdkduMVNCTHFtTFpUa1dlNVRkanpUQjBfTGlFYnN4dHZqUXpycE9GZ1JTYllSN2ttR3k?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgNBVV95cUxOeENUdnZBY204N1c0cmZDOWhOSmxrMmtXUnlCLXNoQm5rYmJiOVV2MHE3b2ZYa3MtVmFOeUJhVEFCcC1sTlpiQTlibU9tM1dvcnI2UFBYQ3FZNzdyTThybTQzUHBaNkpiWmRKeF9uSzFvMmxYRTFrSkZPUEFLSVBjeHc1czdvOExlcm9yWVd0TXZWTS1ESVFPTTI2ckVjRkJrS2FTVl95UEl2Q1hNZDFYdmNqWi1mLWUwRTNRU3o1bzNsdzc2Q0pDMUJsNDNpXzlIS0ZBcy1UODZKeTQtVUs3UlFnVkJZY0JQazczTXFBeWVqRTJwNnlNZlFTSUdRX3NfaDk1bG9aQTdrd1ZVZVgtT2h4X3VvQUJ4aC04d1MxSy1jRVR6TEU1Z0twMWo4RmRKVG1EN3lGa0ZNaWdraW9JV043QnpGb1A2Ui01ZS0xVHktaldCUjNKUE5kQkZNX052SWFENHRYYUM1OUh5WWp1YTBEdkN4ZkZ4ODZ4NXZIZnBaYm51azdOU0NPSk5nd0NmOEF5THUyelQzSEpyQ2JVOUY4cmwtNmJ2T0hEak1B0gGoA0FVX3lxTFBfQ3lUY0VuM0loNGJtSWFfcEN3VTdMc0RUYTBBUC15NkQtdnVQUkw4YWw2WmZWN2NZQ1NqYUNTSi1HcHRRdkJkT0l4VFM1ZGRDTUNqekNGZG1iRDFYVUVxTGEtYTdGaUx6Xy1OLXdILTZvSGo5dU1tU19oVDByX0VBWTFsbU01bHpTMGRHbXhabTJLNk03amVLLWhRRDl5MDJ6dFVVRmJ2eWdZdHRqT2NrRmpJM0pTdjhnZjNNNHE2a0w4V1BiSlM0RWtZZzdpTXdXV2NWU21WX2J3Q2hkNDl3S3NpNkl4MnhVbVBmYm1XZ01iWjBsWm55YW53UXNyTFh4R3UzbEpQMXgtRldvSm5yV1hpT0pEcVJTMElfR2UzbC1kM09zcGFTWG5DUWMxTWh1WVdvNXFhVVNwaGRvS3dIc3hsZTFSSFFSSmdjSnVDVDJSdDdWRmtzSUlDT01WQ2NQeDk2QnhCOGFVdUVRc1ZpWDExS3ZXdkduMVNCTHFtTFpUa1dlNVRkanpUQjBfTGlFYnN4dHZqUXpycE9GZ1JTYllSN2ttR3k?oc=5\" target=\"_blank\">هيثم حسن يعوض غياب محمد صلاح ويقود جبهة مصر اليمنى أمام جنوب السودان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
-      "date": "Mon, 28 Sep 2026 08:20:00 GMT",
-      "source": "Google News رياضة",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "رياضة",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News رياضة"
-      ]
-    },
-    {
       "title": "خبير تكنولوجيا: الأمن السيبرانى لم يعد رفاهية.. والذكاء الاصطناعى «سلاح ذو حدين» - المصري اليوم",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PY1FremZsRDBPSUtvNVp1N2Rzb0lfSElnLURZOEZyQjNqNEhXU1lfU2NyUm9CcnVlOU1LMzJIMEgyWlhiSEttU2RaZWJBU0VDcTZtZnNGYWdLQmZzSGtB?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PY1FremZsRDBPSUtvNVp1N2Rzb0lfSElnLURZOEZyQjNqNEhXU1lfU2NyUm9CcnVlOU1LMzJIMEgyWlhiSEttU2RaZWJBU0VDcTZtZnNGYWdLQmZzSGtB?oc=5\" target=\"_blank\">خبير تكنولوجيا: الأمن السيبرانى لم يعد رفاهية.. والذكاء الاصطناعى «سلاح ذو حدين»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المصري اليوم</font>",
@@ -758,21 +758,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPdC1Bd0FJS1dCWWpybmJYUXgwWDU5T1pmUVludW1XUWFpLXJwaWdhVVliTlZ6QXNTa0NqbXpuZDlXWmNpbFNjaXJhVWw5QWRaN3hYcTJtOVJ6NTNNRmNwRDl0Y3BqMWRqbEp0Q1FvUk1aaE1tM0E3amZQUjV6TUM2Um11WW5COVBhM1lMWUVvZHNsZV9FdFZ4QzIzeG1NdDgySENqeWdsRmlHVEp5Q19pdVBGWWtZdFRMOU00YlUxRXRyTWhieC1seTRxTk9MR19LR25WX3VmMlZrSGpiREwtdnFUTk01WTZCUWhrX2lRWkZUYVBnZUZneWNMS2pVRF9PQUhlTlpQUXdDQXF5Q0pub09wR3dtTVBRWHJWMTgtVFRNTHBBbzR3elZtNHBtNERrZkp0aU94QUViTWhZQXEzdDd1X0h2YzYzNHRuQXNkU3RRZC1hUnBad19pLVdsY1JZSGZNZFhjLUtuR3FiWG9fV3V3OVZPZWhUck9kUkQwbFNWRzdQY0hkRUtWOGZ5TVJidWpLNVJzTlJzcDlibWtlM0tJY3BPd3pZOUNMcmlaTXA3YlBySUFqdzhGSTNEMVNiSVFjdmRvTF9FbDd3ZkFqU0hIT2w4aDNIR3FCLVBRdVFFQ2t1MlBUd19uTlR0ckU5ZXhTTDVyZkdyUi1kVl83WENlVHowOHAwS2djdzA3N3ZLZEFsYVZnNl9WaXJOWGptSWlmOWlfT1NpNW45OENsYWRIN0RSbkstYWVNSXFSQkFTa0NQYU5RTzl5SG5lQmFtT1FWNnNaY3NwWTNrTTlMdlJLakJ5UQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gRBVV95cUxPdC1Bd0FJS1dCWWpybmJYUXgwWDU5T1pmUVludW1XUWFpLXJwaWdhVVliTlZ6QXNTa0NqbXpuZDlXWmNpbFNjaXJhVWw5QWRaN3hYcTJtOVJ6NTNNRmNwRDl0Y3BqMWRqbEp0Q1FvUk1aaE1tM0E3amZQUjV6TUM2Um11WW5COVBhM1lMWUVvZHNsZV9FdFZ4QzIzeG1NdDgySENqeWdsRmlHVEp5Q19pdVBGWWtZdFRMOU00YlUxRXRyTWhieC1seTRxTk9MR19LR25WX3VmMlZrSGpiREwtdnFUTk01WTZCUWhrX2lRWkZUYVBnZUZneWNMS2pVRF9PQUhlTlpQUXdDQXF5Q0pub09wR3dtTVBRWHJWMTgtVFRNTHBBbzR3elZtNHBtNERrZkp0aU94QUViTWhZQXEzdDd1X0h2YzYzNHRuQXNkU3RRZC1hUnBad19pLVdsY1JZSGZNZFhjLUtuR3FiWG9fV3V3OVZPZWhUck9kUkQwbFNWRzdQY0hkRUtWOGZ5TVJidWpLNVJzTlJzcDlibWtlM0tJY3BPd3pZOUNMcmlaTXA3YlBySUFqdzhGSTNEMVNiSVFjdmRvTF9FbDd3ZkFqU0hIT2w4aDNIR3FCLVBRdVFFQ2t1MlBUd19uTlR0ckU5ZXhTTDVyZkdyUi1kVl83WENlVHowOHAwS2djdzA3N3ZLZEFsYVZnNl9WaXJOWGptSWlmOWlfT1NpNW45OENsYWRIN0RSbkstYWVNSXFSQkFTa0NQYU5RTzl5SG5lQmFtT1FWNnNaY3NwWTNrTTlMdlJLakJ5UQ?oc=5\" target=\"_blank\">الأسهم الأوروبية تستقر مع ارتفاع النفط وضغوط التكنولوجيا والذكاء الاصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">معلومات مباشر</font>",
       "date": "Mon, 28 Sep 2026 07:51:59 GMT",
-      "source": "Google News تكنولوجيا",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "تكنولوجيا",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News تكنولوجيا"
-      ]
-    },
-    {
-      "title": "وكلاء \"OpenAI\" للذكاء الاصطناعي يشنون حملة هجومية على الأمم المتحدة لاستخراج البيانات - العربية",
-      "link": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxQcExLZGZfLVJ5NW5FZ0ViNGNtV19QM05VRHdnMjJMWE9FRVcxcThzem0xRnVMM0dDbjE5MjNXbEI2cEszVXd3aWdkTHJEY2pZU280bEdHZ3piZ2N2UWlnS2U5NXhoNEJPVi1PZDE2R1pLaEE1dmFfblZWTDVkX1BTQWtVUHNRUk5aNk5tMFdBbnE1Z01YRHhLeWJtdnpDQmNqMHZvc2xZamh6VTZnNzQ3Sm4tOVlHZVVZSGFqVlZRMzYxSXlxT1pkbU5sSUNaYmRUN1RRWkJUckl1Qm1ERVVaS25rdjBoQVMxZjJJeWhKZ2FxcnA0WFJsXzJJWWVkai1TcVZUaWUzRnNUcHFyQU8wbnBwTVBhd1ptaFhGX1lNanByUHdMUmNiUXFyNTlhTXNPYmdrbXhNR3BGdXFsa1YzYWxsNzR3ZldMVktCMl9MWlBBTW9mZnRNQnc0aHEwNnJNYjloV2FSYWJyTV9iSmh1RHFMb0JBaEw2dzViNDZhOWpFSi1hLVBRRmVVdjdrZFloV2FPQ1RIWjYwZWp2SWZhYmpvUC1WYmFTNkptU3UzckxQTWtSZ3hzME5nRXVqTnFyaHVFRnpzTUtRdUtCY2MtLVZBYUZ6TENBUjh3czhERUdxTkNUcV9XM01RSGdCNkpGcGxzNEswTUJnZllFb2JpNW8tRklFSDd4R200VlhIUG5rNlJROHlDdFU1RnRwb3UxQXdEN0lnS05KWGp5TVU5di1CRWtjd0diUVROUVctcmRsTmFNX0RoT0ZzMjlaU0hvWUo2cG45dDBRZXpFU25HWk1jSkk1OF9qQmpDU0xKTEItTDJxOTZrQ3NaaEdZUDZyWjRidFlSMV8zS1kyZFNmVUFEZ2lSazBKSGdxcjFkZWhnRVFWU0hrdtIBrgVBVV95cUxQVDRrcDJhbF9hV2MzSnZLLThic1VIemdwRHdsSXRtRXNCVnhkU0dYN09SWGhieHBTYzFpSVBETDRPd3YxbVF3NkIzdVFwWGNjTDlmYUdRaWpFanMtMERJZE8wZDVONWZQeXZlWkZ3RmpmaEI1elBNLTZnRG1nZFcxYU5HREhGZ004Y1NtZVE4ekJmczlHQWg1MmphUUZwbzZ3VzJ2am5zLVlILWVYRHQ2RXJOWWR5eF9ueWlhcG5SekNxbldfNFBLcktuYS1oeVAtOWdtcFNhRXc1X0c0VldHVUF1WlNYNERpM2RjZS1tbjA1YjlhcFBpN2hwZUdVQ1V5UjBoRUFreUFRUU5MRlVUelZDWUtKaWdkZFo2cEdDS01rNk5ObU9sME9qeU9tSFNlX0RDckw5RU94NVhaQmk5UnB5LXVGbkhkbmVyMG11aDRPYVB5dWtIRHc2RmxBM2MyTDdpX1k3N3owWVluS3BhbkV6YlVWODQtZTZoX2FNQWM0T2lYb3dhNFFETkFwVUZORVFXTTVJNkNIakhCUml0MkxTVnJvR0xfT0NqS2pzQmJKVGlxVUZ1X2pyME9tTTBnT3YwR0JhWjFLNG5DTk4yc0NlNmJXSEJJT25vZVJRZlhQc2FIQnNtMHl3bERiRjJtcmRQbnU3OHh6MXByX01GY01Ia3ZpNWh4ck5Gc2tVOEkySmRWNUxOSVpfdDFnSmo2LVVoZ2RsaDNsMkpMWkc4WmxRNmZTWnB3MlRBemRZUEl5UmxrckNadDQ2d093ODAxMnFRWi1teGZFeWRuMVVCSkdsLXVaUWpYRjJhWlZRclVCWTVyMjdlRktrenRTVDljNTRqSUp3WWFYcklka1JxT2otSmRuSGNZU0RYQTE5S0ZxYzBJRDVnVnpCYzM3QQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAVBVV95cUxQcExLZGZfLVJ5NW5FZ0ViNGNtV19QM05VRHdnMjJMWE9FRVcxcThzem0xRnVMM0dDbjE5MjNXbEI2cEszVXd3aWdkTHJEY2pZU280bEdHZ3piZ2N2UWlnS2U5NXhoNEJPVi1PZDE2R1pLaEE1dmFfblZWTDVkX1BTQWtVUHNRUk5aNk5tMFdBbnE1Z01YRHhLeWJtdnpDQmNqMHZvc2xZamh6VTZnNzQ3Sm4tOVlHZVVZSGFqVlZRMzYxSXlxT1pkbU5sSUNaYmRUN1RRWkJUckl1Qm1ERVVaS25rdjBoQVMxZjJJeWhKZ2FxcnA0WFJsXzJJWWVkai1TcVZUaWUzRnNUcHFyQU8wbnBwTVBhd1ptaFhGX1lNanByUHdMUmNiUXFyNTlhTXNPYmdrbXhNR3BGdXFsa1YzYWxsNzR3ZldMVktCMl9MWlBBTW9mZnRNQnc0aHEwNnJNYjloV2FSYWJyTV9iSmh1RHFMb0JBaEw2dzViNDZhOWpFSi1hLVBRRmVVdjdrZFloV2FPQ1RIWjYwZWp2SWZhYmpvUC1WYmFTNkptU3UzckxQTWtSZ3hzME5nRXVqTnFyaHVFRnpzTUtRdUtCY2MtLVZBYUZ6TENBUjh3czhERUdxTkNUcV9XM01RSGdCNkpGcGxzNEswTUJnZllFb2JpNW8tRklFSDd4R200VlhIUG5rNlJROHlDdFU1RnRwb3UxQXdEN0lnS05KWGp5TVU5di1CRWtjd0diUVROUVctcmRsTmFNX0RoT0ZzMjlaU0hvWUo2cG45dDBRZXpFU25HWk1jSkk1OF9qQmpDU0xKTEItTDJxOTZrQ3NaaEdZUDZyWjRidFlSMV8zS1kyZFNmVUFEZ2lSazBKSGdxcjFkZWhnRVFWU0hrdtIBrgVBVV95cUxQVDRrcDJhbF9hV2MzSnZLLThic1VIemdwRHdsSXRtRXNCVnhkU0dYN09SWGhieHBTYzFpSVBETDRPd3YxbVF3NkIzdVFwWGNjTDlmYUdRaWpFanMtMERJZE8wZDVONWZQeXZlWkZ3RmpmaEI1elBNLTZnRG1nZFcxYU5HREhGZ004Y1NtZVE4ekJmczlHQWg1MmphUUZwbzZ3VzJ2am5zLVlILWVYRHQ2RXJOWWR5eF9ueWlhcG5SekNxbldfNFBLcktuYS1oeVAtOWdtcFNhRXc1X0c0VldHVUF1WlNYNERpM2RjZS1tbjA1YjlhcFBpN2hwZUdVQ1V5UjBoRUFreUFRUU5MRlVUelZDWUtKaWdkZFo2cEdDS01rNk5ObU9sME9qeU9tSFNlX0RDckw5RU94NVhaQmk5UnB5LXVGbkhkbmVyMG11aDRPYVB5dWtIRHc2RmxBM2MyTDdpX1k3N3owWVluS3BhbkV6YlVWODQtZTZoX2FNQWM0T2lYb3dhNFFETkFwVUZORVFXTTVJNkNIakhCUml0MkxTVnJvR0xfT0NqS2pzQmJKVGlxVUZ1X2pyME9tTTBnT3YwR0JhWjFLNG5DTk4yc0NlNmJXSEJJT25vZVJRZlhQc2FIQnNtMHl3bERiRjJtcmRQbnU3OHh6MXByX01GY01Ia3ZpNWh4ck5Gc2tVOEkySmRWNUxOSVpfdDFnSmo2LVVoZ2RsaDNsMkpMWkc4WmxRNmZTWnB3MlRBemRZUEl5UmxrckNadDQ2d093ODAxMnFRWi1teGZFeWRuMVVCSkdsLXVaUWpYRjJhWlZRclVCWTVyMjdlRktrenRTVDljNTRqSUp3WWFYcklka1JxT2otSmRuSGNZU0RYQTE5S0ZxYzBJRDVnVnpCYzM3QQ?oc=5\" target=\"_blank\">وكلاء \"OpenAI\" للذكاء الاصطناعي يشنون حملة هجومية على الأمم المتحدة لاستخراج البيانات</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربية</font>",
-      "date": "Mon, 28 Sep 2026 07:49:00 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
       "sourceType": "aggregator",
@@ -856,6 +841,21 @@
       "sourceCount": 1,
       "sources": [
         "Google News اقتصاد"
+      ]
+    },
+    {
+      "title": "منتخب مصر يختتم تدريباته اليوم استعدادا لجنوب السودان بتصفيات أمم أفريقيا - اليوم السابع",
+      "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxPbUx1ZFItVHZTLUI5V3NaejBvNUFSOVd4N2VpOElBSHV2Y2Q1OGpMYzhkajV6aDIwNjUwR1hobFJMcUJSVldfUnJOcF9TY0RwQnIyNEFPcnlXU1Y2ZHlhd3VRdEhvQXRuUzhra295WUMySkdITE5MNjAzd1RjX1hXTndRN0RNdVk4VHJqOFBlWEdjUjE3LTVjWjRsVy1mSXJKVjBlRm1fcnhFS01ncXBlbGlIdVFha3gtNXh0YWl3TV9uYVNNd3VsaFJ1NVZ4V2xnNjVqcU9tZXNUamVUWXBwbDNxMFJ6QXdpZEtveW52SFVtOS1zQ3N3RE1DSHV4akFLTk5KUF8yOV9sSTNFRTVjNVltanlNUzRYOE1Md2F2RUxXQUZPcXNsRXpqakFCbHZnZ3U4ODV6aVFaNi1BSWlHQjZLUHMzNHFIczVqMEs2TlVoQVVPV3oza1c2Rjc5NGtDU0tEdTZJYXpiQjNydkVaTnhDZ1lwV283ZTU5THdNNzVIVi1iNmlzUjh1SkdVMnNqeVFIQVNUbUZLdGJlNzk1TmhLM05qVDhTMEIzRWVSQVVvS1NZVVVuYS1DbEs2UkFHUkpRbDNSMU1vUThUS3pEcUVEckpCMDJsNmhoak9KTnlfTnl5TWQtZDlJOUFZczNRNUxmWGFmS2hNWl9PWXJvNTVDMjE4UFdYcFVJWHM4ZVNET21YcGtNdEZGNEo1ODk1VWMtb3dB0gGgBEFVX3lxTE5DSEs5TVdENzR0M1BqSHJQczFyVjVWTkhwTmZyeDk0R081NDlyTFdBckhDYjN4T3VoQkVjakJhV0lxdFJDX3hyd0g3TlVFcHNKRVdYanZsczFCX3BQNURncms5RF9USWR0eC05N0s3ZFlobDBOTkFMbDFZQ0dGVE13bG8ySkxqVmItMDg1STJRMUNIMGlsSmpOc2R6MFBCV3JOTXE1eFNqRF9KRU9reDhnTF9hYUpzVkx5R0dENjJqWGZ2LTRMT21Pc19Sc2VGbFp0ci1rZjVrc0xtWVhQSWd3WTdUemZVWklnUDZDeHZWUkJaYkxSWFNTb3FBWUUyYjNXdWhVbEEyd21NdlF3S0NKWmNyYnNzY1RPWVZ2T2RsWXFCY3dwZlhZbWpOYzRFUy1HaUFJeGpVQ2VVWkItRkVLX2szdjBWNlhzZVZMRTV2Tlk4M0dUM3VaRkk2QWQ0OXY0QjJsTnRHb2RLUERPUWZoU1JETmJEUlhHLUR2b0hKbjR2Z2lwZTlNZWNPXzBHZkpkYlVQbXUzMEJXYkZDUjZtR3E1RWR0dUdKQ3FPMkxnQVVBSnE2YXZ0NjF0WDdYSkF6WW5CcHpfQzFMWWdBRFhudnJmRmhDYnpwNncweFlMcUVLUzczLXFqTE56R250Qm1pdGhSNk1yNmJhZWJlVklCaFVjc2JYZGQ1M1AzNEZQc1Bzd2NmTkRWbHN5aWRKalM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgRBVV95cUxPbUx1ZFItVHZTLUI5V3NaejBvNUFSOVd4N2VpOElBSHV2Y2Q1OGpMYzhkajV6aDIwNjUwR1hobFJMcUJSVldfUnJOcF9TY0RwQnIyNEFPcnlXU1Y2ZHlhd3VRdEhvQXRuUzhra295WUMySkdITE5MNjAzd1RjX1hXTndRN0RNdVk4VHJqOFBlWEdjUjE3LTVjWjRsVy1mSXJKVjBlRm1fcnhFS01ncXBlbGlIdVFha3gtNXh0YWl3TV9uYVNNd3VsaFJ1NVZ4V2xnNjVqcU9tZXNUamVUWXBwbDNxMFJ6QXdpZEtveW52SFVtOS1zQ3N3RE1DSHV4akFLTk5KUF8yOV9sSTNFRTVjNVltanlNUzRYOE1Md2F2RUxXQUZPcXNsRXpqakFCbHZnZ3U4ODV6aVFaNi1BSWlHQjZLUHMzNHFIczVqMEs2TlVoQVVPV3oza1c2Rjc5NGtDU0tEdTZJYXpiQjNydkVaTnhDZ1lwV283ZTU5THdNNzVIVi1iNmlzUjh1SkdVMnNqeVFIQVNUbUZLdGJlNzk1TmhLM05qVDhTMEIzRWVSQVVvS1NZVVVuYS1DbEs2UkFHUkpRbDNSMU1vUThUS3pEcUVEckpCMDJsNmhoak9KTnlfTnl5TWQtZDlJOUFZczNRNUxmWGFmS2hNWl9PWXJvNTVDMjE4UFdYcFVJWHM4ZVNET21YcGtNdEZGNEo1ODk1VWMtb3dB0gGgBEFVX3lxTE5DSEs5TVdENzR0M1BqSHJQczFyVjVWTkhwTmZyeDk0R081NDlyTFdBckhDYjN4T3VoQkVjakJhV0lxdFJDX3hyd0g3TlVFcHNKRVdYanZsczFCX3BQNURncms5RF9USWR0eC05N0s3ZFlobDBOTkFMbDFZQ0dGVE13bG8ySkxqVmItMDg1STJRMUNIMGlsSmpOc2R6MFBCV3JOTXE1eFNqRF9KRU9reDhnTF9hYUpzVkx5R0dENjJqWGZ2LTRMT21Pc19Sc2VGbFp0ci1rZjVrc0xtWVhQSWd3WTdUemZVWklnUDZDeHZWUkJaYkxSWFNTb3FBWUUyYjNXdWhVbEEyd21NdlF3S0NKWmNyYnNzY1RPWVZ2T2RsWXFCY3dwZlhZbWpOYzRFUy1HaUFJeGpVQ2VVWkItRkVLX2szdjBWNlhzZVZMRTV2Tlk4M0dUM3VaRkk2QWQ0OXY0QjJsTnRHb2RLUERPUWZoU1JETmJEUlhHLUR2b0hKbjR2Z2lwZTlNZWNPXzBHZkpkYlVQbXUzMEJXYkZDUjZtR3E1RWR0dUdKQ3FPMkxnQVVBSnE2YXZ0NjF0WDdYSkF6WW5CcHpfQzFMWWdBRFhudnJmRmhDYnpwNncweFlMcUVLUzczLXFqTE56R250Qm1pdGhSNk1yNmJhZWJlVklCaFVjc2JYZGQ1M1AzNEZQc1Bzd2NmTkRWbHN5aWRKalM?oc=5\" target=\"_blank\">منتخب مصر يختتم تدريباته اليوم استعدادا لجنوب السودان بتصفيات أمم أفريقيا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
+      "date": "Mon, 28 Sep 2026 06:00:00 GMT",
+      "source": "Google News رياضة",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "رياضة",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News رياضة"
       ]
     },
     {
