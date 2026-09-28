@@ -28,7 +28,7 @@ if (!apiId || !apiHash || !sessionString) {
 // ==========================================
 
 const TARGET_CHANNELS = [
-  "RTarabic",
+  "RTarabic_br",
 
 ];
 
