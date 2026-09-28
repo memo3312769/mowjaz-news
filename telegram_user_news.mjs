@@ -17,6 +17,22 @@ if (!apiId || !apiHash || !sessionString) {
 }
 
 // ==========================================
+// القنوات المطلوب قراءتها فقط
+// ==========================================
+//
+// ضع أسماء مستخدمي القنوات هنا بدون @
+// مثال:
+// RTarabic
+//
+// ويمكن إضافة أكثر من 20 قناة
+// ==========================================
+
+const TARGET_CHANNELS = [
+  "RTarabic",
+
+];
+
+// ==========================================
 // الملفات
 // ==========================================
 
@@ -38,111 +54,19 @@ const client = new TelegramClient(
 );
 
 // ==========================================
-// الاتصال بالحساب
-// ==========================================
-
-console.log("================================");
-console.log("بدء الاتصال بحساب Telegram...");
-console.log("================================");
-
-await client.connect();
-
-const authorized = await client.checkAuthorization();
-
-if (!authorized) {
-  throw new Error(
-    "جلسة Telegram غير صالحة أو انتهت. نحتاج تسجيل الدخول مرة أخرى."
-  );
-}
-
-console.log("✅ تم الاتصال بحساب Telegram بنجاح");
-
-// ==========================================
-// قراءة الأخبار السابقة
-// ==========================================
-
-let telegramNews = [];
-
-if (fs.existsSync(telegramFile)) {
-  try {
-    const saved = JSON.parse(
-      fs.readFileSync(telegramFile, "utf8")
-    );
-
-    telegramNews = Array.isArray(saved)
-      ? saved
-      : saved.items || [];
-
-  } catch {
-    telegramNews = [];
-  }
-}
-
-console.log(
-  `الأخبار الموجودة مسبقًا: ${telegramNews.length}`
-);
-
-// ==========================================
-// الحصول على القنوات
-// ==========================================
-
-console.log("");
-console.log("جاري قراءة قنوات Telegram...");
-console.log("");
-
-const dialogs = await client.getDialogs({
-  limit: 1000
-});
-
-const channels = [];
-
-for (const dialog of dialogs) {
-
-  const entity = dialog.entity;
-
-  if (!entity) {
-    continue;
-  }
-
-  // القنوات فقط
-  if (
-    entity instanceof Api.Channel &&
-    entity.broadcast === true
-  ) {
-    channels.push({
-      entity,
-      title:
-        entity.title ||
-        "Telegram",
-
-      username:
-        entity.username ||
-        "",
-
-      id:
-        entity.id
-    });
-  }
-}
-
-console.log(
-  `📡 تم العثور على ${channels.length} قناة`
-);
-
-console.log("");
-
-// ==========================================
 // دوال مساعدة
 // ==========================================
 
 function cleanText(text) {
-
   return String(text || "")
     .replace(/<!--[\s\S]*?-->/g, "")
     .replace(/\s+/g, " ")
     .trim();
 }
 
+// ==========================================
+// التصنيف
+// ==========================================
 
 function detectCategory(text) {
 
@@ -184,6 +108,9 @@ function detectCategory(text) {
   return "العالم";
 }
 
+// ==========================================
+// رابط Telegram
+// ==========================================
 
 function createTelegramLink(channel, messageId) {
 
@@ -191,34 +118,213 @@ function createTelegramLink(channel, messageId) {
     return `https://t.me/${channel.username}/${messageId}`;
   }
 
-  // للقنوات الخاصة التي لا تملك username
   const channelId =
     String(channel.id);
 
   return `https://t.me/c/${channelId}/${messageId}`;
 }
 
+// ==========================================
+// الاتصال
+// ==========================================
+
+console.log("================================");
+console.log("بدء الاتصال بحساب Telegram...");
+console.log("================================");
+
+await client.connect();
+
+const authorized =
+  await client.checkAuthorization();
+
+if (!authorized) {
+  throw new Error(
+    "جلسة Telegram غير صالحة أو انتهت."
+  );
+}
+
+console.log(
+  "✅ تم الاتصال بحساب Telegram بنجاح"
+);
 
 // ==========================================
-// قراءة الأخبار من القنوات
+// قراءة الأخبار السابقة
+// ==========================================
+
+let telegramNews = [];
+
+if (fs.existsSync(telegramFile)) {
+
+  try {
+
+    const saved =
+      JSON.parse(
+        fs.readFileSync(
+          telegramFile,
+          "utf8"
+        )
+      );
+
+    telegramNews =
+      Array.isArray(saved)
+        ? saved
+        : saved.items || [];
+
+  } catch {
+
+    telegramNews = [];
+  }
+}
+
+console.log(
+  `الأخبار الموجودة مسبقًا: ${telegramNews.length}`
+);
+
+// ==========================================
+// التحقق من قائمة القنوات
+// ==========================================
+
+if (
+  !Array.isArray(TARGET_CHANNELS) ||
+  TARGET_CHANNELS.length === 0
+) {
+
+  throw new Error(
+    "لم يتم تحديد أي قناة في TARGET_CHANNELS"
+  );
+}
+
+console.log("");
+console.log("القنوات المطلوبة فقط:");
+console.log("");
+
+for (const username of TARGET_CHANNELS) {
+
+  console.log(
+    `📡 @${username}`
+  );
+}
+
+console.log("");
+console.log(
+  `إجمالي القنوات المطلوبة: ${TARGET_CHANNELS.length}`
+);
+console.log("");
+
+// ==========================================
+// قراءة القنوات المطلوبة فقط
+// ==========================================
+
+let channels = [];
+
+for (const username of TARGET_CHANNELS) {
+
+  try {
+
+    const entity =
+      await client.getEntity(
+        `@${username}`
+      );
+
+    if (!entity) {
+
+      console.log(
+        `⚠️ لم يتم العثور على @${username}`
+      );
+
+      continue;
+    }
+
+    if (
+      !(entity instanceof Api.Channel)
+    ) {
+
+      console.log(
+        `⚠️ @${username} ليس قناة Telegram`
+      );
+
+      continue;
+    }
+
+    channels.push({
+
+      entity,
+
+      title:
+        entity.title ||
+        username,
+
+      username:
+        entity.username ||
+        username,
+
+      id:
+        entity.id
+    });
+
+    console.log(
+      `✅ تم العثور على: ${
+        entity.title || username
+      }`
+    );
+
+  } catch (error) {
+
+    console.log(
+      `⚠️ تعذر الوصول إلى @${username}`
+    );
+
+    console.log(
+      error.message
+    );
+  }
+}
+
+// ==========================================
+// لا توجد قنوات
+// ==========================================
+
+if (channels.length === 0) {
+
+  throw new Error(
+    "لم يتم العثور على أي قناة من القائمة المحددة."
+  );
+}
+
+console.log("");
+console.log(
+  `📡 سيتم قراءة ${channels.length} قناة فقط`
+);
+console.log("");
+
+// ==========================================
+// قراءة الأخبار
 // ==========================================
 
 let added = 0;
 
 for (const channel of channels) {
 
+  console.log("");
   console.log(
-    `📡 قراءة: ${channel.title}` +
-    (
-      channel.username
-        ? ` (@${channel.username})`
-        : ""
-    )
+    "================================"
+  );
+
+  console.log(
+    `📡 قراءة القناة: ${channel.title}`
+  );
+
+  console.log(
+    `Username: @${channel.username}`
+  );
+
+  console.log(
+    "================================"
   );
 
   try {
 
-    // آخر 30 منشورًا من كل قناة
+    // آخر 30 منشورًا فقط
     for await (
       const message of client.iterMessages(
         channel.entity,
@@ -250,7 +356,9 @@ for (const channel of channels) {
       const lines =
         text
           .split("\n")
-          .map(line => line.trim())
+          .map(
+            line => line.trim()
+          )
           .filter(Boolean);
 
       let title = "";
@@ -266,10 +374,12 @@ for (const channel of channels) {
         }
 
         title = line;
+
         break;
       }
 
       if (!title) {
+
         title =
           lines[0] ||
           "خبر من Telegram";
@@ -277,8 +387,14 @@ for (const channel of channels) {
 
       title =
         title
-          .replace(/^📰\s*/u, "")
-          .replace(/^🔗\s*/u, "")
+          .replace(
+            /^📰\s*/u,
+            ""
+          )
+          .replace(
+            /^🔗\s*/u,
+            ""
+          )
           .trim()
           .slice(0, 200);
 
@@ -301,11 +417,12 @@ for (const channel of channels) {
           title.toLowerCase()
         )
       ) {
+
         continue;
       }
 
       // ====================================
-      // الرابط
+      // رابط الخبر
       // ====================================
 
       const link =
@@ -339,33 +456,38 @@ for (const channel of channels) {
       // ====================================
 
       const exists =
-        telegramNews.some(item => {
+        telegramNews.some(
+          item => {
 
-          if (
-            item.link &&
-            item.link === link
-          ) {
-            return true;
+            if (
+              item.link &&
+              item.link === link
+            ) {
+
+              return true;
+            }
+
+            if (
+              item.telegramChannelId ===
+                String(channel.id) &&
+              item.telegramMessageId ===
+                message.id
+            ) {
+
+              return true;
+            }
+
+            return false;
           }
-
-          if (
-            item.telegramChannelId ===
-              String(channel.id) &&
-            item.telegramMessageId ===
-              message.id
-          ) {
-            return true;
-          }
-
-          return false;
-        });
+        );
 
       if (exists) {
+
         continue;
       }
 
       // ====================================
-      // إنشاء الخبر
+      // الخبر النهائي
       // ====================================
 
       const item = {
@@ -383,7 +505,9 @@ for (const channel of channels) {
           channel.title,
 
         sourceScore:
-          8,
+          channel.username === "RTarabic"
+            ? 10
+            : 8,
 
         sourceType:
           "telegram_user",
@@ -399,9 +523,7 @@ for (const channel of channels) {
 
         sources:
           [
-            channel.username
-              ? `@${channel.username}`
-              : channel.title
+            `@${channel.username}`
           ],
 
         telegramChannelId:
@@ -411,7 +533,7 @@ for (const channel of channels) {
           message.id,
 
         telegramChannelUsername:
-          channel.username || ""
+          channel.username
       };
 
       telegramNews.unshift(item);
@@ -419,18 +541,18 @@ for (const channel of channels) {
       added++;
 
       console.log(
-        `  ✅ ${title.slice(0, 90)}`
+        `  ✅ ${title.slice(0, 100)}`
       );
     }
 
   } catch (error) {
 
     console.log(
-      `  ⚠️ تعذر قراءة ${channel.title}`
+      `⚠️ تعذر قراءة ${channel.title}`
     );
 
     console.log(
-      `  ${error.message}`
+      error.message
     );
   }
 }
@@ -453,7 +575,7 @@ telegramNews =
   telegramNews.slice(0, 300);
 
 // ==========================================
-// حفظ الملف
+// حفظ الأخبار
 // ==========================================
 
 const output = {
@@ -494,7 +616,11 @@ console.log("        النتيجة النهائية");
 console.log("================================");
 
 console.log(
-  `القنوات المقروءة: ${channels.length}`
+  `القنوات المطلوبة: ${TARGET_CHANNELS.length}`
+);
+
+console.log(
+  `القنوات التي تم الوصول إليها: ${channels.length}`
 );
 
 console.log(
