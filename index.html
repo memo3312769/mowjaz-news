@@ -491,6 +491,7 @@ let news = [];
 let active = "all";
 let dark = false;
 let favorites = JSON.parse(localStorage.getItem("mowjazFavorites") || "[]");
+let readItems = JSON.parse(localStorage.getItem("mowjazRead") || "[]");
 
 const nav = document.getElementById("nav");
 const search = document.getElementById("search");
