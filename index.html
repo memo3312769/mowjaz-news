@@ -873,13 +873,15 @@ ${isUrgent(hero) ? '<div style="color:#dc2626;font-weight:900;margin-bottom:10px
 
       list.slice(1,41).map(x => `
 
-        <article class="news-card">
+        <article class="news-card ${readItems.includes(x.link) ? 'is-read' : ''}">
 
-          ${imageHTML(x.image,"news-image",x.cat)}
+  ${imageHTML(x.image,"news-image",x.cat)}
 
-          <div class="source">
-            ${esc(x.cat || "خبر")}
-          </div>
+  ${readItems.includes(x.link) ? '<span class="read-badge">✓ مقروء</span>' : ''}
+
+  <div class="source">
+    ${esc(x.cat || "خبر")}
+  </div>
           ${Number(x.sourceCount || 1) > 1
   ? `<span class="source-count">📰 ${x.sourceCount === 2 ? "مصدران" : x.sourceCount + " مصادر"}</span>`
   : ""}ر
