@@ -636,9 +636,16 @@ function getList(){
   return news
     .filter(x => {
 
-      const categoryOK =
-        active === "all" ||
-        x.cat === active;
+      let categoryOK;
+
+if (active === "all") {
+  categoryOK = true;
+} else if (active === "fav") {
+  // لو اختار المفضلة، نعرض الأخبار اللي رابطه موجود في مصفوفة favorites
+  categoryOK = favorites.includes(x.link);
+} else {
+  categoryOK = x.cat === active;
+}
 
       const text =
         `${x.title || ""} ${x.description || ""} ${x.source || ""}`
