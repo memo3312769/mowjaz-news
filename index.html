@@ -866,17 +866,26 @@ ${isUrgent(x) ? '<div style="color:#dc2626;font-weight:900;margin-bottom:8px">�
   ${esc((x.sources || [x.source || ""]).join(" · "))}
 </div>
 
-          <a
-            class="read"
-            href="${esc(x.link)}"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            قراءة الخبر ←
-          </a>
+                    <div style="display:flex; justify-content:space-between; align-items:center; margin-top:12px;">
+            <a
+              class="read"
+              href="${esc(x.link)}"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              قراءة الخبر ←
+            </a>
+            
+            <button 
+              class="fav-btn" 
+              onclick="toggleFavorite('${esc(x.link)}', this)"
+              title="${favorites.includes(x.link) ? 'إزالة من المفضلة' : 'إضافة إلى المفضلة'}"
+            >
+              ${favorites.includes(x.link) ? '⭐' : '☆'}
+            </button>
+          </div>
 
         </article>
-
       `).join("");
 
   }else{
