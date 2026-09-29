@@ -984,6 +984,25 @@ function toggleTheme(){
   );
 
 }
+  function toggleFavorite(link, btnElement) {
+  // نشوف الخبر ده موجود في المفضلة ولا لأ
+  const index = favorites.indexOf(link);
+
+  if (index > -1) {
+    // لو موجود، نشيله
+    favorites.splice(index, 1);
+    btnElement.textContent = "☆"; // نجمة فاضية
+    btnElement.title = "إضافة إلى المفضلة";
+  } else {
+    // لو مش موجود، نضيفه
+    favorites.push(link);
+    btnElement.textContent = "⭐"; // نجمة مليانة
+    btnElement.title = "إزالة من المفضلة";
+  }
+
+  // نحفظ التعديلات في ذاكرة المتصفح
+  localStorage.setItem("mowjazFavorites", JSON.stringify(favorites));
+}
 
 search.addEventListener("input",render);
 
