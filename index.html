@@ -799,13 +799,14 @@ document.getElementById("importantNews").innerHTML =
         </div>
 
         <a
-          class="read"
-          href="${esc(x.link)}"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          قراءة الخبر ←
-        </a>
+  class="read"
+  href="${esc(x.link)}"
+  target="_blank"
+  rel="noopener noreferrer"
+  onclick="markAsRead('${esc(x.link)}')"
+>
+  قراءة الخبر ←
+</a>
 
       </div>
 
