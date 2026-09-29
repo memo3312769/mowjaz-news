@@ -489,6 +489,7 @@ const categories = [
 let news = [];
 let active = "all";
 let dark = false;
+let favorites = JSON.parse(localStorage.getItem("mowjazFavorites") || "[]");
 
 const nav = document.getElementById("nav");
 const search = document.getElementById("search");
