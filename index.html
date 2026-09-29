@@ -1020,6 +1020,13 @@ function toggleTheme(){
     btnElement.textContent = "⭐"; // نجمة مليانة
     btnElement.title = "إزالة من المفضلة";
   }
+    function markAsRead(link) {
+  // لو الخبر مش موجود في قائمة المقروء، ضيفه
+  if (!readItems.includes(link)) {
+    readItems.push(link);
+    localStorage.setItem("mowjazRead", JSON.stringify(readItems));
+  }
+}
 
   // نحفظ التعديلات في ذاكرة المتصفح
   localStorage.setItem("mowjazFavorites", JSON.stringify(favorites));
