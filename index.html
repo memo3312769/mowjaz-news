@@ -859,13 +859,14 @@ ${isUrgent(hero) ? '<div style="color:#dc2626;font-weight:900;margin-bottom:10px
         </div>
 
         <a
-          class="read"
-          href="${esc(hero.link)}"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          فتح الخبر في المصدر الأصلي ←
-        </a>
+  class="read"
+  href="${esc(hero.link)}"
+  target="_blank"
+  rel="noopener noreferrer"
+  onclick="markAsRead('${esc(hero.link)}')"
+>
+  فتح الخبر في المصدر الأصلي ←
+</a>
 
       </article>
     `;
