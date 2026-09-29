@@ -794,14 +794,17 @@ document.getElementById("importantNews").innerHTML =
   `).join("");
   const counts = {};
 
-  categories.forEach(([name,key]) => {
+categories.forEach(([name,key]) => {
 
-    counts[key] =
-      key === "all"
-      ? news.length
-      : news.filter(x => x.cat === key).length;
+  if (key === "all") {
+    counts[key] = news.length;
+  } else if (key === "fav") {
+    counts[key] = favorites.length;
+  } else {
+    counts[key] = news.filter(x => x.cat === key).length;
+  }
 
-  });
+});
 
   document.getElementById("counts").innerHTML =
     categories.map(([name,key]) =>
