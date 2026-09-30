@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T21:27:28.802Z",
+  "updatedAt": "2026-09-30T21:43:26.449Z",
   "items": [
     {
       "title": "منتخب مصر يكتب التاريخ بأكبر انتصار خارج الأرض فى تاريخ الكرة المصرية - اليوم السابع",
@@ -228,6 +228,36 @@
       ]
     },
     {
+      "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+      "description": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
+      "date": "Wed, 30 Sep 2026 21:38:54 GMT",
+      "source": "BBC World",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab8/live/f51d98c0-bd10-11f1-bc2e-018d645d8d21.png",
+      "sourceCount": 1,
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "date": "Wed, 30 Sep 2026 21:36:31 GMT",
+      "source": "BBC World",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
       "title": "منتخب اليمن يتغلب بخماسية تاريخية على بطل كأس الخليج",
       "link": "https://www.skynewsarabia.com/sport/1895479-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%8A%D8%AA%D8%BA%D9%84%D8%A8-%D8%A8%D8%AE%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%A8%D8%B7%D9%84-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC",
       "description": "تلقى المنتخب البحريني، حامل لقب كأس الخليج، خسارة قاسية وغير مسبوقة أمام نظيره اليمني بنتيجة 5-2، في المباراة التي جمعتهما الأربعاء على ملعب الأمير عبدالله الفيصل، في ختام الجولة الثالثة من منافسات المجموعة الثانية لبطولة خليجي 27 المقامة في مدينة جدة بالسعودية.",
@@ -240,21 +270,6 @@
       "sourceCount": 1,
       "sources": [
         "Sky News عربية"
-      ]
-    },
-    {
-      "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
-      "description": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
-      "date": "Wed, 30 Sep 2026 21:11:24 GMT",
-      "source": "BBC World",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab8/live/f51d98c0-bd10-11f1-bc2e-018d645d8d21.png",
-      "sourceCount": 1,
-      "sources": [
-        "BBC World"
       ]
     },
     {
@@ -285,21 +300,6 @@
       "sourceCount": 1,
       "sources": [
         "Sky News عربية"
-      ]
-    },
-    {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-      "date": "Wed, 30 Sep 2026 20:44:12 GMT",
-      "source": "BBC World",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "BBC World"
       ]
     },
     {
@@ -846,6 +846,21 @@
       ]
     },
     {
+      "title": "العميد يسعى للثأر.. مواجهة خاصة بين حسام حسن وموسيماني في صدام مصر وجنوب أفريقيا - Masrawy",
+      "link": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxQZXBVOVhPRnpqYmttdExnNVJhVWVqbGlSeF9xb0UwUU82QldEemYwOGpVOWJjblNBamRtcWNSUmNPWVpmYm56QVBvQl9PZko3RlNaSlllejFqazU0NERQUHdwTnVqd25BYXpIeXdpVGVNZW8zNDlmelZfOWNjR2hYc1huZ3NoWlNjcTlqNXlOUW4yZm1aOFRCSDB3cXZWR0NUVGY1YUlWMGpDVkFKTFVxMWc5LTJ0U1RmVUl0NG13SktIaTQwZFJxVWliTGMxdW56eWdfNDJQOTVhUE4xaHROTUFtWG9mZ0p2bzlpOVVpUnlObHZqNjkwMENURUUweWdFVXhOaFFHU29uanZRSGpYTlBZSW01U2IxRlR0YzR5RmZzTklEN0o2c05Yc1FheTlfR21TOWZrN1RSQUZIM1ZkQTNCd2dxYnh4TjBrOWI1aFVGVnMxbXk4N1djSTRyNElteVBfdGh6dVFJbkxJcU5qZHdvMkhXbUtxeXo5MnFjdzl4ZnhNbGhrSDB6OXJNWksycDZGUzloejZ3WUNVbFBodGI4eUZiOFpjRXdDTjFoc3RYc0VIYXNZMEdUM2pWd2FpVi1kSGlpQzdpNTIwUHNrbHFINU9kNUl1UXNFYXVOSzhBdy1fWVhOMmdUOTV2ZVlGbTUtMTNkNk1tNE45LS0zOGoxd05uY05RTTZ5b1ZBczlqdkYtVXgzUFhRUXo3ZDN2R3RCTWdVYmtZTFlCbFJ3ZzlCQzFZOVhXQUR2OUt5eHNwQ2YzdFdGMloya2RrNkh0Q3dtT3huWjnSAZcFQVVfeXFMT19SblVTVld6dDQyZ1JQckU2YTViZVEzYU9GUGRDalF4VVZkd3FkdGdPVmlVZFVzU3M2TEpLejdCT3dGRFNtOEVqOUVVdmVUVjgzUzZ2aHBxbmtzcnljSDBqV0JCN2JZdmdZNi1yTkhOdF9YSHRvaEh5TnBrZk9JdjRTVks3RWpZU0t5Z2t5bXFrcmpiWTdHa0RVR3JoTU5wZHVyUmhmbFAzUDBTbk1manNPNzhuVGN0UHhPZjF5MDdvb2lDbnpTQjVmWjE3XzFNVm9lWVM5ZEVwVVZKUV9YNXZfTEZFMWtoeUZIVERXVHNpUzFtRUdzeEoyc25uUUMtWWJVSllfUzNkbmhKTkZMQlFmNV9hQzRGLUJTSHRfbmVHWTl3QUxUektQajNUZWZWaVFuWHVzRWZsSl94V0ViWVlIVDdPMTlyZDJrSXJoU0FmeWdMYzRCVm5pdkR6eGZ6LU5NbEJYQ05DVTJ3NGxZdjJWR3F2MUR2em01VzAwbEhUaldNQkpBMloweUZCTHNQT19IUVpDamV0bWRWRUxXbmRTUVVPN1BTLUpwYkd6WWgzTTI1eXFSVHl4UldWeHIxYUpEMW5HOUdpdG5sWDIyMUdtMTJBTTYzRksxMWEzV3N5X2tvYUk5UDZrY254TVI4ZzZZU0R5Sm9iUVhqZFZLLWVUeXpISlBfbWpNUzlSc3Q0b0VZWFFBSUU5dDk5S1pjanhPSFdyRUQ5bmNCMTdObk9ubWZnaTBrd0NmWDg5NlJ5amdscnlhYjNiUDhwTzBwZ20yanNkNDhZajN1MWNEaGlMT3VmMWNmX1VhdzVlWHowM1dtb1E0NGdYaEZtRHJCMHRuUVFoX3NqQnAwSVVzQ1MtTkxGZGtZ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2ARBVV95cUxQZXBVOVhPRnpqYmttdExnNVJhVWVqbGlSeF9xb0UwUU82QldEemYwOGpVOWJjblNBamRtcWNSUmNPWVpmYm56QVBvQl9PZko3RlNaSlllejFqazU0NERQUHdwTnVqd25BYXpIeXdpVGVNZW8zNDlmelZfOWNjR2hYc1huZ3NoWlNjcTlqNXlOUW4yZm1aOFRCSDB3cXZWR0NUVGY1YUlWMGpDVkFKTFVxMWc5LTJ0U1RmVUl0NG13SktIaTQwZFJxVWliTGMxdW56eWdfNDJQOTVhUE4xaHROTUFtWG9mZ0p2bzlpOVVpUnlObHZqNjkwMENURUUweWdFVXhOaFFHU29uanZRSGpYTlBZSW01U2IxRlR0YzR5RmZzTklEN0o2c05Yc1FheTlfR21TOWZrN1RSQUZIM1ZkQTNCd2dxYnh4TjBrOWI1aFVGVnMxbXk4N1djSTRyNElteVBfdGh6dVFJbkxJcU5qZHdvMkhXbUtxeXo5MnFjdzl4ZnhNbGhrSDB6OXJNWksycDZGUzloejZ3WUNVbFBodGI4eUZiOFpjRXdDTjFoc3RYc0VIYXNZMEdUM2pWd2FpVi1kSGlpQzdpNTIwUHNrbHFINU9kNUl1UXNFYXVOSzhBdy1fWVhOMmdUOTV2ZVlGbTUtMTNkNk1tNE45LS0zOGoxd05uY05RTTZ5b1ZBczlqdkYtVXgzUFhRUXo3ZDN2R3RCTWdVYmtZTFlCbFJ3ZzlCQzFZOVhXQUR2OUt5eHNwQ2YzdFdGMloya2RrNkh0Q3dtT3huWjnSAZcFQVVfeXFMT19SblVTVld6dDQyZ1JQckU2YTViZVEzYU9GUGRDalF4VVZkd3FkdGdPVmlVZFVzU3M2TEpLejdCT3dGRFNtOEVqOUVVdmVUVjgzUzZ2aHBxbmtzcnljSDBqV0JCN2JZdmdZNi1yTkhOdF9YSHRvaEh5TnBrZk9JdjRTVks3RWpZU0t5Z2t5bXFrcmpiWTdHa0RVR3JoTU5wZHVyUmhmbFAzUDBTbk1manNPNzhuVGN0UHhPZjF5MDdvb2lDbnpTQjVmWjE3XzFNVm9lWVM5ZEVwVVZKUV9YNXZfTEZFMWtoeUZIVERXVHNpUzFtRUdzeEoyc25uUUMtWWJVSllfUzNkbmhKTkZMQlFmNV9hQzRGLUJTSHRfbmVHWTl3QUxUektQajNUZWZWaVFuWHVzRWZsSl94V0ViWVlIVDdPMTlyZDJrSXJoU0FmeWdMYzRCVm5pdkR6eGZ6LU5NbEJYQ05DVTJ3NGxZdjJWR3F2MUR2em01VzAwbEhUaldNQkpBMloweUZCTHNQT19IUVpDamV0bWRWRUxXbmRTUVVPN1BTLUpwYkd6WWgzTTI1eXFSVHl4UldWeHIxYUpEMW5HOUdpdG5sWDIyMUdtMTJBTTYzRksxMWEzV3N5X2tvYUk5UDZrY254TVI4ZzZZU0R5Sm9iUVhqZFZLLWVUeXpISlBfbWpNUzlSc3Q0b0VZWFFBSUU5dDk5S1pjanhPSFdyRUQ5bmNCMTdObk9ubWZnaTBrd0NmWDg5NlJ5amdscnlhYjNiUDhwTzBwZ20yanNkNDhZajN1MWNEaGlMT3VmMWNmX1VhdzVlWHowM1dtb1E0NGdYaEZtRHJCMHRuUVFoX3NqQnAwSVVzQ1MtTkxGZGtZ?oc=5\" target=\"_blank\">العميد يسعى للثأر.. مواجهة خاصة بين حسام حسن وموسيماني في صدام مصر وجنوب أفريقيا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
+      "date": "Wed, 30 Sep 2026 10:10:11 GMT",
+      "source": "Google News رياضة",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "رياضة",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News رياضة"
+      ]
+    },
+    {
       "title": "شوبير: فوز مصر على جنوب السودان حقق مكاسب كبيرة - مبتدا",
       "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOcTRUTWx5R3ZISTV6SXhYVlFCTkpVSi1XbF9fVG9UaFFkNFVNaVVwc2Q0X1VJWnVTRGJjYnpHZ1QwOWVuTWs3bDdXbWRwNmdJM2xfcm5vX1FBVWxDZkdHMGpPTy1leEtzN3ppMW1iWUVGNTV1bUJoMWhKT3RDM1poQkI1dlhrbjFyTWFtRmhITWNPclR5SXRPRExRemVkMlBkSkhkY1NFTWR0MERwTTN1dHE4WU5Oa3Rhd3NKOGh3SGdzWGRvcE5aNm13NHdNamNIeVR4UkJDVnJPUzJIV3hxUG5Cc3RrZ1l5a2U4N3BmLTNseUhjNE9ZT3RXaG1Bc0pCVEFCRzV5X3lIS3BzU1dOWDVfM3dNcktCc3Y3TkFmWjhSTGVrRURCN3hpa3MzRmk3eE9VYnVwSVhBdU1uNGJZa3hPSC1rWldpSWhpSFppcExIQVU3MVNsYi1FZFhLeURQNkdiaFhqb0dsVmQ4UmtfR0E0aXZhTXNaS2JrcVhZX1Y1eHYycEd6blB1RQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwNBVV95cUxOcTRUTWx5R3ZISTV6SXhYVlFCTkpVSi1XbF9fVG9UaFFkNFVNaVVwc2Q0X1VJWnVTRGJjYnpHZ1QwOWVuTWs3bDdXbWRwNmdJM2xfcm5vX1FBVWxDZkdHMGpPTy1leEtzN3ppMW1iWUVGNTV1bUJoMWhKT3RDM1poQkI1dlhrbjFyTWFtRmhITWNPclR5SXRPRExRemVkMlBkSkhkY1NFTWR0MERwTTN1dHE4WU5Oa3Rhd3NKOGh3SGdzWGRvcE5aNm13NHdNamNIeVR4UkJDVnJPUzJIV3hxUG5Cc3RrZ1l5a2U4N3BmLTNseUhjNE9ZT3RXaG1Bc0pCVEFCRzV5X3lIS3BzU1dOWDVfM3dNcktCc3Y3TkFmWjhSTGVrRURCN3hpa3MzRmk3eE9VYnVwSVhBdU1uNGJZa3hPSC1rWldpSWhpSFppcExIQVU3MVNsYi1FZFhLeURQNkdiaFhqb0dsVmQ4UmtfR0E0aXZhTXNaS2JrcVhZX1Y1eHYycEd6blB1RQ?oc=5\" target=\"_blank\">شوبير: فوز مصر على جنوب السودان حقق مكاسب كبيرة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">مبتدا</font>",
@@ -880,21 +895,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOQnBHQzN6STdLSnVraWNkMlVYWkRVZzQyeV8zVzZLMWppVWlGdlZaMldlUThmcmNjVFhiZFNiU1V0dGRPbGM4VlNRNzZGY2JBdzZEWlF6aUMxdEVQcl95SzhtTWhRVUMzVGdGcEFPcWNCUzgtZ1I4NUhQZElKTC1UMlo3WmtmYWk5SE9LYzJmemJLTk1xeHEyTU5wX21lM1RzcUNaLV96d3RRb3h2QzdnU3hxNklqN2M0eDRBUU1FNk5qVU1PVnl4SE5EdE0zMXZyOVZ4WkprNDJPaTdSTUJDeEZtb0VhY3Y1dlZJckZZNW9rZVA4czhuaDVrVHdaaWtRQ2JtRjFJbk11NlBjM2lzUjFJSWJSMkZLT1Nvc21fazY0cXNEZmpoRW42blp3V2JYSUhGa1Y0amQ4Nnlt?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxOQnBHQzN6STdLSnVraWNkMlVYWkRVZzQyeV8zVzZLMWppVWlGdlZaMldlUThmcmNjVFhiZFNiU1V0dGRPbGM4VlNRNzZGY2JBdzZEWlF6aUMxdEVQcl95SzhtTWhRVUMzVGdGcEFPcWNCUzgtZ1I4NUhQZElKTC1UMlo3WmtmYWk5SE9LYzJmemJLTk1xeHEyTU5wX21lM1RzcUNaLV96d3RRb3h2QzdnU3hxNklqN2M0eDRBUU1FNk5qVU1PVnl4SE5EdE0zMXZyOVZ4WkprNDJPaTdSTUJDeEZtb0VhY3Y1dlZJckZZNW9rZVA4czhuaDVrVHdaaWtRQ2JtRjFJbk11NlBjM2lzUjFJSWJSMkZLT1Nvc21fazY0cXNEZmpoRW42blp3V2JYSUhGa1Y0amQ4Nnlt?oc=5\" target=\"_blank\">وزير الرياضة يبحث استعدادات المنتخبات الوطنية لأولمبياد الشباب داكار 2026 ولوس أنجلوس 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">قناة النيل للأخبار</font>",
       "date": "Wed, 30 Sep 2026 07:47:22 GMT",
-      "source": "Google News رياضة",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "رياضة",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News رياضة"
-      ]
-    },
-    {
-      "title": "منتخب الشباب يلتقي تونس اليوم في تصفيات شمال أفريقيا بالإسماعيلية - اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxPSUVfMnlRWjVrb2xnVkNqZFpDbThFQjZSVWRqNnFfanRtUm9LVlU5LVdncFY0cUw3bFZJRGVxSmJGdGJIUmJldkdnMnowM0RZenZ1dGtRd212OWY5ak92QnFCclNFZ0NiUEFwNU5PaU9ReEFqTV9pcHJQSGdxUkVhcXgyTHJ6OWdnU1ozaXlWTXZMU2FoMDNEVW9nUVZ2X19KNU5sWnoxVnM2Tl9ZdHhKWm5XXzNJcHJiNDA3M1YyRGlGQ2pGVjhZVWhPSlF5SGg4UVAzWjFHNHI3NmZwSWtzUHdLN0F5NnJtV1RUXzJpV3VCVkhEaXQ0S1B4cmVhbmoxYVZyNXJPZ0VtQ3RmZUZYOGo5UTJWSklOUC1fWUl5X19xSnU2RjZiUTZoYzhLQ1oyTjRZakptSVc4empiM3JwODlkbkhidXVLbVZUYVFDSVI1bGFPTHNfN3gweExLYkxLWnE1cjVyWkxhRUZPN1Z0TEpNaDBxTWxfRHV6eEdsNmR1UzJ0M2ljekZmd0NlWlc5WFhCX21tTm0yT3k4S0ZER3l4bzZFRkpfdDBQQXJvczU0T2hyTllQWTFiTVp0Mnkwc2hublRHRC11R3NFWUwxWHRSbnRLNVBxV2J4dF9hZWlqRFFQZG9qVU9UVm9GZXp1aU81ZXpmeUN1VHJYQmNRS1d0NU9aN1loRXg0Q3V6Tm95SzhDVUpmRHlhWEdvR3R0R2pndldB0gGgBEFVX3lxTE9SNmVxSDFxbHFvdDhjRTI1MEx6cDRmeHN5YUxuVnN4TjBqWk5pa2szOG9FZzRYRExXbTctdDJlV3lfT2tZY19vMnBWQkpqc0prVE1zMGdCNV9KdUlUMjY1SC12dW9EY2cxaTh5MzktQ1dIeUNQUmhaZjJmUVJqRXJpNVhTRE5pWHNuT3VJWEx0QVU0dFNnNFZBM01uZG0zYkhubkVWVGI3ZDJOOXR3b2ZYSmE0TTFvTUVJeUJwYWdaaVpzdVVtQTlCc3U3ZndkdUJIOHRGbTZWd3dPQW9xb25OTko2SVY5cTJFc1VKbU5YaTVEWEUtRHZCa3BKX20tT0JZWFNKUGE3V0ZIWm9hZTJOVTljLW8xZHFXNWVmZEtQamZ6X3lTSTRDbXdNa3NNb04xTXBTZU1QZzFQeWpxNzBEN19Lc2FDZU0zeUp1RU5IVV9BSnFMVXRKN2dMWk9vNWdNaGg2X1ZZMDRpUFplVWJHRXhiUlh5S2k5TTRNamNDV1ZhM2dWVjhUejJlOEh2ZF9UeTk5RV9aNXoxZlFnbGc0cnN4V2kyckNtZ1NQdm0yYlY3dkh0TlA2eV8xUWp4UTVQNU5YcVpVOG5rNGVFTnRWbFBrWDBfTUZxRUpldEYxUmJZd0xBNVdUcWIwNjRpMmFmMGk4b21rN2RyRGlWZ1VTc09WWnhoT09EUW5tc2FjRWZBTU9XS0ItaWJyRk03UTQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgRBVV95cUxPSUVfMnlRWjVrb2xnVkNqZFpDbThFQjZSVWRqNnFfanRtUm9LVlU5LVdncFY0cUw3bFZJRGVxSmJGdGJIUmJldkdnMnowM0RZenZ1dGtRd212OWY5ak92QnFCclNFZ0NiUEFwNU5PaU9ReEFqTV9pcHJQSGdxUkVhcXgyTHJ6OWdnU1ozaXlWTXZMU2FoMDNEVW9nUVZ2X19KNU5sWnoxVnM2Tl9ZdHhKWm5XXzNJcHJiNDA3M1YyRGlGQ2pGVjhZVWhPSlF5SGg4UVAzWjFHNHI3NmZwSWtzUHdLN0F5NnJtV1RUXzJpV3VCVkhEaXQ0S1B4cmVhbmoxYVZyNXJPZ0VtQ3RmZUZYOGo5UTJWSklOUC1fWUl5X19xSnU2RjZiUTZoYzhLQ1oyTjRZakptSVc4empiM3JwODlkbkhidXVLbVZUYVFDSVI1bGFPTHNfN3gweExLYkxLWnE1cjVyWkxhRUZPN1Z0TEpNaDBxTWxfRHV6eEdsNmR1UzJ0M2ljekZmd0NlWlc5WFhCX21tTm0yT3k4S0ZER3l4bzZFRkpfdDBQQXJvczU0T2hyTllQWTFiTVp0Mnkwc2hublRHRC11R3NFWUwxWHRSbnRLNVBxV2J4dF9hZWlqRFFQZG9qVU9UVm9GZXp1aU81ZXpmeUN1VHJYQmNRS1d0NU9aN1loRXg0Q3V6Tm95SzhDVUpmRHlhWEdvR3R0R2pndldB0gGgBEFVX3lxTE9SNmVxSDFxbHFvdDhjRTI1MEx6cDRmeHN5YUxuVnN4TjBqWk5pa2szOG9FZzRYRExXbTctdDJlV3lfT2tZY19vMnBWQkpqc0prVE1zMGdCNV9KdUlUMjY1SC12dW9EY2cxaTh5MzktQ1dIeUNQUmhaZjJmUVJqRXJpNVhTRE5pWHNuT3VJWEx0QVU0dFNnNFZBM01uZG0zYkhubkVWVGI3ZDJOOXR3b2ZYSmE0TTFvTUVJeUJwYWdaaVpzdVVtQTlCc3U3ZndkdUJIOHRGbTZWd3dPQW9xb25OTko2SVY5cTJFc1VKbU5YaTVEWEUtRHZCa3BKX20tT0JZWFNKUGE3V0ZIWm9hZTJOVTljLW8xZHFXNWVmZEtQamZ6X3lTSTRDbXdNa3NNb04xTXBTZU1QZzFQeWpxNzBEN19Lc2FDZU0zeUp1RU5IVV9BSnFMVXRKN2dMWk9vNWdNaGg2X1ZZMDRpUFplVWJHRXhiUlh5S2k5TTRNamNDV1ZhM2dWVjhUejJlOEh2ZF9UeTk5RV9aNXoxZlFnbGc0cnN4V2kyckNtZ1NQdm0yYlY3dkh0TlA2eV8xUWp4UTVQNU5YcVpVOG5rNGVFTnRWbFBrWDBfTUZxRUpldEYxUmJZd0xBNVdUcWIwNjRpMmFmMGk4b21rN2RyRGlWZ1VTc09WWnhoT09EUW5tc2FjRWZBTU9XS0ItaWJyRk03UTQ?oc=5\" target=\"_blank\">منتخب الشباب يلتقي تونس اليوم في تصفيات شمال أفريقيا بالإسماعيلية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
-      "date": "Wed, 30 Sep 2026 06:00:00 GMT",
       "source": "Google News رياضة",
       "sourceScore": 6,
       "sourceType": "aggregator",
@@ -966,21 +966,6 @@
       ]
     },
     {
-      "title": "شركات الذكاء الاصطناعي تلاحق بيانات الشركات المفلسة.. \"سبيريت\" نموذجًا - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMirgVBVV95cUxOd25veEVCMnNTS2VaQ3Q4NGVqTnlLTUlNNXRoSXRITnozd3F1ZjBRU0NsNXhWelhnVHdGZTljVFFxV1VpN3NpM2FBd1RYX25VMkFvUW9XYXFIZmp4anlOOXlpTVkxODMyQmVlUFRGaDhDdTQ5NU5RdlNHUnMwaWhGVjRJMHpkR2pDMmN0TTkxZ2lhbm9ydGdXd1JvVEotamp5SlNuZlExYTNueVY3VWJ5cWFnYmViWjBLcFctMGRaSF9SdTlfNm1pRXN1bkROMFlkTjZsMHEySVlqT2xCYWo0bmNiUHhxTVV3R3N1ejlBSm1uNFlETF9xYUVpdmVtZnZCM1RZYkxEdnJCZ1lDVnhGNVJwWnhWU1QwUDdGV0NDSGtlaHN5OXRPQV9QTUxYSXBtM2ZoR1Z4LUdNTGpOQ2ZjWWFDVno4VGhZRmx2YnhRV0VtRFVocGtOdERKMC1BWG02bU0xTWFOb3RYenNoRXJ1YlY5U3UtQUQwd2lTaU1oYlpoc3FCQ2pUckYzNWd6M1VlTTI1bVY1NF9rMHVtT21VWnNqTm5TX0lSUTJLTlpIdW5kRC1udUl5YjVpWkdYcjI2NWlhdzF4NlhwQVdrekZhdE5Uemd3Zk1RbVVoNUxxaTN4Y2s0bWxPeTN2Q3lmWUpTSjY0Um1HMm9fLTVNRm1HajM5NFpXS1BDQUY2azhsRUpmeVQ3aFRuOHlWUWhyWnFjODlxeUp5TkgyS2Znb2k2QnpGNWsyTzhKWS05M2JKMndETGh1Nl9rbGlvZFZBNEFMOVpmZkNhUHBBcnpHTDRHdmJLSGwtT2t1MUpFZ3RGcW0yWXE5UHFJdXFWMkxoRmFvaVUzZ2VtN3lIYS1kVWFGdXZ5OTV2UGlHaUtzbldKVFRReVBOYlNRSUhDNkN1Zw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgVBVV95cUxOd25veEVCMnNTS2VaQ3Q4NGVqTnlLTUlNNXRoSXRITnozd3F1ZjBRU0NsNXhWelhnVHdGZTljVFFxV1VpN3NpM2FBd1RYX25VMkFvUW9XYXFIZmp4anlOOXlpTVkxODMyQmVlUFRGaDhDdTQ5NU5RdlNHUnMwaWhGVjRJMHpkR2pDMmN0TTkxZ2lhbm9ydGdXd1JvVEotamp5SlNuZlExYTNueVY3VWJ5cWFnYmViWjBLcFctMGRaSF9SdTlfNm1pRXN1bkROMFlkTjZsMHEySVlqT2xCYWo0bmNiUHhxTVV3R3N1ejlBSm1uNFlETF9xYUVpdmVtZnZCM1RZYkxEdnJCZ1lDVnhGNVJwWnhWU1QwUDdGV0NDSGtlaHN5OXRPQV9QTUxYSXBtM2ZoR1Z4LUdNTGpOQ2ZjWWFDVno4VGhZRmx2YnhRV0VtRFVocGtOdERKMC1BWG02bU0xTWFOb3RYenNoRXJ1YlY5U3UtQUQwd2lTaU1oYlpoc3FCQ2pUckYzNWd6M1VlTTI1bVY1NF9rMHVtT21VWnNqTm5TX0lSUTJLTlpIdW5kRC1udUl5YjVpWkdYcjI2NWlhdzF4NlhwQVdrekZhdE5Uemd3Zk1RbVVoNUxxaTN4Y2s0bWxPeTN2Q3lmWUpTSjY0Um1HMm9fLTVNRm1HajM5NFpXS1BDQUY2azhsRUpmeVQ3aFRuOHlWUWhyWnFjODlxeUp5TkgyS2Znb2k2QnpGNWsyTzhKWS05M2JKMndETGh1Nl9rbGlvZFZBNEFMOVpmZkNhUHBBcnpHTDRHdmJLSGwtT2t1MUpFZ3RGcW0yWXE5UHFJdXFWMkxoRmFvaVUzZ2VtN3lIYS1kVWFGdXZ5OTV2UGlHaUtzbldKVFRReVBOYlNRSUhDNkN1Zw?oc=5\" target=\"_blank\">شركات الذكاء الاصطناعي تلاحق بيانات الشركات المفلسة.. \"سبيريت\" نموذجًا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajansı</font>",
-      "date": "Wed, 30 Sep 2026 17:36:34 GMT",
-      "source": "Google News تكنولوجيا",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "تكنولوجيا",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News تكنولوجيا"
-      ]
-    },
-    {
       "title": "«الرقابة الذاتية».. رهان ترامب لتنظيم الذكاء الاصطناعي من داخل شركات التكنولوجيا - البيان",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3Mjg3ZzNyV0hPYllnaFFvNGxMUGZIMmpWWktMQ091MEprWVRDYmllT0JKZi1OSFYxWU5RZlA4SlE4aUJDUWNrd2gxWl9xV1BCYkVRbGo3MGdwUDBvRWx6MHQtQXVrMVAtb203bGFB0gFzQVVfeXFMTUp3MzNBSDRrcGRtMllpbFFjbFowMENfMnI2d1RHc0RSYzAtdHhTTm43VVpid0hVWlU0TEY0WGVlZHkwQUJLOWx3eTV4YkxDakJfbVFGbDlweUxvUVFTMkFTaU55Q0VIcG9hZ0R3VTJsZVRpYw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB3Mjg3ZzNyV0hPYllnaFFvNGxMUGZIMmpWWktMQ091MEprWVRDYmllT0JKZi1OSFYxWU5RZlA4SlE4aUJDUWNrd2gxWl9xV1BCYkVRbGo3MGdwUDBvRWx6MHQtQXVrMVAtb203bGFB0gFzQVVfeXFMTUp3MzNBSDRrcGRtMllpbFFjbFowMENfMnI2d1RHc0RSYzAtdHhTTm43VVpid0hVWlU0TEY0WGVlZHkwQUJLOWx3eTV4YkxDakJfbVFGbDlweUxvUVFTMkFTaU55Q0VIcG9hZ0R3VTJsZVRpYw?oc=5\" target=\"_blank\">«الرقابة الذاتية».. رهان ترامب لتنظيم الذكاء الاصطناعي من داخل شركات التكنولوجيا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">البيان</font>",
@@ -1030,6 +1015,21 @@
       "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOLVMzWTFhOElZN3lDOUxRZTVQRTNzb3BKZ3QtdDNhbTJlUmtVZGt6Y2RmQl9abm1vck9PT000cXRjWi1WaWQ2aGxvZXQtclFUZ1BlS1E2aUVIZnpMOVl0R2J5NDB4YlNFVVNIZnhzSUFMQkNOZVhuYi1aZnRVQnAxTkgxMEhCbGxkY203OXNsN2lCLTNfbXhBZWZlX2xmRlRLOGpxSUlzWjAzMmhMUllhbFM0bnR3WXpmRDlEcXU4UmpCUm4xZHA5VTdKc3RCdkJRNWF1T3N3MHFQdFRiUVJaOUVScXcxY0p6TnRtNGREZkhqT0ZwRDM3dkh1cmxYVmt6TWM4ODdZTWVIaU81VXdFMVhNdkh0T2ZsR1Y3N1Y5d3N3OHFsQ0VLSEQxNEVUbjllX2xKT2NiVi1GSjNGeUZsbW5lbjRzakpDTUNGeTlJbEIzd9IB1wJBVV95cUxONnhvV29JS2ZaRHFvTWdOblpnMUFqNUhQd2lkc04yWXExQzZQT0tYMG1IeGVNZWk5OFlQcHU3R2F4VFp6UURZX29Kd201cXRod0xZRVJPanAxTklNb3lIU1pQdV9SZVBOWDhMWnBxYlRuZVRhUmxXbk9PZ0NaSWZhVWVscF9GMVB4MmhjWUZyaXZvdTE2ajFoQUE3WW5vbm84N2RBUXJwQ2I5NjdGdTV5RWhxRnRBd28wa2dwS0hLR1JPQTFmb0xneXZuLTlBUmZmNUlwRUJXYjFONzRVS016MVlqVUlPVlBiMThrN1pxMlJhcW1RQkp1RTR2RVZhZ2ZHVkhXRGlBNTR0YXBYNEtObGlUa3ZST2dIbU9DMEg3Vzg1RmlWRXFHLWFUcDRfWVBrZkwxeHdvYTkwaXB6LUowX3pIeV91VU44UGZvdHJzb0RUYmlSZVdF?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxOLVMzWTFhOElZN3lDOUxRZTVQRTNzb3BKZ3QtdDNhbTJlUmtVZGt6Y2RmQl9abm1vck9PT000cXRjWi1WaWQ2aGxvZXQtclFUZ1BlS1E2aUVIZnpMOVl0R2J5NDB4YlNFVVNIZnhzSUFMQkNOZVhuYi1aZnRVQnAxTkgxMEhCbGxkY203OXNsN2lCLTNfbXhBZWZlX2xmRlRLOGpxSUlzWjAzMmhMUllhbFM0bnR3WXpmRDlEcXU4UmpCUm4xZHA5VTdKc3RCdkJRNWF1T3N3MHFQdFRiUVJaOUVScXcxY0p6TnRtNGREZkhqT0ZwRDM3dkh1cmxYVmt6TWM4ODdZTWVIaU81VXdFMVhNdkh0T2ZsR1Y3N1Y5d3N3OHFsQ0VLSEQxNEVUbjllX2xKT2NiVi1GSjNGeUZsbW5lbjRzakpDTUNGeTlJbEIzd9IB1wJBVV95cUxONnhvV29JS2ZaRHFvTWdOblpnMUFqNUhQd2lkc04yWXExQzZQT0tYMG1IeGVNZWk5OFlQcHU3R2F4VFp6UURZX29Kd201cXRod0xZRVJPanAxTklNb3lIU1pQdV9SZVBOWDhMWnBxYlRuZVRhUmxXbk9PZ0NaSWZhVWVscF9GMVB4MmhjWUZyaXZvdTE2ajFoQUE3WW5vbm84N2RBUXJwQ2I5NjdGdTV5RWhxRnRBd28wa2dwS0hLR1JPQTFmb0xneXZuLTlBUmZmNUlwRUJXYjFONzRVS016MVlqVUlPVlBiMThrN1pxMlJhcW1RQkp1RTR2RVZhZ2ZHVkhXRGlBNTR0YXBYNEtObGlUa3ZST2dIbU9DMEg3Vzg1RmlWRXFHLWFUcDRfWVBrZkwxeHdvYTkwaXB6LUowX3pIeV91VU44UGZvdHJzb0RUYmlSZVdF?oc=5\" target=\"_blank\">مزايا جديدة في وكيل الذكاء الاصطناعي مانوس.. تعرف عليها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
       "date": "Wed, 30 Sep 2026 16:34:43 GMT",
+      "source": "Google News تكنولوجيا",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "تكنولوجيا",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News تكنولوجيا"
+      ]
+    },
+    {
+      "title": "الذكاء الاصطناعي حاول صنع «نسخة رقمية» من الإنسان... فماذا حدث؟ - الشرق الأوسط",
+      "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxNX0w1aGQxLWRmV3A0elJ0U1huQ3hjVnZMdFI1U2lndFFzaWl6c1pfMDZjRTV2V3RodFlpY3JjQlpJeTd3dXZnRTdETDZfSm1hbUkzbFFOQ2VHbmc2enlFN000NmZlcFBhOTJQTkhQWC1HSDQ4T1J2bHhoVHAzNnRRbE1xYlRSdU5sV3ZSUjFKcVBmdXpQZGNMWkZTaGt0bU5yY1p0dm1GWEhsdVprNU9pcmlEdWVuS0ZPdG1pVnBVNXdnazNTVWVuZ0d0NjJJQWhqemtJdVR1bVJaQXV5dDVUX3R0Z0FtOFF6SUZ0STVMT3dxRWdSR0ZqMTVIQUV2WWhGRmVvN3dhdWxTTHZVYVJfQXFtbmpBVnljYW5uRklMVFJ6Z2thb1VHaGs0YUVqTXNkM21TWHFxMS1tVTVOR1liZzdXal9MUW9UMDZQTzdhbDFENDFzUmZ6dW14N2NLUzZSOUVMeEhNbEtaUmZSXzRiOE1ONWVGQjNPWEpsWnprVEt5WWFGQlBBSWljTnctbEJGM2Q2c2dtU2ZueVVWYzJGci1PMFRjc3hfRHRjRmlEdHVhRlBtRHAwdi1GU29yVjBRQm9RcEdCNVNFMVNpNmF6Zk1fdTdBaVZkQ2VGcXAwRkpfdGJONXZ1X1RQWUlaRHBWQUVoTGZ6TEpYSG93LW16RHN4OTNVdHJfa2xfOEhIN3BzTUtKOXlPNlZXZUZWQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingRBVV95cUxNX0w1aGQxLWRmV3A0elJ0U1huQ3hjVnZMdFI1U2lndFFzaWl6c1pfMDZjRTV2V3RodFlpY3JjQlpJeTd3dXZnRTdETDZfSm1hbUkzbFFOQ2VHbmc2enlFN000NmZlcFBhOTJQTkhQWC1HSDQ4T1J2bHhoVHAzNnRRbE1xYlRSdU5sV3ZSUjFKcVBmdXpQZGNMWkZTaGt0bU5yY1p0dm1GWEhsdVprNU9pcmlEdWVuS0ZPdG1pVnBVNXdnazNTVWVuZ0d0NjJJQWhqemtJdVR1bVJaQXV5dDVUX3R0Z0FtOFF6SUZ0STVMT3dxRWdSR0ZqMTVIQUV2WWhGRmVvN3dhdWxTTHZVYVJfQXFtbmpBVnljYW5uRklMVFJ6Z2thb1VHaGs0YUVqTXNkM21TWHFxMS1tVTVOR1liZzdXal9MUW9UMDZQTzdhbDFENDFzUmZ6dW14N2NLUzZSOUVMeEhNbEtaUmZSXzRiOE1ONWVGQjNPWEpsWnprVEt5WWFGQlBBSWljTnctbEJGM2Q2c2dtU2ZueVVWYzJGci1PMFRjc3hfRHRjRmlEdHVhRlBtRHAwdi1GU29yVjBRQm9RcEdCNVNFMVNpNmF6Zk1fdTdBaVZkQ2VGcXAwRkpfdGJONXZ1X1RQWUlaRHBWQUVoTGZ6TEpYSG93LW16RHN4OTNVdHJfa2xfOEhIN3BzTUtKOXlPNlZXZUZWQQ?oc=5\" target=\"_blank\">الذكاء الاصطناعي حاول صنع «نسخة رقمية» من الإنسان... فماذا حدث؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق الأوسط</font>",
+      "date": "Wed, 30 Sep 2026 16:06:03 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
       "sourceType": "aggregator",
