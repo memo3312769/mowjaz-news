@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T22:53:33.498Z",
+  "updatedAt": "2026-10-02T23:05:17.832Z",
   "items": [
     {
       "title": "السفير المصري يقدم أوراق اعتماده سفيراً لمصر لدى بنما - الهيئة العامة للاستعلامات",
@@ -227,6 +227,21 @@
       ]
     },
     {
+      "title": "إضراب المعلمين في ليبيا يهدد الدخول المدرسي المرتقب يوم الإثنين",
+      "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261002-%D8%A5%D8%B6%D8%B1%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86",
+      "description": "أكثر من مليونٍ وسْتِمئةِ ألف تلميذ خارج مقاعد الدراسة، فيما يقول المعلمون إن رواتبهم لم تعد تواكب غلاء المعيشة، ويطالبون بتسوية المستحقات والتأمين الصحي وتحسين أوضاعهم المهنية. واللافت أنّ الاحتجاج تجاوز خطوط الانقسام السياسي والجغرافي، ووحّد المعلمين في الشرق والغرب في تحرك نادر بهذا الحجم.",
+      "date": "Fri, 02 Oct 2026 22:46:42 GMT",
+      "source": "France 24 العربية",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://s.france24.com/media/display/6cf0ede6-beb2-11f1-a0a7-13420ab900a2/w:1024/p:16x9/AR-20261002-223539-224026-CS.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "France 24 العربية"
+      ]
+    },
+    {
       "title": "قوات موالية لحكومة إثيوبيا تسيطر على مطار عاصمة تيغراي",
       "link": "https://www.skynewsarabia.com/world/1895961-%D9%82%D9%88%D8%A7%D8%AA-%D9%85%D9%88%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7-%D8%AA%D8%B3%D9%8A%D8%B7%D8%B1-%D9%85%D8%B7%D8%A7%D8%B1-%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D8%AA%D9%8A%D8%BA%D8%B1%D8%A7%D9%8A",
       "description": "أعلنت مجموعات موالية للحكومة الإثيوبية، الجمعة، السيطرة على مطار مدينة ميكيلي، عاصمة إقليم تيغراي شمالي البلاد، في أعقاب هجوم مضاد ضد قوات المتمردين، وفق ما نقلته وكالة \"فرانس برس\".",
@@ -317,6 +332,36 @@
       ]
     },
     {
+      "title": "دونالد ترامب يهدد أوروبا: افتحوا الاحتياطي.. أو أقطع عنكم الديزل!",
+      "link": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261002-%D8%AF%D9%88%D9%86%D8%A7%D9%84%D8%AF-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%A7%D9%81%D8%AA%D8%AD%D9%88%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A3%D9%88-%D8%A3%D9%82%D8%B7%D8%B9-%D8%B9%D9%86%D9%83%D9%85-%D8%A7%D9%84%D8%AF%D9%8A%D8%B2%D9%84",
+      "description": "في الفقرة الاقتصادية مع عهد الكلاس، نتوقف عند تهديد دونالد ترامب بوقف صادرات الديزل إلى أوروبا، ما لم تسحب القارة من احتياطياتها من هذا الوقود الحيوي للصناعة. الضغط الأمريكي دفع أوروبا إلى الإفراج عن 50 مليون برميل من الديزل، في خطوة قد تخفف الأزمة مؤقتاً، لكنها تكشف في الوقت نفسه حجم هشاشة الإمدادات الأوروبية. فاحتياطيات أوروبا لا تتجاوز 270 مليون برميل، أي ما يكفي لنحو شهرين فقط، ما يدفعها إلى البحث عن مصادر بديلة للديزل، مع الحفاظ على إمداداتها من الشريك الأمريكي.",
+      "date": "Fri, 02 Oct 2026 20:59:19 GMT",
+      "source": "France 24 العربية",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://s.france24.com/media/display/c00d72ec-bea3-11f1-83b1-1ff0321dbbd3/w:1024/p:16x9/capture-11690562426ac01a81428d85-76895249.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "France 24 العربية"
+      ]
+    },
+    {
+      "title": "اجتماع مرتقب في الرياض لدول \"اتفاقية مكة\" وسط تصاعد المعارك في اليمن",
+      "link": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261002-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D9%87%D8%A7%D8%AC%D9%85%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D9%83%D8%B3%D8%B1-%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D9%82%D8%AA%D8%A7%D9%84-%D8%A7%D9%84%D9%8A%D9%85%D9%86",
+      "description": "أعلن وزير ​الخارجية الباكستاني أن اجتماعا طارئا سيعقد الأسبوع المقبل في الرياض للجنة ‌الدفاع السياسي الاستراتيجي، بموجب \"اتفاقية مكة\" المبرمة بين باكستان وتركيا ​والسعودية. فيما أفاد مسؤولون إقليميون وغربيون بوجود استعدادات سعودية تستعد لشن هجوم على الحوثيين في اليمن، بهدف تأمين الملاحة في البحر الأحمر.",
+      "date": "Fri, 02 Oct 2026 20:48:42 GMT",
+      "source": "France 24 العربية",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://s.france24.com/media/display/59a9cd0a-be9b-11f1-88ae-13420ab900a2/w:1024/p:16x9/AP26265729101203.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "France 24 العربية"
+      ]
+    },
+    {
       "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
       "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
       "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
@@ -402,51 +447,6 @@
       "sourceType": "official-rss",
       "cat": "العالم",
       "image": "https://s.france24.com/media/display/c5d21d52-a550-11f1-bf37-005056a97e36/w:1024/p:16x9/2026-08-31T143811Z-454348857-RC2Q9NAW4SAZ-RTRMADP-3-G20-FINANCE.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "France 24 العربية"
-      ]
-    },
-    {
-      "title": "العراق يحصل على استثناء أميركي لتسيير رحلات إيرانية للنجف",
-      "link": "https://www.skynewsarabia.com/middle-east/1895943-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AD%D8%B5%D9%84-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A1-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%84%D8%AA%D8%B3%D9%8A%D9%8A%D8%B1-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D9%86%D8%AC%D9%81",
-      "description": "أعلن رئيس الحكومة العراقية علي الزيدي، الجمعة، التوصل إلى اتفاق يسمح بتسيير 40 رحلة جوية يوميا من وإلى مطار النجف الدولي لشركات الطيران الإيرانية، باستثناء شركة \"ماهان\".",
-      "date": "Fri, 02 Oct 2026 19:51:22 GMT",
-      "source": "Sky News عربية",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://images.skynewsarabia.com/images/v2/2021/07/12/1450880/95/53/1-1450880.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "Sky News عربية"
-      ]
-    },
-    {
-      "title": "وزير الدفاع البريطاني يرجح وقوف إيران وراء استهداف \"فيرفورد\"",
-      "link": "https://www.skynewsarabia.com/world/1895950-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D9%8A%D8%B1%D8%AC%D8%AD-%D9%88%D9%82%D9%88%D9%81-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%81%D9%8A%D8%B1%D9%81%D9%88%D8%B1%D8%AF",
-      "description": "رجح وزير الدفاع البريطاني ويس ستريتنغ، الجمعة، أن تكون إيران مسؤولة عن محاولة فاشلة لاستهداف قاعدة\"فيرفورد\" الجوية، التي تستخدمها الولايات المتحدة.",
-      "date": "Fri, 02 Oct 2026 19:48:29 GMT",
-      "source": "Sky News عربية",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://images.skynewsarabia.com/images/v1/2026/10/02/1895949/95/53/1-1895949.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "Sky News عربية"
-      ]
-    },
-    {
-      "title": "في أسبوع في العالم ..اتهامات إثيوبية لمصر والسودان وبريطانيا تريد العودة الى الاتحاد الأوروبي",
-      "link": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/20261002-%D9%81%D9%8A-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A9-%D9%84%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%88%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A",
-      "description": "",
-      "date": "Fri, 02 Oct 2026 19:46:27 GMT",
-      "source": "France 24 العربية",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://s.france24.com/media/display/53c6b238-be99-11f1-8e2d-578a4b968fd6/w:1024/p:16x9/Arabe-2026-10-02T18-14-10-211Z.jpg",
       "sourceCount": 1,
       "sources": [
         "France 24 العربية"
@@ -1028,7 +1028,7 @@
       "title": "«ماسك»: الذكاء الاصطناعي سيصبح جزءًا أساسيًا من حياة البشر اليومية خلال عامين - بوابة التكنولوجيا المالية",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBlWDJ5QmxVNHhBeXJzU3loc3VMQ1h6SGJXZW12d1QtTmVkRTNDSW5qYVpPMTNueldkQk9tN3lGa08td0U4?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTFBlWDJ5QmxVNHhBeXJzU3loc3VMQ1h6SGJXZW12d1QtTmVkRTNDSW5qYVpPMTNueldkQk9tN3lGa08td0U4?oc=5\" target=\"_blank\">«ماسك»: الذكاء الاصطناعي سيصبح جزءًا أساسيًا من حياة البشر اليومية خلال عامين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة التكنولوجيا المالية</font>",
-      "date": "Fri, 02 Oct 2026 16:59:08 GMT",
+      "date": "Fri, 02 Oct 2026 16:59:02 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
       "sourceType": "aggregator",
@@ -1127,6 +1127,21 @@
       "sourceCount": 1,
       "sources": [
         "Google News تكنولوجيا"
+      ]
+    },
+    {
+      "title": "(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين - 新华网",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xemk4NzVBNFQ2WTZHTnQweGs1alRsNXZsUFZZU3J5ZmxtR3p6QzI0UHJkWUpEZXlmOWNCNXVDVnBfVzZNejB2TFZCQWxqQ0xnaU0taWJzZmtEUHM1amtyenFLZzk0aVFTOG14SXlERUxRM1lfRzd2QUVPRQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xemk4NzVBNFQ2WTZHTnQweGs1alRsNXZsUFZZU3J5ZmxtR3p6QzI0UHJkWUpEZXlmOWNCNXVDVnBfVzZNejB2TFZCQWxqQ0xnaU0taWJzZmtEUHM1amtyenFLZzk0aVFTOG14SXlERUxRM1lfRzd2QUVPRQ?oc=5\" target=\"_blank\">(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+      "date": "Mon, 21 Sep 2026 06:30:15 GMT",
+      "source": "Google News علوم",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "علوم",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News علوم"
       ]
     },
     {
@@ -1329,21 +1344,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNE9nYjAzeURFaElPZWd1NHMtWUc0TW1JR04wVWhPb0dqbzNXdzhhM0xPaHRYQ3JQbm03TTNuc25mbkpSLW14M29mQXdEWkkxOU5yTXozYW5VRmxWRV82TXZlYWU1bUltT1N4dFVEOFpROHgzbmNWQzBsUUJPZk0zNTdrQi03eWVDaHdaSzdwLVNwX1ZTZ3RTZHJxTC1jLV82MGk5OWZBUnRRVTdXVlhBcjJJMkRBT1lFbWY4bG5LUEpnSTg3cmZDR1dIeF9SbndRbUJORl9vX2M?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNE9nYjAzeURFaElPZWd1NHMtWUc0TW1JR04wVWhPb0dqbzNXdzhhM0xPaHRYQ3JQbm03TTNuc25mbkpSLW14M29mQXdEWkkxOU5yTXozYW5VRmxWRV82TXZlYWU1bUltT1N4dFVEOFpROHgzbmNWQzBsUUJPZk0zNTdrQi03eWVDaHdaSzdwLVNwX1ZTZ3RTZHJxTC1jLV82MGk5OWZBUnRRVTdXVlhBcjJJMkRBT1lFbWY4bG5LUEpnSTg3cmZDR1dIeF9SbndRbUJORl9vX2M?oc=5\" target=\"_blank\">مركز محمد بن راشد للفضاء يفتح باب التسجيل في برنامج أبحاث علوم الفضاء للطلبة الجامعيين 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Government of Dubai Media Office</font>",
       "date": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "source": "Google News علوم",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "علوم",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News علوم"
-      ]
-    },
-    {
-      "title": "كلية الطب بالقوات المسلحة تفتح صرحا جديدا للمدنيين فقط.. مدير الكلية: الهدف تخريج طبيب «مدنى» يحمل سمات الانضباط والالتزام والتميز العلمى.. وتوسعات ضخمة ومعامل جديدة وشراكات دولية لتعزيز الاعتمادية الدولية - اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPdzhoTVpTTHVRcnlGaEx6WGtqR0tFdmJ6ZlZvaFNDYVM0UUs2NUNweXBDR19KLUwyVXJ0cVFYdS16RVRBNE0zXzNxQWstZUo2T08zSjJJZmdjU0k1eU9mSURvYjJQNzJTZEdHdzcxd241azhPaUY3RUlPQXVld2JDLXBXaFhnNzBwemJqd2lzWkI1OG5VRjdfelAzVmF3U2tKZEd6dk8zMDBZNmhEczk4M1hJYk04Q0xCbUt0V2Q0cG1YQWVVaVRqcmVFMW92VHpKeVR4WF9JNEtmdHpNQmRIdWtJQlNEMUtjWlNmM3QxUW1hZ3ZMdThpZm12QUhsTmlXcUNpajN6YUY4aUY4TGN2M01fQ2w2Zy02d29iTDdlVVJmQ0V3VlpZcDRva19xOVgwZnBKallXWWdaUi1UZ1l0eWtHMnRYc0ZGRHVQM0tOTGREd0xZNlctQjJySjZTRWlQRGgxYUVYaDlreXJRUUZHWF93eXFVbEh0QW1DTG9wMjhCVmpscFdWWl9QMEw1NzBMM015ZVRtX3NGdERhcnZrTlJrUXQ4WXFIXy1FWmhKb2tLdUV6S1d3bUhISExFSDlZSFFMeC15VjhMb1dKV09lSWx5bXphWUVtaGRVQU1BUDlVTEZiT3hVV2FsTWhiaUhHSUd5ZHZR0gHwA0FVX3lxTFBNQmdVb3BDY2IwMmdjTjVTQndrWHZnWFNMZ3FIUThFZXpqVU5WcTJacVJQbXNReTJsX29hSzVqdWl3N2NZcEEwTVdnaHVUMEVrTkxBUFNNNnZ3bTZLWi0wQ2kyVldDMWJFdV9EVG53dENvWUxKeUVKRDZDalp3Z1dYTnlHcm8wdDBiVXgwV3hjdmZHUDFINHBjSGkzbnYyQ3BEZkxnSWJFV0V0T3YzNkJReUZOcmZWTVJLa2hBa0N6dnpPWFZFdU1XY1c2X0RFM0xzbXRwWkpQWU1tQnBNdzAtS2ZRTG5TS1BQa01qTjBVUFlVZzdtaW0tQmF1MTBpZ1JBQTlWeEZqXzh1LTNvdUd4MUZZT0VTNXFhVVd1bG5BX2JIOThWdkJSZG00TzRvdkVmZS1OMWxPZzBNOENCbGdpbXRVd1hfYS1ySkxRUDJrTDNWMHdXenVDTkRjQWpnWFA1UXZ1VlZxeDNmcjNKZllDSm80Zy1GTlFwa2NtMlBVZjZMOGlTbFdqMHh6RDg2a2RuV3VGczNrYjZxMHZKQnlGdnJybzFFTms2RWZYMG1mcDRZVjFkZ2VwaE5scWtENVNSQ0M0WFhleVhDQk84cy1TWnJsQmJERU1uME02ODVaVEtxZzZSdzZ6eDdWQkRkLWo?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gNBVV95cUxPdzhoTVpTTHVRcnlGaEx6WGtqR0tFdmJ6ZlZvaFNDYVM0UUs2NUNweXBDR19KLUwyVXJ0cVFYdS16RVRBNE0zXzNxQWstZUo2T08zSjJJZmdjU0k1eU9mSURvYjJQNzJTZEdHdzcxd241azhPaUY3RUlPQXVld2JDLXBXaFhnNzBwemJqd2lzWkI1OG5VRjdfelAzVmF3U2tKZEd6dk8zMDBZNmhEczk4M1hJYk04Q0xCbUt0V2Q0cG1YQWVVaVRqcmVFMW92VHpKeVR4WF9JNEtmdHpNQmRIdWtJQlNEMUtjWlNmM3QxUW1hZ3ZMdThpZm12QUhsTmlXcUNpajN6YUY4aUY4TGN2M01fQ2w2Zy02d29iTDdlVVJmQ0V3VlpZcDRva19xOVgwZnBKallXWWdaUi1UZ1l0eWtHMnRYc0ZGRHVQM0tOTGREd0xZNlctQjJySjZTRWlQRGgxYUVYaDlreXJRUUZHWF93eXFVbEh0QW1DTG9wMjhCVmpscFdWWl9QMEw1NzBMM015ZVRtX3NGdERhcnZrTlJrUXQ4WXFIXy1FWmhKb2tLdUV6S1d3bUhISExFSDlZSFFMeC15VjhMb1dKV09lSWx5bXphWUVtaGRVQU1BUDlVTEZiT3hVV2FsTWhiaUhHSUd5ZHZR0gHwA0FVX3lxTFBNQmdVb3BDY2IwMmdjTjVTQndrWHZnWFNMZ3FIUThFZXpqVU5WcTJacVJQbXNReTJsX29hSzVqdWl3N2NZcEEwTVdnaHVUMEVrTkxBUFNNNnZ3bTZLWi0wQ2kyVldDMWJFdV9EVG53dENvWUxKeUVKRDZDalp3Z1dYTnlHcm8wdDBiVXgwV3hjdmZHUDFINHBjSGkzbnYyQ3BEZkxnSWJFV0V0T3YzNkJReUZOcmZWTVJLa2hBa0N6dnpPWFZFdU1XY1c2X0RFM0xzbXRwWkpQWU1tQnBNdzAtS2ZRTG5TS1BQa01qTjBVUFlVZzdtaW0tQmF1MTBpZ1JBQTlWeEZqXzh1LTNvdUd4MUZZT0VTNXFhVVd1bG5BX2JIOThWdkJSZG00TzRvdkVmZS1OMWxPZzBNOENCbGdpbXRVd1hfYS1ySkxRUDJrTDNWMHdXenVDTkRjQWpnWFA1UXZ1VlZxeDNmcjNKZllDSm80Zy1GTlFwa2NtMlBVZjZMOGlTbFdqMHh6RDg2a2RuV3VGczNrYjZxMHZKQnlGdnJybzFFTms2RWZYMG1mcDRZVjFkZ2VwaE5scWtENVNSQ0M0WFhleVhDQk84cy1TWnJsQmJERU1uME02ODVaVEtxZzZSdzZ6eDdWQkRkLWo?oc=5\" target=\"_blank\">كلية الطب بالقوات المسلحة تفتح صرحا جديدا للمدنيين فقط.. مدير الكلية: الهدف تخريج طبيب «مدنى» يحمل سمات الانضباط والالتزام والتميز العلمى.. وتوسعات ضخمة ومعامل جديدة وشراكات دولية لتعزيز الاعتمادية الدولية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
-      "date": "Thu, 15 Jan 2026 08:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
       "sourceType": "aggregator",
