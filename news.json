@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T01:26:53.088Z",
+  "updatedAt": "2026-10-05T01:43:00.855Z",
   "items": [
     {
       "title": "40 ألف مواطن يسجلون على موقع \"منتدى مصر 2026\" خلال 3 أيام - جريدة البورصة",
@@ -453,6 +453,22 @@
       ]
     },
     {
+      "title": "Trump announces 'Super Intelligence Force' to oversee AI policy",
+      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "description": "The president named his national intelligence chief will head the taskforce as worries over the technology grow.",
+      "date": "Mon, 05 Oct 2026 01:33:08 GMT",
+      "source": "BBC Business",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "اقتصاد",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
+      "sourceCount": 2,
+      "sources": [
+        "BBC Business",
+        "BBC Technology"
+      ]
+    },
+    {
       "title": "The job interview question you don't have to answer",
       "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
       "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
@@ -662,21 +678,6 @@
       "sources": [
         "BBC Business",
         "BBC Technology"
-      ]
-    },
-    {
-      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-      "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-      "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-      "date": "Thu, 01 Oct 2026 23:32:59 GMT",
-      "source": "BBC Business",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "اقتصاد",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca3a/live/a79a57d0-be2a-11f1-bc2e-018d645d8d21.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "BBC Business"
       ]
     },
     {
@@ -906,6 +907,21 @@
       ]
     },
     {
+      "title": "\"بلومبرغ إنتليجنس\": فجوة الذكاء الاصطناعي بين أميركا والصين تتقلص إلى مستوى قياسي - الشرق بلومبرغ",
+      "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxQMG4yOGVxemtYNFgxc2tYSzVqdFF6bVd4MXU3dDBwT2o4VkVXRmlsX2d1RE1nU0VHeFNZTUJvV0pSWXREbkFNVmtQSzJPRTF2UzZnMEprR190ZHVGejFGYjBUbUVMcHZqN1c0ZDhFNWpNR0pBMzhRdE1qUy1lZWVwSXQteXRPYUpuUFl4ZXlWRVZHdHI1cVVxX296ZS1aNGp0eWpGTWZEbEJOeDVRd1lILUs1aFdNNFhpMlY1d1B1UzVtbnpCZjIyX2o4MDhCelJPaHM2X3lOYUN1aUkwcF9yVHF3MUxTYVRpM3RjMGRVVnBfUmZ0VDhONW1adlF1VlVtWjF2dzhEdGZKNVJESktPbFJfYlpoMTdDclJFR29YN1JLLUZuV3RINkRvcS1ndGtXMnJheDJHdE5yTEhaeWpuLWMwUzkxOXFfcVJrMFpuLUtjWVQ3VkxyeENCcDJnMG1MdDZCeEw3d1Izc3lIdGZsb1hGQTh6UEVSUmY0dmNkb1BJQS14SjVVdXp3RkhtazU1RFlHOEJmUHNkSDhJdTdXMkczSjA3Sy1BcWc0LXdNNnNJdm94d0tsSEFsdGFKM0E1dFpMVkFhVURSbW1Kb2xUblgzYVNha1ZabTZKTUtGUU1RRWlWdFhwRXpOZ3BDbzE0c0kyTA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9ANBVV95cUxQMG4yOGVxemtYNFgxc2tYSzVqdFF6bVd4MXU3dDBwT2o4VkVXRmlsX2d1RE1nU0VHeFNZTUJvV0pSWXREbkFNVmtQSzJPRTF2UzZnMEprR190ZHVGejFGYjBUbUVMcHZqN1c0ZDhFNWpNR0pBMzhRdE1qUy1lZWVwSXQteXRPYUpuUFl4ZXlWRVZHdHI1cVVxX296ZS1aNGp0eWpGTWZEbEJOeDVRd1lILUs1aFdNNFhpMlY1d1B1UzVtbnpCZjIyX2o4MDhCelJPaHM2X3lOYUN1aUkwcF9yVHF3MUxTYVRpM3RjMGRVVnBfUmZ0VDhONW1adlF1VlVtWjF2dzhEdGZKNVJESktPbFJfYlpoMTdDclJFR29YN1JLLUZuV3RINkRvcS1ndGtXMnJheDJHdE5yTEhaeWpuLWMwUzkxOXFfcVJrMFpuLUtjWVQ3VkxyeENCcDJnMG1MdDZCeEw3d1Izc3lIdGZsb1hGQTh6UEVSUmY0dmNkb1BJQS14SjVVdXp3RkhtazU1RFlHOEJmUHNkSDhJdTdXMkczSjA3Sy1BcWc0LXdNNnNJdm94d0tsSEFsdGFKM0E1dFpMVkFhVURSbW1Kb2xUblgzYVNha1ZabTZKTUtGUU1RRWlWdFhwRXpOZ3BDbzE0c0kyTA?oc=5\" target=\"_blank\">\"بلومبرغ إنتليجنس\": فجوة الذكاء الاصطناعي بين أميركا والصين تتقلص إلى مستوى قياسي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق بلومبرغ</font>",
+      "date": "Mon, 05 Oct 2026 01:26:07 GMT",
+      "source": "Google News تكنولوجيا",
+      "sourceScore": 6,
+      "sourceType": "aggregator",
+      "cat": "تكنولوجيا",
+      "image": "",
+      "sourceCount": 1,
+      "sources": [
+        "Google News تكنولوجيا"
+      ]
+    },
+    {
       "title": "ترمب يعين فريقاً للذكاء الاصطناعي - الشرق الأوسط",
       "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPSjlWYXQ0NGhzdzVFRDRUVVJ5TjlUUEl2bDRxa0QyUlpEU1VuRlV6RlBtWFNKVjhFYzZYc08xczRNdlNIT3dDeXZwTEZBVzNtTmgxb0hNUEJyT1U4YzBBTjh4d0lNX21ONFBWVldJSTFDOEJqNkVCdjdJQkV3VXd6a014eVM4dlcxOFRlVTlUUUhnSTBiYVBINDZjMmMyU1FGQThLbkEtR3dZcW91ajFkd1gzX3FxcjZic3J4UkxIR3l4NDVpYVhOZWFxQVQ5aTFCcUFhcjY0U09kVDdPbXcwOE40NnpkSmlld3dDalR4Y24xTkFIQ3JuNF9LR2hhRUptN2NjV29hSG51cUZTajVXRWVkeFRaX2RaN2NmTnJsQkRhREFMcVlhaXM0X3dQRXU4T1VVaG5DclhyVHItVjFZbmhJUFRZSDN0QS1WQUNrZ2QzUGRucHp2OXU1QkJMVW1WTTZsRnF6NDFUVGVHbnF3eG5yeW92S09GMkRUMUlnWjNybFI5RU5WWks0Ujh6TGlpUWR6SF81ZEF3b0N5U3pybDFaaDZ2ZUhxcmtrang2bkJWeWYxUkR1bzUwRkh1ODBQdTdNNEtxS1psZG5lNzFBNjBDVFRsNVR3LXRuV2ZoOXhlVTRJQVE?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gNBVV95cUxPSjlWYXQ0NGhzdzVFRDRUVVJ5TjlUUEl2bDRxa0QyUlpEU1VuRlV6RlBtWFNKVjhFYzZYc08xczRNdlNIT3dDeXZwTEZBVzNtTmgxb0hNUEJyT1U4YzBBTjh4d0lNX21ONFBWVldJSTFDOEJqNkVCdjdJQkV3VXd6a014eVM4dlcxOFRlVTlUUUhnSTBiYVBINDZjMmMyU1FGQThLbkEtR3dZcW91ajFkd1gzX3FxcjZic3J4UkxIR3l4NDVpYVhOZWFxQVQ5aTFCcUFhcjY0U09kVDdPbXcwOE40NnpkSmlld3dDalR4Y24xTkFIQ3JuNF9LR2hhRUptN2NjV29hSG51cUZTajVXRWVkeFRaX2RaN2NmTnJsQkRhREFMcVlhaXM0X3dQRXU4T1VVaG5DclhyVHItVjFZbmhJUFRZSDN0QS1WQUNrZ2QzUGRucHp2OXU1QkJMVW1WTTZsRnF6NDFUVGVHbnF3eG5yeW92S09GMkRUMUlnWjNybFI5RU5WWks0Ujh6TGlpUWR6SF81ZEF3b0N5U3pybDFaaDZ2ZUhxcmtrang2bkJWeWYxUkR1bzUwRkh1ODBQdTdNNEtxS1psZG5lNzFBNjBDVFRsNVR3LXRuV2ZoOXhlVTRJQVE?oc=5\" target=\"_blank\">ترمب يعين فريقاً للذكاء الاصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق الأوسط</font>",
@@ -936,9 +952,9 @@
       ]
     },
     {
-      "title": "مؤسس «سوفت بنك» يحذر: تطور الذكاء الاصطناعي يستدعي الحذر - بوابة التكنولوجيا المالية",
+      "title": "مؤسس «سوفت بنك» يحذر: تطور الذكاء الاصطناعي يستدعي الحذر - fintechgate.net",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1zT3pJRlhtbVoybklzajZUMnRYVktYY05CTlJ5aTlCZzBTamVhUng2TEdtaVd5b1ZRQ2VZc29IOFlYcXpN?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1zT3pJRlhtbVoybklzajZUMnRYVktYY05CTlJ5aTlCZzBTamVhUng2TEdtaVd5b1ZRQ2VZc29IOFlYcXpN?oc=5\" target=\"_blank\">مؤسس «سوفت بنك» يحذر: تطور الذكاء الاصطناعي يستدعي الحذر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة التكنولوجيا المالية</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1zT3pJRlhtbVoybklzajZUMnRYVktYY05CTlJ5aTlCZzBTamVhUng2TEdtaVd5b1ZRQ2VZc29IOFlYcXpN?oc=5\" target=\"_blank\">مؤسس «سوفت بنك» يحذر: تطور الذكاء الاصطناعي يستدعي الحذر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fintechgate.net</font>",
       "date": "Sun, 04 Oct 2026 23:15:45 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -951,9 +967,9 @@
       ]
     },
     {
-      "title": "صدمة بوادي السيليكون.. استقالة مسؤول الأمان في أوبن إيه آي \"لأن ثقافتها معتلة\" - aljazeera.net",
+      "title": "صدمة بوادي السيليكون.. استقالة مسؤول الأمان في أوبن إيه آي \"لأن ثقافتها معتلة\" - الجزيرة نت",
       "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOWHljWmFpeU9kTjNveVlUc0xrd0ZDNDZIbzRfdFdLTnpmOWstQlBPeFd2UXpsMkdxT09ZOHRtTW9lVHV3bDZVWWVTSlkwd2ZiM1RHVUtuSERlcFBsWFFLNFhQZlpxM1R0SDVPZm1GempxVmNHay1Ya2ZwOEhKUHBnWDVNRENfS09LZUZXcTRZQ2VhRHlHZDZ0NlFfMG8xVjlUeW95dlpWZUVxdE5TUTEyV3poak5GZldCdWNvOGVmeDhfRm9takFNQTRLalBQRTNfZF8zV1VQM2tpSV9LQnhEblVEZ25Sazl0MVRzOHZUQXpTT3dUemwtbFZmeWxNWHV3ZFBHdC0xcVNOZFUwaXdEWDZFM01fTjV6WkdPQm1yUjNndzRPdDB0NnBHMk5tWG9Wd2tURlhNQmdVakYtalMtYURaRE15VWxaRkRxYy1wODFuZ9IB1wJBVV95cUxNbkVVNERLQVBpWmlpRXA3SmdjenN4eGxXR2lVR0tmTlNMNi1OZjlQcVJIZllTVEp5Nl85ZFlxaGhPWmtKZmhiaHZGYUVJcEg3OXRBRmxJZ3ZRS3VXV1I2ZDlrem5tV3RPNGlrbjR5d1hBcGNBZUFyNU8xMk9rSFZacWVTMjI5MDdIX25HdmFQTUlWcWVMalRzSEIxMGJaRklHR2hSYUEyekxwdTY4U0xhYlY2NVg2VjlQU1RTMHJpblRTOXBDY1R1WFBRTTdsd0k4Z21MMFpqcEU4NEIxczNFZ2dtOUVCNkpZeUFiN2ZhWlFtRHFxQXlCTnlJNi1sdGRBRXhoUWU0MFhsX1RSZ1paSFVTMUV2MGk1dVdPMTE1UV80VWhCM2xrYzBkMGlObndXZFJPaFM2Q3VZa05BTnVqU3N2WmItdUVXWWZFbUZwallSVDJ0TV9z?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxOWHljWmFpeU9kTjNveVlUc0xrd0ZDNDZIbzRfdFdLTnpmOWstQlBPeFd2UXpsMkdxT09ZOHRtTW9lVHV3bDZVWWVTSlkwd2ZiM1RHVUtuSERlcFBsWFFLNFhQZlpxM1R0SDVPZm1GempxVmNHay1Ya2ZwOEhKUHBnWDVNRENfS09LZUZXcTRZQ2VhRHlHZDZ0NlFfMG8xVjlUeW95dlpWZUVxdE5TUTEyV3poak5GZldCdWNvOGVmeDhfRm9takFNQTRLalBQRTNfZF8zV1VQM2tpSV9LQnhEblVEZ25Sazl0MVRzOHZUQXpTT3dUemwtbFZmeWxNWHV3ZFBHdC0xcVNOZFUwaXdEWDZFM01fTjV6WkdPQm1yUjNndzRPdDB0NnBHMk5tWG9Wd2tURlhNQmdVakYtalMtYURaRE15VWxaRkRxYy1wODFuZ9IB1wJBVV95cUxNbkVVNERLQVBpWmlpRXA3SmdjenN4eGxXR2lVR0tmTlNMNi1OZjlQcVJIZllTVEp5Nl85ZFlxaGhPWmtKZmhiaHZGYUVJcEg3OXRBRmxJZ3ZRS3VXV1I2ZDlrem5tV3RPNGlrbjR5d1hBcGNBZUFyNU8xMk9rSFZacWVTMjI5MDdIX25HdmFQTUlWcWVMalRzSEIxMGJaRklHR2hSYUEyekxwdTY4U0xhYlY2NVg2VjlQU1RTMHJpblRTOXBDY1R1WFBRTTdsd0k4Z21MMFpqcEU4NEIxczNFZ2dtOUVCNkpZeUFiN2ZhWlFtRHFxQXlCTnlJNi1sdGRBRXhoUWU0MFhsX1RSZ1paSFVTMUV2MGk1dVdPMTE1UV80VWhCM2xrYzBkMGlObndXZFJPaFM2Q3VZa05BTnVqU3N2WmItdUVXWWZFbUZwallSVDJ0TV9z?oc=5\" target=\"_blank\">صدمة بوادي السيليكون.. استقالة مسؤول الأمان في أوبن إيه آي \"لأن ثقافتها معتلة\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.net</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxOWHljWmFpeU9kTjNveVlUc0xrd0ZDNDZIbzRfdFdLTnpmOWstQlBPeFd2UXpsMkdxT09ZOHRtTW9lVHV3bDZVWWVTSlkwd2ZiM1RHVUtuSERlcFBsWFFLNFhQZlpxM1R0SDVPZm1GempxVmNHay1Ya2ZwOEhKUHBnWDVNRENfS09LZUZXcTRZQ2VhRHlHZDZ0NlFfMG8xVjlUeW95dlpWZUVxdE5TUTEyV3poak5GZldCdWNvOGVmeDhfRm9takFNQTRLalBQRTNfZF8zV1VQM2tpSV9LQnhEblVEZ25Sazl0MVRzOHZUQXpTT3dUemwtbFZmeWxNWHV3ZFBHdC0xcVNOZFUwaXdEWDZFM01fTjV6WkdPQm1yUjNndzRPdDB0NnBHMk5tWG9Wd2tURlhNQmdVakYtalMtYURaRE15VWxaRkRxYy1wODFuZ9IB1wJBVV95cUxNbkVVNERLQVBpWmlpRXA3SmdjenN4eGxXR2lVR0tmTlNMNi1OZjlQcVJIZllTVEp5Nl85ZFlxaGhPWmtKZmhiaHZGYUVJcEg3OXRBRmxJZ3ZRS3VXV1I2ZDlrem5tV3RPNGlrbjR5d1hBcGNBZUFyNU8xMk9rSFZacWVTMjI5MDdIX25HdmFQTUlWcWVMalRzSEIxMGJaRklHR2hSYUEyekxwdTY4U0xhYlY2NVg2VjlQU1RTMHJpblRTOXBDY1R1WFBRTTdsd0k4Z21MMFpqcEU4NEIxczNFZ2dtOUVCNkpZeUFiN2ZhWlFtRHFxQXlCTnlJNi1sdGRBRXhoUWU0MFhsX1RSZ1paSFVTMUV2MGk1dVdPMTE1UV80VWhCM2xrYzBkMGlObndXZFJPaFM2Q3VZa05BTnVqU3N2WmItdUVXWWZFbUZwallSVDJ0TV9z?oc=5\" target=\"_blank\">صدمة بوادي السيليكون.. استقالة مسؤول الأمان في أوبن إيه آي \"لأن ثقافتها معتلة\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
       "date": "Sun, 04 Oct 2026 22:36:57 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -996,24 +1012,9 @@
       ]
     },
     {
-      "title": "ترامب يؤكد تكليف جاي كلايتون بقيادة فريق عمل معني بالذكاء الاصطناعي - إرم بزنس",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XRFNneTU1R3VITm5ydmkwbmpGa1ZvcS0tclFZMXJVRnpWRDFQYlhydWstZWVqOFhjZC1rU3lsclg5NklFb25DSFdHTXdUZEV2UmRXVmRjajZfMFE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XRFNneTU1R3VITm5ydmkwbmpGa1ZvcS0tclFZMXJVRnpWRDFQYlhydWstZWVqOFhjZC1rU3lsclg5NklFb25DSFdHTXdUZEV2UmRXVmRjajZfMFE?oc=5\" target=\"_blank\">ترامب يؤكد تكليف جاي كلايتون بقيادة فريق عمل معني بالذكاء الاصطناعي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">إرم بزنس</font>",
-      "date": "Sun, 04 Oct 2026 20:48:57 GMT",
-      "source": "Google News تكنولوجيا",
-      "sourceScore": 6,
-      "sourceType": "aggregator",
-      "cat": "تكنولوجيا",
-      "image": "",
-      "sourceCount": 1,
-      "sources": [
-        "Google News تكنولوجيا"
-      ]
-    },
-    {
-      "title": "آبل تقيد وصول وكلاء الذكاء الاصطناعي إلى ملفات أجهزة ماك.. ما الأسباب؟ - aljazeera.net",
+      "title": "آبل تقيد وصول وكلاء الذكاء الاصطناعي إلى ملفات أجهزة ماك.. ما الأسباب؟ - الجزيرة نت",
       "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNd3JQRG4tLUZMMEZaZ1NRN0ZfOUhsb0hfYzZNeFNoZlN1ak80ZTkzTFJ2QUN0TDhzQXVSR19OZGZhN2hLVXI3Xy0yRHhoWEt1SWJCeUZvM244WlRHd0liLWNvWGNVTldObmRiOUNWTS1YME9aVHZIV3k4RFU1RmpZWTY3OTZzelJ1QW1BeXdLejlQSjk2TEVzUkM5c2ZhM0pxMG5sTzk4ZEdQeEVyR04zd1p4TDM4ZUtaSGJXNE1kWkVkYllNVUtQN1doRXFlMDNleXl6Yl9ma1lPYnQxWU15OFphbmg1TVJBVnlBZnVvUVFfN0JnTG9JbW02NkY2elNwRGg0WVJOWUxaNmh5OXlJaWk4Q0NCNHlXTWVwOUNiWS1rNXdIZGRPUnpQVzdwV18tdm5wMHh3S1RUbDVqNzh2MW9xWlZQRjVDNHZOYzZfVi1Gd9IB1wJBVV95cUxQUjZqbjJsQTNIRDdWTDlMcDA2OEQ0N0F0dllfcmFSNWE3dGIxV1lFeVJoR3EtTzFWQVBTT1B0N2t5dzduX19PNWtpY3VnTGRWYUNtbHRXLUdnR1VJSHJVcm1tcm41RmhHRmdULUhEWm43R25fNDM0aVRBUkZKUWpjcTRfVF9XQXZVRGpCNk50UkJyeW8tdkhkTGhnU203ZUdsR0cyc3RzdmFRaXgyTmZHT3lUdk9WRXlRRnJ6TjMzcS1ISEp5ZDBQR0Q2dV9wcDRQZjJsTGg4QThFRUtPQzBkUzlIZ1BwTk96R0ZIOUdvbk1Pb253anFjQXdXSWF3RlFmTG55QkRoUnJGUDRTdTRHdVIzVGthTG5xRi1nOHNEQ1ZheV9RN0Y4eF8wazVkZUFMVHltOEViMlNRU3ZMeWJuQVR2cUdNZXBlRlFBUTZUTWludzVFQnVR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxNd3JQRG4tLUZMMEZaZ1NRN0ZfOUhsb0hfYzZNeFNoZlN1ak80ZTkzTFJ2QUN0TDhzQXVSR19OZGZhN2hLVXI3Xy0yRHhoWEt1SWJCeUZvM244WlRHd0liLWNvWGNVTldObmRiOUNWTS1YME9aVHZIV3k4RFU1RmpZWTY3OTZzelJ1QW1BeXdLejlQSjk2TEVzUkM5c2ZhM0pxMG5sTzk4ZEdQeEVyR04zd1p4TDM4ZUtaSGJXNE1kWkVkYllNVUtQN1doRXFlMDNleXl6Yl9ma1lPYnQxWU15OFphbmg1TVJBVnlBZnVvUVFfN0JnTG9JbW02NkY2elNwRGg0WVJOWUxaNmh5OXlJaWk4Q0NCNHlXTWVwOUNiWS1rNXdIZGRPUnpQVzdwV18tdm5wMHh3S1RUbDVqNzh2MW9xWlZQRjVDNHZOYzZfVi1Gd9IB1wJBVV95cUxQUjZqbjJsQTNIRDdWTDlMcDA2OEQ0N0F0dllfcmFSNWE3dGIxV1lFeVJoR3EtTzFWQVBTT1B0N2t5dzduX19PNWtpY3VnTGRWYUNtbHRXLUdnR1VJSHJVcm1tcm41RmhHRmdULUhEWm43R25fNDM0aVRBUkZKUWpjcTRfVF9XQXZVRGpCNk50UkJyeW8tdkhkTGhnU203ZUdsR0cyc3RzdmFRaXgyTmZHT3lUdk9WRXlRRnJ6TjMzcS1ISEp5ZDBQR0Q2dV9wcDRQZjJsTGg4QThFRUtPQzBkUzlIZ1BwTk96R0ZIOUdvbk1Pb253anFjQXdXSWF3RlFmTG55QkRoUnJGUDRTdTRHdVIzVGthTG5xRi1nOHNEQ1ZheV9RN0Y4eF8wazVkZUFMVHltOEViMlNRU3ZMeWJuQVR2cUdNZXBlRlFBUTZUTWludzVFQnVR?oc=5\" target=\"_blank\">آبل تقيد وصول وكلاء الذكاء الاصطناعي إلى ملفات أجهزة ماك.. ما الأسباب؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.net</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxNd3JQRG4tLUZMMEZaZ1NRN0ZfOUhsb0hfYzZNeFNoZlN1ak80ZTkzTFJ2QUN0TDhzQXVSR19OZGZhN2hLVXI3Xy0yRHhoWEt1SWJCeUZvM244WlRHd0liLWNvWGNVTldObmRiOUNWTS1YME9aVHZIV3k4RFU1RmpZWTY3OTZzelJ1QW1BeXdLejlQSjk2TEVzUkM5c2ZhM0pxMG5sTzk4ZEdQeEVyR04zd1p4TDM4ZUtaSGJXNE1kWkVkYllNVUtQN1doRXFlMDNleXl6Yl9ma1lPYnQxWU15OFphbmg1TVJBVnlBZnVvUVFfN0JnTG9JbW02NkY2elNwRGg0WVJOWUxaNmh5OXlJaWk4Q0NCNHlXTWVwOUNiWS1rNXdIZGRPUnpQVzdwV18tdm5wMHh3S1RUbDVqNzh2MW9xWlZQRjVDNHZOYzZfVi1Gd9IB1wJBVV95cUxQUjZqbjJsQTNIRDdWTDlMcDA2OEQ0N0F0dllfcmFSNWE3dGIxV1lFeVJoR3EtTzFWQVBTT1B0N2t5dzduX19PNWtpY3VnTGRWYUNtbHRXLUdnR1VJSHJVcm1tcm41RmhHRmdULUhEWm43R25fNDM0aVRBUkZKUWpjcTRfVF9XQXZVRGpCNk50UkJyeW8tdkhkTGhnU203ZUdsR0cyc3RzdmFRaXgyTmZHT3lUdk9WRXlRRnJ6TjMzcS1ISEp5ZDBQR0Q2dV9wcDRQZjJsTGg4QThFRUtPQzBkUzlIZ1BwTk96R0ZIOUdvbk1Pb253anFjQXdXSWF3RlFmTG55QkRoUnJGUDRTdTRHdVIzVGthTG5xRi1nOHNEQ1ZheV9RN0Y4eF8wazVkZUFMVHltOEViMlNRU3ZMeWJuQVR2cUdNZXBlRlFBUTZUTWludzVFQnVR?oc=5\" target=\"_blank\">آبل تقيد وصول وكلاء الذكاء الاصطناعي إلى ملفات أجهزة ماك.. ما الأسباب؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
       "date": "Sun, 04 Oct 2026 20:38:13 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -1071,9 +1072,9 @@
       ]
     },
     {
-      "title": "الذكاء الاصطناعي يغادر الأرض.. غوغل تخطط لبناء مراكز بيانات في الفضاء - aljazeera.net",
+      "title": "الذكاء الاصطناعي يغادر الأرض.. غوغل تخطط لبناء مراكز بيانات في الفضاء - الجزيرة نت",
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQSFloTFN1WXZSWEE4M3REUWVMajJSUTBQeEI2NkdHLXVNQWtrRndyaU9saVllaGZKWVhoVzNBanFqS3lyY1l2bVVaLVN3Z1lRNWdGcG5RQlZEODVnanJnMlBDVVhBaFNzZW1kVURBUmVJcTU2NVc0Q2tfQTZzMFo2bS1HZ0RKM1lXdzduZEVEdGY3eHdrQUU0WTctTVhGWHZRbl9iajZ3N0liYWZiM0NEaFNFT0FpZlZ2OWIwZGtBd2J4MV9jcTJBTzQ0VjBrR3NhUUFKQ0NEOGFHd2ROSmZQSFUwS3J4bkVuSERidkctSXlnemEzRjQ0SmFfYXJucXZoMFMzcmdMWVhvSEJkLWlCU1drSWZSVHZKVXQ0YmV2NlpMd05sb0lka2JreDN1THV6RW16QUp3WVJta1N5OHUtT2FnUUhRWVFq0gHOAkFVX3lxTE15c3UydFRNQ05HeTU0bkQ5cXF5SHJvM01MR2lhbG1JaFlzd0ZuTkl4b3M2YzRnRWlFNFFVd1loazZpRmFEWF9fYlBBRTdjTzNCWXVEVm1qRjVQYTE4OExhM3RObkZaQ2hRVk9GNG9BeEQ1bmZhd1FqUmhzSGVIQkxDclN1N2xDRG95N3FhZGFQT2tSRmhWdzQ3VlNxMUpNaERhQnRocnpwZ25yTUw0eW1aOE41cGUxMDE0Z0cySGF2bkhYWmRBWVUyV2h5MVk4RmVUR2ZTOEVxby1kaXZJcGM5Y084dHVTdkhnQTdrWFhvbTAwTWdxSi10M3d4VEJJZlc5Sl8xVjJXZF9HQml6c0JHa0tTa2JEUnZhUUJnVkp1ZUhaTGpFSURsbUk3ODBWbkItdVh6Y3dkSzliZGhRajZJc2dESGlKMVNFM0FseUE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxQSFloTFN1WXZSWEE4M3REUWVMajJSUTBQeEI2NkdHLXVNQWtrRndyaU9saVllaGZKWVhoVzNBanFqS3lyY1l2bVVaLVN3Z1lRNWdGcG5RQlZEODVnanJnMlBDVVhBaFNzZW1kVURBUmVJcTU2NVc0Q2tfQTZzMFo2bS1HZ0RKM1lXdzduZEVEdGY3eHdrQUU0WTctTVhGWHZRbl9iajZ3N0liYWZiM0NEaFNFT0FpZlZ2OWIwZGtBd2J4MV9jcTJBTzQ0VjBrR3NhUUFKQ0NEOGFHd2ROSmZQSFUwS3J4bkVuSERidkctSXlnemEzRjQ0SmFfYXJucXZoMFMzcmdMWVhvSEJkLWlCU1drSWZSVHZKVXQ0YmV2NlpMd05sb0lka2JreDN1THV6RW16QUp3WVJta1N5OHUtT2FnUUhRWVFq0gHOAkFVX3lxTE15c3UydFRNQ05HeTU0bkQ5cXF5SHJvM01MR2lhbG1JaFlzd0ZuTkl4b3M2YzRnRWlFNFFVd1loazZpRmFEWF9fYlBBRTdjTzNCWXVEVm1qRjVQYTE4OExhM3RObkZaQ2hRVk9GNG9BeEQ1bmZhd1FqUmhzSGVIQkxDclN1N2xDRG95N3FhZGFQT2tSRmhWdzQ3VlNxMUpNaERhQnRocnpwZ25yTUw0eW1aOE41cGUxMDE0Z0cySGF2bkhYWmRBWVUyV2h5MVk4RmVUR2ZTOEVxby1kaXZJcGM5Y084dHVTdkhnQTdrWFhvbTAwTWdxSi10M3d4VEJJZlc5Sl8xVjJXZF9HQml6c0JHa0tTa2JEUnZhUUJnVkp1ZUhaTGpFSURsbUk3ODBWbkItdVh6Y3dkSzliZGhRajZJc2dESGlKMVNFM0FseUE?oc=5\" target=\"_blank\">الذكاء الاصطناعي يغادر الأرض.. غوغل تخطط لبناء مراكز بيانات في الفضاء</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.net</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxQSFloTFN1WXZSWEE4M3REUWVMajJSUTBQeEI2NkdHLXVNQWtrRndyaU9saVllaGZKWVhoVzNBanFqS3lyY1l2bVVaLVN3Z1lRNWdGcG5RQlZEODVnanJnMlBDVVhBaFNzZW1kVURBUmVJcTU2NVc0Q2tfQTZzMFo2bS1HZ0RKM1lXdzduZEVEdGY3eHdrQUU0WTctTVhGWHZRbl9iajZ3N0liYWZiM0NEaFNFT0FpZlZ2OWIwZGtBd2J4MV9jcTJBTzQ0VjBrR3NhUUFKQ0NEOGFHd2ROSmZQSFUwS3J4bkVuSERidkctSXlnemEzRjQ0SmFfYXJucXZoMFMzcmdMWVhvSEJkLWlCU1drSWZSVHZKVXQ0YmV2NlpMd05sb0lka2JreDN1THV6RW16QUp3WVJta1N5OHUtT2FnUUhRWVFq0gHOAkFVX3lxTE15c3UydFRNQ05HeTU0bkQ5cXF5SHJvM01MR2lhbG1JaFlzd0ZuTkl4b3M2YzRnRWlFNFFVd1loazZpRmFEWF9fYlBBRTdjTzNCWXVEVm1qRjVQYTE4OExhM3RObkZaQ2hRVk9GNG9BeEQ1bmZhd1FqUmhzSGVIQkxDclN1N2xDRG95N3FhZGFQT2tSRmhWdzQ3VlNxMUpNaERhQnRocnpwZ25yTUw0eW1aOE41cGUxMDE0Z0cySGF2bkhYWmRBWVUyV2h5MVk4RmVUR2ZTOEVxby1kaXZJcGM5Y084dHVTdkhnQTdrWFhvbTAwTWdxSi10M3d4VEJJZlc5Sl8xVjJXZF9HQml6c0JHa0tTa2JEUnZhUUJnVkp1ZUhaTGpFSURsbUk3ODBWbkItdVh6Y3dkSzliZGhRajZJc2dESGlKMVNFM0FseUE?oc=5\" target=\"_blank\">الذكاء الاصطناعي يغادر الأرض.. غوغل تخطط لبناء مراكز بيانات في الفضاء</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
       "date": "Sun, 04 Oct 2026 18:40:37 GMT",
       "source": "Google News تكنولوجيا",
       "sourceScore": 6,
@@ -1131,9 +1132,9 @@
       ]
     },
     {
-      "title": "(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين - 新华网",
+      "title": "(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين - arabic.news.cn",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xemk4NzVBNFQ2WTZHTnQweGs1alRsNXZsUFZZU3J5ZmxtR3p6QzI0UHJkWUpEZXlmOWNCNXVDVnBfVzZNejB2TFZCQWxqQ0xnaU0taWJzZmtEUHM1amtyenFLZzk0aVFTOG14SXlERUxRM1lfRzd2QUVPRQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xemk4NzVBNFQ2WTZHTnQweGs1alRsNXZsUFZZU3J5ZmxtR3p6QzI0UHJkWUpEZXlmOWNCNXVDVnBfVzZNejB2TFZCQWxqQ0xnaU0taWJzZmtEUHM1amtyenFLZzk0aVFTOG14SXlERUxRM1lfRzd2QUVPRQ?oc=5\" target=\"_blank\">(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xemk4NzVBNFQ2WTZHTnQweGs1alRsNXZsUFZZU3J5ZmxtR3p6QzI0UHJkWUpEZXlmOWNCNXVDVnBfVzZNejB2TFZCQWxqQ0xnaU0taWJzZmtEUHM1amtyenFLZzk0aVFTOG14SXlERUxRM1lfRzd2QUVPRQ?oc=5\" target=\"_blank\">(وسائط متعددة) خبراء يسلطون الضوء على دور الطب الصيني التقليدي في دعم المهمات الفضائية المأهولة في الصين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">arabic.news.cn</font>",
       "date": "Mon, 21 Sep 2026 06:30:15 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
@@ -1266,9 +1267,9 @@
       ]
     },
     {
-      "title": "مركبة دراغون تعود إلى الأرض.. خلايا جذعية وأنسجة بشرية مطبوعة تغير مستقبل الطب - aljazeera.net",
+      "title": "مركبة دراغون تعود إلى الأرض.. خلايا جذعية وأنسجة بشرية مطبوعة تغير مستقبل الطب - الجزيرة نت",
       "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQTHVwcVhUWmdsR2FuMHU0M1BFU043bVhwb2IydlBNU24zN3gtdk1KcnlQR2RORTc3Q0REeGZfWVJrdFJkY3ZteXJNS3VHOTJnN041eWltcEJuR2N2VWpBV3d0endkY3VDSmxyOWNWZTMybUNhc0ZZX0poUkFLekRLMklTeVNzcE8wOEJrRHZuck9vdi1WZWhuT3NqUGh4emxLdHJPVGt6RzRHeHNhM0xLUENvbHZCbEU1d0E0U1BwbkllRm9xUUo0aUZObk9XRllyY0U5NmhPREJEWDRWS0l4WGtaZUJwU1VmcXVkUkx0UkJudThpQ2tOQW1IeEF2V0l5TVdPSG9HQ0hManlZdGRRNGlDaURrdjRYY0FkSXhuS1F2c2JXV0VVT2pZT2xXLWVycFV1Wm5RMVpkcy1WSXfSAcMCQVVfeXFMTVB0SXJ0bTR3RVlXbmkzblh0R3FKQkNWTHlvcW5NeW5xWlpuS1hGU0NhVHlpTzNvcnhBVlBZRjhPeElzczNtcTNkMVRTdkdYLUwwa2UxTlhWVi1WdVQtdXNqMXA0UDFPQi1oajY1UTVSYnlDeTUwWU9IeDJRVkpNWG9QSzA3QlVjR0pUenNfeVZTS2FOdl96Tm45RHhQbEtHcjZiU0V6eVB0STZVMTN0NGhBOGNvaTZyU0NvTXhkcUxzbmhXMHhudU5SRTdOSk93aWlUdlBxVm0yTC1EYkhPS2VOaTROX29OdUswbnZsUy1MN0JUd3QtUmhXb2J6Ri1UWC04VXA1XzR2eDdQWXJlVmpPY2lJZHJYZUxBYnFQYWlMM1ByQzZqeS1PTGMwVmJzWTVlZXh0bzBWNl85d05TVzNkaDA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxQTHVwcVhUWmdsR2FuMHU0M1BFU043bVhwb2IydlBNU24zN3gtdk1KcnlQR2RORTc3Q0REeGZfWVJrdFJkY3ZteXJNS3VHOTJnN041eWltcEJuR2N2VWpBV3d0endkY3VDSmxyOWNWZTMybUNhc0ZZX0poUkFLekRLMklTeVNzcE8wOEJrRHZuck9vdi1WZWhuT3NqUGh4emxLdHJPVGt6RzRHeHNhM0xLUENvbHZCbEU1d0E0U1BwbkllRm9xUUo0aUZObk9XRllyY0U5NmhPREJEWDRWS0l4WGtaZUJwU1VmcXVkUkx0UkJudThpQ2tOQW1IeEF2V0l5TVdPSG9HQ0hManlZdGRRNGlDaURrdjRYY0FkSXhuS1F2c2JXV0VVT2pZT2xXLWVycFV1Wm5RMVpkcy1WSXfSAcMCQVVfeXFMTVB0SXJ0bTR3RVlXbmkzblh0R3FKQkNWTHlvcW5NeW5xWlpuS1hGU0NhVHlpTzNvcnhBVlBZRjhPeElzczNtcTNkMVRTdkdYLUwwa2UxTlhWVi1WdVQtdXNqMXA0UDFPQi1oajY1UTVSYnlDeTUwWU9IeDJRVkpNWG9QSzA3QlVjR0pUenNfeVZTS2FOdl96Tm45RHhQbEtHcjZiU0V6eVB0STZVMTN0NGhBOGNvaTZyU0NvTXhkcUxzbmhXMHhudU5SRTdOSk93aWlUdlBxVm0yTC1EYkhPS2VOaTROX29OdUswbnZsUy1MN0JUd3QtUmhXb2J6Ri1UWC04VXA1XzR2eDdQWXJlVmpPY2lJZHJYZUxBYnFQYWlMM1ByQzZqeS1PTGMwVmJzWTVlZXh0bzBWNl85d05TVzNkaDA?oc=5\" target=\"_blank\">مركبة دراغون تعود إلى الأرض.. خلايا جذعية وأنسجة بشرية مطبوعة تغير مستقبل الطب</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.net</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxQTHVwcVhUWmdsR2FuMHU0M1BFU043bVhwb2IydlBNU24zN3gtdk1KcnlQR2RORTc3Q0REeGZfWVJrdFJkY3ZteXJNS3VHOTJnN041eWltcEJuR2N2VWpBV3d0endkY3VDSmxyOWNWZTMybUNhc0ZZX0poUkFLekRLMklTeVNzcE8wOEJrRHZuck9vdi1WZWhuT3NqUGh4emxLdHJPVGt6RzRHeHNhM0xLUENvbHZCbEU1d0E0U1BwbkllRm9xUUo0aUZObk9XRllyY0U5NmhPREJEWDRWS0l4WGtaZUJwU1VmcXVkUkx0UkJudThpQ2tOQW1IeEF2V0l5TVdPSG9HQ0hManlZdGRRNGlDaURrdjRYY0FkSXhuS1F2c2JXV0VVT2pZT2xXLWVycFV1Wm5RMVpkcy1WSXfSAcMCQVVfeXFMTVB0SXJ0bTR3RVlXbmkzblh0R3FKQkNWTHlvcW5NeW5xWlpuS1hGU0NhVHlpTzNvcnhBVlBZRjhPeElzczNtcTNkMVRTdkdYLUwwa2UxTlhWVi1WdVQtdXNqMXA0UDFPQi1oajY1UTVSYnlDeTUwWU9IeDJRVkpNWG9QSzA3QlVjR0pUenNfeVZTS2FOdl96Tm45RHhQbEtHcjZiU0V6eVB0STZVMTN0NGhBOGNvaTZyU0NvTXhkcUxzbmhXMHhudU5SRTdOSk93aWlUdlBxVm0yTC1EYkhPS2VOaTROX29OdUswbnZsUy1MN0JUd3QtUmhXb2J6Ri1UWC04VXA1XzR2eDdQWXJlVmpPY2lJZHJYZUxBYnFQYWlMM1ByQzZqeS1PTGMwVmJzWTVlZXh0bzBWNl85d05TVzNkaDA?oc=5\" target=\"_blank\">مركبة دراغون تعود إلى الأرض.. خلايا جذعية وأنسجة بشرية مطبوعة تغير مستقبل الطب</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
       "date": "Wed, 17 Jun 2026 07:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
@@ -1296,9 +1297,9 @@
       ]
     },
     {
-      "title": "من \"تيانغونغ\" إلى القمر والمريخ.. طموح صيني يتسارع نحو المجد الكوني - aljazeera.net",
+      "title": "من \"تيانغونغ\" إلى القمر والمريخ.. طموح صيني يتسارع نحو المجد الكوني - الجزيرة نت",
       "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNcGdlczBIWjNkaE5zR2ZXVTctLVBVS0N1V2gtVmFmWEZBYkF4b0RCY05wWUxsWjhvQ2UtMm1DNkszMDdFWGx3ZlVQY0wyNmFOU01TM2NudXJveDB2QjZPdHVPOGxsSHZ3a3A1blJubkdfMlk2Y2JmUGNvVnBrckFucmlENW8tQ0FGaU1ZWjZUVXlQVEpwZHpjYmJYSVZPcm1INm1TZ1FGZHpNaU5OeGxxcEoxOXhYU0l2dndId3gzTF9tZ0tiaGtUQzdfczBJYzdQM2pmeVNlckhTY1hyMWMzTHVvY0VvZVotV1JKaHV5RlJ5TlpQbmgyWnhyd0RIS2t5SHVYOVo3WEk0SFJOWlRtNUdqZEdyNU10QXk0UDB3X0xYYUtESm5lQ0s1dU9CYzhFQUh5VmFXNmh2aVNGTDFBWGJPTHLSAcoCQVVfeXFMTkpNWHd3TVliNzlFX2ozTDNMSUMzVXBua1lqc2p2OUE4bHkya2RMczJlaUthYW5BN2dhc2lpVVJYcWQwNGdrdHpYZXNodU5JNDNRcmU2bHJNX2Jab1hZZlhPWkY4UjBtRGdRMk5KNWRvbnhmbXpwT2tPNmxTMS1HV2lfWEtna3doSS1PZXpjZ1F5cG1pWEV5R3AtNjFIdE1CdndCb3VqUDlKeU5CdUY4cHJMYThydlZvQldPT3RTTllkM2g0QWE3UGtYWm5IdE41eFVtRjlHbVc2eHI2NGs1QktlUFNPd1ZmQTlxMmxGTGZTRnM1QTFFNVRQY244TzJ4UVpCWUlYT1RFZjJwRXg4TGVyNTJFU0tFSkl4U0lWclg5blJhVGdKYlVfRVEtSFFnU1p0a1ZybnlzTVVnaWpHbkMtLTExUGs2WGdn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxNcGdlczBIWjNkaE5zR2ZXVTctLVBVS0N1V2gtVmFmWEZBYkF4b0RCY05wWUxsWjhvQ2UtMm1DNkszMDdFWGx3ZlVQY0wyNmFOU01TM2NudXJveDB2QjZPdHVPOGxsSHZ3a3A1blJubkdfMlk2Y2JmUGNvVnBrckFucmlENW8tQ0FGaU1ZWjZUVXlQVEpwZHpjYmJYSVZPcm1INm1TZ1FGZHpNaU5OeGxxcEoxOXhYU0l2dndId3gzTF9tZ0tiaGtUQzdfczBJYzdQM2pmeVNlckhTY1hyMWMzTHVvY0VvZVotV1JKaHV5RlJ5TlpQbmgyWnhyd0RIS2t5SHVYOVo3WEk0SFJOWlRtNUdqZEdyNU10QXk0UDB3X0xYYUtESm5lQ0s1dU9CYzhFQUh5VmFXNmh2aVNGTDFBWGJPTHLSAcoCQVVfeXFMTkpNWHd3TVliNzlFX2ozTDNMSUMzVXBua1lqc2p2OUE4bHkya2RMczJlaUthYW5BN2dhc2lpVVJYcWQwNGdrdHpYZXNodU5JNDNRcmU2bHJNX2Jab1hZZlhPWkY4UjBtRGdRMk5KNWRvbnhmbXpwT2tPNmxTMS1HV2lfWEtna3doSS1PZXpjZ1F5cG1pWEV5R3AtNjFIdE1CdndCb3VqUDlKeU5CdUY4cHJMYThydlZvQldPT3RTTllkM2g0QWE3UGtYWm5IdE41eFVtRjlHbVc2eHI2NGs1QktlUFNPd1ZmQTlxMmxGTGZTRnM1QTFFNVRQY244TzJ4UVpCWUlYT1RFZjJwRXg4TGVyNTJFU0tFSkl4U0lWclg5blJhVGdKYlVfRVEtSFFnU1p0a1ZybnlzTVVnaWpHbkMtLTExUGs2WGdn?oc=5\" target=\"_blank\">من \"تيانغونغ\" إلى القمر والمريخ.. طموح صيني يتسارع نحو المجد الكوني</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.net</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxNcGdlczBIWjNkaE5zR2ZXVTctLVBVS0N1V2gtVmFmWEZBYkF4b0RCY05wWUxsWjhvQ2UtMm1DNkszMDdFWGx3ZlVQY0wyNmFOU01TM2NudXJveDB2QjZPdHVPOGxsSHZ3a3A1blJubkdfMlk2Y2JmUGNvVnBrckFucmlENW8tQ0FGaU1ZWjZUVXlQVEpwZHpjYmJYSVZPcm1INm1TZ1FGZHpNaU5OeGxxcEoxOXhYU0l2dndId3gzTF9tZ0tiaGtUQzdfczBJYzdQM2pmeVNlckhTY1hyMWMzTHVvY0VvZVotV1JKaHV5RlJ5TlpQbmgyWnhyd0RIS2t5SHVYOVo3WEk0SFJOWlRtNUdqZEdyNU10QXk0UDB3X0xYYUtESm5lQ0s1dU9CYzhFQUh5VmFXNmh2aVNGTDFBWGJPTHLSAcoCQVVfeXFMTkpNWHd3TVliNzlFX2ozTDNMSUMzVXBua1lqc2p2OUE4bHkya2RMczJlaUthYW5BN2dhc2lpVVJYcWQwNGdrdHpYZXNodU5JNDNRcmU2bHJNX2Jab1hZZlhPWkY4UjBtRGdRMk5KNWRvbnhmbXpwT2tPNmxTMS1HV2lfWEtna3doSS1PZXpjZ1F5cG1pWEV5R3AtNjFIdE1CdndCb3VqUDlKeU5CdUY4cHJMYThydlZvQldPT3RTTllkM2g0QWE3UGtYWm5IdE41eFVtRjlHbVc2eHI2NGs1QktlUFNPd1ZmQTlxMmxGTGZTRnM1QTFFNVRQY244TzJ4UVpCWUlYT1RFZjJwRXg4TGVyNTJFU0tFSkl4U0lWclg5blJhVGdKYlVfRVEtSFFnU1p0a1ZybnlzTVVnaWpHbkMtLTExUGs2WGdn?oc=5\" target=\"_blank\">من \"تيانغونغ\" إلى القمر والمريخ.. طموح صيني يتسارع نحو المجد الكوني</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
       "date": "Wed, 04 Mar 2026 08:00:00 GMT",
       "source": "Google News علوم",
       "sourceScore": 6,
