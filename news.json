@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T00:59:11.979Z",
+  "updatedAt": "2026-10-06T01:15:32.080Z",
   "items": [
     {
       "title": "مصر تدين انتهاكات إسرائيل المتكررة لسيادة سوريا - بوابة الأهرام",
@@ -228,25 +228,10 @@
       ]
     },
     {
-      "title": "أنصار الله يقصفون أهدافاً في السعودية، والرياض تعلن تنفيذ \"عملية بحرية عسكرية\"",
-      "link": "https://www.bbc.co.uk/arabic/live/cmgj940x8e26t?at_medium=RSS&at_campaign=rss",
-      "description": "تصاعد التوتر بين السعودية وأنصار الله مع تبادل الإعلان عن عمليات وهجمات، بالتزامن مع تعزيز التعاون الدفاعي بين السعودية وتركيا وباكستان واستمرار موجة النزوح داخل اليمن.",
-      "date": "2026-10-06T00:59:10.885Z",
-      "source": "BBC العربية",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0028/live/d7e5bde0-c0fe-11f1-a64c-550be9e3c66b.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "BBC العربية"
-      ]
-    },
-    {
       "title": "Yemeni military says it has 'secured' Red Sea waterway",
       "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
       "description": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
-      "date": "Tue, 06 Oct 2026 00:51:43 GMT",
+      "date": "Tue, 06 Oct 2026 01:05:00 GMT",
       "source": "BBC World",
       "sourceScore": 10,
       "sourceType": "official-rss",
@@ -255,6 +240,36 @@
       "sourceCount": 1,
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "title": "تقدم لقوات الحكومة اليمنية بعد معارك على باب المندب، وأنصار الله تقصف أهدفاً في سعودية",
+      "link": "https://www.bbc.com/arabic/articles/cwvg0742x1mvo?at_medium=RSS&at_campaign=rss",
+      "description": "تصاعدت المواجهات في اليمن مع إعلان القوات الحكومية تحقيق تقدم في المخا ومحيط باب المندب، بينما نفى الحوثيون هذه المكاسب وأعلنوا هجمات جديدة على مواقع داخل السعودية.",
+      "date": "Tue, 06 Oct 2026 01:03:34 GMT",
+      "source": "BBC العربية",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f12e/live/dfe6d300-c110-11f1-babe-4199b0e7ccea.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "BBC العربية"
+      ]
+    },
+    {
+      "title": "السجن المؤبد لمشارك في \"أميركان أيدول\" بعد إدانته بقتل زوجته",
+      "link": "https://www.skynewsarabia.com/varieties/1896484-%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D8%A7%D9%84%D9%85%D8%A4%D8%A8%D8%AF-%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7%D9%86-%D8%A3%D9%8A%D8%AF%D9%88%D9%84-%D8%A5%D8%AF%D8%A7%D9%86%D8%AA%D9%87-%D8%A8%D9%82%D8%AA%D9%84-%D8%B2%D9%88%D8%AC%D8%AA%D9%87",
+      "description": "قضت محكمة في ولاية أوهايو الأميركية، بسجن \"الموسيقي الروحاني\" والمشارك في برنامج \"أميركان أيدول\" كاليب فلين (40 عاما) مدى الحياة دون إمكانية الإفراج المشروط، بعد إدانته بقتل زوجته أثناء ارتباطه بعلاقة خارج إطار الزواج.",
+      "date": "Tue, 06 Oct 2026 01:02:57 GMT",
+      "source": "Sky News عربية",
+      "sourceScore": 10,
+      "sourceType": "official-rss",
+      "cat": "العالم",
+      "image": "https://images.skynewsarabia.com/images/v1/2026/10/06/1896483/95/53/1-1896483.jpg",
+      "sourceCount": 1,
+      "sources": [
+        "Sky News عربية"
       ]
     },
     {
@@ -438,21 +453,6 @@
       ]
     },
     {
-      "title": "US 'watching closely' after plague researcher dies in Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-      "description": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
-      "date": "Mon, 05 Oct 2026 21:33:49 GMT",
-      "source": "BBC World",
-      "sourceScore": 10,
-      "sourceType": "official-rss",
-      "cat": "العالم",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee8/live/9f1fa570-c103-11f1-a64c-550be9e3c66b.jpg",
-      "sourceCount": 1,
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
       "title": "Five reasons India's stock market is sinking even when its economy is growing",
       "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
       "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
@@ -574,9 +574,9 @@
       ]
     },
     {
-      "title": "أسعار الفراخ في بورصة الدواجن اليوم الإثنين 5-10-2026 - almalnews.com",
+      "title": "أسعار الفراخ في بورصة الدواجن اليوم الإثنين 5-10-2026 - جريدة المال",
       "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQMkJYanNvbDZINEUyVmpJWEtfS0RfUFZWOFRRWGt3d0VFUzVqOGhfUnhDRjJjWi1pTXlZRXNQbGx2TmNUaWhLVV9YMlBacW5wamlrcTB5emRzd1pWYlc2YU9JcDJvNTFSUVc4Zi1US1ZFdG5qUnFFSFVqRGlScGNvSVNhUE94djFsUERDc1QxSUl0NWZYaXcxOHd1SUJ2aHdsX1BvZHRTZjU0ZTNWa09UOGZCUmVCX1hQemhmM0xvOVNJdm44RU52XzlLdG9vaUt3Z1Vrb0plZ2Q0Z1ZEaklDNm1WVHVxV2hoczNFeXZ3ZmVsU1h4NTRRZXRZeUdoTm1wUDhldHZHTUVSb1JQZ1diS0J3OFFHdGZ4WTdUdk4tNG1SWVRhR2xidHdyeFZhX19TU0JKV0RlcndoZHpvOFZMVFRhZzQ2dmFTZDU3REVDcmlsUDZ2WVFvdVZWbE5MWE9DVTB4Yk9CSWZna0h5SXQwTWwwbmZmdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gJBVV95cUxQMkJYanNvbDZINEUyVmpJWEtfS0RfUFZWOFRRWGt3d0VFUzVqOGhfUnhDRjJjWi1pTXlZRXNQbGx2TmNUaWhLVV9YMlBacW5wamlrcTB5emRzd1pWYlc2YU9JcDJvNTFSUVc4Zi1US1ZFdG5qUnFFSFVqRGlScGNvSVNhUE94djFsUERDc1QxSUl0NWZYaXcxOHd1SUJ2aHdsX1BvZHRTZjU0ZTNWa09UOGZCUmVCX1hQemhmM0xvOVNJdm44RU52XzlLdG9vaUt3Z1Vrb0plZ2Q0Z1ZEaklDNm1WVHVxV2hoczNFeXZ3ZmVsU1h4NTRRZXRZeUdoTm1wUDhldHZHTUVSb1JQZ1diS0J3OFFHdGZ4WTdUdk4tNG1SWVRhR2xidHdyeFZhX19TU0JKV0RlcndoZHpvOFZMVFRhZzQ2dmFTZDU3REVDcmlsUDZ2WVFvdVZWbE5MWE9DVTB4Yk9CSWZna0h5SXQwTWwwbmZmdw?oc=5\" target=\"_blank\">أسعار الفراخ في بورصة الدواجن اليوم الإثنين 5-10-2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">almalnews.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gJBVV95cUxQMkJYanNvbDZINEUyVmpJWEtfS0RfUFZWOFRRWGt3d0VFUzVqOGhfUnhDRjJjWi1pTXlZRXNQbGx2TmNUaWhLVV9YMlBacW5wamlrcTB5emRzd1pWYlc2YU9JcDJvNTFSUVc4Zi1US1ZFdG5qUnFFSFVqRGlScGNvSVNhUE94djFsUERDc1QxSUl0NWZYaXcxOHd1SUJ2aHdsX1BvZHRTZjU0ZTNWa09UOGZCUmVCX1hQemhmM0xvOVNJdm44RU52XzlLdG9vaUt3Z1Vrb0plZ2Q0Z1ZEaklDNm1WVHVxV2hoczNFeXZ3ZmVsU1h4NTRRZXRZeUdoTm1wUDhldHZHTUVSb1JQZ1diS0J3OFFHdGZ4WTdUdk4tNG1SWVRhR2xidHdyeFZhX19TU0JKV0RlcndoZHpvOFZMVFRhZzQ2dmFTZDU3REVDcmlsUDZ2WVFvdVZWbE5MWE9DVTB4Yk9CSWZna0h5SXQwTWwwbmZmdw?oc=5\" target=\"_blank\">أسعار الفراخ في بورصة الدواجن اليوم الإثنين 5-10-2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة المال</font>",
       "date": "Mon, 05 Oct 2026 05:35:34 GMT",
       "source": "Google News اقتصاد",
       "sourceScore": 6,
@@ -799,9 +799,9 @@
       ]
     },
     {
-      "title": "هل انتهت الأزمة؟.. تفاصيل جديدة في ملف صلاح ومنتخب مصر - kooora.com",
+      "title": "هل انتهت الأزمة؟.. تفاصيل جديدة في ملف صلاح ومنتخب مصر - Kooora",
       "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNb0lydUw3RFNuUVEzM0NQemIwV1BGMFZrNGkxQUFMMG5hbXM4MVJiLWF6Z2wzcUZmYjdocl81LXdzbGx0UGhuLVNSeThpREVFZllqSFBmdzJzdzdrVjE3ejU0M01WQW8tRWN3bHFuWFpKMjVxS0lLUDVxLXJOQU1DLTNPNGRxVnQzT0pZMm1ERHRCZnRkS1FSUHZndVEzWTJvcWtYRXpMX0wwUFVaU2ZPNVo1Vjl1RWZhcmxqeDctNzVxZmd0R0pzOEV5Wl9RbG5pb2s3dFVvMmQ5RmNkUU1UX3AxU2Z4YUtqX0l3enJiVDJ5cnFTSER3M3U3WlJXR09oV09tZ21WVmt2ak9lQWEwZ0w5YURrZVVqcks3ZUZWeVhzRU5aeXdDQ2tzamRZRmx3LV9EZVlISGptNE80dldDZS16SGJ6MGlubmNOMWs4SnkwZUw5OW1iaW50T0FTVDVhRno1S3MtX2xLUDFUTmV3d0IzczFCUnVzSnZkSXVqdG5FNmJ4RV91MDVSbjl5LVhHdDVXM2dCRG9ZRzB3bkpIX1Y2MVprbUpjUXVlNDZxX3JtdTh4MWZkVlhkUmdWUy1ZRnl3WVozUlJFSmZGWElQTE9YZ19PQU8zN1BHWWp0QU82RHZFU0hzbW1XdnUyaWhFWV9nNE9zZ09XLVhza1NWZzhqbE9mdWR0UGoxYW50VkxmQWFtLVZN?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwRBVV95cUxNb0lydUw3RFNuUVEzM0NQemIwV1BGMFZrNGkxQUFMMG5hbXM4MVJiLWF6Z2wzcUZmYjdocl81LXdzbGx0UGhuLVNSeThpREVFZllqSFBmdzJzdzdrVjE3ejU0M01WQW8tRWN3bHFuWFpKMjVxS0lLUDVxLXJOQU1DLTNPNGRxVnQzT0pZMm1ERHRCZnRkS1FSUHZndVEzWTJvcWtYRXpMX0wwUFVaU2ZPNVo1Vjl1RWZhcmxqeDctNzVxZmd0R0pzOEV5Wl9RbG5pb2s3dFVvMmQ5RmNkUU1UX3AxU2Z4YUtqX0l3enJiVDJ5cnFTSER3M3U3WlJXR09oV09tZ21WVmt2ak9lQWEwZ0w5YURrZVVqcks3ZUZWeVhzRU5aeXdDQ2tzamRZRmx3LV9EZVlISGptNE80dldDZS16SGJ6MGlubmNOMWs4SnkwZUw5OW1iaW50T0FTVDVhRno1S3MtX2xLUDFUTmV3d0IzczFCUnVzSnZkSXVqdG5FNmJ4RV91MDVSbjl5LVhHdDVXM2dCRG9ZRzB3bkpIX1Y2MVprbUpjUXVlNDZxX3JtdTh4MWZkVlhkUmdWUy1ZRnl3WVozUlJFSmZGWElQTE9YZ19PQU8zN1BHWWp0QU82RHZFU0hzbW1XdnUyaWhFWV9nNE9zZ09XLVhza1NWZzhqbE9mdWR0UGoxYW50VkxmQWFtLVZN?oc=5\" target=\"_blank\">هل انتهت الأزمة؟.. تفاصيل جديدة في ملف صلاح ومنتخب مصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kooora.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwRBVV95cUxNb0lydUw3RFNuUVEzM0NQemIwV1BGMFZrNGkxQUFMMG5hbXM4MVJiLWF6Z2wzcUZmYjdocl81LXdzbGx0UGhuLVNSeThpREVFZllqSFBmdzJzdzdrVjE3ejU0M01WQW8tRWN3bHFuWFpKMjVxS0lLUDVxLXJOQU1DLTNPNGRxVnQzT0pZMm1ERHRCZnRkS1FSUHZndVEzWTJvcWtYRXpMX0wwUFVaU2ZPNVo1Vjl1RWZhcmxqeDctNzVxZmd0R0pzOEV5Wl9RbG5pb2s3dFVvMmQ5RmNkUU1UX3AxU2Z4YUtqX0l3enJiVDJ5cnFTSER3M3U3WlJXR09oV09tZ21WVmt2ak9lQWEwZ0w5YURrZVVqcks3ZUZWeVhzRU5aeXdDQ2tzamRZRmx3LV9EZVlISGptNE80dldDZS16SGJ6MGlubmNOMWs4SnkwZUw5OW1iaW50T0FTVDVhRno1S3MtX2xLUDFUTmV3d0IzczFCUnVzSnZkSXVqdG5FNmJ4RV91MDVSbjl5LVhHdDVXM2dCRG9ZRzB3bkpIX1Y2MVprbUpjUXVlNDZxX3JtdTh4MWZkVlhkUmdWUy1ZRnl3WVozUlJFSmZGWElQTE9YZ19PQU8zN1BHWWp0QU82RHZFU0hzbW1XdnUyaWhFWV9nNE9zZ09XLVhza1NWZzhqbE9mdWR0UGoxYW50VkxmQWFtLVZN?oc=5\" target=\"_blank\">هل انتهت الأزمة؟.. تفاصيل جديدة في ملف صلاح ومنتخب مصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kooora</font>",
       "date": "Mon, 05 Oct 2026 17:18:02 GMT",
       "source": "Google News رياضة",
       "sourceScore": 6,
